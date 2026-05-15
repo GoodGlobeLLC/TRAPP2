@@ -1,43 +1,52 @@
 #!/usr/bin/env python3
 """
-Valuatio bulk data fetcher — yfinance edition.
+TRAPP2 — Quote + fundamentals fetcher.
 
-Pulls live + fundamental data from Yahoo Finance via the open-source `yfinance`
-library and writes everything to data/master.csv + data/master.json.
+Pulls live (or 15-min delayed) quotes for every ticker in data/tickers.txt via
+yfinance, plus the fundamentals snapshot. Writes:
+  data/master.csv   — flat table for the app
+  data/master.json  — same data, JSON shape
 
-Why yfinance:
-  - Free, unlimited, no API key
-  - Truly unrestricted free tier (unlike FMP which gated everything in Aug 2025)
-  - Industry standard for free stock data
-  - Drawback: scrapes Yahoo's web data — can break occasionally if Yahoo
-    changes their internal endpoints, but yfinance is actively maintained
+Run frequently (every 15 min during market hours via intraday workflow).
+The expensive 5-year history fetch lives in fetch_history.py and runs nightly.
 
-Designed for GitHub Actions. Reads tickers from data/tickers.txt.
-No API key required — just runs.
+Columns produced (lowercase headers, matches what the app expects):
+  ticker, name, price, marketcap, volume, volumeavg, priceopen, low, high, close,
+  change, changepct, closeyest, date, high52, low52, beta, shares, pe, eps,
+  sector, industry, description, exchange, ceo, country, ipodate, isetf, isfund,
+  isactive, web_url, image, currency, employees, city, state, phone, address,
+  dividend_yield, fetched_at, profile_fetched_at
 """
-
 import csv
 import json
-import os
 import sys
 import time
-from pathlib import Path
 from datetime import datetime, timezone
+from pathlib import Path
 
-try:
-    import yfinance as yf
-except ImportError:
-    print("ERROR: yfinance not installed. Run: pip install yfinance")
-    sys.exit(1)
+import yfinance as yf
 
-ROOT = Path(__file__).parent
-TICKERS_FILE = ROOT / "data" / "tickers.txt"
-OUTPUT_CSV = ROOT / "data" / "master.csv"
-OUTPUT_JSON = ROOT / "data" / "master.json"
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+TICKERS_FILE = DATA / "tickers.txt"
+MASTER_CSV = DATA / "master.csv"
+MASTER_JSON = DATA / "master.json"
 
-# Yahoo can be aggressive about rate-limiting if you slam it. Be polite.
-BATCH_SIZE = 50              # tickers per yf.Tickers() call
-DELAY_BETWEEN_BATCHES = 1.5  # seconds
+# Field profile cache — fundamentals don't change intraday so we re-fetch
+# the slow .info dict at most once every 24h per ticker. Quotes refresh every run.
+PROFILE_CACHE = DATA / ".profile_cache.json"
+PROFILE_TTL_HOURS = 24
+
+# Columns in deterministic order for master.csv
+COLUMNS = [
+    "ticker", "name", "price", "marketcap", "volume", "volumeavg",
+    "priceopen", "low", "high", "close", "change", "changepct", "closeyest",
+    "date", "high52", "low52", "beta", "shares", "pe", "eps",
+    "sector", "industry", "description", "exchange", "ceo", "country",
+    "ipodate", "isetf", "isfund", "isactive", "web_url", "image",
+    "currency", "employees", "city", "state", "phone", "address",
+    "dividend_yield", "fetched_at", "profile_fetched_at",
+]
 
 
 def log(*args):
@@ -45,268 +54,205 @@ def log(*args):
 
 
 def load_tickers():
-    """Read tickers from data/tickers.txt, one per line."""
     if not TICKERS_FILE.exists():
-        log(f"❌ {TICKERS_FILE} not found")
-        sys.exit(1)
+        log(f"⚠ {TICKERS_FILE} missing — create it with one ticker per line")
+        return []
     tickers = []
     for line in TICKERS_FILE.read_text().splitlines():
-        t = line.strip().upper()
-        if not t or t.startswith("#"):
-            continue
-        tickers.append(t)
-    return tickers
-
-
-def load_existing():
-    """Preserve fields from prior run for tickers that fail this run."""
-    if not OUTPUT_CSV.exists():
-        return {}
-    out = {}
-    with OUTPUT_CSV.open("r", newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            tic = row.get("ticker", "").strip().upper()
-            if tic:
-                out[tic] = row
+        t = line.strip().split("#")[0].strip().upper()
+        if t:
+            tickers.append(t)
+    seen = set()
+    out = []
+    for t in tickers:
+        if t not in seen:
+            seen.add(t)
+            out.append(t)
     return out
 
 
-def now_iso():
-    return datetime.now(timezone.utc).replace(tzinfo=None).isoformat(timespec="seconds")
+def load_profile_cache():
+    if not PROFILE_CACHE.exists():
+        return {}
+    try:
+        return json.loads(PROFILE_CACHE.read_text())
+    except (json.JSONDecodeError, OSError):
+        return {}
 
 
-# Columns matching the Valuatio app's expected schema
-OUTPUT_COLUMNS = [
-    "ticker",
-    "name",
-    "price",
-    "marketcap",
-    "volume",
-    "volumeavg",
-    "priceopen",
-    "low",
-    "high",
-    "close",
-    "change",
-    "changepct",
-    "closeyest",
-    "date",
-    "high52",
-    "low52",
-    "beta",
-    "shares",
-    "pe",
-    "eps",
-    "sector",
-    "industry",
-    "description",
-    "exchange",
-    "ceo",
-    "country",
-    "ipodate",
-    "isEtf",
-    "isFund",
-    "isActive",
-    "web_url",
-    "image",
-    "currency",
-    "employees",
-    "city",
-    "state",
-    "phone",
-    "address",
-    "dividend_yield",
-    "fetched_at",
-]
+def save_profile_cache(cache):
+    PROFILE_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    PROFILE_CACHE.write_text(json.dumps(cache, separators=(",", ":")))
 
 
-def safe_get(d, *keys, default=""):
-    """Return first present non-None/non-empty value from a dict, trying keys in order."""
+def profile_is_fresh(cache_entry):
+    if not cache_entry or "fetched_at" not in cache_entry:
+        return False
+    try:
+        fetched = datetime.fromisoformat(cache_entry["fetched_at"])
+    except (ValueError, TypeError):
+        return False
+    age_hours = (datetime.now(timezone.utc) - fetched).total_seconds() / 3600
+    return age_hours < PROFILE_TTL_HOURS
+
+
+def safe(d, *keys, default=""):
     for k in keys:
-        v = d.get(k)
-        if v not in (None, "", "N/A"):
-            return v
-    return default
+        if not isinstance(d, dict):
+            return default
+        d = d.get(k)
+        if d is None:
+            return default
+    return d if d is not None else default
 
 
-def extract_ceo(info):
-    """yfinance returns company officers as a list of dicts. Find the CEO."""
-    officers = info.get("companyOfficers") or []
-    for o in officers:
-        title = str(o.get("title", "")).lower()
-        if "ceo" in title or "chief executive" in title:
-            return o.get("name", "")
-    return ""
-
-
-def fmt_ipo_date(info):
-    """Some tickers have firstTradeDateEpochUtc. Convert to YYYY-MM-DD."""
-    ts = info.get("firstTradeDateEpochUtc")
-    if not ts:
+def fmt_num(v):
+    if v is None or v == "" or v == "N/A":
         return ""
     try:
-        return datetime.utcfromtimestamp(int(ts)).date().isoformat()
-    except (TypeError, ValueError):
-        return ""
+        return f"{float(v):.6f}".rstrip("0").rstrip(".") if "." in str(v) else str(v)
+    except (ValueError, TypeError):
+        return str(v)
 
 
-def build_row(ticker, info, existing_row):
-    """Map yfinance Ticker.info dict → our CSV schema."""
-    row = {col: (existing_row.get(col, "") if existing_row else "") for col in OUTPUT_COLUMNS}
-    row["ticker"] = ticker
-    if not info:
-        return row
+def fetch_quote(ticker, profile_cache):
+    """Pull current quote + fundamentals for one ticker. Returns row dict."""
+    t = yf.Ticker(ticker)
 
-    quote_type = (info.get("quoteType") or "").upper()
-    is_etf = quote_type == "ETF"
-    is_fund = quote_type in ("MUTUALFUND", "FUND")
+    # Fast price path: yfinance .fast_info is light. Falls back to history if missing.
+    fast = {}
+    try:
+        fast = dict(t.fast_info) if t.fast_info else {}
+    except Exception:
+        fast = {}
 
-    price = safe_get(info, "regularMarketPrice", "currentPrice", "previousClose", "navPrice")
-    prev_close = safe_get(info, "regularMarketPreviousClose", "previousClose")
-    change = None
-    change_pct = None
-    if isinstance(price, (int, float)) and isinstance(prev_close, (int, float)) and prev_close > 0:
-        change = price - prev_close
-        change_pct = (change / prev_close) * 100  # percent units, matches Valuatio's parsePctSheet
+    price = fast.get("last_price") or fast.get("regular_market_price")
+    prev_close = fast.get("previous_close") or fast.get("regular_market_previous_close")
+    open_p = fast.get("open")
+    day_high = fast.get("day_high")
+    day_low = fast.get("day_low")
+    high52 = fast.get("year_high")
+    low52 = fast.get("year_low")
+    vol = fast.get("last_volume") or fast.get("regular_market_volume")
 
-    row["name"]       = safe_get(info, "longName", "shortName", "displayName")
-    row["price"]      = price or ""
-    row["marketcap"]  = safe_get(info, "marketCap", "totalAssets")
-    row["volume"]     = safe_get(info, "regularMarketVolume", "volume")
-    row["volumeavg"]  = safe_get(info, "averageVolume", "averageDailyVolume10Day", "averageVolume10days")
-    row["priceopen"]  = safe_get(info, "regularMarketOpen", "open")
-    row["low"]        = safe_get(info, "regularMarketDayLow", "dayLow")
-    row["high"]       = safe_get(info, "regularMarketDayHigh", "dayHigh")
-    row["close"]      = price or ""
-    row["change"]     = change if change is not None else ""
-    row["changepct"]  = round(change_pct, 4) if change_pct is not None else ""
-    row["closeyest"]  = prev_close or ""
-    row["date"]       = now_iso()[:10]
-    row["high52"]     = safe_get(info, "fiftyTwoWeekHigh")
-    row["low52"]      = safe_get(info, "fiftyTwoWeekLow")
-    row["beta"]       = safe_get(info, "beta", "beta3Year")
-    row["shares"]     = safe_get(info, "sharesOutstanding", "impliedSharesOutstanding")
-    row["pe"]         = safe_get(info, "trailingPE", "forwardPE")
-    row["eps"]        = safe_get(info, "trailingEps", "forwardEps")
-    row["sector"]     = safe_get(info, "sector")
-    row["industry"]   = safe_get(info, "industry")
-    desc = safe_get(info, "longBusinessSummary")
-    if desc:
-        row["description"] = desc[:1000]
-    row["exchange"]   = safe_get(info, "exchange", "fullExchangeName")
-    row["country"]    = safe_get(info, "country")
-    row["currency"]   = safe_get(info, "currency", "financialCurrency")
-    row["employees"]  = safe_get(info, "fullTimeEmployees")
-    row["city"]       = safe_get(info, "city")
-    row["state"]      = safe_get(info, "state")
-    row["phone"]      = safe_get(info, "phone")
-    row["address"]    = safe_get(info, "address1", "address2")
-    row["web_url"]    = safe_get(info, "website")
-    row["image"]      = safe_get(info, "logo_url")
-    row["ipodate"]    = fmt_ipo_date(info)
-    row["ceo"]        = extract_ceo(info)
-    div_y = safe_get(info, "dividendYield", "trailingAnnualDividendYield", "yield")
-    if isinstance(div_y, (int, float)):
-        row["dividend_yield"] = round(div_y, 6)
+    # Backstop: pull last 2 bars via history if fast_info lacked anything
+    if price is None or prev_close is None:
+        try:
+            hist = t.history(period="5d", interval="1d", auto_adjust=False)
+            if len(hist) >= 1:
+                price = price or float(hist["Close"].iloc[-1])
+                if len(hist) >= 2:
+                    prev_close = prev_close or float(hist["Close"].iloc[-2])
+                open_p = open_p or float(hist["Open"].iloc[-1])
+                day_high = day_high or float(hist["High"].iloc[-1])
+                day_low = day_low or float(hist["Low"].iloc[-1])
+                vol = vol or float(hist["Volume"].iloc[-1])
+        except Exception as e:
+            log(f"  ✗ {ticker} history backstop failed: {e}")
 
-    row["isEtf"]    = "TRUE" if is_etf else "FALSE"
-    row["isFund"]   = "TRUE" if is_fund else "FALSE"
-    row["isActive"] = "TRUE"
-    row["fetched_at"] = now_iso()
+    if price is None:
+        return None
 
+    change = (price - prev_close) if prev_close else None
+    changepct = (change / prev_close) if change is not None and prev_close else None
+
+    # Fundamentals — heavy call; cache it 24h
+    cached = profile_cache.get(ticker, {})
+    info = cached.get("info") if profile_is_fresh(cached) else None
+    profile_fetched_at = cached.get("fetched_at", "")
+    if info is None:
+        try:
+            info = t.info or {}
+            profile_fetched_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
+            profile_cache[ticker] = {"info": info, "fetched_at": profile_fetched_at}
+        except Exception as e:
+            log(f"  ⚠ {ticker} .info failed: {e}")
+            info = cached.get("info") or {}
+
+    row = {
+        "ticker": ticker,
+        "name": safe(info, "longName") or safe(info, "shortName"),
+        "price": fmt_num(price),
+        "marketcap": fmt_num(safe(info, "marketCap")),
+        "volume": fmt_num(vol),
+        "volumeavg": fmt_num(safe(info, "averageVolume")),
+        "priceopen": fmt_num(open_p),
+        "low": fmt_num(day_low),
+        "high": fmt_num(day_high),
+        "close": fmt_num(price),
+        "change": fmt_num(change),
+        "changepct": fmt_num(changepct * 100 if changepct is not None else ""),
+        "closeyest": fmt_num(prev_close),
+        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "high52": fmt_num(high52),
+        "low52": fmt_num(low52),
+        "beta": fmt_num(safe(info, "beta")),
+        "shares": fmt_num(safe(info, "sharesOutstanding")),
+        "pe": fmt_num(safe(info, "trailingPE")),
+        "eps": fmt_num(safe(info, "trailingEps")),
+        "sector": safe(info, "sector"),
+        "industry": safe(info, "industry"),
+        "description": (safe(info, "longBusinessSummary") or "")[:2000],
+        "exchange": safe(info, "exchange"),
+        "ceo": (info.get("companyOfficers") or [{}])[0].get("name", "") if isinstance(info.get("companyOfficers"), list) and info.get("companyOfficers") else "",
+        "country": safe(info, "country"),
+        "ipodate": safe(info, "ipoExpectedDate") or safe(info, "firstTradeDateEpochUtc"),
+        "isetf": "true" if safe(info, "quoteType") == "ETF" else "false",
+        "isfund": "true" if safe(info, "quoteType") in ("MUTUALFUND", "FUND") else "false",
+        "isactive": "true",
+        "web_url": safe(info, "website"),
+        "image": "",  # yfinance dropped logo_url. App synthesizes via Clearbit using web_url.
+        "currency": safe(info, "currency"),
+        "employees": fmt_num(safe(info, "fullTimeEmployees")),
+        "city": safe(info, "city"),
+        "state": safe(info, "state"),
+        "phone": safe(info, "phone"),
+        "address": safe(info, "address1") or safe(info, "address"),
+        "dividend_yield": fmt_num(safe(info, "dividendYield")),
+        "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "profile_fetched_at": profile_fetched_at,
+    }
     return row
 
 
-def fetch_batch(tickers):
-    """Fetch info for a batch of tickers via yf.Tickers().
-    Returns dict: {TICKER: info_dict_or_None}
-    """
-    if not tickers:
-        return {}
-    try:
-        tickers_obj = yf.Tickers(" ".join(tickers))
-    except Exception as e:
-        log(f"  Batch init failed: {e}")
-        return {t: None for t in tickers}
-
-    out = {}
-    for t in tickers:
-        try:
-            tk = tickers_obj.tickers.get(t) or tickers_obj.tickers.get(t.upper())
-            if tk is None:
-                out[t] = None
-                continue
-            info = tk.info
-            # Empty / unrecognized ticker check
-            if not info or (not info.get("symbol") and not info.get("longName") and not info.get("shortName")):
-                out[t] = None
-            else:
-                out[t] = info
-        except Exception as e:
-            log(f"  {t}: {type(e).__name__}: {str(e)[:100]}")
-            out[t] = None
-    return out
-
-
 def main():
-    log("Valuatio fetcher · yfinance edition")
-
     tickers = load_tickers()
-    log(f"Loaded {len(tickers)} tickers")
+    if not tickers:
+        log("No tickers to fetch. Exiting.")
+        return 1
+    log(f"Fetching {len(tickers)} tickers via yfinance…")
 
-    existing = load_existing()
-    log(f"Found {len(existing)} existing rows in master.csv")
-
-    all_info = {}
-    batches = [tickers[i:i + BATCH_SIZE] for i in range(0, len(tickers), BATCH_SIZE)]
-    log(f"Fetching in {len(batches)} batches of up to {BATCH_SIZE}…")
-
-    for i, batch in enumerate(batches, 1):
-        log(f"  Batch {i}/{len(batches)} ({len(batch)} tickers)")
-        results = fetch_batch(batch)
-        success = sum(1 for v in results.values() if v)
-        log(f"    Got info for {success}/{len(batch)}")
-        all_info.update(results)
-        if i < len(batches):
-            time.sleep(DELAY_BETWEEN_BATCHES)
-
+    profile_cache = load_profile_cache()
     rows = []
-    for tic in tickers:
-        info = all_info.get(tic)
-        row = build_row(tic, info, existing.get(tic))
-        rows.append(row)
+    n_ok = 0
+    for i, tic in enumerate(tickers, 1):
+        try:
+            row = fetch_quote(tic, profile_cache)
+            if row:
+                rows.append(row)
+                n_ok += 1
+            else:
+                log(f"  ✗ {tic}: no price data")
+        except Exception as e:
+            log(f"  ✗ {tic}: {e}")
+        if i % 25 == 0:
+            log(f"  … {i}/{len(tickers)} ({n_ok} OK)")
+            save_profile_cache(profile_cache)
+        time.sleep(0.05)
 
-    OUTPUT_CSV.parent.mkdir(parents=True, exist_ok=True)
-    with OUTPUT_CSV.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=OUTPUT_COLUMNS)
-        writer.writeheader()
-        for row in rows:
-            writer.writerow(row)
-    log(f"✓ Wrote {len(rows)} rows to {OUTPUT_CSV}")
+    save_profile_cache(profile_cache)
 
-    json_rows = [{k: v for k, v in r.items() if v not in ("", None)} for r in rows]
-    OUTPUT_JSON.write_text(json.dumps(json_rows, separators=(",", ":")))
-    log(f"✓ Wrote {len(json_rows)} rows to {OUTPUT_JSON}")
+    DATA.mkdir(parents=True, exist_ok=True)
+    with MASTER_CSV.open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=COLUMNS, extrasaction="ignore")
+        w.writeheader()
+        for r in rows:
+            w.writerow(r)
+    MASTER_JSON.write_text(json.dumps(rows, separators=(",", ":")))
 
-    with_price = sum(1 for r in rows if r.get("price"))
-    with_name = sum(1 for r in rows if r.get("name"))
-    with_sector = sum(1 for r in rows if r.get("sector"))
-    log("")
-    log("Summary:")
-    log(f"  Total tickers:    {len(rows)}")
-    log(f"  With live price:  {with_price}")
-    log(f"  With name:        {with_name}")
-    log(f"  With sector:      {with_sector}")
-    log(f"  Failed this run:  {len(rows) - with_price}")
-    if with_price == 0:
-        log("")
-        log("⚠ No prices returned. Possible causes:")
-        log("  - Yahoo Finance temporarily rate-limited the runner")
-        log("  - yfinance broke due to a Yahoo Finance change (check pypi.org/project/yfinance for updates)")
-        log("  - All tickers in tickers.txt are invalid")
-        sys.exit(1)
+    log(f"✓ Wrote {n_ok}/{len(tickers)} rows to {MASTER_CSV.relative_to(ROOT)}")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
