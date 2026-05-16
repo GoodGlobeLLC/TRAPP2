@@ -45,16 +45,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash
           git add data/master.csv data/master.json data/.profile_cache.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No quote changes to commit"
           else
             git commit -m "Live quotes $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             for i in 1 2 3; do
-              git push && break
-              echo "Push attempt $i failed, retrying after rebase"
+              if git push; then
+                echo "Push succeeded on attempt $i"
+                break
+              fi
+              echo "Push attempt $i failed, rebasing and retrying"
+              git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
               sleep 4
-              git pull --rebase --autostash
             done
           fi
