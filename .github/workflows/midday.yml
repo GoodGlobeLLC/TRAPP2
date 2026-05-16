@@ -1,0 +1,68 @@
+name: Mid-Day Refresh (Macro + Regime)
+
+# Runs at 12:00 PM ET every weekday — picks up morning FRED updates
+# and recomputes regime with mid-day quotes.
+# EDT 12:00 PM = 16:00 UTC, EST 12:00 PM = 17:00 UTC.
+# Use 16:30 UTC (compromise — falls within market hours both seasons).
+#
+# Skips fetch_history.py (that's nightly only). Re-runs macro + signal stack.
+
+on:
+  schedule:
+    - cron: '30 16 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: trapp2-regime
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Fetch FRED macro series
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python pipeline/fetch_macro.py
+
+      - name: Compute signals
+        run: python pipeline/compute_signals.py
+
+      - name: Classify regime + append snapshot
+        run: python pipeline/classify_regime.py
+
+      - name: Compute Markov transitions
+        run: python pipeline/compute_transitions.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --autostash
+          git add -A data/
+          if git diff --staged --quiet; then
+            echo "No regime changes to commit"
+          else
+            git commit -m "Mid-day regime refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do
+              git push && break
+              echo "Push attempt $i failed, retrying after rebase"
+              sleep 4
+              git pull --rebase --autostash
+            done
+          fi
