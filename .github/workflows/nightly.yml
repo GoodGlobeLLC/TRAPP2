@@ -57,16 +57,27 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull --rebase --autostash
+          # Stage every file under data/ (including untracked files like regime_current.json)
           git add -A data/
+          # Show what's about to be committed (useful for debugging in workflow logs)
+          echo "=== git status before commit ==="
+          git status --short
+          echo "=== files staged ==="
+          git diff --staged --name-only
           if git diff --staged --quiet; then
             echo "No nightly changes to commit"
           else
             git commit -m "Nightly refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            # Push with retry — if remote moved (another workflow committed in parallel),
+            # rebase our commit on top and retry. --autostash here is harmless because
+            # all our changes are already committed.
             for i in 1 2 3; do
-              git push && break
-              echo "Push attempt $i failed, retrying after rebase"
+              if git push; then
+                echo "Push succeeded on attempt $i"
+                break
+              fi
+              echo "Push attempt $i failed, rebasing and retrying"
+              git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
               sleep 4
-              git pull --rebase --autostash
             done
           fi
