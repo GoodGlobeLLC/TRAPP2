@@ -266,6 +266,7 @@ def signal_commodity(hist, macro):
 
     # (c) Gold/Oil ratio Z-score: HIGH ratio = risk-off (flight to gold)
     # We invert it: positive component = ratio is LOW = risk-on
+    # NOTE: load_history returns list of (date, price) TUPLES, so index with [1] for price.
     if gold and oil and len(gold) >= 252 and len(oil) >= 252:
         try:
             # Compute ratio series for the last 252 days
@@ -273,7 +274,7 @@ def signal_commodity(hist, macro):
             gold_recent = gold[-n:]
             oil_recent = oil[-n:]
             # align by index (both should be daily; assume same trading calendar)
-            ratios = [g["price"] / o["price"] for g, o in zip(gold_recent, oil_recent) if o["price"] > 0]
+            ratios = [g[1] / o[1] for g, o in zip(gold_recent, oil_recent) if o[1] > 0]
             if len(ratios) > 60:
                 current = ratios[-1]
                 mean = statistics.mean(ratios)
@@ -283,7 +284,7 @@ def signal_commodity(hist, macro):
                 components.append(("gold_oil_ratio_z_inv", squash(-z / 2.0)))
                 notes["gold_oil_ratio"] = round(current, 3)
                 notes["gold_oil_zscore"] = round(z, 3)
-        except (ZeroDivisionError, statistics.StatisticsError):
+        except (ZeroDivisionError, IndexError, statistics.StatisticsError):
             pass
 
     if not components:
