@@ -53,15 +53,28 @@ def log(*args):
     print("[fetch_data]", *args, flush=True)
 
 
+# Reference tickers the signal engine needs quotes for. Auto-merged with tickers.txt.
+REQUIRED_REFERENCE_TICKERS = [
+    "SPY", "^VIX", "^VIX9D", "HYG", "LQD",
+    "XLK", "XLF", "XLV", "XLE", "XLI", "XLP", "XLY", "XLU", "XLB", "XLRE", "XLC",
+    "CL=F", "GC=F", "HG=F", "ES=F", "NQ=F",
+    "BTC-USD", "ETH-USD",
+    "UUP",
+    "TLT", "IEF", "SHY", "BND", "AGG",
+]
+
+
 def load_tickers():
-    if not TICKERS_FILE.exists():
-        log(f"⚠ {TICKERS_FILE} missing — create it with one ticker per line")
-        return []
     tickers = []
-    for line in TICKERS_FILE.read_text().splitlines():
-        t = line.strip().split("#")[0].strip().upper()
-        if t:
-            tickers.append(t)
+    if TICKERS_FILE.exists():
+        for line in TICKERS_FILE.read_text().splitlines():
+            t = line.strip().split("#")[0].strip().upper()
+            if t:
+                tickers.append(t)
+    else:
+        log(f"⚠ {TICKERS_FILE} missing — create it with one ticker per line")
+    # Always include reference tickers (deduped, preserves order)
+    tickers = tickers + REQUIRED_REFERENCE_TICKERS
     seen = set()
     out = []
     for t in tickers:
