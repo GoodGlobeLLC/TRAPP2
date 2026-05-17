@@ -37,22 +37,35 @@ def log(*args):
 # so the user doesn't have to remember to add them.
 # Sector ETFs, market index, vol, credit + new asset classes (crypto/futures/FX).
 REQUIRED_REFERENCE_TICKERS = [
-    # Market + vol + credit
-    "SPY", "^VIX", "^VIX9D", "HYG", "LQD",
-    # Sector ETFs
+    # US equity / volatility benchmarks
+    "SPY", "QQQ", "DIA", "IWM",
+    "^VIX", "^VIX9D", "^MOVE",
+    # Credit
+    "HYG", "LQD", "JNK", "EMB",
+    # Sector ETFs (11 SPDRs)
     "XLK", "XLF", "XLV", "XLE", "XLI", "XLP", "XLY", "XLU", "XLB", "XLRE", "XLC",
-    # Commodities (futures)
-    "CL=F",  # WTI crude
-    "GC=F",  # gold
-    "HG=F",  # copper
-    "ES=F",  # E-mini S&P 500
-    "NQ=F",  # E-mini Nasdaq 100
+    # Equity-index futures
+    "ES=F", "NQ=F", "YM=F", "RTY=F",
+    # Energy futures
+    "CL=F", "BZ=F", "NG=F", "RB=F", "HO=F",
+    # Metal futures
+    "GC=F", "SI=F", "HG=F", "PL=F", "PA=F",
+    # Agricultural / grain futures
+    "ZC=F", "ZS=F", "ZW=F", "KC=F", "SB=F", "CC=F", "CT=F",
+    # Interest rate futures
+    "ZB=F", "ZN=F", "ZF=F", "ZT=F",
     # Crypto
-    "BTC-USD", "ETH-USD",
-    # FX proxy
-    "UUP",   # dollar index ETF
-    # Bonds (long-end / short-end / aggregate)
-    "TLT", "IEF", "SHY", "BND", "AGG",
+    "BTC-USD", "ETH-USD", "SOL-USD",
+    # FX pairs (currency)
+    "EURUSD=X", "GBPUSD=X", "USDJPY=X", "AUDUSD=X", "USDCAD=X", "USDCHF=X",
+    "NZDUSD=X", "USDCNY=X", "USDINR=X", "USDMXN=X",
+    "DX=F",
+    # Foreign equity indexes
+    "^GSPTSE", "^MERV", "^BVSP", "^MXX", "^FTSE", "^GDAXI", "^FCHI",
+    "^STOXX50E", "^N225", "^HSI", "^AXJO", "^BSESN", "^KS11", "^TWII",
+    # Dollar / treasury / aggregate
+    "UUP",
+    "TLT", "IEF", "SHY", "BND", "AGG", "GOVT", "TIP",
 ]
 
 
