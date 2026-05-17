@@ -27,19 +27,34 @@ sys.path.insert(0, str(Path(__file__).parent))
 from lib import DATA, log, write_json, read_json, utc_today, utc_now_iso
 from compute_signals import compute_all
 
-# Ideal score profiles per regime. Order: macro, liquidity, vol, val, trend, breadth.
+# Ideal score profiles per regime.
+# Order: macro, liquidity, vol, val, trend, breadth, commodity, crypto.
 # Softmax weights derived from sum-squared distance between actual scores and ideals.
+#
+# commodity reasoning:
+#   expansion: copper rallying with broad cyclical demand → +0.3
+#   melt_up:   risk appetite high, commodities firm → +0.4
+#   inflation_shock: oil ripping, gold/oil ratio low → +0.6 (strongly positive)
+#   recession_fear: industrial demand collapsing → -0.5
+#   risk_off:  gold dominates oil/copper → -0.3
+#
+# crypto reasoning:
+#   expansion: BTC/ETH appreciating with risk-on flow → +0.3
+#   melt_up:   crypto leading equities → +0.7
+#   inflation_shock: crypto often sells off on rate fear → -0.2
+#   recession_fear: deleveraging in crypto → -0.4
+#   risk_off:  risk assets dumped first → -0.5
 REGIME_DEFINITIONS = [
-    # name              macro  liq    vol    val    trend  breadth   note
-    ("expansion",       +0.4,  +0.4,  +0.3,  0.0,   +0.5,  +0.4),
-    ("risk_on_melt_up", +0.6,  +0.5,  +0.6,  -0.4,  +0.8,  +0.7),
-    ("inflation_shock", -0.4,  -0.4,  -0.4,  +0.2,  -0.1,  -0.2),
-    ("recession_fear",  -0.6,  -0.5,  -0.7,  -0.1,  -0.5,  -0.5),
-    ("risk_off",        -0.2,  -0.4,  -0.5,  0.0,   -0.3,  -0.4),
-    ("neutral",          0.0,   0.0,   0.0,  0.0,   0.0,   0.0),
+    # name              macro  liq    vol    val    trend  breadth  comm   crypto
+    ("expansion",       +0.4,  +0.4,  +0.3,  0.0,   +0.5,  +0.4,    +0.3,  +0.3),
+    ("risk_on_melt_up", +0.6,  +0.5,  +0.6,  -0.4,  +0.8,  +0.7,    +0.4,  +0.7),
+    ("inflation_shock", -0.4,  -0.4,  -0.4,  +0.2,  -0.1,  -0.2,    +0.6,  -0.2),
+    ("recession_fear",  -0.6,  -0.5,  -0.7,  -0.1,  -0.5,  -0.5,    -0.5,  -0.4),
+    ("risk_off",        -0.2,  -0.4,  -0.5,  0.0,   -0.3,  -0.4,    -0.3,  -0.5),
+    ("neutral",          0.0,   0.0,   0.0,  0.0,   0.0,   0.0,     0.0,   0.0),
 ]
 
-ORDER = ["macro", "liquidity", "volatility", "valuation", "trend", "breadth"]
+ORDER = ["macro", "liquidity", "volatility", "valuation", "trend", "breadth", "commodity", "crypto"]
 
 
 def _score_vec(scores):
@@ -51,9 +66,10 @@ def classify(scores, signal_confidences):
     """Soft-vote classifier. Returns (regime_label, regime_probs, overall_confidence)."""
     s = _score_vec(scores)
     fits = []
+    n_signals = len(ORDER)
     for name, *ideal in REGIME_DEFINITIONS:
         # Sum of squared distances between actual and ideal score profile
-        dist = sum((s[i] - ideal[i]) ** 2 for i in range(6))
+        dist = sum((s[i] - ideal[i]) ** 2 for i in range(n_signals))
         # Give 'neutral' a small bias so it wins when everything is near zero
         if name == "neutral":
             dist -= 0.30
