@@ -53,6 +53,11 @@ jobs:
       - name: Compute Markov transitions
         run: python pipeline/compute_transitions.py
 
+      - name: Fetch ETF holdings (issuer-direct CSV downloads)
+        # Best-effort: never fail the workflow if an issuer changes their URL.
+        # Each ETF is fetched independently; partial success commits what worked.
+        run: python pipeline/fetch_etf_holdings.py || echo "ETF holdings step had errors but continuing"
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
