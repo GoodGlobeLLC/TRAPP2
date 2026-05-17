@@ -33,15 +33,40 @@ def log(*args):
     print("[fetch_history]", *args, flush=True)
 
 
+# Reference tickers the signal engine REQUIRES — auto-merged with tickers.txt
+# so the user doesn't have to remember to add them.
+# Sector ETFs, market index, vol, credit + new asset classes (crypto/futures/FX).
+REQUIRED_REFERENCE_TICKERS = [
+    # Market + vol + credit
+    "SPY", "^VIX", "^VIX9D", "HYG", "LQD",
+    # Sector ETFs
+    "XLK", "XLF", "XLV", "XLE", "XLI", "XLP", "XLY", "XLU", "XLB", "XLRE", "XLC",
+    # Commodities (futures)
+    "CL=F",  # WTI crude
+    "GC=F",  # gold
+    "HG=F",  # copper
+    "ES=F",  # E-mini S&P 500
+    "NQ=F",  # E-mini Nasdaq 100
+    # Crypto
+    "BTC-USD", "ETH-USD",
+    # FX proxy
+    "UUP",   # dollar index ETF
+    # Bonds (long-end / short-end / aggregate)
+    "TLT", "IEF", "SHY", "BND", "AGG",
+]
+
+
 def load_tickers():
     if not TICKERS_FILE.exists():
         log(f"⚠ {TICKERS_FILE} missing — create it with one ticker per line")
-        return []
+        return list(REQUIRED_REFERENCE_TICKERS)
     tickers = []
     for line in TICKERS_FILE.read_text().splitlines():
         t = line.strip().split("#")[0].strip().upper()
         if t:
             tickers.append(t)
+    # Merge in required reference tickers (deduped, preserves order)
+    tickers = tickers + REQUIRED_REFERENCE_TICKERS
     seen = set()
     out = []
     for t in tickers:
