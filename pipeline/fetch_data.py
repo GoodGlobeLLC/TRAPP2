@@ -55,12 +55,47 @@ def log(*args):
 
 # Reference tickers the signal engine needs quotes for. Auto-merged with tickers.txt.
 REQUIRED_REFERENCE_TICKERS = [
-    "SPY", "^VIX", "^VIX9D", "HYG", "LQD",
+    # US equity / volatility benchmarks
+    "SPY", "QQQ", "DIA", "IWM",
+    "^VIX", "^VIX9D", "^MOVE",
+    # Credit
+    "HYG", "LQD", "JNK", "EMB",
+    # Sector ETFs (11 SPDRs)
     "XLK", "XLF", "XLV", "XLE", "XLI", "XLP", "XLY", "XLU", "XLB", "XLRE", "XLC",
-    "CL=F", "GC=F", "HG=F", "ES=F", "NQ=F",
-    "BTC-USD", "ETH-USD",
+    # Equity-index futures
+    "ES=F", "NQ=F", "YM=F", "RTY=F",
+    # Energy futures
+    "CL=F", "BZ=F", "NG=F", "RB=F", "HO=F",
+    # Metal futures
+    "GC=F", "SI=F", "HG=F", "PL=F", "PA=F",
+    # Agricultural / grain futures (the user specifically asked for ZC=F)
+    "ZC=F", "ZS=F", "ZW=F", "KC=F", "SB=F", "CC=F", "CT=F",
+    # Interest rate futures
+    "ZB=F", "ZN=F", "ZF=F", "ZT=F",
+    # Crypto
+    "BTC-USD", "ETH-USD", "SOL-USD",
+    # FX pairs (currency)
+    "EURUSD=X", "GBPUSD=X", "USDJPY=X", "AUDUSD=X", "USDCAD=X", "USDCHF=X",
+    "NZDUSD=X", "USDCNY=X", "USDINR=X", "USDMXN=X",
+    "DX=F",  # Dollar index future
+    # Global / foreign equity indexes (user wants these in the FX bucket)
+    "^GSPTSE",   # Canada (S&P/TSX Composite)
+    "^MERV",     # Argentina (S&P MERVAL)
+    "^BVSP",     # Brazil (Bovespa)
+    "^MXX",      # Mexico (IPC)
+    "^FTSE",     # UK (FTSE 100)
+    "^GDAXI",    # Germany (DAX)
+    "^FCHI",     # France (CAC 40)
+    "^STOXX50E", # Eurozone (EURO STOXX 50)
+    "^N225",     # Japan (Nikkei 225)
+    "^HSI",      # Hong Kong (Hang Seng)
+    "^AXJO",     # Australia (ASX 200)
+    "^BSESN",    # India (BSE Sensex)
+    "^KS11",     # South Korea (KOSPI)
+    "^TWII",     # Taiwan (TAIEX)
+    # Dollar / treasury / aggregate
     "UUP",
-    "TLT", "IEF", "SHY", "BND", "AGG",
+    "TLT", "IEF", "SHY", "BND", "AGG", "GOVT", "TIP",
 ]
 
 
