@@ -1,0 +1,354 @@
+"""
+TRAPP2 Company Facts Fetcher
+==============================
+
+Pulls structured company information from Wikidata (free, no API key, CC0-licensed)
+and writes per-ticker JSON files to data/company/<TICKER>.json.
+
+Wikidata properties used (in SPARQL Pxxx form):
+    P31     instance-of (filter to "business")
+    P249    stock ticker symbol     (matches our ticker)
+    P414    stock exchange          (NASDAQ / NYSE / etc.)
+    P169    chief executive officer
+    P3320   board member
+    P488    chairperson
+    P1037   director / manager (alt path)
+    P112    founder
+    P159    headquarters location
+    P571    inception date          (IPO ~= founding for many)
+    P1128   employees
+    P856    official website
+    P946    ISIN
+    P127    owned by
+    P127    operating area
+    P3320   board members
+    P1342   number of seats
+    P452    industry
+    P1056   product or material produced
+    P2541   operating area (country)
+
+Strategy:
+  1. Resolve the Wikidata entity for each ticker using P249 lookup
+  2. Pull all available properties in a single SPARQL query
+  3. Use the Wikibase API to get linked entity labels (CEO name, board member names, etc.)
+  4. Normalize to the schema the app's renderCompanyTab expects
+
+Output schema:
+{
+  "ticker": "AAPL",
+  "qid": "Q312",
+  "fetchedAt": "2026-05-18T...",
+  "source": "wikidata",
+  "name": "Apple Inc.",
+  "description": "...",
+  "industry": "...",
+  "website": "https://www.apple.com",
+  "headquarters": "Cupertino, California, US",
+  "employees": 161000,
+  "isin": "US0378331005",
+  "inception": "1976-04-01",
+  "executives": [{"name": "Tim Cook", "role": "Chief Executive Officer"}],
+  "board":      [{"name": "Arthur D. Levinson", "role": "Chairperson"}, ...],
+  "founders":   [{"name": "Steve Jobs"}, ...],
+  "products":   [{"name": "iPhone"}, ...],
+  "countries":  [{"name": "United States"}, ...],
+}
+
+Runs in the nightly workflow. Best-effort: individual ticker failures don't
+break the workflow.
+"""
+
+import json
+import sys
+import time
+from datetime import datetime
+from pathlib import Path
+
+import requests
+
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
+WIKIDATA_API = "https://www.wikidata.org/w/api.php"
+
+UA = "TRAPP2/1.0 (https://github.com/GoodGlobeLLC/TRAPP2; financial-data-app) python-requests"
+HEADERS = {"User-Agent": UA, "Accept": "application/sparql-results+json"}
+
+ROOT = Path(__file__).resolve().parent.parent
+COMPANY_DIR = ROOT / "data" / "company"
+COMPANY_DIR.mkdir(parents=True, exist_ok=True)
+MANIFEST_FILE = COMPANY_DIR / "_manifest.json"
+
+# Tickers to fetch. Mirrors the major tickers the app cares about, plus picks up
+# from REQUIRED_REFERENCE_TICKERS. We don't fetch ETF / future / index tickers
+# (they don't have meaningful Wikidata company entries).
+TICKERS_TO_FETCH = [
+    # Mega-cap tech / "magnificent seven"
+    "AAPL", "MSFT", "GOOGL", "GOOG", "AMZN", "META", "TSLA", "NVDA",
+    # Other mega-caps
+    "BRK.B", "JPM", "V", "MA", "WMT", "PG", "JNJ", "UNH", "HD", "BAC",
+    "XOM", "CVX", "LLY", "MRK", "ABBV", "PFE", "PEP", "KO", "COST",
+    "AVGO", "ORCL", "ADBE", "CRM", "NFLX", "AMD", "INTC", "QCOM", "CSCO",
+    "DIS", "T", "VZ", "TMUS", "CMCSA", "MCD", "NKE", "SBUX",
+    # Industrials / aero / autos
+    "BA", "CAT", "GE", "MMM", "HON", "LMT", "RTX", "F", "GM",
+    # Financials
+    "GS", "MS", "C", "WFC", "AXP", "BLK", "SCHW", "USB", "PNC",
+    # Energy + utilities
+    "COP", "SLB", "EOG", "MPC", "PSX", "VLO", "OXY", "NEE", "DUK", "SO",
+    # Healthcare
+    "ABT", "TMO", "DHR", "BMY", "AMGN", "GILD", "MDT", "ISRG", "REGN",
+    # Consumer
+    "TGT", "LOW", "CVS", "EL", "CL", "TJX", "ROST",
+    # Big tech / SaaS
+    "INTU", "AMAT", "NOW", "PYPL", "SHOP", "UBER", "ABNB", "SPOT",
+    # Railroads / transportation (your IYT holdings)
+    "UNP", "CSX", "NSC", "UPS", "FDX", "ODFL", "JBHT", "CHRW", "EXPD",
+    # Communications / media
+    "T", "VZ", "TMUS", "CMCSA", "WBD", "PARA",
+]
+
+# Wikidata properties → human label
+PROP_LABELS = {
+    "P169": "Chief Executive Officer",
+    "P3320": "Board Member",
+    "P488": "Chairperson",
+    "P488": "Chairperson",
+    "P112": "Founder",
+    "P127": "Owner",
+}
+
+
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+def log(msg):
+    print(f"[company-facts] {msg}", flush=True)
+
+
+def sparql_query(query, retries=2):
+    """Execute a SPARQL query against Wikidata. Returns parsed JSON results or None."""
+    for attempt in range(retries + 1):
+        try:
+            r = requests.get(
+                WIKIDATA_SPARQL,
+                params={"query": query, "format": "json"},
+                headers=HEADERS,
+                timeout=30,
+            )
+            if r.status_code == 429:
+                # Rate limited — back off and retry
+                wait = int(r.headers.get("Retry-After", 5))
+                log(f"  rate-limited, waiting {wait}s")
+                time.sleep(wait)
+                continue
+            if r.status_code != 200:
+                return None
+            return r.json()
+        except requests.RequestException as e:
+            log(f"  SPARQL request failed: {e}")
+            time.sleep(2)
+    return None
+
+
+def find_qid_for_ticker(ticker):
+    """
+    Look up the Wikidata QID for a ticker by querying P249 (ticker symbol).
+    Returns the QID string (e.g. "Q312" for Apple) or None.
+
+    Note: P249 has duplicate values across companies sometimes (delisted entities,
+    historical names). We filter to entities that are instances of P31 → Q4830453
+    (business / for-profit company) and pick the one with the highest sitelink count
+    (a rough proxy for "most-active" or "current" entity).
+    """
+    query = f"""
+    SELECT ?company ?companyLabel (COUNT(?sitelink) AS ?links) WHERE {{
+      ?company wdt:P249 "{ticker}" .
+      ?company wdt:P31/wdt:P279* wd:Q4830453 .
+      OPTIONAL {{ ?sitelink schema:about ?company . }}
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+    }}
+    GROUP BY ?company ?companyLabel
+    ORDER BY DESC(?links)
+    LIMIT 1
+    """
+    result = sparql_query(query)
+    if not result:
+        return None, None
+    bindings = result.get("results", {}).get("bindings", [])
+    if not bindings:
+        return None, None
+    qid_uri = bindings[0]["company"]["value"]
+    qid = qid_uri.rsplit("/", 1)[-1]
+    label = bindings[0].get("companyLabel", {}).get("value")
+    return qid, label
+
+
+def fetch_company_facts(qid, ticker):
+    """
+    Fetch all properties of interest for a company QID in a single SPARQL query.
+    Returns a dict of normalized fields.
+    """
+    # GROUP_CONCAT with separator |  lets us collect multi-value lists (board members,
+    # founders, products) in a single result row instead of issuing N queries.
+    query = f"""
+    SELECT
+      ?companyLabel ?description
+      ?websiteUrl
+      ?isin
+      ?inception
+      ?employees
+      ?industryLabel
+      ?hqLabel
+      (GROUP_CONCAT(DISTINCT ?ceoLabel; separator="|") AS ?ceos)
+      (GROUP_CONCAT(DISTINCT ?chairLabel; separator="|") AS ?chairs)
+      (GROUP_CONCAT(DISTINCT ?boardLabel; separator="|") AS ?boards)
+      (GROUP_CONCAT(DISTINCT ?founderLabel; separator="|") AS ?founders)
+      (GROUP_CONCAT(DISTINCT ?productLabel; separator="|") AS ?products)
+      (GROUP_CONCAT(DISTINCT ?countryLabel; separator="|") AS ?countries)
+    WHERE {{
+      BIND(wd:{qid} AS ?company)
+      OPTIONAL {{ ?company schema:description ?description . FILTER(LANG(?description) = "en") }}
+      OPTIONAL {{ ?company wdt:P856  ?websiteUrl }}
+      OPTIONAL {{ ?company wdt:P946  ?isin }}
+      OPTIONAL {{ ?company wdt:P571  ?inception }}
+      OPTIONAL {{ ?company wdt:P1128 ?employees }}
+      OPTIONAL {{ ?company wdt:P452  ?industry .  ?industry rdfs:label ?industryLabel . FILTER(LANG(?industryLabel) = "en") }}
+      OPTIONAL {{ ?company wdt:P159  ?hq .        ?hq       rdfs:label ?hqLabel       . FILTER(LANG(?hqLabel)       = "en") }}
+      OPTIONAL {{ ?company wdt:P169  ?ceo .       ?ceo      rdfs:label ?ceoLabel      . FILTER(LANG(?ceoLabel)      = "en") }}
+      OPTIONAL {{ ?company wdt:P488  ?chair .     ?chair    rdfs:label ?chairLabel    . FILTER(LANG(?chairLabel)    = "en") }}
+      OPTIONAL {{ ?company wdt:P3320 ?board .     ?board    rdfs:label ?boardLabel    . FILTER(LANG(?boardLabel)    = "en") }}
+      OPTIONAL {{ ?company wdt:P112  ?founder .   ?founder  rdfs:label ?founderLabel  . FILTER(LANG(?founderLabel)  = "en") }}
+      OPTIONAL {{ ?company wdt:P1056 ?product .   ?product  rdfs:label ?productLabel  . FILTER(LANG(?productLabel)  = "en") }}
+      OPTIONAL {{ ?company wdt:P2541 ?country .   ?country  rdfs:label ?countryLabel  . FILTER(LANG(?countryLabel)  = "en") }}
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+    }}
+    GROUP BY ?companyLabel ?description ?websiteUrl ?isin ?inception ?employees ?industryLabel ?hqLabel
+    LIMIT 1
+    """
+    result = sparql_query(query)
+    if not result:
+        return None
+    bindings = result.get("results", {}).get("bindings", [])
+    if not bindings:
+        return None
+    b = bindings[0]
+
+    def get(key):
+        return b.get(key, {}).get("value")
+
+    def split_list(key):
+        """Parse GROUP_CONCAT result into a list of unique non-empty strings."""
+        raw = get(key) or ""
+        if not raw:
+            return []
+        items = [s.strip() for s in raw.split("|") if s.strip()]
+        # Deduplicate while preserving order
+        seen = set()
+        out = []
+        for item in items:
+            if item not in seen:
+                seen.add(item)
+                out.append(item)
+        return out
+
+    # Normalize executives: CEO + Chair (separate roles), then board members
+    executives = []
+    for ceo in split_list("ceos"):
+        executives.append({"name": ceo, "role": "Chief Executive Officer"})
+    for chair in split_list("chairs"):
+        # If chair is already in executives as CEO, don't duplicate
+        if not any(e["name"] == chair for e in executives):
+            executives.append({"name": chair, "role": "Chairperson"})
+
+    board = [{"name": name, "role": "Board Member"} for name in split_list("boards")]
+    founders = [{"name": name} for name in split_list("founders")]
+    products = [{"name": name} for name in split_list("products")]
+    countries = [{"name": name} for name in split_list("countries")]
+
+    # Parse employees (might be "161000" or similar)
+    employees = get("employees")
+    if employees:
+        try:
+            employees = int(float(employees))
+        except (ValueError, TypeError):
+            employees = None
+
+    return {
+        "name": get("companyLabel"),
+        "description": get("description"),
+        "website": get("websiteUrl"),
+        "isin": get("isin"),
+        "inception": (get("inception") or "")[:10] or None,
+        "employees": employees,
+        "industry": get("industryLabel"),
+        "headquarters": get("hqLabel"),
+        "executives": executives,
+        "board": board,
+        "founders": founders,
+        "products": products,
+        "countries": countries,
+    }
+
+
+def fetch_ticker(ticker):
+    """Resolve a ticker → write its company facts JSON file. Returns (ok, msg)."""
+    qid, _label = find_qid_for_ticker(ticker)
+    if not qid:
+        return False, "no Wikidata QID found"
+    facts = fetch_company_facts(qid, ticker)
+    if not facts or not facts.get("name"):
+        return False, f"empty facts for QID {qid}"
+
+    output = {
+        "ticker": ticker,
+        "qid": qid,
+        "fetchedAt": datetime.utcnow().isoformat() + "Z",
+        "source": "wikidata",
+        **facts,
+    }
+    out_path = COMPANY_DIR / f"{ticker}.json"
+    out_path.write_text(json.dumps(output, indent=2))
+
+    n_exec = len(facts["executives"])
+    n_board = len(facts["board"])
+    n_products = len(facts["products"])
+    return True, f"QID={qid}, {n_exec} execs, {n_board} board, {n_products} products"
+
+
+def main():
+    log(f"Fetching {len(TICKERS_TO_FETCH)} tickers into {COMPANY_DIR}")
+    manifest = {
+        "generatedAt": datetime.utcnow().isoformat() + "Z",
+        "source": "wikidata",
+        "tickers": {},
+    }
+    success = 0
+    for ticker in TICKERS_TO_FETCH:
+        try:
+            ok, msg = fetch_ticker(ticker)
+            if ok:
+                log(f"✓ {ticker:7s} — {msg}")
+                success += 1
+            else:
+                log(f"✗ {ticker:7s} — {msg}")
+            manifest["tickers"][ticker] = {
+                "ok": ok,
+                "msg": msg,
+                "fetchedAt": datetime.utcnow().isoformat() + "Z",
+            }
+        except Exception as e:
+            log(f"✗ {ticker:7s} — exception: {type(e).__name__}: {e}")
+            manifest["tickers"][ticker] = {"ok": False, "msg": str(e)}
+        # Be courteous to Wikidata — they ask for max 1 query per second
+        time.sleep(1.0)
+
+    MANIFEST_FILE.write_text(json.dumps(manifest, indent=2))
+    log(f"Done: {success}/{len(TICKERS_TO_FETCH)} successful")
+    # Always exit 0 — partial success is still useful
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
