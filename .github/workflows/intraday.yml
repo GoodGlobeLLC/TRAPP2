@@ -4,14 +4,24 @@ name: Live Quotes (Intraday)
 # UTC schedule covers both EST (UTC-5) and EDT (UTC-4):
 #   EDT 9:00 AM = 13:00 UTC, EST 9:00 AM = 14:00 UTC
 #   EDT 4:45 PM = 20:45 UTC, EST 4:45 PM = 21:45 UTC
-# So we run 13:00-21:45 UTC. This means a slightly early start in winter and
-# slightly late end in summer, but never misses market hours.
+#
+# IMPORTANT: GitHub Actions scheduled workflows have known random latency
+# (often 15-60 minutes during peak load — workflows are queued, not strict).
+# To compensate, we START the cron 30 minutes BEFORE the open (12:30 UTC),
+# giving us pre-market warmup runs so the first real-market refresh lands
+# at or near the bell, even if GitHub queues us late.
+#
+# We also run every 10 minutes during the first hour after open to catch
+# any backlog, then every 15 minutes the rest of the day.
 #
 # Only runs fetch_data.py — quick (~30s), refreshes master.csv master.json only.
 # Heavy 5-year history fetch and regime recompute happen in nightly/midday workflows.
 
 on:
   schedule:
+    # Pre-market warmup: 12:30, 12:45 UTC (covers EDT 8:30/8:45 and EST 7:30/7:45)
+    - cron: '30,45 12 * * 1-5'
+    # Open hour through close: every 15 min from 13:00 to 21:45 UTC
     - cron: '0,15,30,45 13-21 * * 1-5'
   workflow_dispatch:
 
