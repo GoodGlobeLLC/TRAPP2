@@ -58,6 +58,12 @@ jobs:
         # Each ETF is fetched independently; partial success commits what worked.
         run: python pipeline/fetch_etf_holdings.py || echo "ETF holdings step had errors but continuing"
 
+      - name: Fetch company facts (Wikidata)
+        # Pulls executives, board, products, countries, ISIN, HQ etc. from Wikidata.
+        # Free, no API key, CC0-licensed data. Rate-limited to 1 req/sec.
+        # Best-effort: individual ticker failures don't break the workflow.
+        run: python pipeline/fetch_company_facts.py || echo "Company facts step had errors but continuing"
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
