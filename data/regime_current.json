@@ -4,8 +4,8 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.271,
-    "liquidity": 0.376,
-    "volatility": 0.429,
+    "liquidity": 0.366,
+    "volatility": 0.598,
     "valuation": -0.354,
     "trend": 0.673,
     "breadth": 0.455,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.5456,
-    "risk_on_melt_up": 0.283,
-    "inflation_shock": 0.0092,
-    "recession_fear": 0.0001,
-    "risk_off": 0.0013,
-    "neutral": 0.1608
+    "expansion": 0.5341,
+    "risk_on_melt_up": 0.3216,
+    "inflation_shock": 0.0065,
+    "recession_fear": 0.0,
+    "risk_off": 0.0008,
+    "neutral": 0.1369
   },
   "drivers": [
     {
@@ -39,17 +39,17 @@
       "direction": "bullish"
     },
     {
+      "signal": "volatility",
+      "score": 0.598,
+      "confidence": 1.0,
+      "weight": 0.598,
+      "direction": "bullish"
+    },
+    {
       "signal": "commodity",
       "score": 0.553,
       "confidence": 1.0,
       "weight": 0.553,
-      "direction": "bullish"
-    },
-    {
-      "signal": "breadth",
-      "score": 0.455,
-      "confidence": 1.0,
-      "weight": 0.455,
       "direction": "bullish"
     }
   ],
@@ -61,13 +61,13 @@
     },
     "liquidity": {
       "t10y2y": 0.5,
-      "hy_spread": 2.76,
-      "hy_spread_z": -1.02,
+      "hy_spread": 2.8,
+      "hy_spread_z": -0.94,
       "hyg_minus_lqd_1m": 0.0065
     },
     "volatility": {
-      "vix_level": 17.26,
-      "vix9d_over_vix": 0.9484
+      "vix_level": 18.43,
+      "vix9d_over_vix": 0.8882
     },
     "valuation": {
       "spy_pe": 27.77,
@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-05-18T08:37:03+00:00",
+  "computed_at": "2026-05-18T18:19:43+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.375,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 2,
   "transition_warning": "Only 2 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-05-18T08:37:03+00:00"
+  "transitions_computed_at": "2026-05-18T18:19:43+00:00"
 }
