@@ -64,6 +64,13 @@ jobs:
         # Best-effort: individual ticker failures don't break the workflow.
         run: python pipeline/fetch_company_facts.py || echo "Company facts step had errors but continuing"
 
+      - name: Fetch CEO/leadership career history (Wikidata)
+        # Builds data/leadership/ database from people listed in data/company/*.json.
+        # For each person, pulls their employer history + positions held over time
+        # via Wikidata P108/P39. Cross-references which other tickers share board members.
+        # Slow step (~1s per query, ~2 queries per person) — runs only nightly.
+        run: python pipeline/fetch_ceo_tracker.py || echo "CEO tracker step had errors but continuing"
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
