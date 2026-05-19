@@ -1,966 +1,971 @@
 {
-  "generatedAt": "2026-05-19T04:06:40.539696Z",
+  "generatedAt": "2026-05-19T04:49:30.712180Z",
   "source": "wikidata",
   "tickers": {
     "AAPL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:40.778410Z"
+      "fetchedAt": "2026-05-19T04:49:31.109068Z"
     },
     "MSFT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:41.834060Z"
+      "fetchedAt": "2026-05-19T04:49:32.421558Z"
     },
     "NVDA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:42.955218Z"
+      "fetchedAt": "2026-05-19T04:49:33.651963Z"
     },
     "GOOGL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:44.018803Z"
+      "fetchedAt": "2026-05-19T04:49:34.892201Z"
     },
     "GOOG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:45.198458Z"
+      "fetchedAt": "2026-05-19T04:49:36.161251Z"
     },
     "META": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:46.288960Z"
+      "fetchedAt": "2026-05-19T04:49:37.393004Z"
     },
     "AMZN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:47.531984Z"
+      "fetchedAt": "2026-05-19T04:49:38.557473Z"
     },
     "TSLA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:48.619255Z"
+      "fetchedAt": "2026-05-19T04:49:39.728780Z"
     },
     "AVGO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:49.706664Z"
+      "fetchedAt": "2026-05-19T04:49:40.886554Z"
     },
     "ORCL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:50.788018Z"
+      "fetchedAt": "2026-05-19T04:49:42.033514Z"
     },
     "TSLL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:51.878835Z"
+      "fetchedAt": "2026-05-19T04:49:43.223726Z"
     },
     "SPX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:52.944157Z"
+      "fetchedAt": "2026-05-19T04:49:44.386208Z"
     },
     "SPXS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:54.051200Z"
+      "fetchedAt": "2026-05-19T04:49:45.552579Z"
     },
     "VIX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:55.417516Z"
+      "fetchedAt": "2026-05-19T04:49:46.699042Z"
     },
     "MSFD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:56.493327Z"
+      "fetchedAt": "2026-05-19T04:49:47.928157Z"
     },
     "SPYU": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:57.588941Z"
+      "fetchedAt": "2026-05-19T04:49:49.095607Z"
     },
     "AMZU": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:58.651914Z"
+      "fetchedAt": "2026-05-19T04:49:50.257849Z"
     },
     "RKT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:06:59.721486Z"
+      "fetchedAt": "2026-05-19T04:49:51.423047Z"
     },
     "VELO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:00.798817Z"
+      "fetchedAt": "2026-05-19T04:49:52.580079Z"
     },
     "BIGGQ": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:02.081495Z"
+      "fetchedAt": "2026-05-19T04:49:53.851999Z"
     },
     "SOFI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:03.305667Z"
+      "fetchedAt": "2026-05-19T04:49:55.125993Z"
     },
     "NRGU": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:04.367525Z"
+      "fetchedAt": "2026-05-19T04:49:56.302954Z"
     },
     "DOGE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:05.430809Z"
+      "fetchedAt": "2026-05-19T04:49:57.455167Z"
     },
     "SH": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:06.750365Z"
+      "fetchedAt": "2026-05-19T04:49:58.684391Z"
     },
     "DJT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:07.862795Z"
+      "fetchedAt": "2026-05-19T04:49:59.842686Z"
     },
     "FTSE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:08.945889Z"
+      "fetchedAt": "2026-05-19T04:50:01.023412Z"
     },
     "OPY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:10.002468Z"
+      "fetchedAt": "2026-05-19T04:50:02.195403Z"
     },
     "MCHB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:11.101400Z"
+      "fetchedAt": "2026-05-19T04:50:03.340272Z"
     },
     "PYPL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:12.222986Z"
+      "fetchedAt": "2026-05-19T04:50:04.486046Z"
     },
     "ZSL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:13.290150Z"
+      "fetchedAt": "2026-05-19T04:50:05.642720Z"
     },
     "OILD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:14.349337Z"
+      "fetchedAt": "2026-05-19T04:50:06.791245Z"
     },
     "UPLD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:15.413028Z"
+      "fetchedAt": "2026-05-19T04:50:07.949228Z"
     },
     "LPRO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:16.486045Z"
+      "fetchedAt": "2026-05-19T04:50:09.107012Z"
     },
     "TMUS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:17.808967Z"
+      "fetchedAt": "2026-05-19T04:50:10.337379Z"
     },
     "V": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:19.068261Z"
+      "fetchedAt": "2026-05-19T04:50:11.613540Z"
     },
     "HIMX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:20.128442Z"
+      "fetchedAt": "2026-05-19T04:50:12.955257Z"
     },
     "ANET": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:21.249825Z"
+      "fetchedAt": "2026-05-19T04:50:14.103893Z"
     },
     "STX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:22.304564Z"
+      "fetchedAt": "2026-05-19T04:50:15.369105Z"
     },
     "TCEHY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:23.353877Z"
+      "fetchedAt": "2026-05-19T04:50:16.644710Z"
     },
     "GDXG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:24.473798Z"
+      "fetchedAt": "2026-05-19T04:50:17.877365Z"
     },
     "UCO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:25.604206Z"
+      "fetchedAt": "2026-05-19T04:50:19.146788Z"
     },
     "SCO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:26.764482Z"
+      "fetchedAt": "2026-05-19T04:50:20.420186Z"
     },
     "PBRG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:27.809404Z"
+      "fetchedAt": "2026-05-19T04:50:21.650052Z"
     },
     "CTM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:28.867258Z"
+      "fetchedAt": "2026-05-19T04:50:22.816326Z"
     },
     "BZFD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:30.251865Z"
+      "fetchedAt": "2026-05-19T04:50:23.975808Z"
     },
     "USBC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:31.313626Z"
+      "fetchedAt": "2026-05-19T04:50:25.120661Z"
     },
     "MGTN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:32.370268Z"
+      "fetchedAt": "2026-05-19T04:50:26.266834Z"
     },
     "XLRSR": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:33.437713Z"
+      "fetchedAt": "2026-05-19T04:50:27.596219Z"
     },
     "XLG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:34.523046Z"
+      "fetchedAt": "2026-05-19T04:50:28.759335Z"
     },
     "NDX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:35.586506Z"
+      "fetchedAt": "2026-05-19T04:50:29.935072Z"
     },
     "RUT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:36.650553Z"
+      "fetchedAt": "2026-05-19T04:50:31.326215Z"
     },
     "XSP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:37.708987Z"
+      "fetchedAt": "2026-05-19T04:50:32.568788Z"
     },
     "CVNA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:38.850965Z"
+      "fetchedAt": "2026-05-19T04:50:33.837075Z"
     },
     "FNDA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:40.085812Z"
+      "fetchedAt": "2026-05-19T04:50:35.120276Z"
     },
     "IMST": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:41.150515Z"
+      "fetchedAt": "2026-05-19T04:50:36.279369Z"
     },
     "LI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:42.247111Z"
+      "fetchedAt": "2026-05-19T04:50:37.435497Z"
     },
     "MTRX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:43.305198Z"
+      "fetchedAt": "2026-05-19T04:50:38.751974Z"
     },
     "TSM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:44.350452Z"
+      "fetchedAt": "2026-05-19T04:50:39.911514Z"
     },
     "COIN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:45.443509Z"
+      "fetchedAt": "2026-05-19T04:50:41.056996Z"
     },
     "XYZ": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:46.644515Z"
+      "fetchedAt": "2026-05-19T04:50:42.279388Z"
     },
     "WGMI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:48.048385Z"
+      "fetchedAt": "2026-05-19T04:50:43.437554Z"
     },
     "BLOK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:49.240294Z"
+      "fetchedAt": "2026-05-19T04:50:44.580514Z"
     },
     "ETHW": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:50.314323Z"
+      "fetchedAt": "2026-05-19T04:50:45.854945Z"
     },
     "ETHA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:51.426889Z"
+      "fetchedAt": "2026-05-19T04:50:46.997788Z"
     },
     "VTV": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:52.589000Z"
+      "fetchedAt": "2026-05-19T04:50:48.296191Z"
     },
     "NFG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:53.735554Z"
+      "fetchedAt": "2026-05-19T04:50:49.459346Z"
     },
     "KWEB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:54.790262Z"
+      "fetchedAt": "2026-05-19T04:50:50.617373Z"
     },
     "LYFT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:56.337085Z"
+      "fetchedAt": "2026-05-19T04:50:51.782473Z"
     },
     "VXUS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:57.472733Z"
+      "fetchedAt": "2026-05-19T04:50:52.940612Z"
     },
     "EU": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:58.595094Z"
+      "fetchedAt": "2026-05-19T04:50:54.126259Z"
     },
     "PLTR": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:07:59.669528Z"
+      "fetchedAt": "2026-05-19T04:50:55.400380Z"
     },
     "AMD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:01.056612Z"
+      "fetchedAt": "2026-05-19T04:50:56.547268Z"
     },
     "AM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:02.286373Z"
+      "fetchedAt": "2026-05-19T04:50:57.824144Z"
     },
     "TEM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:03.453913Z"
+      "fetchedAt": "2026-05-19T04:50:58.985442Z"
     },
     "CRWD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:04.783332Z"
+      "fetchedAt": "2026-05-19T04:51:00.254621Z"
     },
     "VST": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:06.074418Z"
+      "fetchedAt": "2026-05-19T04:51:01.487950Z"
     },
     "PANW": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:07.314693Z"
+      "fetchedAt": "2026-05-19T04:51:02.632863Z"
     },
     "MOH": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:08.428737Z"
+      "fetchedAt": "2026-05-19T04:51:03.897479Z"
     },
     "BABA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:09.550775Z"
+      "fetchedAt": "2026-05-19T04:51:05.055792Z"
     },
     "GME": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:11.221038Z"
+      "fetchedAt": "2026-05-19T04:51:06.203740Z"
     },
     "CRM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:12.276647Z"
+      "fetchedAt": "2026-05-19T04:51:07.359266Z"
     },
     "ADBE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:13.776712Z"
+      "fetchedAt": "2026-05-19T04:51:08.518057Z"
     },
     "ACN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:15.169297Z"
+      "fetchedAt": "2026-05-19T04:51:09.787025Z"
     },
     "IBM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:16.244853Z"
+      "fetchedAt": "2026-05-19T04:51:10.932624Z"
     },
     "INTU": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:17.506787Z"
+      "fetchedAt": "2026-05-19T04:51:12.163562Z"
     },
     "HD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:18.988808Z"
+      "fetchedAt": "2026-05-19T04:51:13.430726Z"
     },
     "MCD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:20.107459Z"
+      "fetchedAt": "2026-05-19T04:51:14.699848Z"
     },
     "BKNG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:21.367484Z"
+      "fetchedAt": "2026-05-19T04:51:15.967038Z"
     },
     "LOW": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:22.422853Z"
+      "fetchedAt": "2026-05-19T04:51:17.121245Z"
     },
     "NKE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:23.581958Z"
+      "fetchedAt": "2026-05-19T04:51:18.279103Z"
     },
     "TJX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:24.786280Z"
+      "fetchedAt": "2026-05-19T04:51:19.557626Z"
     },
     "SBUX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:26.022424Z"
+      "fetchedAt": "2026-05-19T04:51:20.712789Z"
     },
     "CMG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:27.333324Z"
+      "fetchedAt": "2026-05-19T04:51:21.869425Z"
     },
     "ABNB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:28.386898Z"
+      "fetchedAt": "2026-05-19T04:51:23.028985Z"
     },
     "F": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:29.541377Z"
+      "fetchedAt": "2026-05-19T04:51:24.295498Z"
     },
     "GE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:30.868321Z"
+      "fetchedAt": "2026-05-19T04:51:25.452669Z"
     },
     "CAT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:32.058290Z"
+      "fetchedAt": "2026-05-19T04:51:26.598375Z"
     },
     "RTX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:33.114462Z"
+      "fetchedAt": "2026-05-19T04:51:27.830564Z"
     },
     "HON": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:34.472887Z"
+      "fetchedAt": "2026-05-19T04:51:28.986915Z"
     },
     "UNP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:35.548160Z"
+      "fetchedAt": "2026-05-19T04:51:30.256123Z"
     },
     "BA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:36.687305Z"
+      "fetchedAt": "2026-05-19T04:51:31.410765Z"
     },
     "LMT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:37.742117Z"
+      "fetchedAt": "2026-05-19T04:51:32.679840Z"
     },
     "DE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:38.798254Z"
+      "fetchedAt": "2026-05-19T04:51:33.856008Z"
     },
     "UPS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:39.857269Z"
+      "fetchedAt": "2026-05-19T04:51:35.004130Z"
     },
     "ETN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:40.925185Z"
+      "fetchedAt": "2026-05-19T04:51:36.162013Z"
     },
     "NOC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:42.530918Z"
+      "fetchedAt": "2026-05-19T04:51:37.318966Z"
     },
     "WM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:43.587670Z"
+      "fetchedAt": "2026-05-19T04:51:38.546222Z"
     },
     "JPM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:44.870504Z"
+      "fetchedAt": "2026-05-19T04:51:39.705280Z"
     },
     "BAC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:45.985974Z"
+      "fetchedAt": "2026-05-19T04:51:40.851687Z"
     },
     "WFC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:47.041375Z"
+      "fetchedAt": "2026-05-19T04:51:42.007390Z"
     },
     "GS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:48.245482Z"
+      "fetchedAt": "2026-05-19T04:51:43.274902Z"
     },
     "MS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:49.304178Z"
+      "fetchedAt": "2026-05-19T04:51:44.447230Z"
     },
     "BLK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:50.366186Z"
+      "fetchedAt": "2026-05-19T04:51:45.595695Z"
     },
     "C": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:51.620622Z"
+      "fetchedAt": "2026-05-19T04:51:46.754086Z"
     },
     "AXP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:52.712436Z"
+      "fetchedAt": "2026-05-19T04:51:47.914821Z"
     },
     "SCHW": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:53.814800Z"
+      "fetchedAt": "2026-05-19T04:51:49.072532Z"
     },
     "BX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:54.895820Z"
+      "fetchedAt": "2026-05-19T04:51:50.206304Z"
     },
     "PGR": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:55.955055Z"
+      "fetchedAt": "2026-05-19T04:51:51.436354Z"
     },
     "SPGI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:57.225648Z"
+      "fetchedAt": "2026-05-19T04:51:52.593997Z"
     },
     "XOM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:58.289561Z"
+      "fetchedAt": "2026-05-19T04:51:53.745364Z"
     },
     "CVX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:08:59.346050Z"
+      "fetchedAt": "2026-05-19T04:51:54.890111Z"
     },
     "EOG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:00.428664Z"
+      "fetchedAt": "2026-05-19T04:51:56.047785Z"
     },
     "SLB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:01.824718Z"
+      "fetchedAt": "2026-05-19T04:51:57.315808Z"
     },
     "PSX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:02.979477Z"
+      "fetchedAt": "2026-05-19T04:51:58.457655Z"
     },
     "MPC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:04.193747Z"
+      "fetchedAt": "2026-05-19T04:51:59.612549Z"
     },
     "OXY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:05.275712Z"
+      "fetchedAt": "2026-05-19T04:52:00.769774Z"
     },
     "PXD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:06.542491Z"
+      "fetchedAt": "2026-05-19T04:52:01.996673Z"
     },
     "VLO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:07.881149Z"
+      "fetchedAt": "2026-05-19T04:52:03.154390Z"
     },
     "WMB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:08.976348Z"
+      "fetchedAt": "2026-05-19T04:52:04.296646Z"
     },
     "KMI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:10.031007Z"
+      "fetchedAt": "2026-05-19T04:52:05.444869Z"
     },
     "PG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:11.121166Z"
+      "fetchedAt": "2026-05-19T04:52:06.606141Z"
     },
     "COST": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:12.399904Z"
+      "fetchedAt": "2026-05-19T04:52:07.833010Z"
     },
     "WMT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:13.698758Z"
+      "fetchedAt": "2026-05-19T04:52:09.063356Z"
     },
     "KO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:14.811139Z"
+      "fetchedAt": "2026-05-19T04:52:10.207562Z"
     },
     "PEP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:15.870030Z"
+      "fetchedAt": "2026-05-19T04:52:11.370044Z"
     },
     "PM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:17.045968Z"
+      "fetchedAt": "2026-05-19T04:52:12.644227Z"
     },
     "MO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:18.333753Z"
+      "fetchedAt": "2026-05-19T04:52:13.792777Z"
     },
     "MDLZ": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:19.506207Z"
+      "fetchedAt": "2026-05-19T04:52:14.948240Z"
     },
     "CL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:20.754095Z"
+      "fetchedAt": "2026-05-19T04:52:16.096993Z"
     },
     "TGT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:21.818474Z"
+      "fetchedAt": "2026-05-19T04:52:17.258331Z"
     },
     "KMB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:23.099148Z"
+      "fetchedAt": "2026-05-19T04:52:18.545109Z"
     },
     "GIS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:24.371674Z"
+      "fetchedAt": "2026-05-19T04:52:19.685081Z"
     },
     "LLY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:25.581749Z"
+      "fetchedAt": "2026-05-19T04:52:20.841159Z"
     },
     "UNH": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:26.661141Z"
+      "fetchedAt": "2026-05-19T04:52:22.003391Z"
     },
     "JNJ": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:27.715580Z"
+      "fetchedAt": "2026-05-19T04:52:23.169334Z"
     },
     "MRK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:28.936050Z"
+      "fetchedAt": "2026-05-19T04:52:24.313661Z"
     },
     "ABBV": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:30.035790Z"
+      "fetchedAt": "2026-05-19T04:52:25.456170Z"
     },
     "TMO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:31.091996Z"
+      "fetchedAt": "2026-05-19T04:52:26.616355Z"
     },
     "ABT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:32.145845Z"
+      "fetchedAt": "2026-05-19T04:52:27.842820Z"
     },
     "PFE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:33.386249Z"
+      "fetchedAt": "2026-05-19T04:52:29.004445Z"
     },
     "DHR": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:34.441933Z"
+      "fetchedAt": "2026-05-19T04:52:30.151331Z"
     },
     "BMY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:35.629750Z"
+      "fetchedAt": "2026-05-19T04:52:31.513900Z"
     },
     "AMGN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:36.791539Z"
+      "fetchedAt": "2026-05-19T04:52:32.658790Z"
     },
     "CVS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:38.342570Z"
+      "fetchedAt": "2026-05-19T04:52:33.928959Z"
     },
     "NEE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:39.395293Z"
+      "fetchedAt": "2026-05-19T04:52:35.083732Z"
     },
     "SO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:40.622633Z"
+      "fetchedAt": "2026-05-19T04:52:36.237805Z"
     },
     "DUK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:41.958752Z"
+      "fetchedAt": "2026-05-19T04:52:37.383938Z"
     },
     "CEG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:43.096517Z"
+      "fetchedAt": "2026-05-19T04:52:38.545126Z"
     },
     "AEP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:44.193679Z"
+      "fetchedAt": "2026-05-19T04:52:39.705442Z"
     },
     "D": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:45.287976Z"
+      "fetchedAt": "2026-05-19T04:52:40.869207Z"
     },
     "SRE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:46.607558Z"
+      "fetchedAt": "2026-05-19T04:52:42.003862Z"
     },
     "PCG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:47.662907Z"
+      "fetchedAt": "2026-05-19T04:52:43.161348Z"
     },
     "EXC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:48.792015Z"
+      "fetchedAt": "2026-05-19T04:52:44.306060Z"
     },
     "XEL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:49.855095Z"
+      "fetchedAt": "2026-05-19T04:52:45.462067Z"
     },
     "ED": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:51.318138Z"
+      "fetchedAt": "2026-05-19T04:52:46.623086Z"
     },
     "PEG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:52.531986Z"
+      "fetchedAt": "2026-05-19T04:52:47.778772Z"
     },
     "PLD": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:53.622983Z"
+      "fetchedAt": "2026-05-19T04:52:49.008293Z"
     },
     "AMT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:54.678681Z"
+      "fetchedAt": "2026-05-19T04:52:50.167652Z"
     },
     "EQIX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:55.738440Z"
+      "fetchedAt": "2026-05-19T04:52:51.398198Z"
     },
     "WELL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:56.825821Z"
+      "fetchedAt": "2026-05-19T04:52:52.542426Z"
     },
     "SPG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:58.011045Z"
+      "fetchedAt": "2026-05-19T04:52:53.771306Z"
     },
     "O": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:09:59.140154Z"
+      "fetchedAt": "2026-05-19T04:52:54.999313Z"
     },
     "PSA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:00.224072Z"
+      "fetchedAt": "2026-05-19T04:52:56.229897Z"
     },
     "CCI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:01.279304Z"
+      "fetchedAt": "2026-05-19T04:52:57.389211Z"
     },
     "DLR": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:02.342705Z"
+      "fetchedAt": "2026-05-19T04:52:58.620136Z"
     },
     "EXR": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:03.453796Z"
+      "fetchedAt": "2026-05-19T04:52:59.764476Z"
     },
     "AVB": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:04.515393Z"
+      "fetchedAt": "2026-05-19T04:53:00.921621Z"
     },
     "VICI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:05.621341Z"
+      "fetchedAt": "2026-05-19T04:53:02.076968Z"
     },
     "CSCO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:06.680107Z"
+      "fetchedAt": "2026-05-19T04:53:03.239122Z"
     },
     "COP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:09.942922Z"
+      "fetchedAt": "2026-05-19T04:53:04.504295Z"
     },
     "SNDK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:11.124784Z"
+      "fetchedAt": "2026-05-19T04:53:05.647987Z"
     },
     "FIG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:12.179394Z"
+      "fetchedAt": "2026-05-19T04:53:06.919756Z"
     },
     "AAOI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:13.238042Z"
+      "fetchedAt": "2026-05-19T04:53:08.175839Z"
+    },
+    "NFLX": {
+      "ok": true,
+      "msg": "QID=Q907311, 1 execs, 0 board, 3 products",
+      "fetchedAt": "2026-05-19T04:53:09.997193Z"
     },
     "BIL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:14.267951Z"
+      "fetchedAt": "2026-05-19T04:53:11.140849Z"
     },
     "SCHP": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:15.494149Z"
+      "fetchedAt": "2026-05-19T04:53:12.300713Z"
     },
     "CL1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:16.727042Z"
+      "fetchedAt": "2026-05-19T04:53:13.450567Z"
     },
     "NG1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:18.033873Z"
+      "fetchedAt": "2026-05-19T04:53:14.620057Z"
     },
     "RTY1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:19.294353Z"
+      "fetchedAt": "2026-05-19T04:53:15.777475Z"
     },
     "NQ1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:20.347201Z"
+      "fetchedAt": "2026-05-19T04:53:17.004632Z"
     },
     "ES1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:21.456483Z"
+      "fetchedAt": "2026-05-19T04:53:18.151113Z"
     },
     "YM1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:22.630126Z"
+      "fetchedAt": "2026-05-19T04:53:19.310692Z"
     },
     "BTC1!": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-05-19T04:10:23.732119Z"
+      "fetchedAt": "2026-05-19T04:53:20.575494Z"
     }
   }
 }
