@@ -77,13 +77,61 @@ HEADERS = {"User-Agent": UA, "Accept": "application/sparql-results+json"}
 
 ROOT = Path(__file__).resolve().parent.parent
 COMPANY_DIR = ROOT / "data" / "company"
+TICKERS_FILE = ROOT / "data" / "tickers.txt"
 COMPANY_DIR.mkdir(parents=True, exist_ok=True)
 MANIFEST_FILE = COMPANY_DIR / "_manifest.json"
 
-# Tickers to fetch. Mirrors the major tickers the app cares about, plus picks up
-# from REQUIRED_REFERENCE_TICKERS. We don't fetch ETF / future / index tickers
-# (they don't have meaningful Wikidata company entries).
-TICKERS_TO_FETCH = [
+# Skip tickers that can't have meaningful Wikidata company entries.
+# These are derivatives / indexes / ETFs / FX / crypto / futures — no company behind them.
+NON_COMPANY_PATTERNS = (
+    "=F", "=X", "-USD", "-USDT",  # futures, FX, crypto
+)
+NON_COMPANY_PREFIXES = ("^",)  # indexes
+NON_COMPANY_TICKERS = {
+    # Known ETFs — they have Wikidata entries but they're funds, not companies
+    "SPY", "QQQ", "DIA", "IWM", "VOO", "VTI", "VEA", "VWO", "EFA", "EEM",
+    "XLK", "XLF", "XLV", "XLE", "XLI", "XLP", "XLY", "XLU", "XLB", "XLRE", "XLC",
+    "TLT", "IEF", "SHY", "BND", "AGG", "LQD", "HYG", "JNK", "TIP", "MBB", "EMB",
+    "GOVT", "VCSH", "VCIT", "VCLT", "BIV", "BSV", "BLV", "BNDX",
+    "GLD", "SLV", "USO", "UNG", "DBA", "DBC", "GSG",
+    "IYT", "IYR", "VNQ", "XBI", "IBB", "XHB", "ITB", "XRT",
+    "ARKK", "SOXL", "TQQQ", "SQQQ", "UVXY", "VXX", "UUP",
+    "RSP", "SPLV", "SPHQ", "MTUM", "QUAL", "USMV", "SCHD",
+}
+
+def load_tickers_from_file():
+    """
+    Load tickers from data/tickers.txt — one ticker per line, comments with #.
+    Filters out derivatives, indexes, ETFs, FX, crypto, futures.
+    Returns deduped list of equity tickers.
+    """
+    if not TICKERS_FILE.exists():
+        print(f"[company-facts] WARNING: {TICKERS_FILE} not found, using built-in fallback list")
+        return BUILT_IN_TICKERS
+
+    tickers = []
+    seen = set()
+    for line in TICKERS_FILE.read_text().splitlines():
+        # Strip comments
+        t = line.split("#")[0].strip().upper()
+        if not t:
+            continue
+        # Filter non-companies
+        if any(t.endswith(suffix) for suffix in NON_COMPANY_PATTERNS):
+            continue
+        if any(t.startswith(prefix) for prefix in NON_COMPANY_PREFIXES):
+            continue
+        if t in NON_COMPANY_TICKERS:
+            continue
+        if t in seen:
+            continue
+        seen.add(t)
+        tickers.append(t)
+    return tickers
+
+
+# Fallback list when tickers.txt is missing — mirrors the major tickers the app cares about.
+BUILT_IN_TICKERS = [
     # Mega-cap tech / "magnificent seven"
     "AAPL", "MSFT", "GOOGL", "GOOG", "AMZN", "META", "TSLA", "NVDA",
     # Other mega-caps
@@ -106,7 +154,7 @@ TICKERS_TO_FETCH = [
     # Railroads / transportation (your IYT holdings)
     "UNP", "CSX", "NSC", "UPS", "FDX", "ODFL", "JBHT", "CHRW", "EXPD",
     # Communications / media
-    "T", "VZ", "TMUS", "CMCSA", "WBD", "PARA",
+    "WBD", "PARA",
 ]
 
 # Wikidata properties → human label
@@ -318,14 +366,15 @@ def fetch_ticker(ticker):
 
 
 def main():
-    log(f"Fetching {len(TICKERS_TO_FETCH)} tickers into {COMPANY_DIR}")
+    tickers = load_tickers_from_file()
+    log(f"Fetching {len(tickers)} tickers from tickers.txt into {COMPANY_DIR}")
     manifest = {
         "generatedAt": datetime.utcnow().isoformat() + "Z",
         "source": "wikidata",
         "tickers": {},
     }
     success = 0
-    for ticker in TICKERS_TO_FETCH:
+    for ticker in tickers:
         try:
             ok, msg = fetch_ticker(ticker)
             if ok:
@@ -345,8 +394,7 @@ def main():
         time.sleep(1.0)
 
     MANIFEST_FILE.write_text(json.dumps(manifest, indent=2))
-    log(f"Done: {success}/{len(TICKERS_TO_FETCH)} successful")
-    # Always exit 0 — partial success is still useful
+    log(f"Done: {success}/{len(tickers)} successful")
     return 0
 
 
