@@ -1,0 +1,337 @@
+"""
+TRAPP2 CEO / Leadership Tracker
+================================
+
+Builds a database of executives and board members across all tickers in
+data/company/*.json, with cross-references:
+   - "Where is this person now?"
+   - "Where have they been before?" (Wikidata employer/position history)
+   - "Which other companies share this person as a board member?"
+
+Output:
+   data/leadership/_all_people.json    — flat list of all people across all companies
+   data/leadership/by_ticker/*.json    — quick lookup per ticker
+   data/leadership/by_person/*.json    — slugified-name file with full career
+   data/leadership/_manifest.json      — index + run stats
+
+The "career history" comes from Wikidata's P39 (position held) and P108
+(employer) properties on the person's entity. We resolve the person's QID
+by their name (matched to the company's QID context), then pull their
+career data.
+
+Runs in the nightly workflow after fetch_company_facts.py.
+"""
+
+import json
+import re
+import sys
+import time
+from datetime import datetime
+from pathlib import Path
+
+import requests
+
+WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
+UA = "TRAPP2/1.0 (https://github.com/GoodGlobeLLC/TRAPP2; financial-data-app) python-requests"
+HEADERS = {"User-Agent": UA, "Accept": "application/sparql-results+json"}
+
+ROOT = Path(__file__).resolve().parent.parent
+COMPANY_DIR = ROOT / "data" / "company"
+LEADERSHIP_DIR = ROOT / "data" / "leadership"
+BY_TICKER_DIR = LEADERSHIP_DIR / "by_ticker"
+BY_PERSON_DIR = LEADERSHIP_DIR / "by_person"
+LEADERSHIP_DIR.mkdir(parents=True, exist_ok=True)
+BY_TICKER_DIR.mkdir(parents=True, exist_ok=True)
+BY_PERSON_DIR.mkdir(parents=True, exist_ok=True)
+
+
+def log(msg):
+    print(f"[ceo-tracker] {msg}", flush=True)
+
+
+def slugify(name):
+    """Convert a name to a safe filename: 'Tim Cook' → 'tim-cook'"""
+    return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+
+
+def sparql_query(query, retries=2):
+    for attempt in range(retries + 1):
+        try:
+            r = requests.get(
+                WIKIDATA_SPARQL,
+                params={"query": query, "format": "json"},
+                headers=HEADERS,
+                timeout=30,
+            )
+            if r.status_code == 429:
+                wait = int(r.headers.get("Retry-After", 5))
+                time.sleep(wait)
+                continue
+            if r.status_code != 200:
+                return None
+            return r.json()
+        except requests.RequestException:
+            time.sleep(2)
+    return None
+
+
+def find_person_qid(name, company_qid=None):
+    """
+    Resolve a person name to a Wikidata QID. Optionally constrain by company QID
+    (the person should have a P39/P108 link to that company) to disambiguate
+    common names. Returns the QID or None.
+    """
+    # Strategy: search for entity with label = name AND instance-of human (Q5).
+    # If company_qid given, prefer matches that share an employer link with that company.
+    if company_qid:
+        query = f"""
+        SELECT ?person WHERE {{
+          ?person rdfs:label "{name}"@en .
+          ?person wdt:P31 wd:Q5 .
+          {{ ?person wdt:P108 wd:{company_qid} }} UNION
+          {{ ?person wdt:P39 ?pos . ?pos wdt:P642 wd:{company_qid} }} UNION
+          {{ ?person wdt:P3320 wd:{company_qid} }} UNION
+          {{ wd:{company_qid} wdt:P169 ?person }} UNION
+          {{ wd:{company_qid} wdt:P488 ?person }} UNION
+          {{ wd:{company_qid} wdt:P3320 ?person }}
+        }}
+        LIMIT 1
+        """
+    else:
+        # No company anchor — fall back to a label-only match.
+        query = f"""
+        SELECT ?person (COUNT(?sitelink) AS ?fame) WHERE {{
+          ?person rdfs:label "{name}"@en .
+          ?person wdt:P31 wd:Q5 .
+          OPTIONAL {{ ?sitelink schema:about ?person }}
+        }}
+        GROUP BY ?person
+        ORDER BY DESC(?fame)
+        LIMIT 1
+        """
+    result = sparql_query(query)
+    if not result:
+        return None
+    bindings = result.get("results", {}).get("bindings", [])
+    if not bindings:
+        return None
+    return bindings[0]["person"]["value"].rsplit("/", 1)[-1]
+
+
+def fetch_person_career(person_qid, person_name):
+    """
+    Pull a person's career history from Wikidata:
+      - P108  employer (companies they have worked for)
+      - P39   positions held (chairperson, CEO, board member, etc.)
+      - P569  date of birth
+      - P19   place of birth
+      - P106  occupation
+      - P69   educated at
+    """
+    query = f"""
+    SELECT
+      (SAMPLE(?dob) AS ?dateOfBirth)
+      (SAMPLE(?birthPlaceLabel) AS ?birthPlace)
+      (SAMPLE(?image) AS ?image)
+      (GROUP_CONCAT(DISTINCT ?occupationLabel; separator="|") AS ?occupations)
+      (GROUP_CONCAT(DISTINCT ?educatedAtLabel; separator="|") AS ?education)
+      (GROUP_CONCAT(DISTINCT CONCAT(STR(?employerLabel), "::", COALESCE(STR(?employerStart), ""), "::", COALESCE(STR(?employerEnd), "")); separator="|") AS ?employers)
+      (GROUP_CONCAT(DISTINCT CONCAT(STR(?positionLabel), "::", COALESCE(STR(?positionOfLabel), ""), "::", COALESCE(STR(?positionStart), ""), "::", COALESCE(STR(?positionEnd), "")); separator="|") AS ?positions)
+    WHERE {{
+      BIND(wd:{person_qid} AS ?person)
+      OPTIONAL {{ ?person wdt:P569 ?dob }}
+      OPTIONAL {{ ?person wdt:P19  ?birthPlace .   ?birthPlace rdfs:label ?birthPlaceLabel . FILTER(LANG(?birthPlaceLabel) = "en") }}
+      OPTIONAL {{ ?person wdt:P18  ?image }}
+      OPTIONAL {{ ?person wdt:P106 ?occupation .   ?occupation rdfs:label ?occupationLabel . FILTER(LANG(?occupationLabel) = "en") }}
+      OPTIONAL {{ ?person wdt:P69  ?educatedAt .   ?educatedAt rdfs:label ?educatedAtLabel . FILTER(LANG(?educatedAtLabel) = "en") }}
+      OPTIONAL {{
+        ?person p:P108 ?employerStmt .
+        ?employerStmt ps:P108 ?employer .
+        ?employer rdfs:label ?employerLabel . FILTER(LANG(?employerLabel) = "en")
+        OPTIONAL {{ ?employerStmt pq:P580 ?employerStart }}
+        OPTIONAL {{ ?employerStmt pq:P582 ?employerEnd }}
+      }}
+      OPTIONAL {{
+        ?person p:P39 ?positionStmt .
+        ?positionStmt ps:P39 ?position .
+        ?position rdfs:label ?positionLabel . FILTER(LANG(?positionLabel) = "en")
+        OPTIONAL {{ ?positionStmt pq:P642 ?positionOf . ?positionOf rdfs:label ?positionOfLabel . FILTER(LANG(?positionOfLabel) = "en") }}
+        OPTIONAL {{ ?positionStmt pq:P580 ?positionStart }}
+        OPTIONAL {{ ?positionStmt pq:P582 ?positionEnd }}
+      }}
+    }}
+    LIMIT 1
+    """
+    result = sparql_query(query)
+    if not result or not result.get("results", {}).get("bindings"):
+        return None
+    b = result["results"]["bindings"][0]
+
+    def g(k):
+        return b.get(k, {}).get("value", "")
+
+    def split_list(raw):
+        return [s for s in raw.split("|") if s.strip()] if raw else []
+
+    # Parse employer entries: "Apple Inc.::2011-01-01T::"
+    employers = []
+    for entry in split_list(g("employers")):
+        parts = entry.split("::")
+        if len(parts) >= 1 and parts[0]:
+            employers.append({
+                "company": parts[0],
+                "start": parts[1][:10] if len(parts) > 1 and parts[1] else None,
+                "end":   parts[2][:10] if len(parts) > 2 and parts[2] else None,
+            })
+
+    # Parse position entries: "chief executive officer::Apple Inc.::2011-01-01T::"
+    positions = []
+    for entry in split_list(g("positions")):
+        parts = entry.split("::")
+        if len(parts) >= 1 and parts[0]:
+            positions.append({
+                "title":   parts[0],
+                "company": parts[1] if len(parts) > 1 and parts[1] else None,
+                "start":   parts[2][:10] if len(parts) > 2 and parts[2] else None,
+                "end":     parts[3][:10] if len(parts) > 3 and parts[3] else None,
+            })
+
+    return {
+        "qid":         person_qid,
+        "name":        person_name,
+        "dateOfBirth": g("dateOfBirth")[:10] or None,
+        "birthPlace":  g("birthPlace") or None,
+        "image":       g("image") or None,
+        "occupations": split_list(g("occupations")),
+        "education":   split_list(g("education")),
+        "employers":   employers,
+        "positions":   positions,
+    }
+
+
+def main():
+    if not COMPANY_DIR.exists():
+        log(f"No {COMPANY_DIR} — run fetch_company_facts.py first")
+        return 1
+
+    company_files = sorted(COMPANY_DIR.glob("*.json"))
+    company_files = [f for f in company_files if not f.name.startswith("_")]
+    log(f"Found {len(company_files)} company files")
+
+    all_people = {}       # qid → person record
+    by_ticker = {}        # ticker → [person summaries]
+    person_to_tickers = {}  # qid → [tickers]
+
+    for cf in company_files:
+        try:
+            company = json.loads(cf.read_text())
+        except Exception as e:
+            log(f"  skip {cf.name}: {e}")
+            continue
+        ticker = company.get("ticker")
+        company_qid = company.get("qid")
+        if not ticker:
+            continue
+
+        # Combine all named people from this company
+        people_in_company = []
+        for src_field, default_role in (
+            ("executives", "Executive"),
+            ("board",      "Board Member"),
+            ("founders",   "Founder"),
+        ):
+            for entry in company.get(src_field, []) or []:
+                name = (entry.get("name") or "").strip()
+                if not name:
+                    continue
+                people_in_company.append({
+                    "name": name,
+                    "role_at_company": entry.get("role") or default_role,
+                    "source_field": src_field,
+                })
+
+        by_ticker[ticker] = []
+
+        for person in people_in_company:
+            name = person["name"]
+            # Skip if name is the company itself (Wikidata data quality issue — e.g.
+            # NFLX's founders list contained "Netflix, Inc." which is the company QID)
+            if name.lower() == (company.get("name") or "").lower():
+                continue
+
+            # Resolve QID
+            qid = find_person_qid(name, company_qid)
+            time.sleep(1.0)  # respect Wikidata rate limit
+
+            if not qid:
+                log(f"  ? {ticker}: '{name}' — no QID found, skipping career fetch")
+                continue
+
+            # Fetch full career if we haven't already
+            if qid not in all_people:
+                career = fetch_person_career(qid, name)
+                time.sleep(1.0)
+                if not career:
+                    log(f"  ? {ticker}: '{name}' QID={qid} — empty career data")
+                    continue
+                all_people[qid] = career
+                log(f"  ✓ {ticker}: '{name}' QID={qid} ({len(career['positions'])} positions, {len(career['employers'])} employers)")
+
+            # Cross-reference
+            person_to_tickers.setdefault(qid, []).append(ticker)
+            by_ticker[ticker].append({
+                "qid": qid,
+                "name": name,
+                "role_at_company": person["role_at_company"],
+                "source_field": person["source_field"],
+            })
+
+    # Write per-ticker files
+    for ticker, people_summaries in by_ticker.items():
+        # Enrich each summary with the cached career data
+        enriched = []
+        for ps in people_summaries:
+            full = all_people.get(ps["qid"])
+            if full:
+                enriched.append({**ps, "career": full})
+        out = {
+            "ticker": ticker,
+            "fetchedAt": datetime.utcnow().isoformat() + "Z",
+            "people": enriched,
+        }
+        (BY_TICKER_DIR / f"{ticker}.json").write_text(json.dumps(out, indent=2))
+
+    # Write per-person files
+    for qid, career in all_people.items():
+        slug = slugify(career["name"])
+        out = {
+            **career,
+            "currentTickers": person_to_tickers.get(qid, []),
+        }
+        (BY_PERSON_DIR / f"{slug}.json").write_text(json.dumps(out, indent=2))
+
+    # Write master index
+    manifest = {
+        "generatedAt": datetime.utcnow().isoformat() + "Z",
+        "totalPeople": len(all_people),
+        "totalTickers": len(by_ticker),
+        "index": [
+            {
+                "qid": qid,
+                "name": career["name"],
+                "slug": slugify(career["name"]),
+                "tickers": person_to_tickers.get(qid, []),
+                "positionsCount": len(career.get("positions", [])),
+                "employersCount": len(career.get("employers", [])),
+            }
+            for qid, career in all_people.items()
+        ],
+    }
+    (LEADERSHIP_DIR / "_manifest.json").write_text(json.dumps(manifest, indent=2))
+
+    log(f"Done: {len(all_people)} unique people across {len(by_ticker)} tickers")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
