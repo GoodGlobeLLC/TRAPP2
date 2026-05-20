@@ -1,28 +1,36 @@
 name: Live Quotes (Intraday)
 
-# Runs every 15 minutes during US market hours (9 AM - 4:45 PM ET), Mon-Fri.
-# UTC schedule covers both EST (UTC-5) and EDT (UTC-4):
-#   EDT 9:00 AM = 13:00 UTC, EST 9:00 AM = 14:00 UTC
-#   EDT 4:45 PM = 20:45 UTC, EST 4:45 PM = 21:45 UTC
+# Goal: 14 runs per trading day at every 30-min mark from 9:30 AM ET → 4:00 PM ET.
+# (9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00 ET — 14 total)
 #
-# IMPORTANT: GitHub Actions scheduled workflows have known random latency
-# (often 15-60 minutes during peak load — workflows are queued, not strict).
-# To compensate, we START the cron 30 minutes BEFORE the open (12:30 UTC),
-# giving us pre-market warmup runs so the first real-market refresh lands
-# at or near the bell, even if GitHub queues us late.
+# GitHub Actions schedules have 15-60 min random queue latency. To compensate, every
+# cron is set 30 MINUTES EARLY so the actual run lands at the desired mark.
+# Example: we want a run at 9:30 AM ET → schedule at 9:00 AM ET → queues 9:00, fires 9:15-9:45.
 #
-# We also run every 10 minutes during the first hour after open to catch
-# any backlog, then every 15 minutes the rest of the day.
+# UTC equivalents (handle both EDT UTC-4 and EST UTC-5):
+#   EDT  9:00 AM = 13:00 UTC   (so 9:30 AM target = trigger at 13:00 UTC)
+#   EDT  4:00 PM = 20:00 UTC   (target 4:00 PM = trigger at 19:30 UTC)
+#   EST  9:00 AM = 14:00 UTC   (so 9:30 AM target = trigger at 14:00 UTC)
+#   EST  4:00 PM = 21:00 UTC   (target 4:00 PM = trigger at 20:30 UTC)
 #
-# Only runs fetch_data.py — quick (~30s), refreshes master.csv master.json only.
-# Heavy 5-year history fetch and regime recompute happen in nightly/midday workflows.
+# We schedule across BOTH UTC offsets so the workflow lands correctly regardless
+# of whether DST is active. Triggers fire at :00 and :30 every hour from 13:00–21:00 UTC,
+# which gives us 14 runs in EDT (13:00, 13:30, ..., 19:30) and 14 runs in EST
+# (14:00, 14:30, ..., 20:30). Outside the active session window, runs are no-ops
+# (the script is cheap to call; <30s). This is the most reliable pattern given
+# Actions' queueing behavior.
 
 on:
   schedule:
-    # Pre-market warmup: 12:30, 12:45 UTC (covers EDT 8:30/8:45 and EST 7:30/7:45)
-    - cron: '30,45 12 * * 1-5'
-    # Open hour through close: every 15 min from 13:00 to 21:45 UTC
-    - cron: '0,15,30,45 13-21 * * 1-5'
+    # Every :00 and :30 from 13:00 through 21:00 UTC, Mon-Fri.
+    # This range covers BOTH timezones:
+    #   - EDT (UTC-4, summer): 13:00 UTC = 9:00 AM ET → 21:00 UTC = 5:00 PM ET
+    #     Target hits: 9:30, 10:00, ..., 4:00 ET = 14 runs.
+    #   - EST (UTC-5, winter): 13:00 UTC = 8:00 AM ET → 21:00 UTC = 4:00 PM ET
+    #     Target hits: 9:30, 10:00, ..., 4:00 ET = 14 runs (with early warmups).
+    # The extra triggers at the edges absorb GitHub Actions queue latency
+    # (which can be 15-60 min). Each script run is ~30s so extras are cheap.
+    - cron: '0,30 13-21 * * 1-5'
   workflow_dispatch:
 
 concurrency:
