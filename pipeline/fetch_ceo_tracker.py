@@ -54,24 +54,35 @@ def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
 
-def sparql_query(query, retries=2):
+def sparql_query(query, retries=4):
+    """Wikidata SPARQL with hardened retry. Same logic as fetch_company_facts.py."""
     for attempt in range(retries + 1):
         try:
             r = requests.get(
                 WIKIDATA_SPARQL,
                 params={"query": query, "format": "json"},
                 headers=HEADERS,
-                timeout=30,
+                timeout=45,
             )
             if r.status_code == 429:
-                wait = int(r.headers.get("Retry-After", 5))
+                wait = max(int(r.headers.get("Retry-After", 0)), 5 * (attempt + 1))
+                print(f"[ceo-tracker]   rate-limited, waiting {wait}s")
+                time.sleep(wait)
+                continue
+            if r.status_code in (500, 502, 503, 504):
+                wait = 3 * (attempt + 1)
+                print(f"[ceo-tracker]   server error {r.status_code}, waiting {wait}s")
                 time.sleep(wait)
                 continue
             if r.status_code != 200:
                 return None
             return r.json()
-        except requests.RequestException:
-            time.sleep(2)
+        except requests.RequestException as e:
+            wait = 2 * (attempt + 1)
+            print(f"[ceo-tracker]   request failed: {e}, waiting {wait}s")
+            time.sleep(wait)
+        except ValueError:
+            return None
     return None
 
 
@@ -261,7 +272,7 @@ def main():
 
             # Resolve QID
             qid = find_person_qid(name, company_qid)
-            time.sleep(1.0)  # respect Wikidata rate limit
+            time.sleep(1.5)  # respect Wikidata rate limit
 
             if not qid:
                 log(f"  ? {ticker}: '{name}' — no QID found, skipping career fetch")
@@ -270,7 +281,7 @@ def main():
             # Fetch full career if we haven't already
             if qid not in all_people:
                 career = fetch_person_career(qid, name)
-                time.sleep(1.0)
+                time.sleep(1.5)
                 if not career:
                     log(f"  ? {ticker}: '{name}' QID={qid} — empty career data")
                     continue
