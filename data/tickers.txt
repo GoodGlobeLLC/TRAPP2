@@ -1,8 +1,21 @@
+# TRAPP2 Tracked Tickers
+# ========================
 # One ticker per line. Lines starting with # are comments.
 # This is your master list — the script fetches data for every ticker here.
 #
-# Start small (50-200 tickers) so you can verify the workflow runs successfully,
-# then add more in batches.
+# Pipelines that consume this file:
+#   - pipeline/fetch_data.py (live quotes)
+#   - pipeline/fetch_history.py (5y price history)
+#   - pipeline/fetch_company_facts.py (Wikidata company data — filters non-equities)
+#   - pipeline/fetch_ceo_tracker.py (leadership career history)
+#
+# Non-equity tickers (^IDX, =F futures, =X FX, -USD crypto, .PVT private, options)
+# are kept here for price/history pipelines but auto-skipped by the company-facts /
+# CEO-tracker pipelines (they have no Wikidata company entity).
+
+# ============================================================
+# YOUR ORIGINAL ENTRIES (preserved in original order, deduped)
+# ============================================================
 
 # Equities
 AAPL
@@ -15,9 +28,6 @@ AMZN
 TSLA
 AVGO
 ORCL
-AAPL
-NVDA
-TSLA
 TSLL
 SPY
 ^TNX
@@ -25,7 +35,6 @@ SPX
 GC=F
 BTC-USD
 SPXS
-MSFT
 VIX
 MSFD
 SPYU
@@ -36,22 +45,17 @@ BIGGQ
 SOFI
 SOXL
 NRGU
-META
 SQQQ
 DOGE
 SH
 XRT
-GOOG
 DJT
 FTSE
-AAPL
 OPY
 MCHB
-ORCL
 PYPL
 ZSL
 OILD
-SPYU
 UPLD
 LPRO
 TMUS
@@ -216,34 +220,14 @@ AVB
 VICI
 CSCO
 COP
-PXD
 SNDK
 FIG
 AAOI
 NFLX
 
-
-
-# Major ETFs
-SPY
-QQQ
+# Major ETFs (additional beyond what's above)
 DIA
-IWM
 VOO
-VTI
-
-# Sector ETFs (used by the macro tab)
-XLK
-XLF
-XLV
-XLE
-XLI
-XLP
-XLY
-XLU
-XLB
-XLRE
-XLC
 
 # Government Bonds and LT treasuries
 TLT
@@ -266,7 +250,7 @@ VCSH
 # Metals
 GLD
 
-# Futures/Commodities
+# Futures / Commodities
 ES=F
 YM=F
 NQ=F
@@ -282,17 +266,12 @@ NQ1!
 ES1!
 YM1!
 BTC1!
-SI=F
 CL=F
-ES=F
-YM=F
-NQ=F
 RTY=F
 ZB=F
 ZN=F
 ZF=F
 ZT=F
-GC=F
 MGC=F
 SIL=F
 PL=F
@@ -303,24 +282,21 @@ NG=F
 RB=F
 BZ=F
 B0=F
-ZC=F
 ZO=F
 KE=F
 ZR=F
 ZM=F
 ZL=F
-ZS=F
 GF=F
 HE=F
 LE=F
 CC=F
 KC=F
-CT=F
 LBS=F
 OJ=F
 SB=F
 
-# World Inidices
+# World Indices
 ^MERV
 ^XDE
 ^GSPTSE
@@ -332,7 +308,6 @@ SB=F
 ^XAX
 ^BUK100P
 ^RUT
-^VIX
 ^FTSE
 ^GDAXI
 ^FCHI
@@ -358,7 +333,6 @@ MOEX.ME
 DX-Y.NYB
 ^125904-USD-STRD
 ^XDB
-^XDE
 000001.SS
 ^N225
 ^XDN
@@ -390,7 +364,6 @@ ZAR=X
 RUB=X
 
 # Crypto
-BTC-USD
 USDT-USD
 BNB-USD
 ETH-USD
@@ -420,3 +393,145 @@ ZSL260522C00001000
 MVIS260522C00002000
 BULL260522C00001500
 SPY261204C00800000
+
+# ============================================================
+# EXPANDED COVERAGE — added equities with strong Wikidata coverage
+# for the company-facts + CEO-tracker pipelines
+# ============================================================
+
+# Mega-cap additions
+BRK.B
+MA
+
+# Industrials / aero / defense
+GD
+EMR
+ITW
+PH
+ROK
+
+# Consumer discretionary / services
+DASH
+EA
+TTWO
+RBLX
+PINS
+SNAP
+MTCH
+DIS
+ROST
+YUM
+
+# Tech / SaaS (high Wikidata coverage)
+ASML
+MU
+TXN
+ARM
+FTNT
+SNOW
+DDOG
+NET
+ZS
+MDB
+WDAY
+TEAM
+LRCX
+KLAC
+INTC
+QCOM
+
+# Communication services
+T
+VZ
+CMCSA
+WBD
+PARA
+SPOT
+
+# Financials (additional)
+COF
+TFC
+MCO
+ICE
+CME
+CB
+TRV
+AIG
+ALL
+AFL
+MET
+PRU
+
+# Energy / materials (additional)
+HES
+DVN
+FANG
+HAL
+BKR
+OKE
+
+# Healthcare (additional)
+SYK
+ZTS
+HCA
+CI
+HUM
+ELV
+EW
+DXCM
+IDXX
+A
+IQV
+RMD
+MCK
+COR
+
+# Consumer staples (additional)
+HSY
+K
+KHC
+STZ
+SYY
+EL
+
+# Materials (additional)
+PPG
+ECL
+NEM
+FCX
+DD
+DOW
+NUE
+LIN
+APD
+SHW
+
+# Transportation (additional)
+NSC
+CSX
+FDX
+ODFL
+JBHT
+CHRW
+EXPD
+
+# Auto / EV
+RIVN
+LCID
+GM
+
+# Banks (additional)
+USB
+PNC
+
+# Recent IPOs / growth (additional)
+SHOP
+SQ
+HOOD
+
+# Meme listings
+BBBY
+AMC
+
+# Additional consumer / mobility
+UBER
