@@ -1,36 +1,29 @@
 name: Live Quotes (Intraday)
 
-# Goal: 14 runs per trading day at every 30-min mark from 9:30 AM ET → 4:00 PM ET.
-# (9:30, 10:00, 10:30, 11:00, 11:30, 12:00, 12:30, 13:00, 13:30, 14:00, 14:30, 15:00, 15:30, 16:00 ET — 14 total)
+# Strategy: GitHub Actions schedules are queued, not fired-at-time. Observed
+# queue lag for this repo has been 3-6 hours on the first trigger of the day.
+# To compensate, we start the schedule 3 hours earlier than the user's target
+# window. Even if every trigger lags 3 hours, we'll have quotes flowing by
+# the 9:30 AM ET open.
 #
-# GitHub Actions schedules have 15-60 min random queue latency. To compensate, every
-# cron is set 30 MINUTES EARLY so the actual run lands at the desired mark.
-# Example: we want a run at 9:30 AM ET → schedule at 9:00 AM ET → queues 9:00, fires 9:15-9:45.
+# UTC mapping:
+#   EDT 9:30 AM = 13:30 UTC, EST 9:30 AM = 14:30 UTC
+#   EDT 4:00 PM = 20:00 UTC, EST 4:00 PM = 21:00 UTC
 #
-# UTC equivalents (handle both EDT UTC-4 and EST UTC-5):
-#   EDT  9:00 AM = 13:00 UTC   (so 9:30 AM target = trigger at 13:00 UTC)
-#   EDT  4:00 PM = 20:00 UTC   (target 4:00 PM = trigger at 19:30 UTC)
-#   EST  9:00 AM = 14:00 UTC   (so 9:30 AM target = trigger at 14:00 UTC)
-#   EST  4:00 PM = 21:00 UTC   (target 4:00 PM = trigger at 20:30 UTC)
+# We schedule from 07:00 UTC through 21:00 UTC, covering both DST regimes
+# with 3 hours of pre-market warm-up to absorb queue latency.
 #
-# We schedule across BOTH UTC offsets so the workflow lands correctly regardless
-# of whether DST is active. Triggers fire at :00 and :30 every hour from 13:00–21:00 UTC,
-# which gives us 14 runs in EDT (13:00, 13:30, ..., 19:30) and 14 runs in EST
-# (14:00, 14:30, ..., 20:30). Outside the active session window, runs are no-ops
-# (the script is cheap to call; <30s). This is the most reliable pattern given
-# Actions' queueing behavior.
+# CADENCE: Every 20 minutes during market hours = 14 runs per trading day
+# inside the active US session, plus pre-market warmups.
 
 on:
   schedule:
-    # Every :00 and :30 from 13:00 through 21:00 UTC, Mon-Fri.
-    # This range covers BOTH timezones:
-    #   - EDT (UTC-4, summer): 13:00 UTC = 9:00 AM ET → 21:00 UTC = 5:00 PM ET
-    #     Target hits: 9:30, 10:00, ..., 4:00 ET = 14 runs.
-    #   - EST (UTC-5, winter): 13:00 UTC = 8:00 AM ET → 21:00 UTC = 4:00 PM ET
-    #     Target hits: 9:30, 10:00, ..., 4:00 ET = 14 runs (with early warmups).
-    # The extra triggers at the edges absorb GitHub Actions queue latency
-    # (which can be 15-60 min). Each script run is ~30s so extras are cheap.
-    - cron: '0,30 13-21 * * 1-5'
+    # Pre-market warmup: 07:00-13:00 UTC = 3 AM-9 AM ET (EDT) / 2 AM-8 AM ET (EST)
+    # These early runs absorb GitHub Actions queue lag so first real market
+    # refresh lands at or near the 9:30 ET bell.
+    - cron: '0,20,40 7-12 * * 1-5'
+    # Active session: 13:00-21:00 UTC = 9 AM-5 PM ET (EDT)
+    - cron: '0,20,40 13-21 * * 1-5'
   workflow_dispatch:
 
 concurrency:
@@ -56,24 +49,20 @@ jobs:
       - name: Install requirements
         run: pip install -r requirements.txt
 
-      - name: Fetch live quotes
+      - name: Fetch live quotes (master.csv + master.json)
         run: python pipeline/fetch_data.py
 
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/master.csv data/master.json data/.profile_cache.json 2>/dev/null || true
+          git add -A data/
           if git diff --staged --quiet; then
             echo "No quote changes to commit"
           else
             git commit -m "Live quotes $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             for i in 1 2 3; do
-              if git push; then
-                echo "Push succeeded on attempt $i"
-                break
-              fi
-              echo "Push attempt $i failed, rebasing and retrying"
+              if git push; then break; fi
               git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
               sleep 4
             done
