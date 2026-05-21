@@ -46,6 +46,7 @@ COLUMNS = [
     "ipodate", "isetf", "isfund", "isactive", "web_url", "image",
     "currency", "employees", "city", "state", "phone", "address",
     "dividend_yield", "fetched_at", "profile_fetched_at",
+    "asset_class",  # NEW — Equity / Future / FX / Crypto / Index / Mutual Fund / Private / Option
 ]
 
 
@@ -54,6 +55,193 @@ def log(*args):
 
 
 # Reference tickers the signal engine needs quotes for. Auto-merged with tickers.txt.
+def classify_instrument(ticker):
+    """
+    Classify a ticker by its symbol pattern into asset class + sector for the
+    Stock Book. yfinance returns null sector for non-equities, so we infer it
+    from the ticker string itself.
+
+    Returns dict with: asset_class, sector, industry, display_ticker.
+    The display_ticker is what shows in the app UI (e.g. ^GSPC → "S&P 500").
+    """
+    t = (ticker or "").strip().upper()
+
+    # === Futures / Commodities (X=F or X!) ===
+    if t.endswith("=F") or t.endswith("!"):
+        # Detect commodity type from root symbol
+        root = t[:-2] if t.endswith("=F") else t.rstrip("!").rstrip("0123456789")
+        FUTURES_MAP = {
+            # Energy
+            "CL": ("Energy", "Crude Oil WTI"),
+            "BZ": ("Energy", "Crude Oil Brent"),
+            "NG": ("Energy", "Natural Gas"),
+            "RB": ("Energy", "RBOB Gasoline"),
+            "HO": ("Energy", "Heating Oil"),
+            "B0": ("Energy", "Crude Oil Brent (alt)"),
+            # Metals
+            "GC": ("Metals", "Gold"),
+            "SI": ("Metals", "Silver"),
+            "HG": ("Metals", "Copper"),
+            "PL": ("Metals", "Platinum"),
+            "PA": ("Metals", "Palladium"),
+            "MGC": ("Metals", "Micro Gold"),
+            "SIL": ("Metals", "Silver Micro"),
+            # Equity index futures
+            "ES": ("Equity Index Future", "S&P 500"),
+            "NQ": ("Equity Index Future", "Nasdaq 100"),
+            "YM": ("Equity Index Future", "Dow Jones"),
+            "RTY": ("Equity Index Future", "Russell 2000"),
+            "BTC": ("Equity Index Future", "Bitcoin Future"),
+            # Rate futures
+            "ZB": ("Treasury Future", "30Y Bond"),
+            "ZN": ("Treasury Future", "10Y Note"),
+            "ZF": ("Treasury Future", "5Y Note"),
+            "ZT": ("Treasury Future", "2Y Note"),
+            # Grains
+            "ZC": ("Grains", "Corn"),
+            "ZS": ("Grains", "Soybeans"),
+            "ZW": ("Grains", "Wheat"),
+            "ZO": ("Grains", "Oats"),
+            "ZR": ("Grains", "Rough Rice"),
+            "ZM": ("Grains", "Soybean Meal"),
+            "ZL": ("Grains", "Soybean Oil"),
+            "KE": ("Grains", "Hard Red Wheat"),
+            # Softs
+            "CC": ("Softs", "Cocoa"),
+            "KC": ("Softs", "Coffee"),
+            "CT": ("Softs", "Cotton"),
+            "SB": ("Softs", "Sugar"),
+            "OJ": ("Softs", "Orange Juice"),
+            "LBS": ("Softs", "Lumber"),
+            # Livestock
+            "GF": ("Livestock", "Feeder Cattle"),
+            "HE": ("Livestock", "Lean Hogs"),
+            "LE": ("Livestock", "Live Cattle"),
+            # Currency futures
+            "DX": ("Currency Future", "US Dollar Index"),
+        }
+        info = FUTURES_MAP.get(root, ("Futures", root))
+        return {
+            "asset_class": "Future",
+            "sector": "Commodities & Futures",
+            "industry": info[0],
+            "display_name": info[1],
+        }
+
+    # === FX (X=X) ===
+    if t.endswith("=X"):
+        pair = t[:-2]
+        return {
+            "asset_class": "FX",
+            "sector": "Currencies",
+            "industry": "Foreign Exchange",
+            "display_name": pair if len(pair) >= 6 else f"USD/{pair}",
+        }
+
+    # === Crypto (X-USD or X-USDT) ===
+    if t.endswith("-USD") or t.endswith("-USDT"):
+        base = t.split("-")[0]
+        CRYPTO_NAMES = {
+            "BTC": "Bitcoin", "ETH": "Ethereum", "SOL": "Solana",
+            "DOGE": "Dogecoin", "XRP": "XRP", "BNB": "BNB",
+            "USDC": "USD Coin", "USDT": "Tether", "STETH": "Lido Staked Ether",
+        }
+        return {
+            "asset_class": "Crypto",
+            "sector": "Cryptocurrency",
+            "industry": CRYPTO_NAMES.get(base, base),
+            "display_name": CRYPTO_NAMES.get(base, base),
+        }
+
+    # === Index (^XXX, Yahoo foreign-exchange suffixes, special formats) ===
+    # Yahoo uses .SS (Shanghai), .ME (Moscow), .TA (Tel Aviv), .JO (Johannesburg),
+    # etc. for foreign-listed indexes that don't fit the ^XXX pattern.
+    INDEX_SUFFIXES = (".SS", ".HK", ".SZ", ".KS", ".KQ", ".SI", ".AX")
+    if (t.startswith("^")
+        or ".ME" in t
+        or "-STRD" in t
+        or any(t.endswith(s) for s in INDEX_SUFFIXES)
+        or t == "DX-Y.NYB"):
+        INDEX_MAP = {
+            "^GSPC": "S&P 500", "^DJI": "Dow Jones", "^IXIC": "Nasdaq Composite",
+            "^NDX": "Nasdaq 100", "^RUT": "Russell 2000", "^NYA": "NYSE Composite",
+            "^VIX": "VIX", "^VIX9D": "VIX 9-Day", "^MOVE": "MOVE Index",
+            "^TNX": "US 10-Year Yield", "^FVX": "US 5-Year Yield", "^TYX": "US 30-Year Yield",
+            "^FTSE": "FTSE 100", "^GDAXI": "DAX", "^FCHI": "CAC 40",
+            "^STOXX50E": "EURO STOXX 50", "^N100": "Euronext 100", "^BFX": "BEL 20",
+            "^N225": "Nikkei 225", "^HSI": "Hang Seng", "^KS11": "KOSPI",
+            "^TWII": "TAIEX", "^AXJO": "ASX 200", "^BSESN": "BSE Sensex",
+            "^KLSE": "FTSE Bursa Malaysia KLCI", "^JKSE": "Jakarta Composite",
+            "^NZ50": "NZX 50", "^STI": "Straits Times",
+            "^MERV": "S&P MERVAL", "^BVSP": "Bovespa", "^MXX": "IPC Mexico",
+            "^IPSA": "S&P IPSA", "^GSPTSE": "S&P/TSX Composite",
+            "^TA125.TA": "TA-125", "^CASE30": "EGX 30", "^JN0U.JO": "FTSE/JSE Top 40",
+            "^XDE": "USD/EUR Index", "^XDB": "USD/GBP Index", "^XDN": "USD/JPY Index",
+            "^XDA": "USD/AUD Index", "^XAX": "AMEX Composite",
+            "^BUK100P": "Cboe UK 100",
+            "MOEX.ME": "MOEX Russia",
+            "000001.SS": "Shanghai Composite",
+            "DX-Y.NYB": "US Dollar Index (DXY)",
+            "^125904-USD-STRD": "USD-STRD Index",
+        }
+        display = INDEX_MAP.get(t, t.lstrip("^"))
+        return {
+            "asset_class": "Index",
+            "sector": "Indices",
+            "industry": "Stock Index" if not any(k in t for k in ["VIX", "MOVE", "TNX", "FVX", "TYX"]) else "Volatility / Rates",
+            "display_name": display,
+        }
+
+    # === Mutual fund (5-char ticker ending in X) ===
+    if len(t) == 5 and t.endswith("X") and t.isalpha():
+        return {
+            "asset_class": "Mutual Fund",
+            "sector": "Mutual Funds",
+            "industry": "Mutual Fund",
+            "display_name": t,
+        }
+
+    # === Private (X.PVT) ===
+    if t.endswith(".PVT"):
+        base = t[:-4]
+        PVT_NAMES = {
+            "SPAX": "SpaceX", "OPAI": "OpenAI", "ANTH": "Anthropic",
+            "STRI": "Stripe", "DATB": "Databricks",
+        }
+        return {
+            "asset_class": "Private",
+            "sector": "Private Equity",
+            "industry": "Private",
+            "display_name": PVT_NAMES.get(base, base),
+        }
+
+    # === Options (long string with C/P + strike at end) ===
+    # Format: ROOT + YYMMDD + (C|P) + 8-digit strike
+    if len(t) > 12 and any(c.isdigit() for c in t[-6:]):
+        import re
+        # Try to parse option symbol
+        m = re.match(r"^([A-Z]+)(\d{6})([CP])(\d{8})$", t)
+        if m:
+            root, dt, cp, strike_x1000 = m.groups()
+            strike = int(strike_x1000) / 1000
+            exp = f"20{dt[:2]}-{dt[2:4]}-{dt[4:6]}"
+            cp_label = "Call" if cp == "C" else "Put"
+            return {
+                "asset_class": "Option",
+                "sector": "Options",
+                "industry": f"{root} Options",
+                "display_name": f"{root} {exp} {cp_label} ${strike:.0f}",
+            }
+
+    # === Default: equity (let yfinance fill sector) ===
+    return {
+        "asset_class": "Equity",
+        "sector": None,    # yfinance will fill
+        "industry": None,
+        "display_name": None,
+    }
+
+
 REQUIRED_REFERENCE_TICKERS = [
     # US equity / volatility benchmarks
     "SPY", "QQQ", "DIA", "IWM",
@@ -260,6 +448,19 @@ def fetch_quote(ticker, profile_cache):
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "profile_fetched_at": profile_fetched_at,
     }
+
+    # Inject classifier-derived sector/industry/asset_class for non-equity
+    # instruments (futures, FX, crypto, indices, mutual funds, private, options).
+    # yfinance returns null sector for these, so we infer from the ticker pattern.
+    classification = classify_instrument(ticker)
+    row["asset_class"] = classification["asset_class"]
+    if classification["sector"] and not row["sector"]:
+        row["sector"] = classification["sector"]
+    if classification["industry"] and not row["industry"]:
+        row["industry"] = classification["industry"]
+    if classification["display_name"] and not safe(info, "shortName") and not safe(info, "longName"):
+        row["name"] = classification["display_name"]
+
     return row
 
 
