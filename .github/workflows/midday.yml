@@ -1,15 +1,18 @@
 name: Mid-Day Refresh (Macro + Regime)
 
-# Runs at 12:00 PM ET every weekday — picks up morning FRED updates
-# and recomputes regime with mid-day quotes.
-# EDT 12:00 PM = 16:00 UTC, EST 12:00 PM = 17:00 UTC.
-# Use 16:30 UTC (compromise — falls within market hours both seasons).
+# Runs mid-day every weekday. Pushed 1.5 hours earlier vs the previous schedule
+# (18:00 UTC → 16:30 UTC) to compensate for GitHub Actions queue latency.
+# Target: roughly 11 AM ET (EDT) when the cron is dispatched promptly. With
+# typical queue lag the run lands closer to 12:30-1 PM ET, which is what we want.
+#
+# EDT 11:00 AM = 15:00 UTC, EST 11:00 AM = 16:00 UTC.
+# Use 15:30 UTC as compromise — slightly early in winter, slightly early in summer.
 #
 # Skips fetch_history.py (that's nightly only). Re-runs macro + signal stack.
 
 on:
   schedule:
-    - cron: '30 16 * * 1-5'
+    - cron: '30 15 * * 1-5'
   workflow_dispatch:
 
 concurrency:
