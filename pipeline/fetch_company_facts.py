@@ -85,6 +85,8 @@ MANIFEST_FILE = COMPANY_DIR / "_manifest.json"
 # These are derivatives / indexes / ETFs / FX / crypto / futures — no company behind them.
 NON_COMPANY_PATTERNS = (
     "=F", "=X", "-USD", "-USDT",  # futures, FX, crypto
+    "!",                            # TradingView-style continuous futures (CL1!, ES1!, etc.)
+    ".PVT",                         # private/unlisted entities (no public Wikidata)
 )
 NON_COMPANY_PREFIXES = ("^",)  # indexes
 NON_COMPANY_TICKERS = {
@@ -102,7 +104,7 @@ NON_COMPANY_TICKERS = {
 def load_tickers_from_file():
     """
     Load tickers from data/tickers.txt — one ticker per line, comments with #.
-    Filters out derivatives, indexes, ETFs, FX, crypto, futures.
+    Filters out derivatives, indexes, ETFs, FX, crypto, futures, options.
     Returns deduped list of equity tickers.
     """
     if not TICKERS_FILE.exists():
@@ -120,6 +122,9 @@ def load_tickers_from_file():
         if any(t.endswith(suffix) for suffix in NON_COMPANY_PATTERNS):
             continue
         if any(t.startswith(prefix) for prefix in NON_COMPANY_PREFIXES):
+            continue
+        # Option contract strings (e.g. SPY261204C00800000) — too long, contain digits at end
+        if len(t) > 10 and any(c.isdigit() for c in t[-6:]):
             continue
         if t in NON_COMPANY_TICKERS:
             continue
