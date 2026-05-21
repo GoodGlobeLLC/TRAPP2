@@ -4,8 +4,8 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.232,
-    "liquidity": 0.414,
-    "volatility": 0.621,
+    "liquidity": 0.43,
+    "volatility": 0.66,
     "valuation": -0.37,
     "trend": 0.705,
     "breadth": 0.636,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.5055,
-    "risk_on_melt_up": 0.3906,
-    "inflation_shock": 0.0033,
+    "expansion": 0.5004,
+    "risk_on_melt_up": 0.4024,
+    "inflation_shock": 0.0029,
     "recession_fear": 0.0,
-    "risk_off": 0.0005,
-    "neutral": 0.1001
+    "risk_off": 0.0004,
+    "neutral": 0.0938
   },
   "drivers": [
     {
@@ -39,17 +39,17 @@
       "direction": "bullish"
     },
     {
+      "signal": "volatility",
+      "score": 0.66,
+      "confidence": 1.0,
+      "weight": 0.66,
+      "direction": "bullish"
+    },
+    {
       "signal": "breadth",
       "score": 0.636,
       "confidence": 1.0,
       "weight": 0.636,
-      "direction": "bullish"
-    },
-    {
-      "signal": "volatility",
-      "score": 0.621,
-      "confidence": 1.0,
-      "weight": 0.621,
       "direction": "bullish"
     }
   ],
@@ -61,13 +61,13 @@
     },
     "liquidity": {
       "t10y2y": 0.53,
-      "hy_spread": 2.86,
-      "hy_spread_z": -0.82,
+      "hy_spread": 2.8,
+      "hy_spread_z": -0.94,
       "hyg_minus_lqd_1m": 0.01
     },
     "volatility": {
-      "vix_level": 18.06,
-      "vix9d_over_vix": 0.8383
+      "vix_level": 17.44,
+      "vix9d_over_vix": 0.8681
     },
     "valuation": {
       "spy_pe": 27.79,
@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-05-21T08:14:38+00:00",
+  "computed_at": "2026-05-21T15:51:08+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.5455,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 5,
   "transition_warning": "Only 5 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-05-21T08:14:38+00:00"
+  "transitions_computed_at": "2026-05-21T15:51:08+00:00"
 }
