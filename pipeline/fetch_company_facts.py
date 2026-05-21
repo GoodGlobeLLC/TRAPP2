@@ -175,28 +175,46 @@ def log(msg):
     print(f"[company-facts] {msg}", flush=True)
 
 
-def sparql_query(query, retries=2):
-    """Execute a SPARQL query against Wikidata. Returns parsed JSON results or None."""
+def sparql_query(query, retries=4):
+    """Execute a SPARQL query against Wikidata. Returns parsed JSON results or None.
+    
+    Wikidata's public SPARQL endpoint is heavily rate-limited and flaky.
+    We retry with exponential backoff. Empirically: 1 retry is insufficient at
+    sustained scale; 4 retries with backoff catches most transient failures."""
     for attempt in range(retries + 1):
         try:
             r = requests.get(
                 WIKIDATA_SPARQL,
                 params={"query": query, "format": "json"},
                 headers=HEADERS,
-                timeout=30,
+                timeout=45,
             )
             if r.status_code == 429:
-                # Rate limited — back off and retry
-                wait = int(r.headers.get("Retry-After", 5))
-                log(f"  rate-limited, waiting {wait}s")
+                # Rate limited — back off and retry. The Retry-After header is
+                # sometimes missing or unreasonable; use a sane backoff.
+                wait = max(int(r.headers.get("Retry-After", 0)), 5 * (attempt + 1))
+                log(f"  rate-limited, waiting {wait}s (attempt {attempt + 1}/{retries + 1})")
+                time.sleep(wait)
+                continue
+            if r.status_code in (500, 502, 503, 504):
+                # Server-side flake — back off
+                wait = 3 * (attempt + 1)
+                log(f"  server error {r.status_code}, waiting {wait}s")
                 time.sleep(wait)
                 continue
             if r.status_code != 200:
+                log(f"  unexpected status {r.status_code}")
                 return None
             return r.json()
         except requests.RequestException as e:
-            log(f"  SPARQL request failed: {e}")
-            time.sleep(2)
+            wait = 2 * (attempt + 1)
+            log(f"  SPARQL request failed: {e}, waiting {wait}s")
+            time.sleep(wait)
+        except ValueError as e:
+            # JSON decode error — sometimes endpoint returns HTML on errors
+            log(f"  SPARQL JSON decode failed: {e}")
+            return None
+    log(f"  SPARQL exhausted retries")
     return None
 
 
@@ -390,8 +408,10 @@ def main():
         except Exception as e:
             log(f"✗ {ticker:7s} — exception: {type(e).__name__}: {e}")
             manifest["tickers"][ticker] = {"ok": False, "msg": str(e)}
-        # Be courteous to Wikidata — they ask for max 1 query per second
-        time.sleep(1.0)
+        # Be courteous to Wikidata — sustained rate is ~1.5s safe, 1s gets us
+        # 429'd within ~30 tickers. Each ticker actually makes 2 SPARQL calls
+        # (find_qid + fetch_facts) so effective rate is ~1 query / 750ms.
+        time.sleep(1.5)
 
     MANIFEST_FILE.write_text(json.dumps(manifest, indent=2))
     log(f"Done: {success}/{len(tickers)} successful")
