@@ -1,13 +1,18 @@
 name: Nightly Full Refresh
 
-# Runs at 12:00 AM ET daily.
-# EDT 12:00 AM = 04:00 UTC, EST 12:00 AM = 05:00 UTC. Use 04:30 UTC compromise.
+# Pushed 4 hours earlier from 04:30 UTC to 00:30 UTC to compensate for
+# GitHub Actions queue latency. With typical queue lag the actual run lands
+# in the 4-6 AM UTC window, which is still well after US market close.
 #
-# Full pipeline: quotes → 5-year history → FRED macro → regime → Markov.
+# 00:30 UTC = 8:30 PM ET (EDT) / 7:30 PM ET (EST). Runs after close, before
+# any pre-market data appears.
+#
+# Full pipeline: quotes → 5-year history → FRED macro → regime → Markov
+# → ETF holdings → company facts → CEO tracker.
 
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 concurrency:
