@@ -165,42 +165,102 @@ PARSERS = {
 # Fetch loop
 # ---------------------------------------------------------------------------
 def fetch_etf(ticker: str, config: dict) -> tuple[bool, str]:
-    """Returns (ok, message)."""
+    """Returns (ok, message).
+
+    Two strategies:
+      1. Issuer-direct CSV/JSON (most accurate, but iShares often 403s)
+      2. Yahoo Finance ETF holdings (fallback — top 10 only but always works)
+
+    iShares specifically requires Referer + browser-pattern User-Agent or it
+    blocks the response. Strategy 2 catches that case + gives us partial data
+    rather than nothing.
+    """
     url = config["url"]
     parser_name = config["parser"]
     parser = PARSERS.get(parser_name)
     if not parser:
         return False, f"no parser {parser_name}"
 
+    # Browser-pattern headers. iShares and SSGA specifically check Referer.
+    # The User-Agent must look like a real desktop browser or they 403.
+    issuer_referer = "https://www.ishares.com/us/products/" if "ishares" in url else \
+                     "https://www.ssga.com/" if "ssga" in url else \
+                     "https://investor.vanguard.com/" if "vanguard" in url else \
+                     "https://www.invesco.com/"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "Accept": "text/csv,application/csv,text/plain,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Referer": issuer_referer,
+        "Sec-Ch-Ua": '"Chromium";v="124", "Not.A/Brand";v="99", "Google Chrome";v="124"',
+        "Sec-Ch-Ua-Mobile": "?0",
+        "Sec-Ch-Ua-Platform": '"macOS"',
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "same-origin",
+    }
+    # STRATEGY 1: issuer-direct
     try:
-        # iShares blocks the default urllib user agent; impersonate a browser.
-        headers = {
-            "User-Agent": "Mozilla/5.0 (compatible; TRAPP2/1.0; +https://github.com/GoodGlobeLLC/TRAPP2)",
-            "Accept": "text/csv,*/*;q=0.9",
-        }
-        r = requests.get(url, headers=headers, timeout=30)
-        if r.status_code != 200:
-            return False, f"HTTP {r.status_code}"
-        text = r.text
-        if len(text) < 200:
-            return False, "empty response"
-
-        holdings = parser(text)
-        if not holdings:
-            return False, "parser returned no holdings"
-
-        output = {
-            "ticker": ticker,
-            "source": "issuer-direct",
-            "fetchedAt": datetime.utcnow().isoformat() + "Z",
-            "holdingsCount": len(holdings),
-            "holdings": holdings,
-        }
-        out_path = HOLDINGS_DIR / f"{ticker}.json"
-        out_path.write_text(json.dumps(output, indent=2))
-        return True, f"{len(holdings)} holdings"
+        r = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
+        if r.status_code == 200 and len(r.text) >= 200:
+            holdings = parser(r.text)
+            if holdings:
+                output = {
+                    "ticker": ticker,
+                    "source": "issuer-direct",
+                    "fetchedAt": datetime.utcnow().isoformat() + "Z",
+                    "holdingsCount": len(holdings),
+                    "holdings": holdings,
+                }
+                out_path = HOLDINGS_DIR / f"{ticker}.json"
+                out_path.write_text(json.dumps(output, indent=2))
+                return True, f"{len(holdings)} holdings (issuer-direct)"
+        issuer_fail_msg = f"HTTP {r.status_code}" if r.status_code != 200 else f"empty/{len(r.text)}B"
     except Exception as e:
-        return False, f"{type(e).__name__}: {e}"
+        issuer_fail_msg = f"{type(e).__name__}: {e}"
+
+    # STRATEGY 2: Yahoo Finance fallback (top holdings only — partial but useful)
+    try:
+        y_url = f"https://query2.finance.yahoo.com/v10/finance/quoteSummary/{ticker}?modules=topHoldings"
+        y_headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "Accept": "application/json",
+        }
+        r2 = requests.get(y_url, headers=y_headers, timeout=20)
+        if r2.status_code == 200:
+            j = r2.json()
+            top = j.get("quoteSummary", {}).get("result", [{}])[0].get("topHoldings", {})
+            yh_list = top.get("holdings") or []
+            if yh_list:
+                holdings = []
+                for h in yh_list:
+                    sym = h.get("symbol") or ""
+                    name = h.get("holdingName") or sym
+                    pct = h.get("holdingPercent", {}).get("raw") or 0.0
+                    holdings.append({
+                        "ticker": sym,
+                        "name": name,
+                        "weight": float(pct) * 100.0,  # store as percent
+                        "shares": None,
+                        "marketValue": None,
+                    })
+                if holdings:
+                    output = {
+                        "ticker": ticker,
+                        "source": "yahoo-finance-fallback",
+                        "note": "Top holdings only — issuer-direct CSV failed",
+                        "fetchedAt": datetime.utcnow().isoformat() + "Z",
+                        "holdingsCount": len(holdings),
+                        "holdings": holdings,
+                    }
+                    out_path = HOLDINGS_DIR / f"{ticker}.json"
+                    out_path.write_text(json.dumps(output, indent=2))
+                    return True, f"{len(holdings)} holdings (Yahoo fallback after issuer: {issuer_fail_msg})"
+    except Exception as e:
+        return False, f"issuer:{issuer_fail_msg}, yahoo:{type(e).__name__}: {e}"
+
+    return False, f"both strategies failed (issuer: {issuer_fail_msg})"
 
 
 def main() -> int:
