@@ -1,17 +1,12 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "regime": "expansion",
   "confidence": 0.981,
   "scores": {
-<<<<<<< Updated upstream
-    "macro": 0.232,
-    "liquidity": 0.43,
-=======
     "macro": 0.295,
-    "liquidity": 0.414,
->>>>>>> Stashed changes
+    "liquidity": 0.405,
     "volatility": 0.66,
-    "valuation": -0.37,
+    "valuation": -0.363,
     "trend": 0.698,
     "breadth": 0.636,
     "commodity": 0.516,
@@ -28,21 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-<<<<<<< Updated upstream
-    "expansion": 0.5004,
-    "risk_on_melt_up": 0.4024,
-    "inflation_shock": 0.0029,
+    "expansion": 0.5067,
+    "risk_on_melt_up": 0.3987,
+    "inflation_shock": 0.0031,
     "recession_fear": 0.0,
     "risk_off": 0.0004,
-    "neutral": 0.0938
-=======
-    "expansion": 0.505,
-    "risk_on_melt_up": 0.4017,
-    "inflation_shock": 0.003,
-    "recession_fear": 0.0,
-    "risk_off": 0.0004,
-    "neutral": 0.0899
->>>>>>> Stashed changes
+    "neutral": 0.0911
   },
   "drivers": [
     {
@@ -50,13 +36,6 @@
       "score": 0.698,
       "confidence": 1.0,
       "weight": 0.698,
-      "direction": "bullish"
-    },
-    {
-      "signal": "volatility",
-      "score": 0.66,
-      "confidence": 1.0,
-      "weight": 0.66,
       "direction": "bullish"
     },
     {
@@ -81,28 +60,20 @@
       "indpro_yoy": 0.0135
     },
     "liquidity": {
-      "t10y2y": 0.53,
+      "t10y2y": 0.49,
       "hy_spread": 2.8,
       "hy_spread_z": -0.94,
-<<<<<<< Updated upstream
-      "hyg_minus_lqd_1m": 0.01
-    },
-    "volatility": {
-      "vix_level": 17.44,
-      "vix9d_over_vix": 0.8681
-=======
       "hyg_minus_lqd_1m": 0.009
     },
     "volatility": {
       "vix_level": 17.44,
       "vix9d_over_vix": 0.8526
->>>>>>> Stashed changes
     },
     "valuation": {
-      "spy_pe": 27.79,
-      "earnings_yield": 0.036,
-      "real_10y": 0.0072,
-      "fed_model_spread": 0.0288
+      "spy_pe": 27.91,
+      "earnings_yield": 0.0358,
+      "real_10y": 0.0062,
+      "fed_model_spread": 0.0296
     },
     "trend": {
       "spy_price": 739.48,
@@ -129,54 +100,50 @@
       "n_components": 3
     }
   },
-<<<<<<< Updated upstream
-  "computed_at": "2026-05-21T15:51:08+00:00",
-=======
-  "computed_at": "2026-05-21T15:59:57+00:00",
->>>>>>> Stashed changes
+  "computed_at": "2026-05-22T04:24:37+00:00",
   "transitions": {
     "1_step": {
-      "expansion": 0.5455,
-      "risk_on_melt_up": 0.0909,
-      "inflation_shock": 0.0909,
-      "recession_fear": 0.0909,
-      "risk_off": 0.0909,
-      "neutral": 0.0909
+      "expansion": 0.1667,
+      "risk_on_melt_up": 0.1667,
+      "inflation_shock": 0.1667,
+      "recession_fear": 0.1667,
+      "risk_off": 0.1667,
+      "neutral": 0.1667
     },
     "5_step": {
-      "expansion": 0.274,
-      "risk_on_melt_up": 0.1452,
-      "inflation_shock": 0.1452,
-      "recession_fear": 0.1452,
-      "risk_off": 0.1452,
-      "neutral": 0.1452
+      "expansion": 0.1667,
+      "risk_on_melt_up": 0.1667,
+      "inflation_shock": 0.1667,
+      "recession_fear": 0.1667,
+      "risk_off": 0.1667,
+      "neutral": 0.1667
     },
     "20_step": {
-      "expansion": 0.2683,
-      "risk_on_melt_up": 0.1463,
-      "inflation_shock": 0.1463,
-      "recession_fear": 0.1463,
-      "risk_off": 0.1463,
-      "neutral": 0.1463
+      "expansion": 0.1667,
+      "risk_on_melt_up": 0.1667,
+      "inflation_shock": 0.1667,
+      "recession_fear": 0.1667,
+      "risk_off": 0.1667,
+      "neutral": 0.1667
     }
   },
   "stationary": {
-    "expansion": 0.2683,
-    "risk_on_melt_up": 0.1463,
-    "inflation_shock": 0.1463,
-    "recession_fear": 0.1463,
-    "risk_off": 0.1463,
-    "neutral": 0.1463
+    "expansion": 0.1667,
+    "risk_on_melt_up": 0.1667,
+    "inflation_shock": 0.1667,
+    "recession_fear": 0.1667,
+    "risk_off": 0.1667,
+    "neutral": 0.1667
   },
-  "expected_persistence_days": 2.2,
+  "expected_persistence_days": 1.2,
   "transition_matrix": [
     [
-      0.5455,
-      0.0909,
-      0.0909,
-      0.0909,
-      0.0909,
-      0.0909
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
     ],
     [
       0.1667,
@@ -219,11 +186,7 @@
       0.1667
     ]
   ],
-  "transition_observation_count": 5,
-  "transition_warning": "Only 5 transitions observed \u2014 need \u226560 for high confidence",
-<<<<<<< Updated upstream
-  "transitions_computed_at": "2026-05-21T15:51:08+00:00"
-=======
-  "transitions_computed_at": "2026-05-21T15:59:57+00:00"
->>>>>>> Stashed changes
+  "transition_observation_count": 0,
+  "transition_warning": "Only 0 transitions observed \u2014 need \u226560 for high confidence",
+  "transitions_computed_at": "2026-05-22T04:24:37+00:00"
 }
