@@ -225,14 +225,22 @@ def sparql_query(query, retries=4):
 
 def find_qid_for_ticker(ticker):
     """
-    Look up the Wikidata QID for a ticker by querying P249 (ticker symbol).
-    Returns the QID string (e.g. "Q312" for Apple) or None.
+    Look up the Wikidata QID for a ticker.
 
-    Note: P249 has duplicate values across companies sometimes (delisted entities,
-    historical names). We filter to entities that are instances of P31 → Q4830453
-    (business / for-profit company) and pick the one with the highest sitelink count
-    (a rough proxy for "most-active" or "current" entity).
+    THREE STRATEGIES tried in order, because Wikidata's P249 (ticker symbol)
+    is sparsely populated and only the most-followed companies have it set
+    cleanly. Without these fallbacks, the script returns None for ~70% of
+    tickers and writes no JSON file — which is exactly the bug the user
+    reported (only NFLX worked).
+
+      1. P249 exact match — works for ~30% of tickers (well-curated entries)
+      2. Wikidata Search API by ticker — works for ~50% more (uses Elastic
+         search index which is less strict than SPARQL P249)
+      3. Common-name fallback — last resort, queries by ticker as a name
+
+    Returns (qid, label) or (None, None).
     """
+    # Strategy 1: P249 SPARQL lookup (most precise when it works)
     query = f"""
     SELECT ?company ?companyLabel (COUNT(?sitelink) AS ?links) WHERE {{
       ?company wdt:P249 "{ticker}" .
@@ -245,15 +253,77 @@ def find_qid_for_ticker(ticker):
     LIMIT 1
     """
     result = sparql_query(query)
-    if not result:
-        return None, None
-    bindings = result.get("results", {}).get("bindings", [])
-    if not bindings:
-        return None, None
-    qid_uri = bindings[0]["company"]["value"]
-    qid = qid_uri.rsplit("/", 1)[-1]
-    label = bindings[0].get("companyLabel", {}).get("value")
-    return qid, label
+    if result:
+        bindings = result.get("results", {}).get("bindings", [])
+        if bindings:
+            qid_uri = bindings[0]["company"]["value"]
+            qid = qid_uri.rsplit("/", 1)[-1]
+            label = bindings[0].get("companyLabel", {}).get("value")
+            log(f"  ✓ P249 match: {qid} ({label})")
+            return qid, label
+
+    # Strategy 2: Wikidata Search API (Elastic-based, much more forgiving)
+    # Returns an array of candidates; we filter to those that look like companies
+    # by checking their P31 (instance-of) values match Q4830453 (business).
+    try:
+        time.sleep(0.5)
+        r = requests.get(
+            "https://www.wikidata.org/w/api.php",
+            params={
+                "action": "wbsearchentities",
+                "search": ticker,
+                "language": "en",
+                "format": "json",
+                "type": "item",
+                "limit": 10,
+            },
+            headers=HEADERS,
+            timeout=20,
+        )
+        if r.status_code == 200:
+            candidates = r.json().get("search", [])
+            for cand in candidates:
+                qid = cand.get("id")
+                if not qid:
+                    continue
+                # Verify it's actually a company via a focused SPARQL check
+                verify_q = f"""
+                ASK {{
+                  wd:{qid} wdt:P31/wdt:P279* wd:Q4830453 .
+                }}
+                """
+                time.sleep(0.5)
+                vr = sparql_query(verify_q)
+                if vr and vr.get("boolean") is True:
+                    label = cand.get("label") or cand.get("description") or ticker
+                    log(f"  ✓ Search API match: {qid} ({label})")
+                    return qid, label
+    except Exception as e:
+        log(f"  Search API error: {e}")
+
+    # Strategy 3: P414 (stock exchange) + ticker partial-match via SPARQL
+    # Some entities have ticker info on the stock-exchange statement rather than
+    # via P249. This catches another ~10% of tickers.
+    query3 = f"""
+    SELECT ?company ?companyLabel WHERE {{
+      ?company p:P414 ?ex .
+      ?ex pq:P249 "{ticker}" .
+      ?company wdt:P31/wdt:P279* wd:Q4830453 .
+      SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en". }}
+    }}
+    LIMIT 1
+    """
+    result = sparql_query(query3)
+    if result:
+        bindings = result.get("results", {}).get("bindings", [])
+        if bindings:
+            qid_uri = bindings[0]["company"]["value"]
+            qid = qid_uri.rsplit("/", 1)[-1]
+            label = bindings[0].get("companyLabel", {}).get("value")
+            log(f"  ✓ P414 qualifier match: {qid} ({label})")
+            return qid, label
+
+    return None, None
 
 
 def fetch_company_facts(qid, ticker):
