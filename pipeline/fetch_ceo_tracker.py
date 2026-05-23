@@ -221,13 +221,49 @@ def fetch_person_career(person_qid, person_name):
 
 
 def main():
+    # ── CLI args ──
+    # `--start A` and `--end M` filter the company files by their leading letter
+    # (case-insensitive). This lets us split the run across multiple workflows
+    # (e.g. A-M in one job, N-Z in another) without exceeding the 60-minute
+    # GitHub Actions soft-cap. Defaults: no filter (process all).
+    #
+    # Other supported invocations:
+    #   python fetch_ceo_tracker.py --start A --end M
+    #   python fetch_ceo_tracker.py --start N --end Z
+    #   python fetch_ceo_tracker.py             (full run, unchanged behavior)
+    args = sys.argv[1:]
+    start_letter = None
+    end_letter = None
+    i = 0
+    while i < len(args):
+        a = args[i]
+        if a == "--start" and i + 1 < len(args):
+            start_letter = args[i + 1].upper()[:1]
+            i += 2
+        elif a == "--end" and i + 1 < len(args):
+            end_letter = args[i + 1].upper()[:1]
+            i += 2
+        else:
+            log(f"unknown arg {a!r}, ignoring")
+            i += 1
+
     if not COMPANY_DIR.exists():
         log(f"No {COMPANY_DIR} — run fetch_company_facts.py first")
         return 1
 
     company_files = sorted(COMPANY_DIR.glob("*.json"))
     company_files = [f for f in company_files if not f.name.startswith("_")]
-    log(f"Found {len(company_files)} company files")
+    total_files = len(company_files)
+
+    # Apply A-Z range filter
+    if start_letter or end_letter:
+        s = start_letter or "A"
+        e = end_letter or "Z"
+        before = len(company_files)
+        company_files = [f for f in company_files if s <= f.name[0].upper() <= e]
+        log(f"Range filter [{s}-{e}]: {before} → {len(company_files)} files (of {total_files} total)")
+    else:
+        log(f"Found {len(company_files)} company files (no range filter)")
 
     all_people = {}       # qid → person record
     by_ticker = {}        # ticker → [person summaries]
@@ -321,26 +357,56 @@ def main():
         }
         (BY_PERSON_DIR / f"{slug}.json").write_text(json.dumps(out, indent=2))
 
-    # Write master index
+    # Write master index. CRITICAL: when running with --start/--end filters
+    # (e.g. A-M in one job, N-Z in another), we MUST merge with any existing
+    # manifest so the second run doesn't wipe out the first run's entries.
+    # We do this by reading the current manifest (if present) and merging
+    # entries from the previous run that aren't being re-processed in this
+    # range. Then write the combined index back.
+    existing_index_by_qid = {}
+    manifest_path = LEADERSHIP_DIR / "_manifest.json"
+    if manifest_path.exists():
+        try:
+            existing = json.loads(manifest_path.read_text())
+            for entry in existing.get("index", []) or []:
+                if entry.get("qid"):
+                    existing_index_by_qid[entry["qid"]] = entry
+        except Exception as e:
+            log(f"  could not read existing manifest, starting fresh: {e}")
+
+    # New entries from this run
+    new_index_by_qid = {
+        qid: {
+            "qid": qid,
+            "name": career["name"],
+            "slug": slugify(career["name"]),
+            "tickers": person_to_tickers.get(qid, []),
+            "positionsCount": len(career.get("positions", [])),
+            "employersCount": len(career.get("employers", [])),
+        }
+        for qid, career in all_people.items()
+    }
+
+    # Merge: this run's entries WIN (they're freshest). Old entries for people
+    # NOT touched by this run are preserved.
+    merged_index_by_qid = {**existing_index_by_qid, **new_index_by_qid}
+
     manifest = {
         "generatedAt": datetime.utcnow().isoformat() + "Z",
-        "totalPeople": len(all_people),
-        "totalTickers": len(by_ticker),
-        "index": [
-            {
-                "qid": qid,
-                "name": career["name"],
-                "slug": slugify(career["name"]),
-                "tickers": person_to_tickers.get(qid, []),
-                "positionsCount": len(career.get("positions", [])),
-                "employersCount": len(career.get("employers", [])),
-            }
-            for qid, career in all_people.items()
-        ],
+        "totalPeople": len(merged_index_by_qid),
+        "totalTickers": len({t for entry in merged_index_by_qid.values() for t in entry.get("tickers", [])}),
+        "lastRangeFilter": (
+            f"{start_letter or 'A'}-{end_letter or 'Z'}"
+            if (start_letter or end_letter) else "ALL"
+        ),
+        "thisRunPeople": len(all_people),
+        "thisRunTickers": len(by_ticker),
+        "index": list(merged_index_by_qid.values()),
     }
-    (LEADERSHIP_DIR / "_manifest.json").write_text(json.dumps(manifest, indent=2))
+    manifest_path.write_text(json.dumps(manifest, indent=2))
 
-    log(f"Done: {len(all_people)} unique people across {len(by_ticker)} tickers")
+    log(f"Done: this run = {len(all_people)} people across {len(by_ticker)} tickers; "
+        f"manifest total = {len(merged_index_by_qid)} unique people")
     return 0
 
 
