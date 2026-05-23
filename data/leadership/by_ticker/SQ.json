@@ -1,0 +1,59 @@
+{
+  "ticker": "SQ",
+  "fetchedAt": "2026-05-23T04:26:40.523072Z",
+  "people": [
+    {
+      "qid": "Q5577535",
+      "name": "Goh Choon Phong",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5577535",
+        "name": "Goh Choon Phong",
+        "dateOfBirth": "1966-04-16",
+        "birthPlace": "Singapore",
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-04-02",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q126519099",
+      "name": "Peter Seah Lim Huat",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q126519099",
+        "name": "Peter Seah Lim Huat",
+        "dateOfBirth": "1947-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

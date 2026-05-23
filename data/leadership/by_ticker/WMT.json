@@ -1,0 +1,390 @@
+{
+  "ticker": "WMT",
+  "fetchedAt": "2026-05-23T04:26:40.531517Z",
+  "people": [
+    {
+      "qid": "Q16196595",
+      "name": "Doug McMillon",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q16196595",
+        "name": "Doug McMillon",
+        "dateOfBirth": "1966-10-17",
+        "birthPlace": "Jonesboro",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
+        "occupations": [
+          "chief executive officer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Sam M. Walton College of Business",
+          "Bentonville High School",
+          "University of Tulsa"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q20177269",
+      "name": "Greg Penner",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q20177269",
+        "name": "Greg Penner",
+        "dateOfBirth": "1970-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chairperson"
+        ],
+        "education": [
+          "Georgetown University",
+          "Stanford University",
+          "San Marino High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q736477",
+      "name": "S. Robson Walton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q736477",
+        "name": "S. Robson Walton",
+        "dateOfBirth": "1944-10-27",
+        "birthPlace": "Tulsa",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
+        "occupations": [
+          "businessperson",
+          "lawyer"
+        ],
+        "education": [
+          "Columbia Law School",
+          "University of Arkansas"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q14086",
+      "name": "Marissa Mayer",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q14086",
+        "name": "Marissa Mayer",
+        "dateOfBirth": "1975-05-30",
+        "birthPlace": "Wausau",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
+        "occupations": [
+          "business executive",
+          "computer scientist",
+          "engineer"
+        ],
+        "education": [
+          "Stanford University",
+          "Wausau West High School"
+        ],
+        "employers": [
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
+          },
+          {
+            "company": "Yahoo",
+            "start": "2012-07-16",
+            "end": "2017-06-01"
+          },
+          {
+            "company": "Google",
+            "start": "1999-01-01",
+            "end": "2012-07-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-07-16",
+            "end": "2017-06-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q20177269",
+      "name": "Greg Penner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q20177269",
+        "name": "Greg Penner",
+        "dateOfBirth": "1970-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chairperson"
+        ],
+        "education": [
+          "Georgetown University",
+          "Stanford University",
+          "San Marino High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16196595",
+      "name": "Doug McMillon",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16196595",
+        "name": "Doug McMillon",
+        "dateOfBirth": "1966-10-17",
+        "birthPlace": "Jonesboro",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
+        "occupations": [
+          "chief executive officer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Sam M. Walton College of Business",
+          "Bentonville High School",
+          "University of Tulsa"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7794754",
+      "name": "Thomas Horton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7794754",
+        "name": "Thomas Horton",
+        "dateOfBirth": "1961-05-24",
+        "birthPlace": "Hampton",
+        "image": null,
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Cox School of Business",
+          "Southern Methodist University",
+          "Baylor University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7615193",
+      "name": "Steven Reinemund",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7615193",
+        "name": "Steven Reinemund",
+        "dateOfBirth": "1948-04-06",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Reinemund%2003232018-N-ID678-012%20%2826201738847%29.jpg",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy",
+          "University of Virginia",
+          "Miami Coral Park High School",
+          "University of Virginia Darden School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Wake Forest University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5065434",
+      "name": "Cesar Conde",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5065434",
+        "name": "Cesar Conde",
+        "dateOfBirth": "1973-12-08",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
+        "occupations": [],
+        "education": [
+          "The Wharton School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "NBCUniversal",
+            "start": "2013-10-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q979750",
+      "name": "Randall L. Stephenson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q979750",
+        "name": "Randall L. Stephenson",
+        "dateOfBirth": "1960-04-22",
+        "birthPlace": "Oklahoma City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Randall%20Stephenson%2C%20CEO%20of%20AT%26T.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of Central Oklahoma",
+          "University of Oklahoma"
+        ],
+        "employers": [
+          {
+            "company": "AT&T",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q108001876",
+      "name": "Carla A. Harris",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q108001876",
+        "name": "Carla A. Harris",
+        "dateOfBirth": "1962-10-28",
+        "birthPlace": "Port Arthur",
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Harvard Business School",
+          "Harvard College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q107434318",
+      "name": "Sarah Friar",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q107434318",
+        "name": "Sarah Friar",
+        "dateOfBirth": "1972-12-24",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarah%20Friar%20MoneyConf%202018.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "St Anne's College",
+          "Stanford University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q93592590",
+      "name": "Timothy P. Flynn",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q93592590",
+        "name": "Timothy P. Flynn",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chairperson"
+        ],
+        "education": [
+          "University of St. Thomas"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-01-17",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-05-15",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q24524594",
+      "name": "Steuart Walton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q24524594",
+        "name": "Steuart Walton",
+        "dateOfBirth": "1982-01-01",
+        "birthPlace": "Bentonville",
+        "image": null,
+        "occupations": [
+          "lawyer",
+          "businessperson"
+        ],
+        "education": [
+          "Georgetown University Law Center",
+          "University of Colorado Boulder"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

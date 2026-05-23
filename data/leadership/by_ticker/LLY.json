@@ -1,0 +1,654 @@
+{
+  "ticker": "LLY",
+  "fetchedAt": "2026-05-23T04:26:40.506399Z",
+  "people": [
+    {
+      "qid": "Q118706826",
+      "name": "David A. Ricks",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q118706826",
+        "name": "David A. Ricks",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20A.%20Ricks%202025.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Indiana University",
+          "Purdue University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-04-12",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2017-06-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16144345",
+      "name": "Sidney Taurel",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q16144345",
+        "name": "Sidney Taurel",
+        "dateOfBirth": "1949-02-09",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "HEC Paris",
+          "Columbia Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6224507",
+      "name": "John C. Lechleiter",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6224507",
+        "name": "John C. Lechleiter",
+        "dateOfBirth": "1952-08-17",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Xavier University",
+          "Harvard University",
+          "St. Xavier High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1630242",
+      "name": "Randall L. Tobias",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1630242",
+        "name": "Randall L. Tobias",
+        "dateOfBirth": "1942-03-20",
+        "birthPlace": "Remington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20randall%20l.jpg",
+        "occupations": [
+          "diplomat"
+        ],
+        "education": [
+          "Indiana University Kelley School of Business",
+          "Duke University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "ambassador",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125024926",
+      "name": "Karen Walker",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125024926",
+        "name": "Karen Walker",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "marketer"
+        ],
+        "education": [
+          "Loughborough University"
+        ],
+        "employers": [
+          {
+            "company": "Cisco",
+            "start": "2009-09-01",
+            "end": "2019-07-01"
+          },
+          {
+            "company": "Intel",
+            "start": "2019-09-01",
+            "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-12-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125024606",
+      "name": "Gabrielle Sulzberger",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125024606",
+        "name": "Gabrielle Sulzberger",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard Law School",
+          "Harvard Business School",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Teneo",
+            "start": "2021-12-16",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-12-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-01-25",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125024298",
+      "name": "Kimberly H. Johnson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125024298",
+        "name": "Kimberly H. Johnson",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "T. Rowe Price",
+            "start": "2002-04-29",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-02-16",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125023760",
+      "name": "Mary Lynne Hedley",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125023760",
+        "name": "Mary Lynne Hedley",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "immunologist"
+        ],
+        "education": [
+          "University of Texas Southwestern Medical Center",
+          "Purdue University"
+        ],
+        "employers": [
+          {
+            "company": "Broad Institute",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-05-15",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q118706826",
+      "name": "David A. Ricks",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q118706826",
+        "name": "David A. Ricks",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20A.%20Ricks%202025.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Indiana University",
+          "Purdue University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-04-12",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2017-06-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q105798427",
+      "name": "Marschall Stevens Runge",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q105798427",
+        "name": "Marschall Stevens Runge",
+        "dateOfBirth": "1954-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "physician",
+          "university teacher",
+          "cardiologist"
+        ],
+        "education": [
+          "Johns Hopkins School of Medicine",
+          "Vanderbilt University"
+        ],
+        "employers": [
+          {
+            "company": "University of Michigan",
+            "start": "2015-03-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "dean",
+            "company": null,
+            "start": "2016-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-03-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-09-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q100816295",
+      "name": "Jamere Jackson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q100816295",
+        "name": "Jamere Jackson",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "basketball player",
+          "businessperson",
+          "accountant"
+        ],
+        "education": [
+          "University of Notre Dame"
+        ],
+        "employers": [
+          {
+            "company": "AutoZone",
+            "start": "2021-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-10-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q61471321",
+      "name": "Erik Fyrwald",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q61471321",
+        "name": "Erik Fyrwald",
+        "dateOfBirth": "1959-07-29",
+        "birthPlace": "West Virginia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Fyrwald%2C%20Syngenta.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Syngenta Group",
+            "start": "2016-06-01",
+            "end": "2023-12-31"
+          },
+          {
+            "company": "International Flavors & Fragrances",
+            "start": "2024-02-06",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2016-06-01",
+            "end": "2023-12-31"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2005-11-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-02-06",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q50825788",
+      "name": "Juan R. Luciano",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q50825788",
+        "name": "Juan R. Luciano",
+        "dateOfBirth": "1965-01-01",
+        "birthPlace": "Argentina",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Archer Daniels Midland",
+            "start": "2011-04-12",
+            "end": null
+          },
+          {
+            "company": "Dow Chemical Company",
+            "start": "1985-01-01",
+            "end": "2011-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2011-04-12",
+            "end": "2014-12-31"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-02-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7287163",
+      "name": "Ralph Alvarez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7287163",
+        "name": "Ralph Alvarez",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": "Cuba",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Miami School of Business Administration",
+          "University of Miami"
+        ],
+        "employers": [
+          {
+            "company": "McDonald's",
+            "start": "1994-01-01",
+            "end": "2009-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2009-04-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2006-08-01",
+            "end": "2009-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6376297",
+      "name": "Katherine Baicker",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6376297",
+        "name": "Katherine Baicker",
+        "dateOfBirth": "1971-05-23",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "economist",
+          "health economist",
+          "crossword creator"
+        ],
+        "education": [
+          "Yale University",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "National Bureau of Economic Research",
+            "start": "2001-01-01",
+            "end": null
+          },
+          {
+            "company": "University of California, Los Angeles",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
+            "company": "Council of Economic Advisers",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
+            "company": "University of Chicago",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Dartmouth College",
+            "start": "1998-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Harvard University",
+            "start": "2007-01-01",
+            "end": "2017-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2011-12-12",
+            "end": null
+          },
+          {
+            "title": "provost",
+            "company": null,
+            "start": "2023-03-20",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1603351",
+      "name": "William G. Kaelin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1603351",
+        "name": "William G. Kaelin",
+        "dateOfBirth": "1957-11-23",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
+        "occupations": [
+          "researcher",
+          "university teacher",
+          "oncologist"
+        ],
+        "education": [
+          "Duke University"
+        ],
+        "employers": [
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": "1998-01-01",
+            "end": null
+          },
+          {
+            "company": "Dana\u2013Farber Cancer Institute",
+            "start": "2002-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-06-04",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

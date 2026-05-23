@@ -1,0 +1,58 @@
+{
+  "ticker": "ASML",
+  "fetchedAt": "2026-05-23T04:26:40.482415Z",
+  "people": [
+    {
+      "qid": "Q138786664",
+      "name": "Christophe Fouquet",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q138786664",
+        "name": "Christophe Fouquet",
+        "dateOfBirth": "1973-01-01",
+        "birthPlace": "Orange",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula%20von%20der%20Leyen%20%26%20Christophe%20Fouquet%20-%202025.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "Grenoble Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "ASML Holding",
+            "start": "2008-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q96654591",
+      "name": "Peter Wennink",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q96654591",
+        "name": "Peter Wennink",
+        "dateOfBirth": "http://www",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "ASML Holding",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

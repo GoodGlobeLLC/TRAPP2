@@ -1,0 +1,49 @@
+{
+  "ticker": "NET",
+  "fetchedAt": "2026-05-23T04:26:40.512469Z",
+  "people": [
+    {
+      "qid": "Q19661212",
+      "name": "Ted Sarandos",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19661212",
+        "name": "Ted Sarandos",
+        "dateOfBirth": "1964-07-30",
+        "birthPlace": "Phoenix",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Sarandos%202024.jpg",
+        "occupations": [
+          "film producer",
+          "businessperson",
+          "chief content officer"
+        ],
+        "education": [
+          "Glendale Community College",
+          "Alhambra High School"
+        ],
+        "employers": [
+          {
+            "company": "Netflix",
+            "start": "1999-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-07-13",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-07-13",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

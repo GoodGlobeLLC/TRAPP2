@@ -1,0 +1,104 @@
+{
+  "ticker": "BLK",
+  "fetchedAt": "2026-05-23T04:26:40.485005Z",
+  "people": [
+    {
+      "qid": "Q3218882",
+      "name": "Larry Fink",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3218882",
+        "name": "Larry Fink",
+        "dateOfBirth": "1952-11-02",
+        "birthPlace": "Van Nuys",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
+        "occupations": [
+          "politician",
+          "economist",
+          "manager",
+          "financier"
+        ],
+        "education": [
+          "University of California, Los Angeles",
+          "UCLA Anderson School of Management"
+        ],
+        "employers": [
+          {
+            "company": "BlackRock",
+            "start": "1988-01-01",
+            "end": null
+          },
+          {
+            "company": "First Boston",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2025-08-15",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1988-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3218882",
+      "name": "Larry Fink",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q3218882",
+        "name": "Larry Fink",
+        "dateOfBirth": "1952-11-02",
+        "birthPlace": "Van Nuys",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
+        "occupations": [
+          "politician",
+          "economist",
+          "manager",
+          "financier"
+        ],
+        "education": [
+          "University of California, Los Angeles",
+          "UCLA Anderson School of Management"
+        ],
+        "employers": [
+          {
+            "company": "BlackRock",
+            "start": "1988-01-01",
+            "end": null
+          },
+          {
+            "company": "First Boston",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2025-08-15",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1988-01-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

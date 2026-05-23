@@ -1,0 +1,129 @@
+{
+  "ticker": "SYK",
+  "fetchedAt": "2026-05-23T04:26:40.523563Z",
+  "people": [
+    {
+      "qid": "Q127056147",
+      "name": "John W. Brown",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q127056147",
+        "name": "John W. Brown",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q127055312",
+      "name": "Lloyd Lee Stryker",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q127055312",
+        "name": "Lloyd Lee Stryker",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19843254",
+      "name": "Kevin A. Lobo",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19843254",
+        "name": "Kevin A. Lobo",
+        "dateOfBirth": null,
+        "birthPlace": "Montreal",
+        "image": null,
+        "occupations": [],
+        "education": [
+          "McGill University",
+          "University of Toronto"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7610176",
+      "name": "Stephen P. MacMillan",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7610176",
+        "name": "Stephen P. MacMillan",
+        "dateOfBirth": null,
+        "birthPlace": "New Jersey",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen%20P.%20MacMillan%20%28born%201964%29%20at%20World%20Economic%20Forum%20Annual%20Meeting%202025.png",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Davidson College",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5890234",
+      "name": "Homer Stryker",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5890234",
+        "name": "Homer Stryker",
+        "dateOfBirth": "1894-11-04",
+        "birthPlace": "Wakeshma Township",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20Stryker%20as%20child.jpg",
+        "occupations": [
+          "physician"
+        ],
+        "education": [
+          "University of Michigan",
+          "University of Michigan Medical School",
+          "Western Michigan University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5890234",
+      "name": "Homer Stryker",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q5890234",
+        "name": "Homer Stryker",
+        "dateOfBirth": "1894-11-04",
+        "birthPlace": "Wakeshma Township",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Homer%20Stryker%20as%20child.jpg",
+        "occupations": [
+          "physician"
+        ],
+        "education": [
+          "University of Michigan",
+          "University of Michigan Medical School",
+          "Western Michigan University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

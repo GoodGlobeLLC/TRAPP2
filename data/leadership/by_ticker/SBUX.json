@@ -1,0 +1,52 @@
+{
+  "ticker": "SBUX",
+  "fetchedAt": "2026-05-23T04:26:40.521184Z",
+  "people": [
+    {
+      "qid": "Q117249140",
+      "name": "Brian Niccol",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q117249140",
+        "name": "Brian Niccol",
+        "dateOfBirth": "1974-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Niccol.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q766557",
+      "name": "Zev Siegl",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q766557",
+        "name": "Zev Siegl",
+        "dateOfBirth": "1942-12-28",
+        "birthPlace": "Alameda",
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "University of San Francisco"
+        ],
+        "employers": [
+          {
+            "company": "Starbucks",
+            "start": null,
+            "end": "1980-01-01"
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

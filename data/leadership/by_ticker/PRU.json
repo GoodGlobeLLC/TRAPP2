@@ -1,0 +1,66 @@
+{
+  "ticker": "PRU",
+  "fetchedAt": "2026-05-23T04:26:40.518940Z",
+  "people": [
+    {
+      "qid": "Q20687564",
+      "name": "Mike Wells",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q20687564",
+        "name": "Mike Wells",
+        "dateOfBirth": "1960-04-09",
+        "birthPlace": "Canada",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "bachelor's degree",
+          "San Diego State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1793381",
+      "name": "Shriti Vadera, Baroness Vadera",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1793381",
+        "name": "Shriti Vadera, Baroness Vadera",
+        "dateOfBirth": "1962-06-23",
+        "birthPlace": "Uganda",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shriti%20Vadera%2C%20Baroness%20Vadera.jpg",
+        "occupations": [
+          "merchant banker",
+          "banker",
+          "economist",
+          "politician"
+        ],
+        "education": [
+          "Northwood College",
+          "Somerville College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": "2007-07-11",
+            "end": null
+          },
+          {
+            "title": "Parliamentary Under-Secretary of State for International Development",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

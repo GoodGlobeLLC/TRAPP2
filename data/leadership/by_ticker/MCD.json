@@ -1,0 +1,98 @@
+{
+  "ticker": "MCD",
+  "fetchedAt": "2026-05-23T04:26:40.508577Z",
+  "people": [
+    {
+      "qid": "Q73426541",
+      "name": "Chris Kempczinski",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q73426541",
+        "name": "Chris Kempczinski",
+        "dateOfBirth": "1968-09-26",
+        "birthPlace": "Cincinnati",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Kempczinski%2C%20McDonald%E2%80%99s%20President%20and%20CEO.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Indian Hill High School",
+          "Harvard Business School"
+        ],
+        "employers": [
+          {
+            "company": "McDonald's",
+            "start": "2015-01-01",
+            "end": null
+          },
+          {
+            "company": "Kraft Foods Inc.",
+            "start": "2008-01-01",
+            "end": "2012-01-01"
+          },
+          {
+            "company": "Kraft Foods Group",
+            "start": "2012-01-01",
+            "end": "2015-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2019-11-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-10-12",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q319648",
+      "name": "Ray Kroc",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q319648",
+        "name": "Ray Kroc",
+        "dateOfBirth": "1902-10-05",
+        "birthPlace": "Oak Park",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
+        "occupations": [
+          "businessperson",
+          "writer",
+          "restaurateur",
+          "salesperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "Oak Park and River Forest High School"
+        ],
+        "employers": [
+          {
+            "company": "Lily-Tulip Cup Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Prince Castle",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McDonald's",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

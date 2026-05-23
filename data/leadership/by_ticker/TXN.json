@@ -1,0 +1,34 @@
+{
+  "ticker": "TXN",
+  "fetchedAt": "2026-05-23T04:26:40.527248Z",
+  "people": [
+    {
+      "qid": "Q7323455",
+      "name": "Rich Templeton",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7323455",
+        "name": "Rich Templeton",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rich%20Templeton%20%2851134333225%29%20%28cropped%29.jpg",
+        "occupations": [
+          "engineer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Union College"
+        ],
+        "employers": [
+          {
+            "company": "Texas Instruments",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

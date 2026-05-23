@@ -1,0 +1,59 @@
+{
+  "ticker": "USBC",
+  "fetchedAt": "2026-05-23T04:26:40.528890Z",
+  "people": [
+    {
+      "qid": "Q97012105",
+      "name": "Chris V. Wright",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q97012105",
+        "name": "Chris V. Wright",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "technician"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Moixa",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7518569",
+      "name": "Simon Daniel",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q7518569",
+        "name": "Simon Daniel",
+        "dateOfBirth": "1971-03-10",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "inventor",
+          "engineer"
+        ],
+        "education": [
+          "Christ's College"
+        ],
+        "employers": [
+          {
+            "company": "Moixa",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

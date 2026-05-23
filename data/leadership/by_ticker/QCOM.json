@@ -1,0 +1,78 @@
+{
+  "ticker": "QCOM",
+  "fetchedAt": "2026-05-23T04:26:40.519848Z",
+  "people": [
+    {
+      "qid": "Q110471964",
+      "name": "Cristiano Amon",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q110471964",
+        "name": "Cristiano Amon",
+        "dateOfBirth": "1972-11-24",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
+        "occupations": [
+          "businessperson",
+          "electronic engineer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Qualcomm",
+            "start": "1995-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2023-10-25",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-06-30",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2021-06-30",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4805143",
+      "name": "Paul E. Jacobs",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q4805143",
+        "name": "Paul E. Jacobs",
+        "dateOfBirth": "1962-10-30",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20E.%20Jacobs%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
+        "occupations": [
+          "athlete"
+        ],
+        "education": [
+          "University of California, Berkeley"
+        ],
+        "employers": [
+          {
+            "company": "Qualcomm",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

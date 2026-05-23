@@ -1,0 +1,65 @@
+{
+  "ticker": "PARA",
+  "fetchedAt": "2026-05-23T04:26:40.516163Z",
+  "people": [
+    {
+      "qid": "Q6195201",
+      "name": "Jim Gianopulos",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6195201",
+        "name": "Jim Gianopulos",
+        "dateOfBirth": "1951-01-01",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Gianopulos%20at%20Universal%20Studios%20In%20Burbank%2C%20Callifornia%20in%202016%20%28cropped%29.jpg",
+        "occupations": [
+          "general manager"
+        ],
+        "education": [
+          "Fordham University School of Law",
+          "New York University School of Law",
+          "Boston University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q361208",
+      "name": "Adolph Zukor",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q361208",
+        "name": "Adolph Zukor",
+        "dateOfBirth": "1873-01-07",
+        "birthPlace": "Ricse",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Zukor%201921.jpg",
+        "occupations": [
+          "film producer",
+          "film director"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Paramount Pictures",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Famous Players-Lasky Corporation",
+            "start": "1916-01-01",
+            "end": null
+          },
+          {
+            "company": "Famous Players Film Company",
+            "start": "1912-01-01",
+            "end": "1916-01-01"
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

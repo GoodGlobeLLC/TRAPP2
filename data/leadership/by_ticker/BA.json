@@ -1,0 +1,406 @@
+{
+  "ticker": "BA",
+  "fetchedAt": "2026-05-23T04:26:40.483585Z",
+  "people": [
+    {
+      "qid": "Q109767256",
+      "name": "Kelly Ortberg",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q109767256",
+        "name": "Kelly Ortberg",
+        "dateOfBirth": "1960-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
+        "occupations": [
+          "board member",
+          "businessperson"
+        ],
+        "education": [
+          "University of Iowa"
+        ],
+        "employers": [
+          {
+            "company": "Boeing",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Rockwell Collins",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-08-08",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114559065",
+      "name": "Dave Gitlin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114559065",
+        "name": "Dave Gitlin",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Cornell University",
+          "University of Connecticut School of Law",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109772673",
+      "name": "David Joyce",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109772673",
+        "name": "David Joyce",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "board member"
+        ],
+        "education": [
+          "Xavier University",
+          "Michigan State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109771521",
+      "name": "Lynne Doughtie",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109771521",
+        "name": "Lynne Doughtie",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "board member"
+        ],
+        "education": [
+          "Virginia Tech"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109579686",
+      "name": "Akhil Johri",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109579686",
+        "name": "Akhil Johri",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Indian Institute of Management Ahmedabad"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q30015214",
+      "name": "Stayce Harris",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q30015214",
+        "name": "Stayce Harris",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": "Los Angeles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lt.%20Gen.%20Stayce%20D.%20Harris.jpg",
+        "occupations": [
+          "military personnel"
+        ],
+        "education": [
+          "University of Southern California"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q18634617",
+      "name": "Steve Mollenkopf",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q18634617",
+        "name": "Steve Mollenkopf",
+        "dateOfBirth": "1968-01-01",
+        "birthPlace": "United States",
+        "image": null,
+        "occupations": [
+          "engineer"
+        ],
+        "education": [
+          "University of Michigan",
+          "Virginia Tech"
+        ],
+        "employers": [
+          {
+            "company": "Qualcomm",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q17180532",
+      "name": "Robert A. Bradway",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q17180532",
+        "name": "Robert A. Bradway",
+        "dateOfBirth": "1963-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20A.%20Bradway.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Amherst College",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Amgen",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16866325",
+      "name": "Lynn Good",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16866325",
+        "name": "Lynn Good",
+        "dateOfBirth": "1953-01-01",
+        "birthPlace": "Ohio",
+        "image": null,
+        "occupations": [
+          "entrepreneur",
+          "merchant",
+          "businessperson"
+        ],
+        "education": [
+          "Miami University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16727786",
+      "name": "Dave Calhoun",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16727786",
+        "name": "Dave Calhoun",
+        "dateOfBirth": "1957-04-18",
+        "birthPlace": "Philadelphia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Calhoun%20%28cropped%29.png",
+        "occupations": [
+          "business executive",
+          "manager"
+        ],
+        "education": [
+          "Parkland High School",
+          "Virginia Tech"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-01-01",
+            "end": "2024-08-07"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7364540",
+      "name": "Ron Williams",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7364540",
+        "name": "Ron Williams",
+        "dateOfBirth": "1949-09-30",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20A.%20Williams%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010%20crop.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Weir High School",
+          "Sloan Fellows Program",
+          "Roosevelt University",
+          "MIT Sloan School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Aetna",
+            "start": "2001-03-15",
+            "end": "2011-04-08"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2011-06-14",
+            "end": "2022-04-28"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2002-09-27",
+            "end": "2011-04-08"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-02-14",
+            "end": "2010-11-29"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6490609",
+      "name": "Larry Kellner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6490609",
+        "name": "Larry Kellner",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": "Sumter",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Kellner.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of South Carolina"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2023-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2997321",
+      "name": "John M. Richardson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2997321",
+        "name": "John M. Richardson",
+        "dateOfBirth": "1960-04-08",
+        "birthPlace": "Petersburg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20John%20M.%20Richardson%20%28CNO%29%20150917-N-AT895-703%20%2826207156950%29.jpg",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy",
+          "National War College",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Chief of Naval Operations",
+            "company": null,
+            "start": "2015-09-18",
+            "end": "2019-08-22"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1286705",
+      "name": "Edmund Giambastiani",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1286705",
+        "name": "Edmund Giambastiani",
+        "dateOfBirth": "1948-05-04",
+        "birthPlace": "Canastota",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
+        "occupations": [
+          "submariner",
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Supreme Allied Commander Transformation",
+            "company": null,
+            "start": "2003-06-19",
+            "end": "2005-06-19"
+          },
+          {
+            "title": "Vice Chairman of the Joint Chiefs of Staff",
+            "company": null,
+            "start": "2005-08-12",
+            "end": "2007-07-27"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "ticker": "PM",
+  "fetchedAt": "2026-05-23T04:26:40.518331Z",
+  "people": [
+    {
+      "qid": "Q106755529",
+      "name": "Jacek Olczak",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q106755529",
+        "name": "Jacek Olczak",
+        "dateOfBirth": "1965-01-01",
+        "birthPlace": "\u0141\u00f3d\u017a",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NYCW%202025%20-%20Jacek%20Olczak%2002%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "author",
+          "economist"
+        ],
+        "education": [
+          "University of \u0141\u00f3d\u017a"
+        ],
+        "employers": [
+          {
+            "company": "Philip Morris International",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q56703648",
+      "name": "Hamish Maxwell",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q56703648",
+        "name": "Hamish Maxwell",
+        "dateOfBirth": "1926-08-24",
+        "birthPlace": "Liverpool",
+        "image": null,
+        "occupations": [
+          "patron of the arts",
+          "businessperson"
+        ],
+        "education": [
+          "University of Cambridge"
+        ],
+        "employers": [
+          {
+            "company": "Philip Morris International",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "director",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5546136",
+      "name": "George Weissman",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5546136",
+        "name": "George Weissman",
+        "dateOfBirth": "1919-07-12",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "patron of the arts",
+          "art collector",
+          "businessperson",
+          "military officer",
+          "merchant"
+        ],
+        "education": [
+          "Zicklin School of Business",
+          "Townsend Harris High School",
+          "Baruch College"
+        ],
+        "employers": [
+          {
+            "company": "Philip Morris International",
+            "start": "1952-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1960-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q29414099",
+      "name": "Bonin Bough",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q29414099",
+        "name": "Bonin Bough",
+        "dateOfBirth": "1977-12-27",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonin%20Bough%202015.jpg",
+        "occupations": [
+          "television presenter",
+          "writer",
+          "marketing executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q18352285",
+      "name": "Andr\u00e9 Calantzopoulos",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q18352285",
+        "name": "Andr\u00e9 Calantzopoulos",
+        "dateOfBirth": "1957-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q15645944",
+      "name": "Kalpana Morparia",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q15645944",
+        "name": "Kalpana Morparia",
+        "dateOfBirth": "1949-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "banker"
+        ],
+        "education": [
+          "Sophia College for Women"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7983392",
+      "name": "Werner Geissler",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7983392",
+        "name": "Werner Geissler",
+        "dateOfBirth": "1953-04-25",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Cologne"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7348946",
+      "name": "Robert Polet",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7348946",
+        "name": "Robert Polet",
+        "dateOfBirth": "1955-07-25",
+        "birthPlace": "Kuala Lumpur",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Charles H. Lundquist College of Business",
+          "Nyenrode Business University",
+          "University of Oregon"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7062170",
+      "name": "Shlomo Yanai",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7062170",
+        "name": "Shlomo Yanai",
+        "dateOfBirth": "1952-05-18",
+        "birthPlace": "Holon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shlomo%20yanai.jpg",
+        "occupations": [
+          "chief executive officer",
+          "military officer"
+        ],
+        "education": [
+          "Tel Aviv University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6558100",
+      "name": "Lisa Hook",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6558100",
+        "name": "Lisa Hook",
+        "dateOfBirth": "1958-02-28",
+        "birthPlace": "Pittsburgh",
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "Penn State Law",
+          "Duke University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6300102",
+      "name": "Juan Jos\u00e9 Daboub",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6300102",
+        "name": "Juan Jos\u00e9 Daboub",
+        "dateOfBirth": "1963-07-04",
+        "birthPlace": "San Salvador",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daboub%2C%20Juan%20Jos%C3%A9%20%28IMF%20portrait%2C%202008%29.jpg",
+        "occupations": [
+          "politician",
+          "businessperson"
+        ],
+        "education": [
+          "North Carolina State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q3309313",
+      "name": "Michel Combes",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3309313",
+        "name": "Michel Combes",
+        "dateOfBirth": "1962-03-29",
+        "birthPlace": "Boulogne-Billancourt",
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "T\u00e9l\u00e9com Paris",
+          "Paris Dauphine University",
+          "Conservatoire national des Arts et M\u00e9tiers",
+          "\u00c9cole polytechnique",
+          "Lyc\u00e9e Louis-le-Grand"
+        ],
+        "employers": [
+          {
+            "company": "France T\u00e9l\u00e9com",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q106755529",
+      "name": "Jacek Olczak",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q106755529",
+        "name": "Jacek Olczak",
+        "dateOfBirth": "1965-01-01",
+        "birthPlace": "\u0141\u00f3d\u017a",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NYCW%202025%20-%20Jacek%20Olczak%2002%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "author",
+          "economist"
+        ],
+        "education": [
+          "University of \u0141\u00f3d\u017a"
+        ],
+        "employers": [
+          {
+            "company": "Philip Morris International",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

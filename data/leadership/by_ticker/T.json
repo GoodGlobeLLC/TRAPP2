@@ -1,0 +1,460 @@
+{
+  "ticker": "T",
+  "fetchedAt": "2026-05-23T04:26:40.524098Z",
+  "people": [
+    {
+      "qid": "Q61985799",
+      "name": "John Stankey",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q61985799",
+        "name": "John Stankey",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "chief executive officer"
+        ],
+        "education": [
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
+        ],
+        "employers": [
+          {
+            "company": "AT&T",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "WarnerMedia",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7437344",
+      "name": "Scott T. Ford",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7437344",
+        "name": "Scott T. Ford",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Arkansas"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7411262",
+      "name": "Samuel DiPiazza",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7411262",
+        "name": "Samuel DiPiazza",
+        "dateOfBirth": "1950-01-01",
+        "birthPlace": "Brooklyn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20DiPiazza%202008.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Houston",
+          "University of Alabama",
+          "University of Houston C.T. Bauer College of Business"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6832622",
+      "name": "Michael McCallister",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6832622",
+        "name": "Michael McCallister",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20McCallister%20%282803120435%29.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Louisiana Tech University",
+          "Pepperdine University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6790760",
+      "name": "Matthew K. Rose",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6790760",
+        "name": "Matthew K. Rose",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": "Salina",
+        "image": null,
+        "occupations": [
+          "artist",
+          "musician"
+        ],
+        "education": [
+          "Trulaske College of Business",
+          "University of Missouri"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6701168",
+      "name": "Luis Ubi\u00f1as",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6701168",
+        "name": "Luis Ubi\u00f1as",
+        "dateOfBirth": "1963-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "manager"
+        ],
+        "education": [
+          "Collegiate School",
+          "Allen-Stevenson School",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5568888",
+      "name": "Glenn Hutchins",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5568888",
+        "name": "Glenn Hutchins",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Glenn%20H.%20Hutchins%20%28born%201955%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
+        "occupations": [
+          "financier"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Harvard College",
+          "Harvard Law School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5248484",
+      "name": "Debra Lee",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5248484",
+        "name": "Debra Lee",
+        "dateOfBirth": "1955-08-08",
+        "birthPlace": "Fort Jackson",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
+        "occupations": [
+          "businessperson",
+          "lawyer"
+        ],
+        "education": [
+          "James B. Dudley High School",
+          "Brown University",
+          "John F. Kennedy School of Government",
+          "Harvard Law School"
+        ],
+        "employers": [
+          {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Monsanto",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kodak",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q2579585",
+      "name": "William Kennard",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2579585",
+        "name": "William Kennard",
+        "dateOfBirth": "1957-01-19",
+        "birthPlace": "Los Angeles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Kennard%20Official.png",
+        "occupations": [
+          "diplomat"
+        ],
+        "education": [
+          "Hollywood High School",
+          "Yale Law School",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Carlyle Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chair of the Federal Communications Commission",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "United States Ambassador to the European Union",
+            "company": null,
+            "start": "2009-11-23",
+            "end": "2013-07-29"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q109531557",
+      "name": "Geoff Yang",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109531557",
+        "name": "Geoff Yang",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Stanford Graduate School of Business",
+          "Princeton University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109531220",
+      "name": "Cynthia B. Taylor",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109531220",
+        "name": "Cynthia B. Taylor",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Texas A&M University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q61985799",
+      "name": "John Stankey",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q61985799",
+        "name": "John Stankey",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "chief executive officer"
+        ],
+        "education": [
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
+        ],
+        "employers": [
+          {
+            "company": "AT&T",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "WarnerMedia",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q18630871",
+      "name": "Beth E. Mooney",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q18630871",
+        "name": "Beth E. Mooney",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": "Midland",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Southern Methodist University",
+          "University of Texas at Austin"
+        ],
+        "employers": [
+          {
+            "company": "KeyBank",
+            "start": "2006-01-01",
+            "end": "2020-05-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-02-02",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-05-01",
+            "end": "2020-05-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7966126",
+      "name": "Walter Sherman Gifford",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7966126",
+        "name": "Walter Sherman Gifford",
+        "dateOfBirth": "1885-01-10",
+        "birthPlace": "Salem",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mr.%20Walter%20S.%20Gifford%20-%20NARA%20-%2026432769.jpg",
+        "occupations": [
+          "executive"
+        ],
+        "education": [
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7609568",
+      "name": "Stephen J. Luczo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7609568",
+        "name": "Stephen J. Luczo",
+        "dateOfBirth": "1957-02-28",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
+        "occupations": [
+          "entrepreneur",
+          "film producer"
+        ],
+        "education": [
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Seagate Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

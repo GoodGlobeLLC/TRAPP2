@@ -1,0 +1,44 @@
+{
+  "ticker": "INTU",
+  "fetchedAt": "2026-05-23T04:26:40.503245Z",
+  "people": [
+    {
+      "qid": "Q7436159",
+      "name": "Scott Cook",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q7436159",
+        "name": "Scott Cook",
+        "dateOfBirth": "1952-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Cook%20%28Intuit%29%20%40%20SXSW%202017%20%28cropped%29.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Harvard Business School",
+          "University of Southern California"
+        ],
+        "employers": [
+          {
+            "company": "Procter & Gamble",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Intuit",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

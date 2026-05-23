@@ -1,0 +1,446 @@
+{
+  "ticker": "ALL",
+  "fetchedAt": "2026-05-23T04:26:40.479986Z",
+  "people": [
+    {
+      "qid": "Q7791174",
+      "name": "Tom Wilson",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7791174",
+        "name": "Tom Wilson",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "United States",
+        "image": null,
+        "occupations": [
+          "chief operating officer",
+          "chief financial officer"
+        ],
+        "education": [
+          "University of Michigan",
+          "Lake Shore High School",
+          "Ross School of Business",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Allstate",
+            "start": "1995-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2006-09-17",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2007-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125628364",
+      "name": "Monica Turner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125628364",
+        "name": "Monica Turner",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Oklahoma"
+        ],
+        "employers": [
+          {
+            "company": "Procter & Gamble",
+            "start": "1987-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2023-02-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114683241",
+      "name": "Judith Sprieser",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114683241",
+        "name": "Judith Sprieser",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Kellogg School of Management",
+          "Northwestern University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1999-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114683057",
+      "name": "Jacques Perold",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114683057",
+        "name": "Jacques Perold",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Cape Town"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2015-12-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114682606",
+      "name": "Kermit Crawford",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114682606",
+        "name": "Kermit Crawford",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Texas Southern University College of Pharmacy and Health Sciences"
+        ],
+        "employers": [
+          {
+            "company": "Rite Aid",
+            "start": "2017-10-01",
+            "end": "2019-03-01"
+          },
+          {
+            "company": "Sycamore Partners",
+            "start": "2015-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "Walgreens Boots Alliance",
+            "start": "1983-01-01",
+            "end": "2014-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-10-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-30",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114682396",
+      "name": "Donald Brown",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114682396",
+        "name": "Donald Brown",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Fuqua School of Business",
+          "The Wharton School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-11-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114619133",
+      "name": "Perry M. Traquina",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114619133",
+        "name": "Perry M. Traquina",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "London School of Economics and Political Science",
+          "Harvard Business School",
+          "Brandeis University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-06-30",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q109680080",
+      "name": "Maria Morris",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109680080",
+        "name": "Maria Morris",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "New York University",
+          "Franklin & Marshall College"
+        ],
+        "employers": [
+          {
+            "company": "MetLife",
+            "start": "1984-01-01",
+            "end": "2017-09-30"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2024-01-02",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q108940187",
+      "name": "Rich Hume",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q108940187",
+        "name": "Rich Hume",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Pennsylvania State University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-06-12",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q93429217",
+      "name": "Andrea Redmond",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q93429217",
+        "name": "Andrea Redmond",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "George Williams College, Chicago",
+          "Northern Illinois University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2010-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q21551821",
+      "name": "Gregg Sherrill",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21551821",
+        "name": "Gregg Sherrill",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Indiana University",
+          "Texas A&M University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19668445",
+      "name": "Margaret M. Keane",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19668445",
+        "name": "Margaret M. Keane",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "St. John's University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7791174",
+      "name": "Tom Wilson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7791174",
+        "name": "Tom Wilson",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "United States",
+        "image": null,
+        "occupations": [
+          "chief operating officer",
+          "chief financial officer"
+        ],
+        "education": [
+          "University of Michigan",
+          "Lake Shore High School",
+          "Ross School of Business",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Allstate",
+            "start": "1995-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2006-09-17",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2007-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4935363",
+      "name": "Bobby Mehta",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4935363",
+        "name": "Bobby Mehta",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2014-02-19",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

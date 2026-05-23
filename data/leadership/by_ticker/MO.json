@@ -1,0 +1,46 @@
+{
+  "ticker": "MO",
+  "fetchedAt": "2026-05-23T04:26:40.510293Z",
+  "people": [
+    {
+      "qid": "Q3292000",
+      "name": "Marie-Jos\u00e9e Kravis",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3292000",
+        "name": "Marie-Jos\u00e9e Kravis",
+        "dateOfBirth": "1949-09-11",
+        "birthPlace": "Ottawa",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2015%20Global%20Leadership%20Award%20Dinner%20Honoring%20Rupert%20Murdoch%20%2823507786591%29%20%28cropped%29.jpg",
+        "occupations": [
+          "art collector",
+          "economist"
+        ],
+        "education": [
+          "University of Ottawa"
+        ],
+        "employers": [
+          {
+            "company": "Hudson Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Museum of Modern Art",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2021-01-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

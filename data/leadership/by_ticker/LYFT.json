@@ -1,0 +1,106 @@
+{
+  "ticker": "LYFT",
+  "fetchedAt": "2026-05-23T04:26:40.507901Z",
+  "people": [
+    {
+      "qid": "Q16731590",
+      "name": "Logan Green",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q16731590",
+        "name": "Logan Green",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Logan%20Green.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Zimride",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lyft",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16731590",
+      "name": "Logan Green",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q16731590",
+        "name": "Logan Green",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Logan%20Green.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Zimride",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lyft",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6265329",
+      "name": "John Zimmer",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q6265329",
+        "name": "John Zimmer",
+        "dateOfBirth": "1983-12-12",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Zimmer.jpg",
+        "occupations": [
+          "business executive",
+          "entrepreneur"
+        ],
+        "education": [
+          "Cornell University",
+          "Greenwich High School",
+          "Cornell University School of Hotel Administration"
+        ],
+        "employers": [
+          {
+            "company": "Lehman Brothers",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lyft",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Zimride",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

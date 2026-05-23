@@ -1,0 +1,627 @@
+{
+  "ticker": "JPM",
+  "fetchedAt": "2026-05-23T04:26:40.504410Z",
+  "people": [
+    {
+      "qid": "Q922169",
+      "name": "Jamie Dimon",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q922169",
+        "name": "Jamie Dimon",
+        "dateOfBirth": "1956-03-13",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Dimon%2C%20CEO%20of%20JPMorgan%20Chase.jpg",
+        "occupations": [
+          "banker"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Tufts University",
+          "Browning School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q109596529",
+      "name": "Mike Neal",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109596529",
+        "name": "Mike Neal",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Georgia Tech"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2014-01-03",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q109596276",
+      "name": "Linda Bammann",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109596276",
+        "name": "Linda Bammann",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Michigan",
+          "Stanford University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q93592590",
+      "name": "Timothy P. Flynn",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q93592590",
+        "name": "Timothy P. Flynn",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chairperson"
+        ],
+        "education": [
+          "University of St. Thomas"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-01-17",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-05-15",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q56528601",
+      "name": "Alicia Boler Davis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q56528601",
+        "name": "Alicia Boler Davis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alicia%20Boler%20Davis%20for%20Brightline%20Project%20Management%20Institute.jpg",
+        "occupations": [
+          "engineer"
+        ],
+        "education": [
+          "Northwestern University",
+          "Rensselaer Polytechnic Institute",
+          "Indiana University"
+        ],
+        "employers": [
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1994-01-01",
+            "end": "2019-01-01"
+          },
+          {
+            "company": "Alto Pharmacy",
+            "start": "2022-09-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2023-03-20",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16193601",
+      "name": "Alex Gorsky",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16193601",
+        "name": "Alex Gorsky",
+        "dateOfBirth": "1960-03-20",
+        "birthPlace": "Kansas City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
+        "occupations": [
+          "business executive",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [
+          "The Wharton School",
+          "United States Military Academy"
+        ],
+        "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": "1988-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-07-19",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-04-26",
+            "end": "2022-01-03"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16185302",
+      "name": "James Crown",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16185302",
+        "name": "James Crown",
+        "dateOfBirth": "1953-06-25",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Stanford Law School",
+          "Hampshire College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2004-01-01",
+            "end": "2023-06-25"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q14538344",
+      "name": "Mark Weinberger",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q14538344",
+        "name": "Mark Weinberger",
+        "dateOfBirth": "1961-01-01",
+        "birthPlace": "Scranton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
+        "occupations": [
+          "entrepreneur",
+          "politician"
+        ],
+        "education": [
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
+          "Weatherhead School of Management"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2013-07-01",
+            "end": "2019-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-12-05",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2024-01-16",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7812320",
+      "name": "Todd Combs",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7812320",
+        "name": "Todd Combs",
+        "dateOfBirth": "1971-01-27",
+        "birthPlace": "Sarasota",
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Riverview High School",
+          "Columbia Business School",
+          "Florida State University"
+        ],
+        "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2026-01-01",
+            "end": null
+          },
+          {
+            "company": "Berkshire Hathaway",
+            "start": "2010-01-01",
+            "end": "2025-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6813152",
+      "name": "Mellody Hobson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6813152",
+        "name": "Mellody Hobson",
+        "dateOfBirth": "1969-04-03",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mellody%20Hobson.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Princeton University",
+          "Princeton School of Public and International Affairs",
+          "St. Ignatius College Prep"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-03-21",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4970379",
+      "name": "Phebe Novakovic",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4970379",
+        "name": "Phebe Novakovic",
+        "dateOfBirth": "1957-01-01",
+        "birthPlace": "Pittsburgh",
+        "image": null,
+        "occupations": [
+          "chief executive officer",
+          "chairperson"
+        ],
+        "education": [
+          "The Wharton School",
+          "Smith College"
+        ],
+        "employers": [
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
+            "start": "1997-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Central Intelligence Agency",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-12-07",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3498872",
+      "name": "Steve Burke",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3498872",
+        "name": "Steve Burke",
+        "dateOfBirth": "1958-08-14",
+        "birthPlace": "Birmingham",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Colgate University",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "NBCUniversal",
+            "start": "2011-01-01",
+            "end": "2020-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2009-12-22",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2004-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q922169",
+      "name": "Jamie Dimon",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q922169",
+        "name": "Jamie Dimon",
+        "dateOfBirth": "1956-03-13",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Dimon%2C%20CEO%20of%20JPMorgan%20Chase.jpg",
+        "occupations": [
+          "banker"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Tufts University",
+          "Browning School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q49971",
+      "name": "Ginni Rometty",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q49971",
+        "name": "Ginni Rometty",
+        "dateOfBirth": "1957-07-29",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
+        "occupations": [
+          "entrepreneur",
+          "computer scientist",
+          "businessperson"
+        ],
+        "education": [
+          "Robert R. McCormick School of Engineering and Applied Science",
+          "Northwestern University"
+        ],
+        "employers": [
+          {
+            "company": "IBM",
+            "start": "1981-01-01",
+            "end": null
+          },
+          {
+            "company": "Kettering University",
+            "start": "1979-01-01",
+            "end": "1981-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "systems engineer",
+            "company": null,
+            "start": "1981-01-01",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "title": "vice president",
+            "company": null,
+            "start": "2009-01-01",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-10-01",
+            "end": "2020-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-19",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

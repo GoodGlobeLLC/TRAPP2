@@ -1,0 +1,637 @@
+{
+  "ticker": "ABT",
+  "fetchedAt": "2026-05-23T04:26:40.477616Z",
+  "people": [
+    {
+      "qid": "Q95569597",
+      "name": "Robert B. Ford",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q95569597",
+        "name": "Robert B. Ford",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20B%20Ford.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Haas School of Business",
+          "Boston College"
+        ],
+        "employers": [
+          {
+            "company": "Abbott Laboratories",
+            "start": "1996-01-01",
+            "end": null
+          },
+          {
+            "company": "Becton Dickinson",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-03-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q281657",
+      "name": "Miles D. White",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q281657",
+        "name": "Miles D. White",
+        "dateOfBirth": "1955-03-10",
+        "birthPlace": "Minneapolis",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Miles%20D.%20White.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Stanford University",
+          "Culver Academies"
+        ],
+        "employers": [
+          {
+            "company": "Abbott Laboratories",
+            "start": "1984-01-01",
+            "end": "2020-01-01"
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114840869",
+      "name": "John Stratton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114840869",
+        "name": "John Stratton",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard Business School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114840849",
+      "name": "Daniel Starks",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114840849",
+        "name": "Daniel Starks",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "St. Jude Medical",
+            "start": "1996-01-01",
+            "end": "2017-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2004-01-01",
+            "end": "2016-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114840517",
+      "name": "Michelle Kumbier",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114840517",
+        "name": "Michelle Kumbier",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Lakeland University",
+          "University of Wisconsin\u2013Oshkosh",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Harley-Davidson",
+            "start": "1997-01-01",
+            "end": "2020-01-01"
+          },
+          {
+            "company": "Kohler Company",
+            "start": "1986-01-01",
+            "end": "1997-01-01"
+          },
+          {
+            "company": "Briggs & Stratton",
+            "start": "2022-03-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114840264",
+      "name": "Paola Gonzalez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114840264",
+        "name": "Paola Gonzalez",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Harvard Business School",
+          "University of Lima",
+          "University of Notre Dame Mendoza College of Business"
+        ],
+        "employers": [
+          {
+            "company": "Clorox",
+            "start": "1997-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114664009",
+      "name": "Robert Alpern",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114664009",
+        "name": "Robert Alpern",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "researcher"
+        ],
+        "education": [
+          "University of California, San Francisco",
+          "Northwestern University",
+          "Pritzker School of Medicine"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2008-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q99702980",
+      "name": "Claire Babineaux-Fontenot",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q99702980",
+        "name": "Claire Babineaux-Fontenot",
+        "dateOfBirth": "1964-01-01",
+        "birthPlace": "Opelousas",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Claire%20Babineaux-Fontenot%20%2832280607007%29.jpg",
+        "occupations": [
+          "executive"
+        ],
+        "education": [
+          "University of Louisiana at Lafayette",
+          "Dedman School of Law",
+          "Harvard Business School",
+          "Southern University Law Center",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Feeding America",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q95569597",
+      "name": "Robert B. Ford",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q95569597",
+        "name": "Robert B. Ford",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20B%20Ford.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Haas School of Business",
+          "Boston College"
+        ],
+        "employers": [
+          {
+            "company": "Abbott Laboratories",
+            "start": "1996-01-01",
+            "end": null
+          },
+          {
+            "company": "Becton Dickinson",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-03-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q94016219",
+      "name": "Mike Roman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q94016219",
+        "name": "Mike Roman",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Roman%2C%20CEO%20of%203M%20%2849651820963%29%20%28cropped%29.jpg",
+        "occupations": [
+          "business executive",
+          "engineer"
+        ],
+        "education": [
+          "University of Southern California",
+          "University of Wisconsin\u2013Stevens Point",
+          "University of Minnesota"
+        ],
+        "employers": [
+          {
+            "company": "3M",
+            "start": "1988-01-01",
+            "end": null
+          },
+          {
+            "company": "Hughes Aircraft Company",
+            "start": "1983-01-01",
+            "end": "1988-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-05-08",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2018-07-01",
+            "end": "2024-05-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16853393",
+      "name": "Darren W. McDew",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16853393",
+        "name": "Darren W. McDew",
+        "dateOfBirth": "1960-09-29",
+        "birthPlace": "Rantoul",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen%20Darren%20W.%20McDew%20%283%29.jpg",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University",
+          "Syracuse University",
+          "George Washington University",
+          "Air University",
+          "National Defense University",
+          "Virginia Military Institute"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q8004020",
+      "name": "William Osborn",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q8004020",
+        "name": "William Osborn",
+        "dateOfBirth": "1947-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Weinberg College of Arts and Sciences",
+          "Kellogg School of Management"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2008-01-02",
+            "end": "2023-04-28"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7405077",
+      "name": "Sally Blount",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7405077",
+        "name": "Sally Blount",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "academic"
+        ],
+        "education": [
+          "Princeton University",
+          "Princeton School of Public and International Affairs"
+        ],
+        "employers": [
+          {
+            "company": "Northwestern University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "New York University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Chicago",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5569148",
+      "name": "Glenn Tilton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5569148",
+        "name": "Glenn Tilton",
+        "dateOfBirth": "1948-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of South Carolina"
+        ],
+        "employers": [
+          {
+            "company": "UAL Corporation",
+            "start": "2002-09-05",
+            "end": "2010-10-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-04-27",
+            "end": "2023-04-28"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q520123",
+      "name": "Nancy McKinstry",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q520123",
+        "name": "Nancy McKinstry",
+        "dateOfBirth": "1959-01-04",
+        "birthPlace": "Portland",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
+        "occupations": [
+          "businessperson",
+          "business executive"
+        ],
+        "education": [
+          "University of Rhode Island",
+          "Columbia Business School",
+          "United States Army War College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-07-13",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2003-09-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125307830",
+      "name": "Michael G. O'Grady",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125307830",
+        "name": "Michael G. O'Grady",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "banker",
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Merrill Lynch & Co.",
+            "start": "1992-01-01",
+            "end": "2011-01-01"
+          },
+          {
+            "company": "Northern Trust",
+            "start": "2011-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2023-04-28",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

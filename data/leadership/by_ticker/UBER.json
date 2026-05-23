@@ -1,0 +1,409 @@
+{
+  "ticker": "UBER",
+  "fetchedAt": "2026-05-23T04:26:40.527390Z",
+  "people": [
+    {
+      "qid": "Q5221979",
+      "name": "Dara Khosrowshahi",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5221979",
+        "name": "Dara Khosrowshahi",
+        "dateOfBirth": "1969-05-28",
+        "birthPlace": "Tehran",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Brown University",
+          "Hackley School"
+        ],
+        "employers": [
+          {
+            "company": "Uber",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2004-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "IAC",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Allen & Company",
+            "start": "1991-01-01",
+            "end": "1998-01-01"
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q99880011",
+      "name": "Revathi Advaithi",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q99880011",
+        "name": "Revathi Advaithi",
+        "dateOfBirth": "1967-10-18",
+        "birthPlace": "India",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Flex%20Revathi%200033-Peter-Prato-Retouched.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Flex Ltd.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q64853380",
+      "name": "Yasir Al-Rumayyan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q64853380",
+        "name": "Yasir Al-Rumayyan",
+        "dateOfBirth": "1970-01-01",
+        "birthPlace": "Burayda",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasir%20bin%20Othman%20Al-Rumayyan.jpg",
+        "occupations": [
+          "sports executive",
+          "businessperson",
+          "chairperson"
+        ],
+        "education": [
+          "King Faisal University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q51676942",
+      "name": "David Trujillo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q51676942",
+        "name": "David Trujillo",
+        "dateOfBirth": "1976-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Stanford Graduate School of Business",
+          "Yale University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q29646366",
+      "name": "Robert A. Eckert",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q29646366",
+        "name": "Robert A. Eckert",
+        "dateOfBirth": "1954-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Arizona",
+          "Northwestern University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q22317597",
+      "name": "Alexander Wynaendts",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q22317597",
+        "name": "Alexander Wynaendts",
+        "dateOfBirth": "1960-08-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Paris"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q18157584",
+      "name": "Wan Ling Martello",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q18157584",
+        "name": "Wan Ling Martello",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "Manila",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wan%20Ling%20Martello%2C%202011%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Carlson School of Management"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5221979",
+      "name": "Dara Khosrowshahi",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5221979",
+        "name": "Dara Khosrowshahi",
+        "dateOfBirth": "1969-05-28",
+        "birthPlace": "Tehran",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Brown University",
+          "Hackley School"
+        ],
+        "employers": [
+          {
+            "company": "Uber",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2004-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "IAC",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Allen & Company",
+            "start": "1991-01-01",
+            "end": "1998-01-01"
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1701913",
+      "name": "John Alexander Thain",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1701913",
+        "name": "John Alexander Thain",
+        "dateOfBirth": "1955-05-26",
+        "birthPlace": "Antioch",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
+        "occupations": [
+          "investment banker",
+          "entrepreneur"
+        ],
+        "education": [
+          "Antioch Community High School",
+          "Howard University",
+          "Yale University",
+          "Harvard Business School",
+          "Massachusetts Institute of Technology",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q465663",
+      "name": "Ursula Burns",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q465663",
+        "name": "Ursula Burns",
+        "dateOfBirth": "1958-09-20",
+        "birthPlace": "Manhattan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
+        "occupations": [
+          "engineer",
+          "business executive"
+        ],
+        "education": [
+          "Fu Foundation School of Engineering and Applied Science",
+          "Cathedral High School",
+          "New York University Tandon School of Engineering",
+          "Columbia University"
+        ],
+        "employers": [
+          {
+            "company": "Xerox",
+            "start": "1980-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2009-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16196331",
+      "name": "Tony West",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16196331",
+        "name": "Tony West",
+        "dateOfBirth": "1965-08-12",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TonyWest-Official%20DOJ%20Portrait.jpg",
+        "occupations": [
+          "lawyer"
+        ],
+        "education": [
+          "Stanford Law School",
+          "Bellarmine College Preparatory",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Associate Attorney General",
+            "company": null,
+            "start": "2012-03-12",
+            "end": "2014-09-15"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7365310",
+      "name": "Ronald Sugar",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7365310",
+        "name": "Ronald Sugar",
+        "dateOfBirth": "1948-07-30",
+        "birthPlace": "Toronto",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6990415",
+      "name": "Nelson Chai",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6990415",
+        "name": "Nelson Chai",
+        "dateOfBirth": "1965-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "investment banker"
+        ],
+        "education": [
+          "The Wharton School",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "CIT Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6192865",
+      "name": "Jill Hazelbaker",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6192865",
+        "name": "Jill Hazelbaker",
+        "dateOfBirth": "1985-01-01",
+        "birthPlace": "Salem",
+        "image": null,
+        "occupations": [
+          "spokesperson"
+        ],
+        "education": [
+          "University of Oregon"
+        ],
+        "employers": [
+          {
+            "company": "Uber",
+            "start": "2015-01-01",
+            "end": null
+          },
+          {
+            "company": "Google",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

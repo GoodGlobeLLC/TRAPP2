@@ -1,0 +1,96 @@
+{
+  "ticker": "CRM",
+  "fetchedAt": "2026-05-23T04:26:40.490792Z",
+  "people": [
+    {
+      "qid": "Q1521908",
+      "name": "Marc Benioff",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1521908",
+        "name": "Marc Benioff",
+        "dateOfBirth": "1964-09-25",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
+        "occupations": [
+          "philanthropist",
+          "chief executive officer",
+          "Internet entrepreneur",
+          "chairperson",
+          "businessperson"
+        ],
+        "education": [
+          "USC Marshall School of Business",
+          "University of Southern California",
+          "Burlingame High School"
+        ],
+        "employers": [
+          {
+            "company": "Salesforce",
+            "start": "1999-03-01",
+            "end": null
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "1986-01-01",
+            "end": "1999-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1999-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1521908",
+      "name": "Marc Benioff",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q1521908",
+        "name": "Marc Benioff",
+        "dateOfBirth": "1964-09-25",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Benioff.jpg",
+        "occupations": [
+          "philanthropist",
+          "chief executive officer",
+          "Internet entrepreneur",
+          "chairperson",
+          "businessperson"
+        ],
+        "education": [
+          "USC Marshall School of Business",
+          "University of Southern California",
+          "Burlingame High School"
+        ],
+        "employers": [
+          {
+            "company": "Salesforce",
+            "start": "1999-03-01",
+            "end": null
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "1986-01-01",
+            "end": "1999-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1999-01-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

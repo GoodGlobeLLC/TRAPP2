@@ -1,0 +1,36 @@
+{
+  "ticker": "SHOP",
+  "fetchedAt": "2026-05-23T04:26:40.521523Z",
+  "people": [
+    {
+      "qid": "Q20684647",
+      "name": "Tobias L\u00fctke",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q20684647",
+        "name": "Tobias L\u00fctke",
+        "dateOfBirth": "1981-01-01",
+        "birthPlace": "Koblenz",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tobias%20L%C3%BCtke%2C%20Shopify.jpg",
+        "occupations": [
+          "programmer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Amazon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Shopify",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

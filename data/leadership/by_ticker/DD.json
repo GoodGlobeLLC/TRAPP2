@@ -1,0 +1,53 @@
+{
+  "ticker": "DD",
+  "fetchedAt": "2026-05-23T04:26:40.493151Z",
+  "people": [
+    {
+      "qid": "Q19868373",
+      "name": "Edward D. Breen",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19868373",
+        "name": "Edward D. Breen",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive",
+          "chief executive officer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "DuPont",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1065665",
+      "name": "Charles O. Holliday, Jr.",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1065665",
+        "name": "Charles O. Holliday, Jr.",
+        "dateOfBirth": "1948-03-09",
+        "birthPlace": "Nashville",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chad%20Holliday%20at%20the%20Council%20on%20Competitiveness%202007%20annual%20meeting.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Tennessee"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
+}

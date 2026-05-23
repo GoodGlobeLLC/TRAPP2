@@ -1,0 +1,149 @@
+{
+  "ticker": "EA",
+  "fetchedAt": "2026-05-23T04:26:40.494914Z",
+  "people": [
+    {
+      "qid": "Q15064277",
+      "name": "Andrew Wilson",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q15064277",
+        "name": "Andrew Wilson",
+        "dateOfBirth": "1974-09-07",
+        "birthPlace": "Gold Coast",
+        "image": null,
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Electronic Arts",
+            "start": "2000-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6490983",
+      "name": "Larry Probst",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6490983",
+        "name": "Larry Probst",
+        "dateOfBirth": "1950-06-03",
+        "birthPlace": "United States",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Probst%20in%20Sochi%20%282014-02-14%29.jpeg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Abington Senior High School",
+          "University of Delaware"
+        ],
+        "employers": [
+          {
+            "company": "Electronic Arts",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1991-01-01",
+            "end": "2007-02-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q460459",
+      "name": "Trip Hawkins",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q460459",
+        "name": "Trip Hawkins",
+        "dateOfBirth": "1953-12-28",
+        "birthPlace": "Pasadena",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trip%20Hawkins%20%2818972740201%29.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Stanford Graduate School of Business",
+          "Harvard University",
+          "La Jolla High School"
+        ],
+        "employers": [
+          {
+            "company": "University of California, Santa Barbara",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Digital Chocolate",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1982-01-01",
+            "end": "1991-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q460459",
+      "name": "Trip Hawkins",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q460459",
+        "name": "Trip Hawkins",
+        "dateOfBirth": "1953-12-28",
+        "birthPlace": "Pasadena",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Trip%20Hawkins%20%2818972740201%29.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Stanford Graduate School of Business",
+          "Harvard University",
+          "La Jolla High School"
+        ],
+        "employers": [
+          {
+            "company": "University of California, Santa Barbara",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Digital Chocolate",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1982-01-01",
+            "end": "1991-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}

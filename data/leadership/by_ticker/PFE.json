@@ -1,0 +1,528 @@
+{
+  "ticker": "PFE",
+  "fetchedAt": "2026-05-23T04:26:40.516678Z",
+  "people": [
+    {
+      "qid": "Q63400080",
+      "name": "Albert Bourla",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q63400080",
+        "name": "Albert Bourla",
+        "dateOfBirth": "1961-10-21",
+        "birthPlace": "Thessaloniki",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
+        "occupations": [
+          "business executive",
+          "pharmacologist",
+          "executive",
+          "veterinarian",
+          "entrepreneur"
+        ],
+        "education": [
+          "Aristotle University of Thessaloniki"
+        ],
+        "employers": [
+          {
+            "company": "Pfizer",
+            "start": "1993-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q21552641",
+      "name": "Ronald E. Blaylock",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21552641",
+        "name": "Ronald E. Blaylock",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q21433424",
+      "name": "Helen Hobbs",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21433424",
+        "name": "Helen Hobbs",
+        "dateOfBirth": "1952-05-05",
+        "birthPlace": "Boston",
+        "image": null,
+        "occupations": [
+          "molecular geneticist",
+          "biochemist",
+          "university teacher",
+          "researcher",
+          "physician"
+        ],
+        "education": [
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "University of Texas System",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "University of Texas Southwestern Medical Center",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7945457",
+      "name": "W. Don Cornwell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7945457",
+        "name": "W. Don Cornwell",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Occidental College",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7650926",
+      "name": "Suzanne Nora Johnson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7650926",
+        "name": "Suzanne Nora Johnson",
+        "dateOfBirth": "1957-06-14",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Nora%20Johnson%20at%20the%20World%20Economic%20Forum%20Summit%20on%20the%20Global%20Agenda%202008%20cropped.jpg",
+        "occupations": [
+          "lawyer"
+        ],
+        "education": [
+          "Harvard Law School",
+          "University of Southern California"
+        ],
+        "employers": [
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7647750",
+      "name": "Susan Desmond-Hellmann",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7647750",
+        "name": "Susan Desmond-Hellmann",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "Napa",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SDH-3249.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "University of Nevada, Reno",
+          "University of California, San Francisco",
+          "Bishop Manogue High School"
+        ],
+        "employers": [
+          {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Genentech",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Uganda Cancer Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6138480",
+      "name": "James M. Kilts",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6138480",
+        "name": "James M. Kilts",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Booth School of Business",
+          "Knox College",
+          "University of Chicago"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5213885",
+      "name": "Dan Littman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5213885",
+        "name": "Dan Littman",
+        "dateOfBirth": null,
+        "birthPlace": "Bucharest",
+        "image": null,
+        "occupations": [
+          "researcher",
+          "immunologist"
+        ],
+        "education": [
+          "Columbia University",
+          "Washington University in St.\u00a0Louis",
+          "Washington University School of Medicine",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "New York University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q2622748",
+      "name": "Shantanu Narayen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2622748",
+        "name": "Shantanu Narayen",
+        "dateOfBirth": "1963-05-01",
+        "birthPlace": "Hyderabad",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
+        "occupations": [
+          "computer scientist",
+          "businessperson"
+        ],
+        "education": [
+          "Haas School of Business",
+          "Osmania University",
+          "Bowling Green State University",
+          "North-Eastern Hill University",
+          "University of California, Berkeley"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-12-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2007-12-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q985719",
+      "name": "Susan Hockfield",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q985719",
+        "name": "Susan Hockfield",
+        "dateOfBirth": "1951-03-24",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
+        "occupations": [
+          "physiologist",
+          "neuroscientist",
+          "university teacher"
+        ],
+        "education": [
+          "Horace Greeley High School",
+          "Georgetown University",
+          "University of Rochester"
+        ],
+        "employers": [
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2004-12-06",
+            "end": "2012-07-02"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114627943",
+      "name": "Joe Echevarria",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114627943",
+        "name": "Joe Echevarria",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q63400080",
+      "name": "Albert Bourla",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q63400080",
+        "name": "Albert Bourla",
+        "dateOfBirth": "1961-10-21",
+        "birthPlace": "Thessaloniki",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
+        "occupations": [
+          "business executive",
+          "pharmacologist",
+          "executive",
+          "veterinarian",
+          "entrepreneur"
+        ],
+        "education": [
+          "Aristotle University of Thessaloniki"
+        ],
+        "employers": [
+          {
+            "company": "Pfizer",
+            "start": "1993-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2019-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q30612546",
+      "name": "James C. Smith",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q30612546",
+        "name": "James C. Smith",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": "Carlisle",
+        "image": null,
+        "occupations": [
+          "journalist"
+        ],
+        "education": [
+          "Marshall University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q28229066",
+      "name": "Scott Gottlieb",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q28229066",
+        "name": "Scott Gottlieb",
+        "dateOfBirth": "1972-06-11",
+        "birthPlace": "East Brunswick",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
+        "occupations": [
+          "politician",
+          "physician"
+        ],
+        "education": [
+          "Icahn School of Medicine at Mount Sinai",
+          "Wesleyan University"
+        ],
+        "employers": [
+          {
+            "company": "United States Food and Drug Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "American Enterprise Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Grossman School of Medicine",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Commissioner of Food and Drugs",
+            "company": null,
+            "start": "2017-05-11",
+            "end": "2019-04-05"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q27839505",
+      "name": "James Quincey",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q27839505",
+        "name": "James Quincey",
+        "dateOfBirth": "1965-01-08",
+        "birthPlace": "London",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson",
+          "chief executive officer"
+        ],
+        "education": [
+          "King Edward's School",
+          "University of Liverpool"
+        ],
+        "employers": [
+          {
+            "company": "The Coca-Cola Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q18748980",
+      "name": "Charles F. Erhart",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q18748980",
+        "name": "Charles F. Erhart",
+        "dateOfBirth": "1821-09-25",
+        "birthPlace": "Ludwigsburg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
+        "occupations": [
+          "chemist",
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Pfizer",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

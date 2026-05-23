@@ -1,0 +1,80 @@
+{
+  "ticker": "COF",
+  "fetchedAt": "2026-05-23T04:26:40.489251Z",
+  "people": [
+    {
+      "qid": "Q7325595",
+      "name": "Richard Fairbank",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7325595",
+        "name": "Richard Fairbank",
+        "dateOfBirth": "1951-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "banker",
+          "chief executive officer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Stanford University",
+          "Stanford Graduate School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Capital One",
+            "start": "1988-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7325595",
+      "name": "Richard Fairbank",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q7325595",
+        "name": "Richard Fairbank",
+        "dateOfBirth": "1951-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "banker",
+          "chief executive officer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Stanford University",
+          "Stanford Graduate School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Capital One",
+            "start": "1988-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
+}

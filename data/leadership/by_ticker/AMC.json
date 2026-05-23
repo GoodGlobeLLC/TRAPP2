@@ -1,0 +1,43 @@
+{
+  "ticker": "AMC",
+  "fetchedAt": "2026-05-23T04:26:40.480524Z",
+  "people": [
+    {
+      "qid": "Q358934",
+      "name": "George W. Mason",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q358934",
+        "name": "George W. Mason",
+        "dateOfBirth": "1891-03-12",
+        "birthPlace": "Valley City",
+        "image": null,
+        "occupations": [
+          "industrialist"
+        ],
+        "education": [
+          "University of Michigan"
+        ],
+        "employers": [
+          {
+            "company": "American Motors Corporation",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Nash-Kelvinator Corporation",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kelvinator",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ticker": "PYPL",
+  "fetchedAt": "2026-05-23T04:26:40.519679Z",
+  "people": [
+    {
+      "qid": "Q5214356",
+      "name": "Dan Schulman",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5214356",
+        "name": "Dan Schulman",
+        "dateOfBirth": "1958-01-19",
+        "birthPlace": "Newark",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Schulman.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Princeton High School",
+          "Middlebury College",
+          "Stern School of Business"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q267074",
+      "name": "John Donahoe",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q267074",
+        "name": "John Donahoe",
+        "dateOfBirth": "1960-04-30",
+        "birthPlace": "Evanston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JohnDonahoe.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Dartmouth College",
+          "Stanford University",
+          "Stanford Graduate School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

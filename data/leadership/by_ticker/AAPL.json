@@ -1,0 +1,507 @@
+{
+  "ticker": "AAPL",
+  "fetchedAt": "2026-05-23T04:26:40.476057Z",
+  "people": [
+    {
+      "qid": "Q265852",
+      "name": "Tim Cook",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q265852",
+        "name": "Tim Cook",
+        "dateOfBirth": "1960-11-01",
+        "birthPlace": "Mobile",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
+        "occupations": [
+          "manager",
+          "presenter",
+          "engineer",
+          "chief executive officer",
+          "computer scientist",
+          "businessperson"
+        ],
+        "education": [
+          "Rostrevor College",
+          "Robertsdale High School",
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-08-24",
+            "end": "2026-09-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q709063",
+      "name": "Arthur D. Levinson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q709063",
+        "name": "Arthur D. Levinson",
+        "dateOfBirth": "1950-03-31",
+        "birthPlace": "Seattle",
+        "image": null,
+        "occupations": [
+          "molecular biologist",
+          "biochemist",
+          "businessperson"
+        ],
+        "education": [
+          "University of Washington",
+          "University of California, San Francisco",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q17388808",
+      "name": "Susan Wagner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q17388808",
+        "name": "Susan Wagner",
+        "dateOfBirth": "1961-01-01",
+        "birthPlace": "Chicago",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "economist"
+        ],
+        "education": [
+          "Booth School of Business",
+          "University of Chicago",
+          "Wellesley College"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7365310",
+      "name": "Ronald Sugar",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7365310",
+        "name": "Ronald Sugar",
+        "dateOfBirth": "1948-07-30",
+        "birthPlace": "Toronto",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6128032",
+      "name": "James A. Bell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6128032",
+        "name": "James A. Bell",
+        "dateOfBirth": "1948-06-14",
+        "birthPlace": "Los Angeles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20A.%20Bell.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "California State University, Los Angeles"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19673",
+      "name": "Al Gore",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19673",
+        "name": "Al Gore",
+        "dateOfBirth": "1948-03-31",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
+        "occupations": [
+          "blogger",
+          "climate activist",
+          "environmentalist",
+          "financier",
+          "orator",
+          "journalist",
+          "politician",
+          "farmer",
+          "writer",
+          "university teacher",
+          "businessperson"
+        ],
+        "education": [
+          "Harvard College",
+          "Vanderbilt University",
+          "Vanderbilt University Divinity School",
+          "St. Albans School",
+          "Defense Information School"
+        ],
+        "employers": [
+          {
+            "company": "University of California, Los Angeles",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
+            "title": "Vice President of the United States",
+            "company": null,
+            "start": "1993-01-20",
+            "end": "2001-01-20"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1985-01-03",
+            "end": "1987-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1991-01-03",
+            "end": "1993-01-02"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1979-01-03"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q709063",
+      "name": "Arthur D. Levinson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q709063",
+        "name": "Arthur D. Levinson",
+        "dateOfBirth": "1950-03-31",
+        "birthPlace": "Seattle",
+        "image": null,
+        "occupations": [
+          "molecular biologist",
+          "biochemist",
+          "businessperson"
+        ],
+        "education": [
+          "University of Washington",
+          "University of California, San Francisco",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q271117",
+      "name": "Andrea Jung",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q271117",
+        "name": "Andrea Jung",
+        "dateOfBirth": "1959-08-28",
+        "birthPlace": "Toronto",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
+        "occupations": [
+          "linguist",
+          "businessperson"
+        ],
+        "education": [
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q483382",
+      "name": "Steve Wozniak",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q483382",
+        "name": "Steve Wozniak",
+        "dateOfBirth": "1950-08-11",
+        "birthPlace": "San Jose",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "occupations": [
+          "computer scientist",
+          "inventor",
+          "engineer",
+          "programmer",
+          "electronics technician",
+          "entrepreneur",
+          "businessperson",
+          "actor",
+          "teacher"
+        ],
+        "education": [
+          "University of Colorado",
+          "De Anza College",
+          "University of Colorado Boulder",
+          "University of California, Berkeley",
+          "Homestead High School"
+        ],
+        "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q332591",
+      "name": "Ronald Wayne",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q332591",
+        "name": "Ronald Wayne",
+        "dateOfBirth": "1934-05-17",
+        "birthPlace": "Cleveland",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
+        "occupations": [
+          "entrepreneur",
+          "writer",
+          "engineer",
+          "computer scientist"
+        ],
+        "education": [
+          "High School of Art and Design"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19837",
+      "name": "Steve Jobs",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19837",
+        "name": "Steve Jobs",
+        "dateOfBirth": "1955-02-24",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
+        "occupations": [
+          "technology entrepreneur",
+          "designer",
+          "founder",
+          "financier",
+          "film producer",
+          "general manager",
+          "executive producer",
+          "entrepreneur",
+          "computer scientist",
+          "inventor"
+        ],
+        "education": [
+          "Homestead High School",
+          "Reed College",
+          "De Anza College"
+        ],
+        "employers": [
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1985-01-01",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1985-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1997-09-16",
+            "end": "2011-08-24"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1995-11-29",
+            "end": "1997-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}

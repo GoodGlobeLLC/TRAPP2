@@ -1,0 +1,484 @@
+{
+  "ticker": "BAC",
+  "fetchedAt": "2026-05-23T04:26:40.484156Z",
+  "people": [
+    {
+      "qid": "Q912811",
+      "name": "Brian Moynihan",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q912811",
+        "name": "Brian Moynihan",
+        "dateOfBirth": "1959-10-09",
+        "birthPlace": "Marietta",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "banker",
+          "chief executive officer"
+        ],
+        "education": [
+          "Notre Dame Law School",
+          "Marietta High School",
+          "University of Notre Dame",
+          "Brown University"
+        ],
+        "employers": [
+          {
+            "company": "Bank of America",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "trustee",
+            "company": null,
+            "start": "2010-01-01",
+            "end": "2016-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chancellor",
+            "company": null,
+            "start": "2024-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6551659",
+      "name": "Linda Hudson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6551659",
+        "name": "Linda Hudson",
+        "dateOfBirth": "1950-08-22",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Florida"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6291340",
+      "name": "Joe Almeida",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6291340",
+        "name": "Joe Almeida",
+        "dateOfBirth": "1961-09-22",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Centro Universit\u00e1rio do Instituto Mau\u00e1 de Tecnologia"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4194276",
+      "name": "Maria T. Zuber",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4194276",
+        "name": "Maria T. Zuber",
+        "dateOfBirth": "1958-06-27",
+        "birthPlace": "Norristown",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Zuber%2C%20MIT%20Media%20Lab%20%28cropped%29.jpg",
+        "occupations": [
+          "astronomer"
+        ],
+        "education": [
+          "University of Pennsylvania",
+          "Brown University"
+        ],
+        "employers": [
+          {
+            "company": "Johns Hopkins University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1557228",
+      "name": "Monica C. Lozano",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1557228",
+        "name": "Monica C. Lozano",
+        "dateOfBirth": "1956-07-21",
+        "birthPlace": "Los Angeles",
+        "image": null,
+        "occupations": [
+          "editor",
+          "newspaper editor"
+        ],
+        "education": [
+          "City College of San Francisco",
+          "University of Oregon"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q912811",
+      "name": "Brian Moynihan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q912811",
+        "name": "Brian Moynihan",
+        "dateOfBirth": "1959-10-09",
+        "birthPlace": "Marietta",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "banker",
+          "chief executive officer"
+        ],
+        "education": [
+          "Notre Dame Law School",
+          "Marietta High School",
+          "University of Notre Dame",
+          "Brown University"
+        ],
+        "employers": [
+          {
+            "company": "Bank of America",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "trustee",
+            "company": null,
+            "start": "2010-01-01",
+            "end": "2016-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chancellor",
+            "company": null,
+            "start": "2024-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16148720",
+      "name": "Arnold W. Donald",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16148720",
+        "name": "Arnold W. Donald",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": "New Orleans",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson",
+          "chief executive officer"
+        ],
+        "education": [
+          "St. Augustine High School",
+          "Carleton College",
+          "Washington University in St.\u00a0Louis"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7647573",
+      "name": "Susan Bies",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7647573",
+        "name": "Susan Bies",
+        "dateOfBirth": "1947-05-05",
+        "birthPlace": "Buffalo",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Bies.jpg",
+        "occupations": [
+          "banker"
+        ],
+        "education": [
+          "Buffalo State University",
+          "Northwestern University"
+        ],
+        "employers": [
+          {
+            "company": "Wayne State University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109663877",
+      "name": "David Yost",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109663877",
+        "name": "David Yost",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109663611",
+      "name": "Tom Woods",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109663611",
+        "name": "Tom Woods",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Toronto",
+          "Harvard Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109663453",
+      "name": "Michael D. White",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109663453",
+        "name": "Michael D. White",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Johns Hopkins University",
+          "Boston College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109661134",
+      "name": "Denise Ramos",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109661134",
+        "name": "Denise Ramos",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Chicago"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109661064",
+      "name": "Tom May",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109661064",
+        "name": "Tom May",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Stonehill College",
+          "Bentley University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109659537",
+      "name": "Pierre de Weck",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109659537",
+        "name": "Pierre de Weck",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "ETH Zurich"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109659430",
+      "name": "Frank Bramble",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109659430",
+        "name": "Frank Bramble",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Towson University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109656448",
+      "name": "Sharon Allen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109656448",
+        "name": "Sharon Allen",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "University of Idaho"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109656362",
+      "name": "Lionel Nowell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109656362",
+        "name": "Lionel Nowell",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Ohio State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q21066601",
+      "name": "Clayton Rose",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21066601",
+        "name": "Clayton Rose",
+        "dateOfBirth": null,
+        "birthPlace": "San Rafael",
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Pennsylvania",
+          "University of Chicago",
+          "Booth School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Harvard Business School",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

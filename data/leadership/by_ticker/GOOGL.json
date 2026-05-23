@@ -1,0 +1,113 @@
+{
+  "ticker": "GOOGL",
+  "fetchedAt": "2026-05-23T04:26:40.499934Z",
+  "people": [
+    {
+      "qid": "Q3503829",
+      "name": "Sundar Pichai",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3503829",
+        "name": "Sundar Pichai",
+        "dateOfBirth": "1972-06-10",
+        "birthPlace": "Madurai",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundar%20Pichai%20-%202023%20%28cropped%29.jpg",
+        "occupations": [
+          "chief executive officer",
+          "executive",
+          "computer scientist"
+        ],
+        "education": [
+          "Vanavani Matriculation Higher Secondary School",
+          "Prince Matriculation Higher Secondary School",
+          "The Wharton School",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Google",
+            "start": "2004-01-01",
+            "end": null
+          },
+          {
+            "company": "Alphabet Inc.",
+            "start": "2019-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2019-12-03",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-08-10",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4934",
+      "name": "Larry Page",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q4934",
+        "name": "Larry Page",
+        "dateOfBirth": "1973-03-26",
+        "birthPlace": "East Lansing",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Page%20in%20the%20European%20Parliament%2C%2017.06.2009.jpg",
+        "occupations": [
+          "entrepreneur",
+          "computer scientist",
+          "engineer"
+        ],
+        "education": [
+          "Interlochen Center for the Arts",
+          "East Lansing High School",
+          "University of Michigan",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Google",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1998-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-08-01",
+            "end": "2019-12-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-04-04",
+            "end": "2015-08-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}
