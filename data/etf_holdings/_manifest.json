@@ -1,90 +1,90 @@
 {
-  "generatedAt": "2026-05-22T04:51:53.280301Z",
+  "generatedAt": "2026-05-23T02:25:18.311864Z",
   "etfs": {
     "IVV": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:51:54.708830Z"
+      "msg": "both strategies failed (issuer: empty/10443811B)",
+      "fetchedAt": "2026-05-23T02:25:20.186148Z"
     },
     "IJH": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:51:56.248528Z"
+      "msg": "both strategies failed (issuer: empty/10339700B)",
+      "fetchedAt": "2026-05-23T02:25:22.138387Z"
     },
     "IJR": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:51:57.779471Z"
+      "msg": "both strategies failed (issuer: empty/10318442B)",
+      "fetchedAt": "2026-05-23T02:25:23.856892Z"
     },
     "IWM": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:51:59.790043Z"
+      "msg": "both strategies failed (issuer: empty/10302571B)",
+      "fetchedAt": "2026-05-23T02:25:25.983576Z"
     },
     "IWD": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:02.314607Z"
+      "msg": "both strategies failed (issuer: empty/10292726B)",
+      "fetchedAt": "2026-05-23T02:25:28.077990Z"
     },
     "IWF": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:04.393713Z"
+      "msg": "both strategies failed (issuer: empty/10324372B)",
+      "fetchedAt": "2026-05-23T02:25:29.896617Z"
     },
     "EFA": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:07.355516Z"
+      "msg": "both strategies failed (issuer: empty/10258907B)",
+      "fetchedAt": "2026-05-23T02:25:31.966798Z"
     },
     "EEM": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:09.483304Z"
+      "msg": "both strategies failed (issuer: empty/10177755B)",
+      "fetchedAt": "2026-05-23T02:25:34.642859Z"
     },
     "AGG": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:11.956592Z"
+      "msg": "both strategies failed (issuer: empty/10261113B)",
+      "fetchedAt": "2026-05-23T02:25:37.241234Z"
     },
     "TLT": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:14.062823Z"
+      "msg": "both strategies failed (issuer: empty/10271637B)",
+      "fetchedAt": "2026-05-23T02:25:38.841023Z"
     },
     "IEF": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:16.532215Z"
+      "msg": "both strategies failed (issuer: empty/10273243B)",
+      "fetchedAt": "2026-05-23T02:25:41.074225Z"
     },
     "SHY": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:18.783973Z"
+      "msg": "both strategies failed (issuer: empty/10274358B)",
+      "fetchedAt": "2026-05-23T02:25:42.762705Z"
     },
     "LQD": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:21.122779Z"
+      "msg": "both strategies failed (issuer: empty/10258190B)",
+      "fetchedAt": "2026-05-23T02:25:44.518630Z"
     },
     "HYG": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:23.299179Z"
+      "msg": "both strategies failed (issuer: empty/9963719B)",
+      "fetchedAt": "2026-05-23T02:25:46.756614Z"
     },
     "TIP": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:25.327411Z"
+      "msg": "both strategies failed (issuer: empty/10228072B)",
+      "fetchedAt": "2026-05-23T02:25:48.608631Z"
     },
     "IYR": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:27.127445Z"
+      "msg": "both strategies failed (issuer: empty/10278626B)",
+      "fetchedAt": "2026-05-23T02:25:50.513998Z"
     },
     "IYT": {
       "ok": false,
-      "msg": "parser returned no holdings",
-      "fetchedAt": "2026-05-22T04:52:29.292165Z"
+      "msg": "both strategies failed (issuer: empty/9579571B)",
+      "fetchedAt": "2026-05-23T02:25:53.633865Z"
     }
   }
 }
