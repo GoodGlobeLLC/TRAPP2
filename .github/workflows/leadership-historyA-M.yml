@@ -1,0 +1,79 @@
+name: Leadership History Refresh A-M (Weekly)
+
+# Runs CEO/leadership career history fetch (Wikidata) for tickers starting
+# with letters A through M, weekly on Monday 04:00 UTC.
+#
+# This workflow + leadership-history-nz.yml together cover all tickers.
+# The split keeps each run well under GitHub Actions' 60-minute soft cap
+# even when the population doubles (Wikidata averages 1.5s/query + 1.5s for
+# the career fetch, so ~3s per person; a few hundred people ÷ 2 keeps us
+# in safe territory).
+#
+# Why a single-letter split (A-M vs N-Z) instead of round-robin or chunking
+# by count: it's deterministic, easy to reason about in logs, and lets each
+# workflow finish independently if the other fails.
+
+on:
+  schedule:
+    - cron: '0 4 ? * MON'  # Every Monday 04:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: trapp2-leadership-am
+  cancel-in-progress: false
+
+jobs:
+  refresh-leadership-am:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Fetch CEO/leadership career history A-M (Wikidata)
+        run: |
+          echo "=== company files in scope (A-M) ==="
+          ls data/company/ | grep -v '^_' | awk 'toupper(substr($0,1,1)) >= "A" && toupper(substr($0,1,1)) <= "M"' | wc -l
+          echo "tickers"
+          echo "=== running fetch_ceo_tracker.py --start A --end M ==="
+          python pipeline/fetch_ceo_tracker.py --start A --end M || echo "CEO tracker A-M had errors but continuing"
+          echo "=== leadership files after run ==="
+          ls -la data/leadership/by_ticker/ 2>/dev/null | wc -l || echo "no by_ticker dir"
+          ls -la data/leadership/by_person/ 2>/dev/null | wc -l || echo "no by_person dir"
+
+      - name: Commit & push
+        # Pull --rebase before commit because the N-Z workflow may have written
+        # to the same _manifest.json file. The script's merge-on-write logic
+        # handles content-level merging; here we just need git to accept the
+        # parallel commits.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/leadership/
+          echo "=== git status before commit ==="
+          git status --short
+          if git diff --staged --quiet; then
+            echo "No leadership A-M changes to commit"
+          else
+            git commit -m "Leadership history refresh A-M $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3 4 5; do
+              if git push; then
+                echo "Push succeeded on attempt $i"
+                break
+              fi
+              echo "Push attempt $i failed, rebasing and retrying"
+              git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
+              sleep 5
+            done
+          fi
