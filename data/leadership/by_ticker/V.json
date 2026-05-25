@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-05-23T04:26:40.529056Z",
+  "fetchedAt": "2026-05-25T10:25:25.550075Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,11 +17,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -30,6 +25,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
@@ -277,8 +277,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
           "chief executive officer",
-          "chairperson",
-          "businessperson"
+          "businessperson",
+          "chairperson"
         ],
         "education": [
           "Thunderbird School of Global Management",
@@ -288,6 +288,11 @@
         ],
         "employers": [
           {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -296,11 +301,6 @@
             "company": "SEAT",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -465,14 +465,9 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1982-01-01",
-            "end": "1984-01-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1975-01-01",
-            "end": "1982-01-01"
+            "company": "Nestl\u00e9",
+            "start": "1984-01-01",
+            "end": "1995-01-01"
           },
           {
             "company": "Kraft Foods Inc.",
@@ -485,9 +480,14 @@
             "end": "2018-05-01"
           },
           {
-            "company": "Nestl\u00e9",
-            "start": "1984-01-01",
-            "end": "1995-01-01"
+            "company": "PepsiCo",
+            "start": "1982-01-01",
+            "end": "1984-01-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1975-01-01",
+            "end": "1982-01-01"
           }
         ],
         "positions": [
@@ -602,11 +602,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -615,6 +610,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [

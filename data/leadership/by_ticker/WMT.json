@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-05-23T04:26:40.531517Z",
+  "fetchedAt": "2026-05-25T10:25:25.552747Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -41,8 +41,8 @@
           "chairperson"
         ],
         "education": [
-          "Georgetown University",
           "Stanford University",
+          "Georgetown University",
           "San Marino High School"
         ],
         "employers": [],
@@ -94,11 +94,6 @@
         ],
         "employers": [
           {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
-          },
-          {
             "company": "Yahoo",
             "start": "2012-07-16",
             "end": "2017-06-01"
@@ -107,6 +102,11 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
+          },
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
           }
         ],
         "positions": [
@@ -140,8 +140,8 @@
           "chairperson"
         ],
         "education": [
-          "Georgetown University",
           "Stanford University",
+          "Georgetown University",
           "San Marino High School"
         ],
         "employers": [],
@@ -239,8 +239,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
         "occupations": [],
         "education": [
-          "The Wharton School",
-          "Harvard University"
+          "Harvard University",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -322,8 +322,8 @@
           "business executive"
         ],
         "education": [
-          "St Anne's College",
-          "Stanford University"
+          "Stanford University",
+          "St Anne's College"
         ],
         "employers": [],
         "positions": []
@@ -375,8 +375,8 @@
         "birthPlace": "Bentonville",
         "image": null,
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Georgetown University Law Center",

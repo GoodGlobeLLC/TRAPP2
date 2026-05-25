@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-05-23T04:26:40.524098Z",
+  "fetchedAt": "2026-05-25T10:25:25.545000Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,8 +18,8 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -140,9 +140,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -188,21 +188,21 @@
           "lawyer"
         ],
         "education": [
-          "James B. Dudley High School",
           "Brown University",
+          "James B. Dudley High School",
           "John F. Kennedy School of Government",
           "Harvard Law School"
         ],
         "employers": [
           {
-            "company": "BET",
+            "company": "Ad Council",
             "start": null,
             "end": null
           },
           {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Monsanto",
@@ -215,6 +215,16 @@
             "end": null
           },
           {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Revlon",
             "start": null,
             "end": null
@@ -223,16 +233,6 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -306,8 +306,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
-          "Princeton University"
+          "Princeton University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -348,8 +348,8 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -440,8 +440,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "entrepreneur",
-          "film producer"
+          "film producer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University"

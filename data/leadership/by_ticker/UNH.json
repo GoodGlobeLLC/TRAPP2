@@ -1,6 +1,6 @@
 {
   "ticker": "UNH",
-  "fetchedAt": "2026-05-23T04:26:40.527960Z",
+  "fetchedAt": "2026-05-25T10:25:25.548909Z",
   "people": [
     {
       "qid": "Q18121649",
@@ -14,23 +14,13 @@
         "birthPlace": "England",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AndrewWitty%20in%202023.jpg",
         "occupations": [
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "University of Nottingham"
         ],
         "employers": [
-          {
-            "company": "University of Nottingham",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": "1985-01-01",
-            "end": "2017-01-01"
-          },
           {
             "company": "Optum",
             "start": "2018-03-01",
@@ -40,6 +30,16 @@
             "company": "UnitedHealth Group",
             "start": "2021-02-04",
             "end": null
+          },
+          {
+            "company": "University of Nottingham",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
+            "start": "1985-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -230,9 +230,9 @@
         "birthPlace": "Macon",
         "image": null,
         "occupations": [
+          "scientist",
           "obstetrician",
           "gynecologist",
-          "scientist",
           "physician"
         ],
         "education": [
@@ -308,23 +308,13 @@
         "birthPlace": "England",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AndrewWitty%20in%202023.jpg",
         "occupations": [
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "University of Nottingham"
         ],
         "employers": [
-          {
-            "company": "University of Nottingham",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": "1985-01-01",
-            "end": "2017-01-01"
-          },
           {
             "company": "Optum",
             "start": "2018-03-01",
@@ -334,6 +324,16 @@
             "company": "UnitedHealth Group",
             "start": "2021-02-04",
             "end": null
+          },
+          {
+            "company": "University of Nottingham",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
+            "start": "1985-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -399,8 +399,8 @@
         "birthPlace": "Elmira",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Baker%20official%20photo%20%28cropped%29.jpg",
         "occupations": [
-          "governor",
           "politician",
+          "governor",
           "businessperson"
         ],
         "education": [

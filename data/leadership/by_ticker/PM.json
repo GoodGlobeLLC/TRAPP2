@@ -1,6 +1,6 @@
 {
   "ticker": "PM",
-  "fetchedAt": "2026-05-23T04:26:40.518331Z",
+  "fetchedAt": "2026-05-25T10:25:25.538631Z",
   "people": [
     {
       "qid": "Q106755529",
@@ -43,8 +43,8 @@
         "birthPlace": "Liverpool",
         "image": null,
         "occupations": [
-          "patron of the arts",
-          "businessperson"
+          "businessperson",
+          "patron of the arts"
         ],
         "education": [
           "University of Cambridge"
@@ -84,8 +84,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "patron of the arts",
           "art collector",
+          "patron of the arts",
           "businessperson",
           "military officer",
           "merchant"
@@ -273,8 +273,8 @@
         "birthPlace": "San Salvador",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daboub%2C%20Juan%20Jos%C3%A9%20%28IMF%20portrait%2C%202008%29.jpg",
         "occupations": [
-          "politician",
-          "businessperson"
+          "businessperson",
+          "politician"
         ],
         "education": [
           "North Carolina State University"
@@ -298,10 +298,10 @@
           "entrepreneur"
         ],
         "education": [
-          "T\u00e9l\u00e9com Paris",
-          "Paris Dauphine University",
           "Conservatoire national des Arts et M\u00e9tiers",
           "\u00c9cole polytechnique",
+          "T\u00e9l\u00e9com Paris",
+          "Paris Dauphine University",
           "Lyc\u00e9e Louis-le-Grand"
         ],
         "employers": [
