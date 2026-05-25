@@ -6,8 +6,8 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
   "occupations": [
     "business executive",
-    "social worker",
     "sociologist",
+    "social worker",
     "politician"
   ],
   "education": [
@@ -16,6 +16,16 @@
     "Xavier University of Louisiana"
   ],
   "employers": [
+    {
+      "company": "Cummins",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Toyota",
+      "start": "2006-01-01",
+      "end": null
+    },
     {
       "company": "The Coca-Cola Company",
       "start": "2001-01-01",
@@ -34,16 +44,6 @@
     {
       "company": "Sodexo",
       "start": null,
-      "end": null
-    },
-    {
-      "company": "Cummins",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Toyota",
-      "start": "2006-01-01",
       "end": null
     },
     {

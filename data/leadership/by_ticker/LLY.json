@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-05-23T04:26:40.506399Z",
+  "fetchedAt": "2026-05-25T09:02:20.849648Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -176,8 +176,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Law School",
           "Harvard Business School",
+          "Harvard Law School",
           "Princeton University"
         ],
         "employers": [
@@ -374,8 +374,8 @@
         "image": null,
         "occupations": [
           "basketball player",
-          "businessperson",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -553,14 +553,14 @@
           "crossword creator"
         ],
         "education": [
-          "Yale University",
-          "Harvard University"
+          "Harvard University",
+          "Yale University"
         ],
         "employers": [
           {
-            "company": "National Bureau of Economic Research",
-            "start": "2001-01-01",
-            "end": null
+            "company": "Council of Economic Advisers",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
           },
           {
             "company": "University of California, Los Angeles",
@@ -568,9 +568,9 @@
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
+            "company": "National Bureau of Economic Research",
+            "start": "2001-01-01",
+            "end": null
           },
           {
             "company": "University of Chicago",
@@ -625,11 +625,6 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
             "end": null
@@ -637,6 +632,11 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
             "end": null
           }
         ],

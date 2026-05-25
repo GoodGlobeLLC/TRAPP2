@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-05-23T04:26:40.505543Z",
+  "fetchedAt": "2026-05-25T09:02:20.848721Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -50,8 +50,8 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "merchant",
           "businessperson",
+          "merchant",
           "entrepreneur"
         ],
         "education": [
@@ -73,8 +73,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -177,11 +177,11 @@
           "pediatrician"
         ],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health",
           "Johns Hopkins University",
           "Barnard College",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Perelman School of Medicine at the University of Pennsylvania",
+          "Johns Hopkins Bloomberg School of Public Health"
         ],
         "employers": [
           {
@@ -227,8 +227,8 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "film producer",
           "business executive",
+          "film producer",
           "entrepreneur"
         ],
         "education": [
@@ -267,8 +267,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "banker",
+          "businessperson",
           "economist"
         ],
         "education": [
@@ -303,8 +303,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
           "business executive",
-          "social worker",
           "sociologist",
+          "social worker",
           "politician"
         ],
         "education": [
@@ -313,6 +313,16 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -331,16 +341,6 @@
           {
             "company": "Sodexo",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
             "end": null
           },
           {

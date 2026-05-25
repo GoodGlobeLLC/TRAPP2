@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-05-23T04:26:40.499079Z",
+  "fetchedAt": "2026-05-25T09:02:20.841002Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -117,10 +117,10 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Toronto",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "University of California, Berkeley",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "engineer",
           "politician",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -254,11 +254,21 @@
           "business executive"
         ],
         "education": [
+          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "eBay",
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Hasbro",
             "start": null,
@@ -282,16 +292,6 @@
           {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
-            "end": null
-          },
-          {
-            "company": "eBay",
-            "start": "1998-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": null,
             "end": null
           },
           {
@@ -320,12 +320,6 @@
             "end": null
           },
           {
-            "title": "founder",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "chief executive officer",
             "company": null,
             "start": "1998-01-01",
@@ -339,6 +333,12 @@
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "founder",
             "company": null,
             "start": null,
             "end": null
@@ -481,8 +481,8 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "chief executive officer"
         ],
         "education": [

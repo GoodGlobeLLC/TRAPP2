@@ -10,11 +10,21 @@
     "business executive"
   ],
   "education": [
+    "Princeton University",
     "Cold Spring Harbor Jr./Sr. High School",
-    "Harvard Business School",
-    "Princeton University"
+    "Harvard Business School"
   ],
   "employers": [
+    {
+      "company": "eBay",
+      "start": "1998-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Hasbro",
       "start": null,
@@ -38,16 +48,6 @@
     {
       "company": "Procter & Gamble",
       "start": "1979-01-01",
-      "end": null
-    },
-    {
-      "company": "eBay",
-      "start": "1998-01-01",
-      "end": "2008-01-01"
-    },
-    {
-      "company": "The Walt Disney Company",
-      "start": null,
       "end": null
     },
     {
@@ -76,12 +76,6 @@
       "end": null
     },
     {
-      "title": "founder",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
       "title": "chief executive officer",
       "company": null,
       "start": "1998-01-01",
@@ -95,6 +89,12 @@
     },
     {
       "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "founder",
       "company": null,
       "start": null,
       "end": null

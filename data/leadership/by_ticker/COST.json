@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-05-23T04:26:40.490226Z",
+  "fetchedAt": "2026-05-25T09:02:20.830218Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -118,8 +118,8 @@
         "birthPlace": "Wyandotte",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Choate Rosemary Hall",
@@ -272,9 +272,9 @@
         "birthPlace": "Nebraska",
         "image": null,
         "occupations": [
+          "businessperson",
           "computer scientist",
-          "chief executive officer",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
           "Stanford University"
@@ -477,6 +477,11 @@
         ],
         "employers": [
           {
+            "company": "Mobil",
+            "start": "1978-01-01",
+            "end": "1981-01-01"
+          },
+          {
             "company": "Security Pacific Bank",
             "start": null,
             "end": null
@@ -490,26 +495,9 @@
             "company": "Washington Mutual",
             "start": "1995-01-01",
             "end": "2000-01-01"
-          },
-          {
-            "company": "Mobil",
-            "start": "1978-01-01",
-            "end": "1981-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1996-01-01",
-            "end": "2000-01-01"
-          },
-          {
-            "title": "United States Secretary of the Interior",
-            "company": null,
-            "start": "2013-04-12",
-            "end": "2017-01-20"
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -521,6 +509,18 @@
             "company": null,
             "start": "2020-01-01",
             "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "title": "United States Secretary of the Interior",
+            "company": null,
+            "start": "2013-04-12",
+            "end": "2017-01-20"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-05-23T04:26:40.477132Z",
+  "fetchedAt": "2026-05-25T09:02:20.815519Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -85,8 +85,8 @@
         ],
         "education": [
           "University of Zimbabwe",
-          "Keble College",
-          "University of Oxford"
+          "University of Oxford",
+          "Keble College"
         ],
         "employers": [
           {
@@ -163,13 +163,13 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
           "computer scientist",
+          "business executive",
           "businessperson"
         ],
         "education": [
-          "Boston Latin Academy",
-          "Harvard University"
+          "Harvard University",
+          "Boston Latin Academy"
         ],
         "employers": [
           {
@@ -266,9 +266,14 @@
         ],
         "employers": [
           {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
+            "company": "Warnaco Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Henri Bendel",
+            "start": "1996-01-01",
+            "end": "1998-01-01"
           },
           {
             "company": "Kate Spade & Company",
@@ -281,19 +286,14 @@
             "end": "1996-01-01"
           },
           {
-            "company": "Warnaco Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Henri Bendel",
-            "start": "1996-01-01",
-            "end": "1998-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "2014-05-01",
             "end": "2019-05-01"
+          },
+          {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
           }
         ],
         "positions": [
@@ -419,13 +419,13 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
           "computer scientist",
+          "business executive",
           "businessperson"
         ],
         "education": [
-          "Boston Latin Academy",
-          "Harvard University"
+          "Harvard University",
+          "Boston Latin Academy"
         ],
         "employers": [
           {

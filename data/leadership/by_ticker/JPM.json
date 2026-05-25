@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-05-23T04:26:40.504410Z",
+  "fetchedAt": "2026-05-25T09:02:20.847355Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,19 +19,14 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
           {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           },
           {
             "company": "JPMorgan Chase",
@@ -44,9 +39,14 @@
             "end": null
           },
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -208,9 +208,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -285,15 +285,15 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
+          "Weatherhead School of Management",
           "Emory University",
           "Georgetown University",
-          "Weatherhead School of Management"
+          "Case Western Reserve University",
+          "Georgetown University Law Center"
         ],
         "employers": [],
         "positions": [
@@ -461,8 +461,8 @@
           "businessperson"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -505,19 +505,14 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
           {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           },
           {
             "company": "JPMorgan Chase",
@@ -530,9 +525,14 @@
             "end": null
           },
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -558,8 +558,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

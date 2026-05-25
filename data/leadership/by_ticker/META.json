@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-05-23T04:26:40.509703Z",
+  "fetchedAt": "2026-05-25T09:02:20.853543Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,11 +14,11 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
+          "patron of the arts",
           "computer scientist",
           "philanthropist",
-          "patron of the arts",
-          "programmer",
           "entrepreneur",
+          "programmer",
           "chief executive officer"
         ],
         "education": [
@@ -26,8 +26,8 @@
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -58,8 +58,8 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -88,8 +88,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "politician",
-          "diplomat"
+          "diplomat",
+          "politician"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -136,15 +136,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
+          "technology entrepreneur",
+          "computer scientist",
           "manager",
+          "investor",
+          "chess player",
           "financier",
           "banker",
-          "investor",
-          "technology entrepreneur",
-          "writer",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "Stanford Law School",
@@ -261,8 +261,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -331,12 +331,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -363,20 +363,10 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -391,6 +381,16 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
           },
           {
             "company": "General Motors",
@@ -485,12 +485,12 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
           "blogger",
+          "programmer",
           "software engineer",
-          "inventor",
           "investor",
           "engineer",
+          "inventor",
           "entrepreneur",
           "computer scientist"
         ],
@@ -532,11 +532,11 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
+          "patron of the arts",
           "computer scientist",
           "philanthropist",
-          "patron of the arts",
-          "programmer",
           "entrepreneur",
+          "programmer",
           "chief executive officer"
         ],
         "education": [
@@ -544,8 +544,8 @@
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
@@ -579,8 +579,8 @@
           "angel investor"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Graduate School of Education"
+          "Harvard Graduate School of Education",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -604,11 +604,11 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
+          "patron of the arts",
           "computer scientist",
           "philanthropist",
-          "patron of the arts",
-          "programmer",
           "entrepreneur",
+          "programmer",
           "chief executive officer"
         ],
         "education": [
@@ -616,8 +616,8 @@
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Phillips Exeter Academy",
-          "Harvard University"
+          "Harvard University",
+          "Phillips Exeter Academy"
         ],
         "employers": [
           {
