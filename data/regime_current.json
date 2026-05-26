@@ -4,9 +4,9 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.367,
-    "liquidity": 0.345,
-    "volatility": 0.702,
-    "valuation": -0.364,
+    "liquidity": 0.356,
+    "volatility": 0.713,
+    "valuation": -0.366,
     "trend": 0.754,
     "breadth": 0.636,
     "commodity": 0.29,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.516,
-    "risk_on_melt_up": 0.3708,
-    "inflation_shock": 0.0024,
+    "expansion": 0.5145,
+    "risk_on_melt_up": 0.3752,
+    "inflation_shock": 0.0023,
     "recession_fear": 0.0,
     "risk_off": 0.0006,
-    "neutral": 0.1101
+    "neutral": 0.1074
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.702,
+      "score": 0.713,
       "confidence": 1.0,
-      "weight": 0.702,
+      "weight": 0.713,
       "direction": "bullish"
     },
     {
@@ -61,19 +61,19 @@
     },
     "liquidity": {
       "t10y2y": 0.43,
-      "hy_spread": 2.78,
-      "hy_spread_z": -0.98,
+      "hy_spread": 2.74,
+      "hy_spread_z": -1.06,
       "hyg_minus_lqd_1m": 0.0059
     },
     "volatility": {
-      "vix_level": 16.76,
-      "vix9d_over_vix": 0.8395
+      "vix_level": 16.59,
+      "vix9d_over_vix": 0.8481
     },
     "valuation": {
-      "spy_pe": 28.01,
-      "earnings_yield": 0.0357,
+      "spy_pe": 28.19,
+      "earnings_yield": 0.0355,
       "real_10y": 0.0062,
-      "fed_model_spread": 0.0295
+      "fed_model_spread": 0.0292
     },
     "trend": {
       "spy_price": 745.64,
@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-05-26T04:52:22+00:00",
+  "computed_at": "2026-05-26T18:09:41+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.5,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 4,
   "transition_warning": "Only 4 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-05-26T04:52:22+00:00"
+  "transitions_computed_at": "2026-05-26T18:09:41+00:00"
 }
