@@ -4,9 +4,9 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.378,
-    "liquidity": 0.25,
-    "volatility": 0.687,
-    "valuation": -0.36,
+    "liquidity": 0.253,
+    "volatility": 0.732,
+    "valuation": -0.361,
     "trend": 0.795,
     "breadth": 0.636,
     "commodity": 0.289,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.536,
-    "risk_on_melt_up": 0.3211,
-    "inflation_shock": 0.0037,
+    "expansion": 0.5321,
+    "risk_on_melt_up": 0.3325,
+    "inflation_shock": 0.0033,
     "recession_fear": 0.0,
-    "risk_off": 0.0011,
-    "neutral": 0.138
+    "risk_off": 0.001,
+    "neutral": 0.1311
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.687,
+      "score": 0.732,
       "confidence": 1.0,
-      "weight": 0.687,
+      "weight": 0.732,
       "direction": "bullish"
     },
     {
@@ -61,19 +61,19 @@
     },
     "liquidity": {
       "t10y2y": 0.48,
-      "hy_spread": 2.72,
-      "hy_spread_z": -1.1,
+      "hy_spread": 2.71,
+      "hy_spread_z": -1.12,
       "hyg_minus_lqd_1m": -0.0014
     },
     "volatility": {
-      "vix_level": 17.01,
-      "vix9d_over_vix": 0.7801
+      "vix_level": 16.29,
+      "vix9d_over_vix": 0.8146
     },
     "valuation": {
-      "spy_pe": 28.18,
-      "earnings_yield": 0.0355,
+      "spy_pe": 28.25,
+      "earnings_yield": 0.0354,
       "real_10y": 0.0055,
-      "fed_model_spread": 0.03
+      "fed_model_spread": 0.0299
     },
     "trend": {
       "spy_price": 750.46,
@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-05-28T04:57:42+00:00",
+  "computed_at": "2026-05-28T18:23:28+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.5833,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 6,
   "transition_warning": "Only 6 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-05-28T04:57:42+00:00"
+  "transitions_computed_at": "2026-05-28T18:23:28+00:00"
 }
