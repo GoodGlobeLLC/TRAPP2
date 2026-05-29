@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-05-29T08:06:15.280416Z",
+  "fetchedAt": "2026-05-29T08:42:07.596527Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -17,9 +17,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Perelman School of Medicine at the University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -37,8 +37,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "director",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "Northwestern University",
@@ -185,8 +185,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lars-rebien-s%C3%B8rensen.jpg",
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Royal Veterinary and Agricultural University",
@@ -281,9 +281,9 @@
           "writer"
         ],
         "education": [
-          "Georgetown University Law Center",
+          "Walsh School of Foreign Service",
           "Harvard University",
-          "Walsh School of Foreign Service"
+          "Georgetown University Law Center"
         ],
         "employers": [
           {

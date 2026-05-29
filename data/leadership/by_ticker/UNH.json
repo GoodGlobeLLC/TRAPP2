@@ -1,6 +1,6 @@
 {
   "ticker": "UNH",
-  "fetchedAt": "2026-05-29T08:06:15.283355Z",
+  "fetchedAt": "2026-05-29T08:42:07.599329Z",
   "people": [
     {
       "qid": "Q18121649",
@@ -22,16 +22,6 @@
         ],
         "employers": [
           {
-            "company": "University of Nottingham",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": "1985-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "Optum",
             "start": "2018-03-01",
             "end": "2021-02-01"
@@ -40,6 +30,16 @@
             "company": "UnitedHealth Group",
             "start": "2021-02-04",
             "end": null
+          },
+          {
+            "company": "University of Nottingham",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
+            "start": "1985-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -316,16 +316,6 @@
         ],
         "employers": [
           {
-            "company": "University of Nottingham",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": "1985-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "Optum",
             "start": "2018-03-01",
             "end": "2021-02-01"
@@ -334,6 +324,16 @@
             "company": "UnitedHealth Group",
             "start": "2021-02-04",
             "end": null
+          },
+          {
+            "company": "University of Nottingham",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
+            "start": "1985-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -399,8 +399,8 @@
         "birthPlace": "Elmira",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Baker%20official%20photo%20%28cropped%29.jpg",
         "occupations": [
-          "governor",
           "politician",
+          "governor",
           "businessperson"
         ],
         "education": [

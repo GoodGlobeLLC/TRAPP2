@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-05-29T08:06:15.281378Z",
+  "fetchedAt": "2026-05-29T08:42:07.597461Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,44 +14,29 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "dub actor",
-          "investor",
-          "financier",
-          "programmer",
           "technology entrepreneur",
-          "civil servant",
-          "entrepreneur",
-          "inventor",
+          "programmer",
+          "dub actor",
+          "financier",
           "engineer",
+          "investor",
+          "entrepreneur",
+          "civil servant",
+          "inventor",
           "politician"
         ],
         "education": [
+          "Queen's University",
+          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
+          "Stanford University",
           "University of Pennsylvania",
-          "Stanford University"
+          "University of Pretoria"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "SolarCity",
-            "start": null,
-            "end": null
-          },
           {
             "company": "JACKIE AI",
             "start": "2015-12-11",
@@ -63,13 +48,28 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SolarCity",
+            "start": null,
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -134,26 +134,11 @@
           "entrepreneur"
         ],
         "education": [
+          "Georges River College",
           "University of New South Wales",
-          "University of Sydney",
-          "Georges River College"
+          "University of Sydney"
         ],
         "employers": [
-          {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Tesla",
             "start": "2014-01-01",
@@ -175,24 +160,27 @@
             "end": null
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -204,6 +192,18 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
           }
         ]
       }
@@ -291,9 +291,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "businessperson",
           "chief technology officer",
-          "inventor"
+          "inventor",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -331,9 +331,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -438,26 +438,11 @@
           "entrepreneur"
         ],
         "education": [
+          "Georges River College",
           "University of New South Wales",
-          "University of Sydney",
-          "Georges River College"
+          "University of Sydney"
         ],
         "employers": [
-          {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Tesla",
             "start": "2014-01-01",
@@ -479,24 +464,27 @@
             "end": null
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -508,6 +496,18 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
           }
         ]
       }
@@ -524,44 +524,29 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "dub actor",
-          "investor",
-          "financier",
-          "programmer",
           "technology entrepreneur",
-          "civil servant",
-          "entrepreneur",
-          "inventor",
+          "programmer",
+          "dub actor",
+          "financier",
           "engineer",
+          "investor",
+          "entrepreneur",
+          "civil servant",
+          "inventor",
           "politician"
         ],
         "education": [
+          "Queen's University",
+          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
+          "Stanford University",
           "University of Pennsylvania",
-          "Stanford University"
+          "University of Pretoria"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "SolarCity",
-            "start": null,
-            "end": null
-          },
           {
             "company": "JACKIE AI",
             "start": "2015-12-11",
@@ -573,13 +558,28 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SolarCity",
+            "start": null,
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -641,9 +641,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "businessperson",
           "actor"
         ],
         "education": [
@@ -703,13 +703,13 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "publisher",
           "karateka",
-          "businessperson"
+          "businessperson",
+          "publisher"
         ],
         "education": [
-          "Harvard University",
-          "Horace Mann School"
+          "Horace Mann School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [

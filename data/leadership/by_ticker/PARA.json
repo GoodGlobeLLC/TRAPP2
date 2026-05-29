@@ -1,6 +1,6 @@
 {
   "ticker": "PARA",
-  "fetchedAt": "2026-05-29T08:06:15.269918Z",
+  "fetchedAt": "2026-05-29T08:42:07.585643Z",
   "people": [
     {
       "qid": "Q6195201",
@@ -17,9 +17,9 @@
           "general manager"
         ],
         "education": [
+          "Boston University",
           "Fordham University School of Law",
-          "New York University School of Law",
-          "Boston University"
+          "New York University School of Law"
         ],
         "employers": [],
         "positions": []
@@ -37,16 +37,11 @@
         "birthPlace": "Ricse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Zukor%201921.jpg",
         "occupations": [
-          "film producer",
-          "film director"
+          "film director",
+          "film producer"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Paramount Pictures",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Famous Players-Lasky Corporation",
             "start": "1916-01-01",
@@ -56,6 +51,11 @@
             "company": "Famous Players Film Company",
             "start": "1912-01-01",
             "end": "1916-01-01"
+          },
+          {
+            "company": "Paramount Pictures",
+            "start": null,
+            "end": null
           }
         ],
         "positions": []
