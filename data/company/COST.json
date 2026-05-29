@@ -1,7 +1,7 @@
 {
   "ticker": "COST",
   "qid": "Q715583",
-  "fetchedAt": "2026-05-23T02:41:01.842275Z",
+  "fetchedAt": "2026-05-29T08:28:12.999948Z",
   "source": "wikidata",
   "name": "Costco",
   "description": "American multinational chain of membership-only stores",
@@ -43,6 +43,18 @@
       "role": "Board Member"
     },
     {
+      "name": "Sally Jewell",
+      "role": "Board Member"
+    },
+    {
+      "name": "W. Craig Jelinek",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charlie Munger",
+      "role": "Board Member"
+    },
+    {
       "name": "Ron Vachris",
       "role": "Board Member"
     },
@@ -56,18 +68,6 @@
     },
     {
       "name": "Ken Denman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Sally Jewell",
-      "role": "Board Member"
-    },
-    {
-      "name": "W. Craig Jelinek",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charlie Munger",
       "role": "Board Member"
     }
   ],
@@ -86,10 +86,10 @@
   ],
   "countries": [
     {
-      "name": "Canada"
+      "name": "United States"
     },
     {
-      "name": "United States"
+      "name": "Canada"
     }
   ]
 }

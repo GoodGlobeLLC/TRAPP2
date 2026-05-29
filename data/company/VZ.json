@@ -1,7 +1,7 @@
 {
   "ticker": "VZ",
   "qid": "Q467752",
-  "fetchedAt": "2026-05-23T02:59:16.788382Z",
+  "fetchedAt": "2026-05-29T08:41:07.816063Z",
   "source": "wikidata",
   "name": "Verizon",
   "description": "American broadband and telecommunications company",
@@ -10,7 +10,7 @@
   "inception": "1983-10-07",
   "employees": 132200,
   "industry": "telecommunications",
-  "headquarters": "New York City",
+  "headquarters": "Philadelphia",
   "executives": [
     {
       "name": "Hans Vestberg",
@@ -18,6 +18,26 @@
     }
   ],
   "board": [
+    {
+      "name": "Greg Weaver",
+      "role": "Board Member"
+    },
+    {
+      "name": "Melanie Healey",
+      "role": "Board Member"
+    },
+    {
+      "name": "Roxanne Austin",
+      "role": "Board Member"
+    },
+    {
+      "name": "Laxman Narasimhan",
+      "role": "Board Member"
+    },
+    {
+      "name": "Carol Tom\u00e9",
+      "role": "Board Member"
+    },
     {
       "name": "Shellye Archambeau",
       "role": "Board Member"
@@ -40,26 +60,6 @@
     },
     {
       "name": "Hans Vestberg",
-      "role": "Board Member"
-    },
-    {
-      "name": "Greg Weaver",
-      "role": "Board Member"
-    },
-    {
-      "name": "Melanie Healey",
-      "role": "Board Member"
-    },
-    {
-      "name": "Roxanne Austin",
-      "role": "Board Member"
-    },
-    {
-      "name": "Laxman Narasimhan",
-      "role": "Board Member"
-    },
-    {
-      "name": "Carol Tom\u00e9",
       "role": "Board Member"
     }
   ],

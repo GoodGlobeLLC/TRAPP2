@@ -1,7 +1,7 @@
 {
   "ticker": "UBER",
   "qid": "Q780442",
-  "fetchedAt": "2026-05-23T03:13:37.238820Z",
+  "fetchedAt": "2026-05-29T08:50:34.950468Z",
   "source": "wikidata",
   "name": "Uber",
   "description": "peer-to-peer ridesharing, food delivery, and transportation network company headquartered in San Francisco, California",
@@ -43,18 +43,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Dara Khosrowshahi",
-      "role": "Board Member"
-    },
-    {
-      "name": "John Alexander Thain",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ursula Burns",
-      "role": "Board Member"
-    },
-    {
       "name": "Tony West",
       "role": "Board Member"
     },
@@ -69,6 +57,18 @@
     {
       "name": "Jill Hazelbaker",
       "role": "Board Member"
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "role": "Board Member"
+    },
+    {
+      "name": "John Alexander Thain",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ursula Burns",
+      "role": "Board Member"
     }
   ],
   "founders": [
@@ -82,52 +82,37 @@
   "products": [],
   "countries": [
     {
-      "name": "Ciudad Real"
-    },
-    {
-      "name": "Ponferrada"
-    },
-    {
       "name": "Teruel"
-    },
-    {
-      "name": "Granada"
-    },
-    {
-      "name": "Vielha e Mijaran"
-    },
-    {
-      "name": "Huesca"
-    },
-    {
-      "name": "Avignon"
     },
     {
       "name": "Soria"
     },
     {
-      "name": "Elche"
-    },
-    {
-      "name": "Jerez de la Frontera"
-    },
-    {
-      "name": "San Sebasti\u00e1n"
-    },
-    {
       "name": "Miranda de Ebro"
     },
     {
-      "name": "Tortosa"
-    },
-    {
-      "name": "Santander"
+      "name": "Ciudad Real"
     },
     {
       "name": "M\u00e9rida"
     },
     {
-      "name": "Glasgow"
+      "name": "Burgos"
+    },
+    {
+      "name": "Vitoria-Gasteiz"
+    },
+    {
+      "name": "Blanes"
+    },
+    {
+      "name": "Huesca"
+    },
+    {
+      "name": "Nantes"
+    },
+    {
+      "name": "Murcia"
     },
     {
       "name": "Santiago de Compostela"
@@ -136,34 +121,7 @@
       "name": "Vic"
     },
     {
-      "name": "Vitoria-Gasteiz"
-    },
-    {
-      "name": "Pamplona"
-    },
-    {
-      "name": "Murcia"
-    },
-    {
-      "name": "Vigo"
-    },
-    {
-      "name": "Burgos"
-    },
-    {
-      "name": "Nantes"
-    },
-    {
       "name": "Antwerp"
-    },
-    {
-      "name": "Ronda"
-    },
-    {
-      "name": "Ceuta"
-    },
-    {
-      "name": "Toulouse"
     },
     {
       "name": "Winterthur"
@@ -172,16 +130,13 @@
       "name": "Seville"
     },
     {
-      "name": "Madrid"
+      "name": "Alicante"
     },
     {
-      "name": "Blanes"
+      "name": "Ronda"
     },
     {
-      "name": "Orl\u00e9ans"
-    },
-    {
-      "name": "Montpellier"
+      "name": "Tortosa"
     },
     {
       "name": "M\u00e1laga"
@@ -190,55 +145,115 @@
       "name": "Cardiff"
     },
     {
-      "name": "Bilbao"
-    },
-    {
-      "name": "Belfast"
-    },
-    {
-      "name": "Munich"
-    },
-    {
-      "name": "Valencia"
-    },
-    {
-      "name": "Alicante"
-    },
-    {
-      "name": "Figueres"
-    },
-    {
-      "name": "Rostock"
-    },
-    {
-      "name": "C\u00f3rdoba"
-    },
-    {
-      "name": "Ghent"
+      "name": "Vielha e Mijaran"
     },
     {
       "name": "Strasbourg"
     },
     {
-      "name": "D\u00fcsseldorf"
+      "name": "Jerez de la Frontera"
     },
     {
-      "name": "Birmingham"
+      "name": "Belfast"
     },
     {
-      "name": "Bordeaux"
+      "name": "Montpellier"
     },
     {
-      "name": "Mannheim"
+      "name": "Granada"
+    },
+    {
+      "name": "Ponferrada"
+    },
+    {
+      "name": "Elche"
+    },
+    {
+      "name": "Toulouse"
+    },
+    {
+      "name": "Santander"
+    },
+    {
+      "name": "San Sebasti\u00e1n"
+    },
+    {
+      "name": "Bilbao"
+    },
+    {
+      "name": "Figueres"
+    },
+    {
+      "name": "Pamplona"
+    },
+    {
+      "name": "Vigo"
     },
     {
       "name": "Frankfurt"
     },
     {
+      "name": "Valencia"
+    },
+    {
+      "name": "Avignon"
+    },
+    {
+      "name": "Glasgow"
+    },
+    {
+      "name": "Rostock"
+    },
+    {
+      "name": "Ceuta"
+    },
+    {
+      "name": "Helsinki"
+    },
+    {
+      "name": "Birmingham"
+    },
+    {
+      "name": "C\u00f3rdoba"
+    },
+    {
+      "name": "Barcelona"
+    },
+    {
+      "name": "Munich"
+    },
+    {
+      "name": "Mannheim"
+    },
+    {
+      "name": "Madrid"
+    },
+    {
+      "name": "Orl\u00e9ans"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "D\u00fcsseldorf"
+    },
+    {
+      "name": "Stuttgart"
+    },
+    {
+      "name": "Bordeaux"
+    },
+    {
       "name": "Hanover"
     },
     {
-      "name": "Argentina"
+      "name": "Lyon"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "India"
     },
     {
       "name": "Rennes"
@@ -247,106 +262,64 @@
       "name": "Grenoble"
     },
     {
-      "name": "Ivory Coast"
-    },
-    {
       "name": "Lausanne"
-    },
-    {
-      "name": "Hamburg"
-    },
-    {
-      "name": "Lyon"
-    },
-    {
-      "name": "Helsinki"
-    },
-    {
-      "name": "Petrer"
-    },
-    {
-      "name": "Stuttgart"
-    },
-    {
-      "name": "Cambridge"
-    },
-    {
-      "name": "India"
-    },
-    {
-      "name": "Amsterdam"
-    },
-    {
-      "name": "Barcelona"
-    },
-    {
-      "name": "Tours"
-    },
-    {
-      "name": "Germany"
     },
     {
       "name": "Lille"
     },
     {
-      "name": "Ontinyent"
+      "name": "Valdepe\u00f1as"
     },
     {
-      "name": "Chiva"
+      "name": "Ghent"
     },
     {
-      "name": "Cologne"
+      "name": "Amsterdam"
     },
     {
-      "name": "Malta"
-    },
-    {
-      "name": "Cullera"
-    },
-    {
-      "name": "Calafell"
-    },
-    {
-      "name": "Australia"
+      "name": "Hamburg"
     },
     {
       "name": "Brussels"
     },
     {
-      "name": "Alzira"
+      "name": "Cologne"
     },
     {
-      "name": "Villena"
+      "name": "Germany"
     },
     {
-      "name": "Aranda de Duero"
+      "name": "Argentina"
     },
     {
-      "name": "United Kingdom"
+      "name": "Yecla"
     },
     {
-      "name": "Basel"
+      "name": "Vinar\u00f2s"
     },
     {
-      "name": "France"
+      "name": "Tours"
     },
     {
-      "name": "Don Benito"
+      "name": "Cambridge"
     },
     {
-      "name": "Puente Genil"
+      "name": "Malta"
     },
     {
       "name": "Romania"
     },
     {
-      "name": "Paris"
+      "name": "Petrer"
+    },
+    {
+      "name": "El Puerto de Santa Mar\u00eda"
     },
     {
       "name": "Ukraine"
     },
     {
-      "name": "Alcoy"
+      "name": "Zurich"
     },
     {
       "name": "Conil de la Frontera"
@@ -355,7 +328,25 @@
       "name": "Mieres"
     },
     {
-      "name": "Langreo"
+      "name": "home counties"
+    },
+    {
+      "name": "Paris"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "East Anglia"
+    },
+    {
+      "name": "Antequera"
+    },
+    {
+      "name": "Villena"
+    },
+    {
+      "name": "Aranda de Duero"
     },
     {
       "name": "And\u00fajar"
@@ -364,58 +355,28 @@
       "name": "Lucena"
     },
     {
-      "name": "London"
-    },
-    {
-      "name": "Antequera"
-    },
-    {
-      "name": "Vilafranca / Villafranca del Cid"
-    },
-    {
-      "name": "Tudela"
-    },
-    {
-      "name": "home counties"
-    },
-    {
       "name": "Arcos de la Frontera"
     },
     {
-      "name": "Portugal"
+      "name": "Cullera"
     },
     {
-      "name": "Yecla"
+      "name": "Calafell"
     },
     {
-      "name": "East Anglia"
+      "name": "Ontinyent"
     },
     {
-      "name": "Netherlands"
+      "name": "Chiva"
     },
     {
-      "name": "Algeciras"
+      "name": "Alzira"
     },
     {
-      "name": "\u00dabeda"
-    },
-    {
-      "name": "Vinar\u00f2s"
-    },
-    {
-      "name": "Valdepe\u00f1as"
-    },
-    {
-      "name": "Linares"
-    },
-    {
-      "name": "Geneva"
+      "name": "Langreo"
     },
     {
       "name": "Baza"
-    },
-    {
-      "name": "Stoke-on-Trent"
     },
     {
       "name": "Plasencia"
@@ -424,22 +385,34 @@
       "name": "Puertollano"
     },
     {
-      "name": "Zurich"
+      "name": "La Palma"
     },
     {
-      "name": "Berlin"
+      "name": "Fuerteventura"
     },
     {
-      "name": "Bern"
+      "name": "Geneva"
     },
     {
-      "name": "Greece"
+      "name": "United Kingdom"
     },
     {
-      "name": "Brighton"
+      "name": "Don Benito"
     },
     {
-      "name": "Kingston upon Hull"
+      "name": "Puente Genil"
+    },
+    {
+      "name": "Linares"
+    },
+    {
+      "name": "Tudela"
+    },
+    {
+      "name": "Vilafranca / Villafranca del Cid"
+    },
+    {
+      "name": "Alcoy"
     },
     {
       "name": "Talavera de la Reina"
@@ -448,52 +421,100 @@
       "name": "Leicester"
     },
     {
-      "name": "Lanzarote"
-    },
-    {
-      "name": "Austria"
-    },
-    {
-      "name": "El Puerto de Santa Mar\u00eda"
+      "name": "Zug"
     },
     {
       "name": "Sion"
     },
     {
-      "name": "Hasselt"
+      "name": "Motril"
+    },
+    {
+      "name": "Lanzarote"
+    },
+    {
+      "name": "Algeciras"
+    },
+    {
+      "name": "\u00dabeda"
+    },
+    {
+      "name": "London"
+    },
+    {
+      "name": "Stoke-on-Trent"
+    },
+    {
+      "name": "Basel"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Berlin"
+    },
+    {
+      "name": "Lorca"
     },
     {
       "name": "Leuven"
     },
     {
-      "name": "Motril"
+      "name": "Brighton"
     },
     {
-      "name": "La Palma"
-    },
-    {
-      "name": "Fuerteventura"
-    },
-    {
-      "name": "Ibiza"
+      "name": "Bern"
     },
     {
       "name": "York"
     },
     {
-      "name": "Zug"
-    },
-    {
-      "name": "Oulu"
-    },
-    {
       "name": "Reims"
+    },
+    {
+      "name": "Hasselt"
+    },
+    {
+      "name": "Austria"
     },
     {
       "name": "Guadalajara Province"
     },
     {
+      "name": "Kingston upon Hull"
+    },
+    {
+      "name": "Oulu"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Toulon"
+    },
+    {
+      "name": "Turku"
+    },
+    {
+      "name": "Menorca"
+    },
+    {
       "name": "Sheffield"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Fribourg"
+    },
+    {
+      "name": "Nottingham"
+    },
+    {
+      "name": "Ibiza"
     },
     {
       "name": "Italy"
@@ -502,85 +523,46 @@
       "name": "Finland"
     },
     {
-      "name": "Lorca"
-    },
-    {
-      "name": "Lithuania"
-    },
-    {
-      "name": "Switzerland"
-    },
-    {
-      "name": "Menorca"
+      "name": "Poland"
     },
     {
       "name": "Nice"
     },
     {
-      "name": "Toulon"
-    },
-    {
-      "name": "Manchester"
-    },
-    {
-      "name": "Poland"
-    },
-    {
-      "name": "Nottingham"
-    },
-    {
-      "name": "United States"
-    },
-    {
-      "name": "Sweden"
-    },
-    {
       "name": "Clermont-Ferrand"
-    },
-    {
-      "name": "Gandia"
-    },
-    {
-      "name": "Nancy"
-    },
-    {
-      "name": "Igualada"
-    },
-    {
-      "name": "Luxembourg"
-    },
-    {
-      "name": "Belgium"
     },
     {
       "name": "Tampere"
     },
     {
-      "name": "Norway"
+      "name": "Nancy"
     },
     {
-      "name": "Le\u00f3n"
+      "name": "Belgium"
     },
     {
-      "name": "Ireland"
+      "name": "Sweden"
     },
     {
-      "name": "Turku"
+      "name": "Lithuania"
     },
     {
-      "name": "Rouen"
+      "name": "Gandia"
     },
     {
       "name": "Leeds"
     },
     {
-      "name": "Salamanca"
+      "name": "United States"
     },
     {
       "name": "Marseille"
     },
     {
-      "name": "Fribourg"
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Igualada"
     },
     {
       "name": "Merseyside"
@@ -589,13 +571,31 @@
       "name": "\u00c1vila"
     },
     {
-      "name": "Spain"
-    },
-    {
       "name": "Edinburgh"
     },
     {
       "name": "Sussex"
+    },
+    {
+      "name": "Le\u00f3n"
+    },
+    {
+      "name": "Rouen"
+    },
+    {
+      "name": "Manchester"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Salamanca"
     },
     {
       "name": "Badajoz"

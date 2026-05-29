@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-05-23T02:20:11.075544Z",
+  "fetchedAt": "2026-05-29T08:14:20.021866Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -9,7 +9,7 @@
   "isin": "US0231351067",
   "inception": "1994-07-05",
   "employees": 1500000,
-  "industry": "web hosting service",
+  "industry": "retail",
   "headquarters": "Seattle",
   "executives": [
     {
@@ -59,15 +59,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Edith Cooper",
-      "role": "Board Member"
-    },
-    {
       "name": "Jeff Bezos",
       "role": "Board Member"
     },
     {
       "name": "Indra Nooyi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Edith Cooper",
       "role": "Board Member"
     },
     {
@@ -81,6 +81,12 @@
     }
   ],
   "products": [
+    {
+      "name": "IMDb"
+    },
+    {
+      "name": "Alexa Internet"
+    },
     {
       "name": "Amazon.com"
     },
@@ -109,16 +115,10 @@
       "name": "Amazon S3"
     },
     {
-      "name": "IMDb"
-    },
-    {
       "name": "Amazon Web Services"
     },
     {
       "name": "Amazon Appstore"
-    },
-    {
-      "name": "Alexa Internet"
     }
   ],
   "countries": []

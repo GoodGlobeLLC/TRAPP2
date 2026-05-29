@@ -1,7 +1,7 @@
 {
   "ticker": "MSFT",
   "qid": "Q2283",
-  "fetchedAt": "2026-05-23T02:19:49.944834Z",
+  "fetchedAt": "2026-05-29T08:13:59.179299Z",
   "source": "wikidata",
   "name": "Microsoft",
   "description": "American multinational technology corporation",
@@ -9,7 +9,7 @@
   "isin": "US5949181045",
   "inception": "1975-04-04",
   "employees": 228000,
-  "industry": "technology industry",
+  "industry": "software industry",
   "headquarters": "Redmond",
   "executives": [
     {
@@ -65,10 +65,10 @@
   ],
   "founders": [
     {
-      "name": "Paul Allen"
+      "name": "Bill Gates"
     },
     {
-      "name": "Bill Gates"
+      "name": "Paul Allen"
     }
   ],
   "products": [
@@ -88,13 +88,13 @@
       "name": "Microsoft Surface"
     },
     {
+      "name": "Microsoft Bing"
+    },
+    {
       "name": "Visual Studio"
     },
     {
       "name": "Skype"
-    },
-    {
-      "name": "Microsoft Bing"
     },
     {
       "name": "computer hardware"

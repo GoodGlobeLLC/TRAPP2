@@ -1,7 +1,7 @@
 {
   "ticker": "ACN",
   "qid": "Q338825",
-  "fetchedAt": "2026-05-23T02:31:23.113364Z",
+  "fetchedAt": "2026-05-29T08:21:27.515044Z",
   "source": "wikidata",
   "name": "Accenture",
   "description": "multinational management consulting, technology services and outsourcing company",
@@ -18,18 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Gilles P\u00e9lisson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Arun Sarin",
-      "role": "Board Member"
-    },
-    {
-      "name": "Nancy McKinstry",
-      "role": "Board Member"
-    },
     {
       "name": "Tracey Travis",
       "role": "Board Member"
@@ -51,6 +39,18 @@
       "role": "Board Member"
     },
     {
+      "name": "Gilles P\u00e9lisson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Arun Sarin",
+      "role": "Board Member"
+    },
+    {
+      "name": "Nancy McKinstry",
+      "role": "Board Member"
+    },
+    {
       "name": "Venkata Renduchintala",
       "role": "Board Member"
     },
@@ -67,73 +67,73 @@
   "products": [],
   "countries": [
     {
-      "name": "Ireland"
-    },
-    {
-      "name": "Mauritius"
-    },
-    {
-      "name": "Philippines"
-    },
-    {
-      "name": "Bangladesh"
-    },
-    {
-      "name": "India"
-    },
-    {
-      "name": "Argentina"
-    },
-    {
-      "name": "Australia"
-    },
-    {
-      "name": "Czech Republic"
-    },
-    {
-      "name": "Romania"
-    },
-    {
-      "name": "Slovakia"
-    },
-    {
-      "name": "Latvia"
-    },
-    {
       "name": "Malaysia"
     },
     {
       "name": "Costa Rica"
     },
     {
-      "name": "Germany"
+      "name": "Ireland"
     },
     {
-      "name": "Brazil"
+      "name": "Mauritius"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "India"
     },
     {
       "name": "United Kingdom"
     },
     {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Australia"
+    },
+    {
       "name": "France"
     },
     {
-      "name": "Mexico"
+      "name": "Germany"
     },
     {
-      "name": "Portugal"
+      "name": "Czech Republic"
     },
     {
       "name": "Netherlands"
     },
     {
-      "name": "Greece"
-    },
-    {
-      "name": "Austria"
+      "name": "Brazil"
     },
     {
       "name": "Switzerland"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Austria"
     },
     {
       "name": "Italy"
@@ -145,10 +145,10 @@
       "name": "Sweden"
     },
     {
-      "name": "Luxembourg"
+      "name": "United States"
     },
     {
-      "name": "Spain"
+      "name": "Luxembourg"
     },
     {
       "name": "Norway"
@@ -157,7 +157,7 @@
       "name": "Belgium"
     },
     {
-      "name": "United States"
+      "name": "Spain"
     }
   ]
 }

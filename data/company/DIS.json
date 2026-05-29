@@ -1,7 +1,7 @@
 {
   "ticker": "DIS",
   "qid": "Q7414",
-  "fetchedAt": "2026-05-23T02:55:51.254191Z",
+  "fetchedAt": "2026-05-29T08:38:23.625854Z",
   "source": "wikidata",
   "name": "The Walt Disney Company",
   "description": "American multinational mass media company",
@@ -9,15 +9,11 @@
   "isin": "US2546871060",
   "inception": "1923-10-16",
   "employees": 201000,
-  "industry": "film industry",
+  "industry": "amusement park",
   "headquarters": "Burbank",
   "executives": [
     {
-      "name": "Michael Eisner",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Bob Iger",
+      "name": "Walt Disney",
       "role": "Chief Executive Officer"
     },
     {
@@ -33,6 +29,14 @@
       "role": "Chief Executive Officer"
     },
     {
+      "name": "Michael Eisner",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Bob Iger",
+      "role": "Chief Executive Officer"
+    },
+    {
       "name": "Donn Tatum",
       "role": "Chief Executive Officer"
     },
@@ -45,31 +49,11 @@
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Walt Disney",
-      "role": "Chief Executive Officer"
-    },
-    {
       "name": "Susan Arnold",
       "role": "Chairperson"
     }
   ],
   "board": [
-    {
-      "name": "Caroline Leonetti Ahmanson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Michael Froman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mary Barra",
-      "role": "Board Member"
-    },
-    {
-      "name": "Maria Elena Lagomasino",
-      "role": "Board Member"
-    },
     {
       "name": "Francis deSouza",
       "role": "Board Member"
@@ -84,6 +68,22 @@
     },
     {
       "name": "Safra Catz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Caroline Leonetti Ahmanson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Michael Froman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mary Barra",
+      "role": "Board Member"
+    },
+    {
+      "name": "Maria Elena Lagomasino",
       "role": "Board Member"
     },
     {
@@ -113,16 +113,16 @@
   ],
   "products": [
     {
-      "name": "video game"
-    },
-    {
-      "name": "software"
+      "name": "broadcasting"
     },
     {
       "name": "music"
     },
     {
-      "name": "broadcasting"
+      "name": "video game"
+    },
+    {
+      "name": "software"
     }
   ],
   "countries": [

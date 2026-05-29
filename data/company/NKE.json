@@ -1,7 +1,7 @@
 {
   "ticker": "NKE",
   "qid": "Q483915",
-  "fetchedAt": "2026-05-23T02:33:02.613306Z",
+  "fetchedAt": "2026-05-29T08:22:11.076668Z",
   "source": "wikidata",
   "name": "Nike",
   "description": "American athletic equipment company",
@@ -9,7 +9,7 @@
   "isin": "US6541061031",
   "inception": "1964-01-25",
   "employees": 76700,
-  "industry": "industrial sector",
+  "industry": "retail",
   "headquarters": "Beaverton",
   "executives": [
     {
@@ -18,6 +18,18 @@
     }
   ],
   "board": [
+    {
+      "name": "Tim Cook",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mark Parker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Phil Knight",
+      "role": "Board Member"
+    },
     {
       "name": "Michelle Peluso",
       "role": "Board Member"
@@ -52,18 +64,6 @@
     },
     {
       "name": "John Donahoe",
-      "role": "Board Member"
-    },
-    {
-      "name": "Tim Cook",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mark Parker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Phil Knight",
       "role": "Board Member"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "AXP",
   "qid": "Q194360",
-  "fetchedAt": "2026-05-23T02:37:52.779163Z",
+  "fetchedAt": "2026-05-29T08:25:36.864667Z",
   "source": "wikidata",
   "name": "American Express",
   "description": "American multinational financial services corporation",
@@ -19,23 +19,23 @@
   ],
   "board": [
     {
+      "name": "Peter Chernin",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ralph de la Vega",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ted Leonsis",
+      "role": "Board Member"
+    },
+    {
       "name": "John Brennan",
       "role": "Board Member"
     },
     {
       "name": "Charles Phillips",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mike Leavitt",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charlene Barshefsky",
-      "role": "Board Member"
-    },
-    {
-      "name": "Dan Vasella",
       "role": "Board Member"
     },
     {
@@ -67,15 +67,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Peter Chernin",
+      "name": "Mike Leavitt",
       "role": "Board Member"
     },
     {
-      "name": "Ralph de la Vega",
+      "name": "Charlene Barshefsky",
       "role": "Board Member"
     },
     {
-      "name": "Ted Leonsis",
+      "name": "Dan Vasella",
       "role": "Board Member"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "KO",
   "qid": "Q3295867",
-  "fetchedAt": "2026-05-23T02:41:22.200928Z",
+  "fetchedAt": "2026-05-29T08:28:29.416381Z",
   "source": "wikidata",
   "name": "The Coca-Cola Company",
   "description": "American multinational beverage corporation",
@@ -18,10 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Marc Bolland",
-      "role": "Board Member"
-    },
     {
       "name": "James Quincey",
       "role": "Board Member"
@@ -40,6 +36,10 @@
     },
     {
       "name": "Helene D. Gayle",
+      "role": "Board Member"
+    },
+    {
+      "name": "Marc Bolland",
       "role": "Board Member"
     },
     {
@@ -87,19 +87,19 @@
       "name": "Diet Coke"
     },
     {
-      "name": "Sprite"
-    },
-    {
       "name": "Coca-Cola"
     },
     {
-      "name": "soft drink"
+      "name": "Sprite"
     },
     {
       "name": "alcoholic beverage"
     },
     {
       "name": "Fanta Orange"
+    },
+    {
+      "name": "soft drink"
     }
   ],
   "countries": []

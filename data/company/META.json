@@ -1,7 +1,7 @@
 {
   "ticker": "META",
   "qid": "Q380",
-  "fetchedAt": "2026-05-23T02:20:07.290364Z",
+  "fetchedAt": "2026-05-29T08:14:15.510234Z",
   "source": "wikidata",
   "name": "Meta",
   "description": "American technology company",
@@ -18,22 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Drew Houston",
-      "role": "Board Member"
-    },
-    {
-      "name": "Robert M. Kimmitt",
-      "role": "Board Member"
-    },
-    {
-      "name": "Peter Thiel",
-      "role": "Board Member"
-    },
-    {
-      "name": "Sheryl Sandberg",
-      "role": "Board Member"
-    },
     {
       "name": "Tracey Travis",
       "role": "Board Member"
@@ -59,6 +43,22 @@
       "role": "Board Member"
     },
     {
+      "name": "Drew Houston",
+      "role": "Board Member"
+    },
+    {
+      "name": "Robert M. Kimmitt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Peter Thiel",
+      "role": "Board Member"
+    },
+    {
+      "name": "Sheryl Sandberg",
+      "role": "Board Member"
+    },
+    {
       "name": "Marc Andreessen",
       "role": "Board Member"
     },
@@ -69,13 +69,13 @@
   ],
   "founders": [
     {
-      "name": "Dustin Moskovitz"
-    },
-    {
       "name": "\u0628\u0646 \u0645\u0646\u0634\u0644\u064a\u0646"
     },
     {
       "name": "Chris Hughes"
+    },
+    {
+      "name": "Dustin Moskovitz"
     },
     {
       "name": "Eduardo Saverin"
@@ -89,13 +89,13 @@
       "name": "Messenger"
     },
     {
+      "name": "software"
+    },
+    {
       "name": "Facebook Custom Audience"
     },
     {
       "name": "Meta pixel"
-    },
-    {
-      "name": "software"
     }
   ],
   "countries": []

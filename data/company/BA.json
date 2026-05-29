@@ -1,137 +1,72 @@
 {
   "ticker": "BA",
-  "qid": "Q66",
-  "fetchedAt": "2026-05-23T02:35:49.052827Z",
+  "qid": "Q8766",
+  "fetchedAt": "2026-05-29T08:23:35.233971Z",
   "source": "wikidata",
-  "name": "Boeing",
-  "description": "American global aerospace and defense corporation",
-  "website": "https://boeing.com/",
-  "isin": "US0970231058",
-  "inception": "1916-07-15",
-  "employees": 171000,
-  "industry": "aerospace industry",
-  "headquarters": "Chicago",
+  "name": "British Airways",
+  "description": "flag carrier airline of the United Kingdom",
+  "website": "https://britishairways.com/",
+  "isin": "GB0001290575",
+  "inception": "1919-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "London",
   "executives": [
     {
-      "name": "Kelly Ortberg",
+      "name": "Sean Doyle",
       "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Keith Williams",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Roy Thomas Watts",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Ross Stainton",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "\u00c1lex Cruz",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Rod Eddington",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Robert Ayling",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Willie Walsh",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+      "role": "Chairperson"
+    },
+    {
+      "name": "David Nicolson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "John King, Baron King of Wartnaby",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Martin Broughton",
+      "role": "Chairperson"
     }
   ],
-  "board": [
-    {
-      "name": "Dave Gitlin",
-      "role": "Board Member"
-    },
-    {
-      "name": "David Joyce",
-      "role": "Board Member"
-    },
-    {
-      "name": "Lynne Doughtie",
-      "role": "Board Member"
-    },
-    {
-      "name": "Akhil Johri",
-      "role": "Board Member"
-    },
-    {
-      "name": "Stayce Harris",
-      "role": "Board Member"
-    },
-    {
-      "name": "Steve Mollenkopf",
-      "role": "Board Member"
-    },
-    {
-      "name": "Robert A. Bradway",
-      "role": "Board Member"
-    },
-    {
-      "name": "Lynn Good",
-      "role": "Board Member"
-    },
-    {
-      "name": "Dave Calhoun",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ron Williams",
-      "role": "Board Member"
-    },
-    {
-      "name": "Larry Kellner",
-      "role": "Board Member"
-    },
-    {
-      "name": "John M. Richardson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Edmund Giambastiani",
-      "role": "Board Member"
-    }
-  ],
-  "founders": [
-    {
-      "name": "William Boeing"
-    }
-  ],
-  "products": [
-    {
-      "name": "space technology"
-    },
-    {
-      "name": "Boeing C-17 Globemaster III"
-    },
-    {
-      "name": "Boeing CH-47 Chinook"
-    },
-    {
-      "name": "Hughes AH-64 Apache"
-    },
-    {
-      "name": "McDonnell Douglas F/A-18 Hornet"
-    },
-    {
-      "name": "Boeing 787 Dreamliner"
-    },
-    {
-      "name": "Boeing 720"
-    },
-    {
-      "name": "Boeing P-8 Poseidon"
-    },
-    {
-      "name": "Boeing 727"
-    },
-    {
-      "name": "Boeing 777"
-    },
-    {
-      "name": "Boeing 707"
-    },
-    {
-      "name": "McDonnell Douglas F-15 Eagle"
-    },
-    {
-      "name": "Boeing 767"
-    },
-    {
-      "name": "Boeing 757"
-    },
-    {
-      "name": "Boeing 717"
-    },
-    {
-      "name": "Boeing 737"
-    },
-    {
-      "name": "Boeing 747"
-    }
-  ],
-  "countries": [
-    {
-      "name": "worldwide"
-    }
-  ]
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

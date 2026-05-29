@@ -1,7 +1,7 @@
 {
   "ticker": "JPM",
   "qid": "Q192314",
-  "fetchedAt": "2026-05-23T02:36:42.704592Z",
+  "fetchedAt": "2026-05-29T08:24:28.839409Z",
   "source": "wikidata",
   "name": "JPMorgan Chase",
   "description": "American multinational banking and financial services holding company",
@@ -18,6 +18,22 @@
     }
   ],
   "board": [
+    {
+      "name": "Todd Combs",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mellody Hobson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Phebe Novakovic",
+      "role": "Board Member"
+    },
+    {
+      "name": "Steve Burke",
+      "role": "Board Member"
+    },
     {
       "name": "Mike Neal",
       "role": "Board Member"
@@ -47,22 +63,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Todd Combs",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mellody Hobson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Phebe Novakovic",
-      "role": "Board Member"
-    },
-    {
-      "name": "Steve Burke",
-      "role": "Board Member"
-    },
-    {
       "name": "Jamie Dimon",
       "role": "Board Member"
     },
@@ -74,13 +74,13 @@
   "founders": [],
   "products": [
     {
+      "name": "insurance"
+    },
+    {
       "name": "bank credit"
     },
     {
       "name": "asset management"
-    },
-    {
-      "name": "insurance"
     }
   ],
   "countries": []

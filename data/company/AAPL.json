@@ -1,7 +1,7 @@
 {
   "ticker": "AAPL",
   "qid": "Q312",
-  "fetchedAt": "2026-05-23T02:19:45.095876Z",
+  "fetchedAt": "2026-05-29T08:13:54.148445Z",
   "source": "wikidata",
   "name": "Apple Inc.",
   "description": "American multinational technology company based in Cupertino, California",
@@ -9,7 +9,7 @@
   "isin": "US0378331005",
   "inception": "1976-04-01",
   "employees": 164000,
-  "industry": "software development",
+  "industry": "mobile phone industry",
   "headquarters": "Cupertino",
   "executives": [
     {
@@ -35,15 +35,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Al Gore",
-      "role": "Board Member"
-    },
-    {
       "name": "Arthur D. Levinson",
       "role": "Board Member"
     },
     {
       "name": "Andrea Jung",
+      "role": "Board Member"
+    },
+    {
+      "name": "Al Gore",
       "role": "Board Member"
     }
   ],
@@ -63,19 +63,13 @@
       "name": "HomePod"
     },
     {
-      "name": "Apple TV"
-    },
-    {
-      "name": "Mac"
+      "name": "tablet computer"
     },
     {
       "name": "AirPods"
     },
     {
       "name": "Apple Pay"
-    },
-    {
-      "name": "smartphone"
     },
     {
       "name": "wearable computer"
@@ -90,13 +84,19 @@
       "name": "networking hardware"
     },
     {
+      "name": "Apple TV"
+    },
+    {
       "name": "peripheral"
     },
     {
       "name": "personal digital assistant"
     },
     {
-      "name": "tablet computer"
+      "name": "Mac"
+    },
+    {
+      "name": "smartphone"
     },
     {
       "name": "personal computer"
@@ -105,19 +105,19 @@
       "name": "iPod touch"
     },
     {
+      "name": "IPod"
+    },
+    {
       "name": "iMac"
     },
     {
-      "name": "IPod"
+      "name": "software"
     },
     {
       "name": "computer hardware"
     },
     {
       "name": "iPhone"
-    },
-    {
-      "name": "software"
     }
   ],
   "countries": [

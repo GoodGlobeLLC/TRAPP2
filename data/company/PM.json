@@ -1,7 +1,7 @@
 {
   "ticker": "PM",
   "qid": "Q1852556",
-  "fetchedAt": "2026-05-23T02:41:45.874910Z",
+  "fetchedAt": "2026-05-29T08:28:51.050343Z",
   "source": "wikidata",
   "name": "Philip Morris International",
   "description": "American global cigarette and tobacco company",
@@ -26,6 +26,14 @@
     }
   ],
   "board": [
+    {
+      "name": "Juan Jos\u00e9 Daboub",
+      "role": "Board Member"
+    },
+    {
+      "name": "Michel Combes",
+      "role": "Board Member"
+    },
     {
       "name": "Bonin Bough",
       "role": "Board Member"
@@ -55,14 +63,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Juan Jos\u00e9 Daboub",
-      "role": "Board Member"
-    },
-    {
-      "name": "Michel Combes",
-      "role": "Board Member"
-    },
-    {
       "name": "Jacek Olczak",
       "role": "Board Member"
     }
@@ -86,13 +86,13 @@
       "name": "art patronage"
     },
     {
-      "name": "electronic cigarette"
-    },
-    {
       "name": "cigarette"
     },
     {
       "name": "cigar"
+    },
+    {
+      "name": "electronic cigarette"
     }
   ],
   "countries": []

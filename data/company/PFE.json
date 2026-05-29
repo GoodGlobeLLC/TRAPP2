@@ -1,7 +1,7 @@
 {
   "ticker": "PFE",
   "qid": "Q206921",
-  "fetchedAt": "2026-05-23T02:43:34.489630Z",
+  "fetchedAt": "2026-05-29T08:30:24.092296Z",
   "source": "wikidata",
   "name": "Pfizer",
   "description": "American multinational pharmaceutical and biotechnology corporation",
@@ -18,6 +18,14 @@
     }
   ],
   "board": [
+    {
+      "name": "Scott Gottlieb",
+      "role": "Board Member"
+    },
+    {
+      "name": "James Quincey",
+      "role": "Board Member"
+    },
     {
       "name": "Ronald E. Blaylock",
       "role": "Board Member"
@@ -65,31 +73,17 @@
     {
       "name": "James C. Smith",
       "role": "Board Member"
-    },
-    {
-      "name": "Scott Gottlieb",
-      "role": "Board Member"
-    },
-    {
-      "name": "James Quincey",
-      "role": "Board Member"
     }
   ],
   "founders": [
     {
-      "name": "Charles Pfizer"
+      "name": "Charles F. Erhart"
     },
     {
-      "name": "Charles F. Erhart"
+      "name": "Charles Pfizer"
     }
   ],
   "products": [
-    {
-      "name": "fluconazole"
-    },
-    {
-      "name": "sildenafil"
-    },
     {
       "name": "pharmaceutical product"
     },
@@ -98,6 +92,12 @@
     },
     {
       "name": "Pfizer\u2013BioNTech COVID-19 vaccine"
+    },
+    {
+      "name": "fluconazole"
+    },
+    {
+      "name": "sildenafil"
     }
   ],
   "countries": []

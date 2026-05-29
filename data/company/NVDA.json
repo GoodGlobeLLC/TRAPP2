@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "qid": "Q182477",
-  "fetchedAt": "2026-05-23T02:19:54.853074Z",
+  "fetchedAt": "2026-05-29T08:14:03.980088Z",
   "source": "wikidata",
   "name": "Nvidia",
   "description": "American multinational technology company",
@@ -10,7 +10,7 @@
   "inception": "1993-04-05",
   "employees": 13775,
   "industry": "semiconductor industry",
-  "headquarters": "Santa Clara",
+  "headquarters": "California",
   "executives": [
     {
       "name": "Jensen Huang",
@@ -18,6 +18,14 @@
     }
   ],
   "board": [
+    {
+      "name": "Rob Burgess",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mark Stevens",
+      "role": "Board Member"
+    },
     {
       "name": "A. Brooke Seawell",
       "role": "Board Member"
@@ -55,14 +63,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Rob Burgess",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mark Stevens",
-      "role": "Board Member"
-    },
-    {
       "name": "John O. Dabiri",
       "role": "Board Member"
     },
@@ -88,10 +88,10 @@
   ],
   "products": [
     {
-      "name": "graphics processing unit"
+      "name": "chipset"
     },
     {
-      "name": "chipset"
+      "name": "graphics processing unit"
     },
     {
       "name": "software"
