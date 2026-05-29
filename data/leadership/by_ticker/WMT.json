@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-05-25T10:25:25.552747Z",
+  "fetchedAt": "2026-05-29T08:06:15.287602Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -14,8 +14,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -94,6 +94,11 @@
         ],
         "employers": [
           {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
+          },
+          {
             "company": "Yahoo",
             "start": "2012-07-16",
             "end": "2017-06-01"
@@ -102,11 +107,6 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
-          },
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
           }
         ],
         "positions": [
@@ -160,8 +160,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -211,10 +211,10 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
-          "University of Virginia",
           "Miami Coral Park High School",
-          "University of Virginia Darden School of Business"
+          "University of Virginia Darden School of Business",
+          "United States Naval Academy",
+          "University of Virginia"
         ],
         "employers": [
           {
@@ -239,8 +239,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
         "occupations": [],
         "education": [
-          "Harvard University",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -322,8 +322,8 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
-          "St Anne's College"
+          "St Anne's College",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

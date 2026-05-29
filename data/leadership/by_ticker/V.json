@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-05-25T10:25:25.550075Z",
+  "fetchedAt": "2026-05-29T08:06:15.284560Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,6 +17,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -25,11 +30,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
@@ -222,9 +222,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
           "manager",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -244,14 +244,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -276,9 +276,9 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
+          "chairperson",
           "chief executive officer",
-          "businessperson",
-          "chairperson"
+          "businessperson"
         ],
         "education": [
           "Thunderbird School of Global Management",
@@ -288,11 +288,6 @@
         ],
         "employers": [
           {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
-          },
-          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -301,6 +296,11 @@
             "company": "SEAT",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -456,9 +456,9 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
+          "businessperson",
           "chief executive officer",
-          "merchant",
-          "businessperson"
+          "merchant"
         ],
         "education": [
           "Boston College"
@@ -602,6 +602,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -610,11 +615,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [

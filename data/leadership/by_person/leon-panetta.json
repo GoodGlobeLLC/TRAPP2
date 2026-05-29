@@ -5,17 +5,17 @@
   "birthPlace": "Monterey",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
   "occupations": [
-    "Oberleutnant",
-    "lawyer",
-    "jurist",
-    "university teacher",
     "political scientist",
-    "politician"
+    "politician",
+    "university teacher",
+    "lawyer",
+    "Oberleutnant",
+    "jurist"
   ],
   "education": [
-    "Santa Clara University School of Law",
     "Santa Clara University College of Arts & Sciences",
-    "Monterey High School"
+    "Monterey High School",
+    "Santa Clara University School of Law"
   ],
   "employers": [
     {
@@ -31,6 +31,30 @@
   ],
   "positions": [
     {
+      "title": "United States Secretary of Defense",
+      "company": null,
+      "start": "2011-07-01",
+      "end": "2013-02-27"
+    },
+    {
+      "title": "United States representative",
+      "company": null,
+      "start": "1989-01-03",
+      "end": "1991-01-03"
+    },
+    {
+      "title": "United States representative",
+      "company": null,
+      "start": "1993-01-05",
+      "end": "1993-01-22"
+    },
+    {
+      "title": "United States representative",
+      "company": null,
+      "start": "1985-01-03",
+      "end": "1987-01-03"
+    },
+    {
       "title": "defence minister",
       "company": null,
       "start": null,
@@ -41,18 +65,6 @@
       "company": null,
       "start": "1979-01-03",
       "end": "1981-01-03"
-    },
-    {
-      "title": "United States Secretary of Defense",
-      "company": null,
-      "start": "2011-07-01",
-      "end": "2013-02-27"
-    },
-    {
-      "title": "United States representative",
-      "company": null,
-      "start": "1985-01-03",
-      "end": "1987-01-03"
     },
     {
       "title": "United States representative",
@@ -73,12 +85,6 @@
       "end": "1993-01-03"
     },
     {
-      "title": "White House Chief of Staff",
-      "company": null,
-      "start": "1994-07-17",
-      "end": "1997-01-20"
-    },
-    {
       "title": "United States representative",
       "company": null,
       "start": "1977-01-03",
@@ -97,16 +103,10 @@
       "end": "2011-06-30"
     },
     {
-      "title": "United States representative",
+      "title": "White House Chief of Staff",
       "company": null,
-      "start": "1989-01-03",
-      "end": "1991-01-03"
-    },
-    {
-      "title": "United States representative",
-      "company": null,
-      "start": "1993-01-05",
-      "end": "1993-01-22"
+      "start": "1994-07-17",
+      "end": "1997-01-20"
     },
     {
       "title": "United States representative",

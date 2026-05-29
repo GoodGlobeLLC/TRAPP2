@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-05-25T10:25:25.547124Z",
+  "fetchedAt": "2026-05-29T08:06:15.281378Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,16 +14,16 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "programmer",
-          "financier",
-          "investor",
-          "civil servant",
           "dub actor",
-          "inventor",
+          "investor",
+          "financier",
+          "programmer",
           "technology entrepreneur",
-          "politician",
+          "civil servant",
           "entrepreneur",
-          "engineer"
+          "inventor",
+          "engineer",
+          "politician"
         ],
         "education": [
           "Smith School of Business",
@@ -32,9 +32,9 @@
           "Pretoria Boys High School",
           "Queen's University",
           "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "Stanford University",
-          "University of Pretoria"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -48,19 +48,19 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
             "company": "SolarCity",
             "start": null,
             "end": null
           },
           {
-            "company": "OpenAI",
+            "company": "JACKIE AI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "PayPal",
@@ -68,13 +68,13 @@
             "end": null
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -130,8 +130,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of New South Wales",
@@ -155,11 +155,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -173,6 +168,11 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -261,8 +261,8 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
-          "restaurateur",
           "environmentalist",
+          "restaurateur",
           "entrepreneur"
         ],
         "education": [
@@ -291,9 +291,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "inventor",
+          "businessperson",
           "chief technology officer",
-          "businessperson"
+          "inventor"
         ],
         "education": [
           "Stanford University",
@@ -434,8 +434,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of New South Wales",
@@ -459,11 +459,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -477,6 +472,11 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -524,16 +524,16 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "programmer",
-          "financier",
-          "investor",
-          "civil servant",
           "dub actor",
-          "inventor",
+          "investor",
+          "financier",
+          "programmer",
           "technology entrepreneur",
-          "politician",
+          "civil servant",
           "entrepreneur",
-          "engineer"
+          "inventor",
+          "engineer",
+          "politician"
         ],
         "education": [
           "Smith School of Business",
@@ -542,9 +542,9 @@
           "Pretoria Boys High School",
           "Queen's University",
           "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "Stanford University",
-          "University of Pretoria"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -558,19 +558,19 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
             "company": "SolarCity",
             "start": null,
             "end": null
           },
           {
-            "company": "OpenAI",
+            "company": "JACKIE AI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "PayPal",
@@ -578,13 +578,13 @@
             "end": null
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -703,13 +703,13 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
+          "publisher",
           "karateka",
-          "businessperson",
-          "publisher"
+          "businessperson"
         ],
         "education": [
-          "Horace Mann School",
-          "Harvard University"
+          "Harvard University",
+          "Horace Mann School"
         ],
         "employers": [],
         "positions": [
@@ -740,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

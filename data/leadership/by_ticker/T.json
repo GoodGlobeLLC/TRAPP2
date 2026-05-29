@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-05-25T10:25:25.545000Z",
+  "fetchedAt": "2026-05-29T08:06:15.278961Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,17 +18,17 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -184,16 +184,26 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
+          "Harvard Law School",
           "Brown University",
           "James B. Dudley High School",
-          "John F. Kennedy School of Government",
-          "Harvard Law School"
+          "John F. Kennedy School of Government"
         ],
         "employers": [
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Ad Council",
             "start": null,
@@ -203,16 +213,6 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
           },
           {
             "company": "BET",
@@ -225,12 +225,12 @@
             "end": null
           },
           {
-            "company": "Revlon",
+            "company": "Monsanto",
             "start": null,
             "end": null
           },
           {
-            "company": "Washington Gas",
+            "company": "Kodak",
             "start": null,
             "end": null
           }
@@ -348,17 +348,17 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -440,8 +440,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
           "Stanford University"

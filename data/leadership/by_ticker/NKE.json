@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-05-25T10:25:25.531913Z",
+  "fetchedAt": "2026-05-29T08:06:15.265408Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -263,14 +263,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -324,16 +324,16 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "entrepreneur",
           "philanthropist",
-          "businessperson",
-          "writer"
+          "writer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
+          "University of Oregon",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
           "Oregon State University",
-          "University of Oregon",
           "Stanford University"
         ],
         "employers": [
@@ -358,16 +358,16 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "entrepreneur",
           "philanthropist",
-          "businessperson",
-          "writer"
+          "writer",
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
+          "University of Oregon",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
           "Oregon State University",
-          "University of Oregon",
           "Stanford University"
         ],
         "employers": [

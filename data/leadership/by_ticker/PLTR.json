@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-05-25T10:25:25.538341Z",
+  "fetchedAt": "2026-05-29T08:06:15.271914Z",
   "people": [
     {
       "qid": "Q16204157",
@@ -36,11 +36,11 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "manager",
           "chess player",
           "technology entrepreneur",
           "financier",
           "banker",
+          "manager",
           "investor",
           "entrepreneur",
           "computer scientist",
@@ -108,15 +108,20 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "venture capitalist",
           "angel investor",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "Mission San Jose High School",
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
+          },
           {
             "company": "Addepar",
             "start": "2009-01-01",
@@ -141,11 +146,6 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -182,11 +182,11 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "manager",
           "chess player",
           "technology entrepreneur",
           "financier",
           "banker",
+          "manager",
           "investor",
           "entrepreneur",
           "computer scientist",
