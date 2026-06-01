@@ -9,22 +9,12 @@
     "lawyer"
   ],
   "education": [
-    "John F. Kennedy School of Government",
     "Harvard Law School",
     "Brown University",
-    "James B. Dudley High School"
+    "James B. Dudley High School",
+    "John F. Kennedy School of Government"
   ],
   "employers": [
-    {
-      "company": "Ad Council",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "BET Media Group",
-      "start": "1986-01-01",
-      "end": "2018-01-01"
-    },
     {
       "company": "Monsanto",
       "start": null,
@@ -54,6 +44,16 @@
       "company": "Washington Gas",
       "start": null,
       "end": null
+    },
+    {
+      "company": "Ad Council",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "BET Media Group",
+      "start": "1986-01-01",
+      "end": "2018-01-01"
     }
   ],
   "positions": [

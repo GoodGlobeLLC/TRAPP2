@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-05-29T08:42:07.603473Z",
+  "fetchedAt": "2026-06-01T11:52:54.833857Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -14,8 +14,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -41,8 +41,8 @@
           "chairperson"
         ],
         "education": [
-          "Stanford University",
           "Georgetown University",
+          "Stanford University",
           "San Marino High School"
         ],
         "employers": [],
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Columbia Law School",
@@ -84,20 +84,15 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "business executive",
           "engineer",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [
           "Stanford University",
           "Wausau West High School"
         ],
         "employers": [
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
-          },
           {
             "company": "Yahoo",
             "start": "2012-07-16",
@@ -107,6 +102,11 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
+          },
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
           }
         ],
         "positions": [
@@ -121,168 +121,6 @@
             "company": null,
             "start": "2012-07-16",
             "end": "2017-06-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q20177269",
-      "name": "Greg Penner",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q20177269",
-        "name": "Greg Penner",
-        "dateOfBirth": "1970-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chairperson"
-        ],
-        "education": [
-          "Stanford University",
-          "Georgetown University",
-          "San Marino High School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q16196595",
-      "name": "Doug McMillon",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16196595",
-        "name": "Doug McMillon",
-        "dateOfBirth": "1966-10-17",
-        "birthPlace": "Jonesboro",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
-        "occupations": [
-          "entrepreneur",
-          "chief executive officer"
-        ],
-        "education": [
-          "Sam M. Walton College of Business",
-          "Bentonville High School",
-          "University of Tulsa"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7794754",
-      "name": "Thomas Horton",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7794754",
-        "name": "Thomas Horton",
-        "dateOfBirth": "1961-05-24",
-        "birthPlace": "Hampton",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "chief executive officer"
-        ],
-        "education": [
-          "Cox School of Business",
-          "Southern Methodist University",
-          "Baylor University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7615193",
-      "name": "Steven Reinemund",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7615193",
-        "name": "Steven Reinemund",
-        "dateOfBirth": "1948-04-06",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Reinemund%2003232018-N-ID678-012%20%2826201738847%29.jpg",
-        "occupations": [
-          "military officer"
-        ],
-        "education": [
-          "Miami Coral Park High School",
-          "University of Virginia Darden School of Business",
-          "United States Naval Academy",
-          "University of Virginia"
-        ],
-        "employers": [
-          {
-            "company": "Wake Forest University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q5065434",
-      "name": "Cesar Conde",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5065434",
-        "name": "Cesar Conde",
-        "dateOfBirth": "1973-12-08",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
-        "occupations": [],
-        "education": [
-          "The Wharton School",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "NBCUniversal",
-            "start": "2013-10-01",
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q979750",
-      "name": "Randall L. Stephenson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q979750",
-        "name": "Randall L. Stephenson",
-        "dateOfBirth": "1960-04-22",
-        "birthPlace": "Oklahoma City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Randall%20Stephenson%2C%20CEO%20of%20AT%26T.jpg",
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "University of Central Oklahoma",
-          "University of Oklahoma"
-        ],
-        "employers": [
-          {
-            "company": "AT&T",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -375,8 +213,8 @@
         "birthPlace": "Bentonville",
         "image": null,
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -384,6 +222,168 @@
         ],
         "employers": [],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q20177269",
+      "name": "Greg Penner",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q20177269",
+        "name": "Greg Penner",
+        "dateOfBirth": "1970-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chairperson"
+        ],
+        "education": [
+          "Georgetown University",
+          "Stanford University",
+          "San Marino High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q16196595",
+      "name": "Doug McMillon",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16196595",
+        "name": "Doug McMillon",
+        "dateOfBirth": "1966-10-17",
+        "birthPlace": "Jonesboro",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
+        "occupations": [
+          "chief executive officer",
+          "entrepreneur"
+        ],
+        "education": [
+          "Sam M. Walton College of Business",
+          "Bentonville High School",
+          "University of Tulsa"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7794754",
+      "name": "Thomas Horton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7794754",
+        "name": "Thomas Horton",
+        "dateOfBirth": "1961-05-24",
+        "birthPlace": "Hampton",
+        "image": null,
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Cox School of Business",
+          "Southern Methodist University",
+          "Baylor University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7615193",
+      "name": "Steven Reinemund",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7615193",
+        "name": "Steven Reinemund",
+        "dateOfBirth": "1948-04-06",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Reinemund%2003232018-N-ID678-012%20%2826201738847%29.jpg",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "United States Naval Academy",
+          "University of Virginia",
+          "Miami Coral Park High School",
+          "University of Virginia Darden School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Wake Forest University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5065434",
+      "name": "Cesar Conde",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5065434",
+        "name": "Cesar Conde",
+        "dateOfBirth": "1973-12-08",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
+        "occupations": [],
+        "education": [
+          "Harvard University",
+          "The Wharton School"
+        ],
+        "employers": [
+          {
+            "company": "NBCUniversal",
+            "start": "2013-10-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q979750",
+      "name": "Randall L. Stephenson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q979750",
+        "name": "Randall L. Stephenson",
+        "dateOfBirth": "1960-04-22",
+        "birthPlace": "Oklahoma City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Randall%20Stephenson%2C%20CEO%20of%20AT%26T.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of Central Oklahoma",
+          "University of Oklahoma"
+        ],
+        "employers": [
+          {
+            "company": "AT&T",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
       }
     }
   ]

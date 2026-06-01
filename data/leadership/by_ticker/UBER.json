@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-05-29T08:42:07.598715Z",
+  "fetchedAt": "2026-06-01T11:52:54.829694Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -14,8 +14,8 @@
         "birthPlace": "Tehran",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Brown University",
@@ -44,6 +44,77 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q1701913",
+      "name": "John Alexander Thain",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1701913",
+        "name": "John Alexander Thain",
+        "dateOfBirth": "1955-05-26",
+        "birthPlace": "Antioch",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
+        "occupations": [
+          "entrepreneur",
+          "investment banker"
+        ],
+        "education": [
+          "Antioch Community High School",
+          "Howard University",
+          "Yale University",
+          "Harvard Business School",
+          "Massachusetts Institute of Technology",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q465663",
+      "name": "Ursula Burns",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q465663",
+        "name": "Ursula Burns",
+        "dateOfBirth": "1958-09-20",
+        "birthPlace": "Manhattan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
+        "occupations": [
+          "engineer",
+          "business executive"
+        ],
+        "education": [
+          "Columbia University",
+          "Fu Foundation School of Engineering and Applied Science",
+          "Cathedral High School",
+          "New York University Tandon School of Engineering"
+        ],
+        "employers": [
+          {
+            "company": "Xerox",
+            "start": "1980-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2009-01-01",
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -83,9 +154,9 @@
         "birthPlace": "Burayda",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasir%20bin%20Othman%20Al-Rumayyan.jpg",
         "occupations": [
-          "businessperson",
           "sports executive",
-          "chairperson"
+          "chairperson",
+          "businessperson"
         ],
         "education": [
           "King Faisal University"
@@ -176,121 +247,6 @@
         ],
         "employers": [],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q5221979",
-      "name": "Dara Khosrowshahi",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5221979",
-        "name": "Dara Khosrowshahi",
-        "dateOfBirth": "1969-05-28",
-        "birthPlace": "Tehran",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
-        "occupations": [
-          "entrepreneur",
-          "businessperson"
-        ],
-        "education": [
-          "Brown University",
-          "Hackley School"
-        ],
-        "employers": [
-          {
-            "company": "Uber",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "company": "Expedia Group",
-            "start": "2004-01-01",
-            "end": "2017-01-01"
-          },
-          {
-            "company": "IAC",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Allen & Company",
-            "start": "1991-01-01",
-            "end": "1998-01-01"
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q1701913",
-      "name": "John Alexander Thain",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1701913",
-        "name": "John Alexander Thain",
-        "dateOfBirth": "1955-05-26",
-        "birthPlace": "Antioch",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
-        "occupations": [
-          "investment banker",
-          "entrepreneur"
-        ],
-        "education": [
-          "Antioch Community High School",
-          "Howard University",
-          "Massachusetts Institute of Technology",
-          "Yale University",
-          "Harvard Business School",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q465663",
-      "name": "Ursula Burns",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q465663",
-        "name": "Ursula Burns",
-        "dateOfBirth": "1958-09-20",
-        "birthPlace": "Manhattan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
-        "occupations": [
-          "business executive",
-          "engineer"
-        ],
-        "education": [
-          "Columbia University",
-          "Fu Foundation School of Engineering and Applied Science",
-          "Cathedral High School",
-          "New York University Tandon School of Engineering"
-        ],
-        "employers": [
-          {
-            "company": "Xerox",
-            "start": "1980-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2009-01-01",
-            "end": null
-          }
-        ]
       }
     },
     {
@@ -400,6 +356,50 @@
             "company": "Google",
             "start": null,
             "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5221979",
+      "name": "Dara Khosrowshahi",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5221979",
+        "name": "Dara Khosrowshahi",
+        "dateOfBirth": "1969-05-28",
+        "birthPlace": "Tehran",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "Brown University",
+          "Hackley School"
+        ],
+        "employers": [
+          {
+            "company": "Uber",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2004-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "IAC",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Allen & Company",
+            "start": "1991-01-01",
+            "end": "1998-01-01"
           }
         ],
         "positions": []

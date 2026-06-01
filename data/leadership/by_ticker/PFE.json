@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-05-29T08:42:07.586322Z",
+  "fetchedAt": "2026-06-01T11:52:54.819017Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,9 +14,9 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "executive",
           "business executive",
           "pharmacologist",
+          "executive",
           "entrepreneur",
           "veterinarian"
         ],
@@ -41,229 +41,6 @@
       }
     },
     {
-      "qid": "Q21552641",
-      "name": "Ronald E. Blaylock",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q21552641",
-        "name": "Ronald E. Blaylock",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q21433424",
-      "name": "Helen Hobbs",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q21433424",
-        "name": "Helen Hobbs",
-        "dateOfBirth": "1952-05-05",
-        "birthPlace": "Boston",
-        "image": null,
-        "occupations": [
-          "university teacher",
-          "molecular geneticist",
-          "biochemist",
-          "physician",
-          "researcher"
-        ],
-        "education": [
-          "Stanford University"
-        ],
-        "employers": [
-          {
-            "company": "University of Texas System",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "University of Texas Southwestern Medical Center",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7945457",
-      "name": "W. Don Cornwell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7945457",
-        "name": "W. Don Cornwell",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Occidental College",
-          "Harvard University",
-          "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7650926",
-      "name": "Suzanne Nora Johnson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7650926",
-        "name": "Suzanne Nora Johnson",
-        "dateOfBirth": "1957-06-14",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Nora%20Johnson%20at%20the%20World%20Economic%20Forum%20Summit%20on%20the%20Global%20Agenda%202008%20cropped.jpg",
-        "occupations": [
-          "lawyer"
-        ],
-        "education": [
-          "Harvard Law School",
-          "University of Southern California"
-        ],
-        "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7647750",
-      "name": "Susan Desmond-Hellmann",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7647750",
-        "name": "Susan Desmond-Hellmann",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": "Napa",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SDH-3249.jpg",
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "University of California, Berkeley",
-          "University of Nevada, Reno",
-          "University of California, San Francisco",
-          "Bishop Manogue High School"
-        ],
-        "employers": [
-          {
-            "company": "Bristol-Myers Squibb",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Gates Foundation",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Genentech",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Uganda Cancer Institute",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6138480",
-      "name": "James M. Kilts",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6138480",
-        "name": "James M. Kilts",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of Chicago",
-          "Booth School of Business",
-          "Knox College"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5213885",
-      "name": "Dan Littman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5213885",
-        "name": "Dan Littman",
-        "dateOfBirth": null,
-        "birthPlace": "Bucharest",
-        "image": null,
-        "occupations": [
-          "immunologist",
-          "researcher"
-        ],
-        "education": [
-          "Columbia University",
-          "Washington University in St.\u00a0Louis",
-          "Princeton University",
-          "Washington University School of Medicine"
-        ],
-        "employers": [
-          {
-            "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "New York University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q2622748",
       "name": "Shantanu Narayen",
       "role_at_company": "Board Member",
@@ -275,14 +52,14 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -314,8 +91,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "university teacher",
           "neuroscientist",
+          "university teacher",
           "physiologist"
         ],
         "education": [
@@ -369,9 +146,9 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "executive",
           "business executive",
           "pharmacologist",
+          "executive",
           "entrepreneur",
           "veterinarian"
         ],
@@ -428,8 +205,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",
@@ -474,8 +251,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -496,6 +273,229 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q21552641",
+      "name": "Ronald E. Blaylock",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21552641",
+        "name": "Ronald E. Blaylock",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q21433424",
+      "name": "Helen Hobbs",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21433424",
+        "name": "Helen Hobbs",
+        "dateOfBirth": "1952-05-05",
+        "birthPlace": "Boston",
+        "image": null,
+        "occupations": [
+          "molecular geneticist",
+          "biochemist",
+          "researcher",
+          "university teacher",
+          "physician"
+        ],
+        "education": [
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "University of Texas System",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "University of Texas Southwestern Medical Center",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7945457",
+      "name": "W. Don Cornwell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7945457",
+        "name": "W. Don Cornwell",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Occidental College",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7650926",
+      "name": "Suzanne Nora Johnson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7650926",
+        "name": "Suzanne Nora Johnson",
+        "dateOfBirth": "1957-06-14",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Suzanne%20Nora%20Johnson%20at%20the%20World%20Economic%20Forum%20Summit%20on%20the%20Global%20Agenda%202008%20cropped.jpg",
+        "occupations": [
+          "lawyer"
+        ],
+        "education": [
+          "Harvard Law School",
+          "University of Southern California"
+        ],
+        "employers": [
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7647750",
+      "name": "Susan Desmond-Hellmann",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7647750",
+        "name": "Susan Desmond-Hellmann",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "Napa",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SDH-3249.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of Nevada, Reno",
+          "University of California, San Francisco",
+          "University of California, Berkeley",
+          "Bishop Manogue High School"
+        ],
+        "employers": [
+          {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Genentech",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Uganda Cancer Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6138480",
+      "name": "James M. Kilts",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6138480",
+        "name": "James M. Kilts",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Booth School of Business",
+          "Knox College",
+          "University of Chicago"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5213885",
+      "name": "Dan Littman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5213885",
+        "name": "Dan Littman",
+        "dateOfBirth": null,
+        "birthPlace": "Bucharest",
+        "image": null,
+        "occupations": [
+          "immunologist",
+          "researcher"
+        ],
+        "education": [
+          "Washington University in St.\u00a0Louis",
+          "Columbia University",
+          "Princeton University",
+          "Washington University School of Medicine"
+        ],
+        "employers": [
+          {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "New York University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     },
     {

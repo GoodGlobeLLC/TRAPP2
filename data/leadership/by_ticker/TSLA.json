@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-05-29T08:42:07.597461Z",
+  "fetchedAt": "2026-06-01T11:52:54.828590Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,42 +14,52 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "programmer",
-          "dub actor",
           "financier",
-          "engineer",
-          "investor",
-          "entrepreneur",
+          "dub actor",
+          "programmer",
+          "technology entrepreneur",
           "civil servant",
+          "investor",
           "inventor",
+          "entrepreneur",
+          "engineer",
           "politician"
         ],
         "education": [
-          "Queen's University",
-          "The Wharton School",
-          "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "Stanford University",
+          "Smith School of Business"
         ],
         "employers": [
           {
-            "company": "JACKIE AI",
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
           },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "SolarCity",
-            "start": null,
             "end": null
           },
           {
@@ -60,16 +70,6 @@
           {
             "company": "PayPal",
             "start": "1998-12-01",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
             "end": null
           },
           {
@@ -130,13 +130,13 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
           {
@@ -155,9 +155,200 @@
             "end": "2017-04-01"
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "http://www",
+            "end": "2016-08-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q104626485",
+      "name": "Ira Ehrenpreis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q104626485",
+        "name": "Ira Ehrenpreis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "venture capitalist"
+        ],
+        "education": [
+          "Stanford Law School",
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-01-01",
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2015-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q86744346",
+      "name": "Hiromichi Mizuno",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q86744346",
+        "name": "Hiromichi Mizuno",
+        "dateOfBirth": "1965-09-28",
+        "birthPlace": "Tajimi",
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Osaka City University",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Government Pension Investment Fund",
+            "start": "2015-01-01",
+            "end": "2020-04-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-04-01",
+            "end": "2023-05-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q60330177",
+      "name": "Kathleen Wilson-Thompson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q60330177",
+        "name": "Kathleen Wilson-Thompson",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Michigan"
+        ],
+        "employers": [
+          {
+            "company": "Walgreens",
+            "start": "2010-01-01",
+            "end": "2014-12-01"
+          },
+          {
+            "company": "Walgreens Boots Alliance",
+            "start": "2014-12-01",
+            "end": "2021-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-12-27",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q58345040",
+      "name": "Robyn Denholm",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q58345040",
+        "name": "Robyn Denholm",
+        "dateOfBirth": "1963-05-27",
+        "birthPlace": "Milperra",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "University of New South Wales",
+          "University of Sydney",
+          "Georges River College"
+        ],
+        "employers": [
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
           },
           {
             "company": "Toyota Australia",
@@ -175,12 +366,29 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
           }
         ],
         "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
+            "end": null
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2017-01-01",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -192,18 +400,6 @@
             "company": null,
             "start": "http://www",
             "end": "2016-08-01"
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
           }
         ]
       }
@@ -317,202 +513,6 @@
       }
     },
     {
-      "qid": "Q104626485",
-      "name": "Ira Ehrenpreis",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q104626485",
-        "name": "Ira Ehrenpreis",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "venture capitalist"
-        ],
-        "education": [
-          "University of California, Los Angeles",
-          "Stanford Law School",
-          "Stanford Graduate School of Business"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2007-01-01",
-            "end": null
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2015-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q86744346",
-      "name": "Hiromichi Mizuno",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q86744346",
-        "name": "Hiromichi Mizuno",
-        "dateOfBirth": "1965-09-28",
-        "birthPlace": "Tajimi",
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Osaka City University",
-          "Kellogg School of Management"
-        ],
-        "employers": [
-          {
-            "company": "Government Pension Investment Fund",
-            "start": "2015-01-01",
-            "end": "2020-04-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-04-01",
-            "end": "2023-05-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q60330177",
-      "name": "Kathleen Wilson-Thompson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q60330177",
-        "name": "Kathleen Wilson-Thompson",
-        "dateOfBirth": "1955-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of Michigan"
-        ],
-        "employers": [
-          {
-            "company": "Walgreens",
-            "start": "2010-01-01",
-            "end": "2014-12-01"
-          },
-          {
-            "company": "Walgreens Boots Alliance",
-            "start": "2014-12-01",
-            "end": "2021-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-12-27",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q58345040",
-      "name": "Robyn Denholm",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q58345040",
-        "name": "Robyn Denholm",
-        "dateOfBirth": "1963-05-27",
-        "birthPlace": "Milperra",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
-        "occupations": [
-          "businessperson",
-          "entrepreneur"
-        ],
-        "education": [
-          "Georges River College",
-          "University of New South Wales",
-          "University of Sydney"
-        ],
-        "employers": [
-          {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "http://www",
-            "end": "2016-08-01"
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q317521",
       "name": "Elon Musk",
       "role_at_company": "Board Member",
@@ -524,42 +524,52 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "programmer",
-          "dub actor",
           "financier",
-          "engineer",
-          "investor",
-          "entrepreneur",
+          "dub actor",
+          "programmer",
+          "technology entrepreneur",
           "civil servant",
+          "investor",
           "inventor",
+          "entrepreneur",
+          "engineer",
           "politician"
         ],
         "education": [
-          "Queen's University",
-          "The Wharton School",
-          "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "Stanford University",
+          "Smith School of Business"
         ],
         "employers": [
           {
-            "company": "JACKIE AI",
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
           },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "SolarCity",
-            "start": null,
             "end": null
           },
           {
@@ -570,16 +580,6 @@
           {
             "company": "PayPal",
             "start": "1998-12-01",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
             "end": null
           },
           {
