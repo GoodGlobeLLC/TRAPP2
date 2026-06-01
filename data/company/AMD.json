@@ -1,7 +1,7 @@
 {
   "ticker": "AMD",
   "qid": "Q128896",
-  "fetchedAt": "2026-05-29T08:19:46.753039Z",
+  "fetchedAt": "2026-06-01T07:08:02.120726Z",
   "source": "wikidata",
   "name": "AMD",
   "description": "American multinational semiconductor company",
@@ -10,7 +10,7 @@
   "inception": "1969-05-01",
   "employees": 15500,
   "industry": "semiconductor industry",
-  "headquarters": "Santa Clara",
+  "headquarters": "Sunnyvale",
   "executives": [
     {
       "name": "Lisa Su",
@@ -68,19 +68,19 @@
   ],
   "products": [
     {
-      "name": "chipset"
-    },
-    {
       "name": "frame grabber"
     },
     {
       "name": "graphics processing unit"
     },
     {
-      "name": "microprocessor"
+      "name": "chipset"
     },
     {
       "name": "computer hardware"
+    },
+    {
+      "name": "microprocessor"
     },
     {
       "name": "AMD microprocessor"

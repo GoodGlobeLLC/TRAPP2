@@ -1,7 +1,7 @@
 {
   "ticker": "AAPL",
   "qid": "Q312",
-  "fetchedAt": "2026-05-29T08:13:54.148445Z",
+  "fetchedAt": "2026-06-01T06:54:28.519135Z",
   "source": "wikidata",
   "name": "Apple Inc.",
   "description": "American multinational technology company based in Cupertino, California",
@@ -23,6 +23,14 @@
   ],
   "board": [
     {
+      "name": "Arthur D. Levinson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Board Member"
+    },
+    {
       "name": "Susan Wagner",
       "role": "Board Member"
     },
@@ -32,14 +40,6 @@
     },
     {
       "name": "James A. Bell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Arthur D. Levinson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Andrea Jung",
       "role": "Board Member"
     },
     {
@@ -60,10 +60,16 @@
   ],
   "products": [
     {
-      "name": "HomePod"
+      "name": "Apple TV"
+    },
+    {
+      "name": "personal digital assistant"
     },
     {
       "name": "tablet computer"
+    },
+    {
+      "name": "Mac"
     },
     {
       "name": "AirPods"
@@ -72,10 +78,10 @@
       "name": "Apple Pay"
     },
     {
-      "name": "wearable computer"
+      "name": "smartphone"
     },
     {
-      "name": "consumer electronics"
+      "name": "HomePod"
     },
     {
       "name": "Apple Watch"
@@ -84,19 +90,13 @@
       "name": "networking hardware"
     },
     {
-      "name": "Apple TV"
+      "name": "wearable computer"
+    },
+    {
+      "name": "consumer electronics"
     },
     {
       "name": "peripheral"
-    },
-    {
-      "name": "personal digital assistant"
-    },
-    {
-      "name": "Mac"
-    },
-    {
-      "name": "smartphone"
     },
     {
       "name": "personal computer"
@@ -105,19 +105,19 @@
       "name": "iPod touch"
     },
     {
-      "name": "IPod"
-    },
-    {
       "name": "iMac"
-    },
-    {
-      "name": "software"
     },
     {
       "name": "computer hardware"
     },
     {
       "name": "iPhone"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "IPod"
     }
   ],
   "countries": [

@@ -1,7 +1,7 @@
 {
   "ticker": "NET",
   "qid": "Q907311",
-  "fetchedAt": "2026-05-29T08:39:45.104347Z",
+  "fetchedAt": "2026-06-01T07:46:16.298222Z",
   "source": "wikidata",
   "name": "Netflix",
   "description": "American\u00a0subscription video on-demand\u00a0over-the-top\u00a0streaming service",
@@ -25,13 +25,13 @@
   ],
   "products": [
     {
+      "name": "Netflix recommender system"
+    },
+    {
       "name": "over-the-top media service"
     },
     {
       "name": "streaming media"
-    },
-    {
-      "name": "Netflix recommender system"
     }
   ],
   "countries": []

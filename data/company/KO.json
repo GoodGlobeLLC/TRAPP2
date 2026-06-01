@@ -1,7 +1,7 @@
 {
   "ticker": "KO",
   "qid": "Q3295867",
-  "fetchedAt": "2026-05-29T08:28:29.416381Z",
+  "fetchedAt": "2026-06-01T07:24:45.860716Z",
   "source": "wikidata",
   "name": "The Coca-Cola Company",
   "description": "American multinational beverage corporation",
@@ -39,10 +39,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Marc Bolland",
-      "role": "Board Member"
-    },
-    {
       "name": "Barry Diller",
       "role": "Board Member"
     },
@@ -52,6 +48,10 @@
     },
     {
       "name": "Alexis Herman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Marc Bolland",
       "role": "Board Member"
     },
     {
@@ -81,25 +81,25 @@
   ],
   "products": [
     {
+      "name": "Sprite"
+    },
+    {
+      "name": "Coca-Cola"
+    },
+    {
       "name": "non-alcoholic beverage"
     },
     {
       "name": "Diet Coke"
     },
     {
-      "name": "Coca-Cola"
-    },
-    {
-      "name": "Sprite"
-    },
-    {
-      "name": "alcoholic beverage"
+      "name": "soft drink"
     },
     {
       "name": "Fanta Orange"
     },
     {
-      "name": "soft drink"
+      "name": "alcoholic beverage"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "ABBV",
   "qid": "Q14662364",
-  "fetchedAt": "2026-05-29T08:30:03.022059Z",
+  "fetchedAt": "2026-06-01T07:27:05.597105Z",
   "source": "wikidata",
   "name": "AbbVie",
   "description": "pharmaceutical company",
@@ -22,18 +22,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Richard A. Gonzalez",
-      "role": "Board Member"
-    },
-    {
-      "name": "Rick Waddell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Glenn Tilton",
-      "role": "Board Member"
-    },
     {
       "name": "Jennifer L. Davis",
       "role": "Board Member"
@@ -76,6 +64,18 @@
     },
     {
       "name": "Susan Quaggin",
+      "role": "Board Member"
+    },
+    {
+      "name": "Richard A. Gonzalez",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rick Waddell",
+      "role": "Board Member"
+    },
+    {
+      "name": "Glenn Tilton",
       "role": "Board Member"
     }
   ],

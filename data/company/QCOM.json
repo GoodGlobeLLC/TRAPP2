@@ -1,7 +1,7 @@
 {
   "ticker": "QCOM",
   "qid": "Q544847",
-  "fetchedAt": "2026-05-29T08:40:48.715733Z",
+  "fetchedAt": "2026-06-01T07:47:50.255466Z",
   "source": "wikidata",
   "name": "Qualcomm",
   "description": "American global semiconductor company",
@@ -9,7 +9,7 @@
   "isin": "US7475251036",
   "inception": "1985-07-01",
   "employees": 30500,
-  "industry": "radio",
+  "industry": "semiconductor industry",
   "headquarters": "San Diego",
   "executives": [
     {
@@ -32,19 +32,19 @@
   ],
   "products": [
     {
+      "name": "computer hardware"
+    },
+    {
       "name": "networking hardware"
     },
     {
       "name": "Qualcomm Snapdragon"
     },
     {
-      "name": "Binary Runtime Environment for Wireless"
-    },
-    {
       "name": "software"
     },
     {
-      "name": "computer hardware"
+      "name": "Binary Runtime Environment for Wireless"
     }
   ],
   "countries": []

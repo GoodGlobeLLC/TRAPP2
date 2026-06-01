@@ -1,7 +1,7 @@
 {
   "ticker": "CRM",
   "qid": "Q941127",
-  "fetchedAt": "2026-05-29T08:21:09.490403Z",
+  "fetchedAt": "2026-06-01T07:09:50.391178Z",
   "source": "wikidata",
   "name": "Salesforce",
   "description": "American cloud-based software company",
@@ -9,7 +9,7 @@
   "isin": "US79466L3024",
   "inception": "1999-02-03",
   "employees": 35000,
-  "industry": "software as a service",
+  "industry": "analytics",
   "headquarters": "San Francisco",
   "executives": [
     {
@@ -25,30 +25,6 @@
   ],
   "products": [
     {
-      "name": "marketing automation"
-    },
-    {
-      "name": "Small business software"
-    },
-    {
-      "name": "Order management system"
-    },
-    {
-      "name": "data visualization software"
-    },
-    {
-      "name": "Heroku"
-    },
-    {
-      "name": "integration platform"
-    },
-    {
-      "name": "virtual agent"
-    },
-    {
-      "name": "enterprise software"
-    },
-    {
       "name": "AI agent"
     },
     {
@@ -62,6 +38,15 @@
     },
     {
       "name": "B2B e-commerce"
+    },
+    {
+      "name": "artificial intelligence"
+    },
+    {
+      "name": "virtual agent"
+    },
+    {
+      "name": "enterprise software"
     },
     {
       "name": "e-commerce"
@@ -82,10 +67,25 @@
       "name": "email marketing"
     },
     {
-      "name": "artificial intelligence"
+      "name": "cloud computing"
     },
     {
-      "name": "cloud computing"
+      "name": "marketing automation"
+    },
+    {
+      "name": "Small business software"
+    },
+    {
+      "name": "Order management system"
+    },
+    {
+      "name": "data visualization software"
+    },
+    {
+      "name": "Heroku"
+    },
+    {
+      "name": "integration platform"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "GS",
   "qid": "Q193326",
-  "fetchedAt": "2026-05-29T08:25:02.741928Z",
+  "fetchedAt": "2026-06-01T07:19:07.397135Z",
   "source": "wikidata",
   "name": "Goldman Sachs",
   "description": "American investment bank",
@@ -10,7 +10,7 @@
   "inception": "1869-01-01",
   "employees": 34000,
   "industry": "International Standard Industrial Classification",
-  "headquarters": "New York City",
+  "headquarters": "200 West Street",
   "executives": [
     {
       "name": "David M. Solomon",
@@ -18,6 +18,18 @@
     }
   ],
   "board": [
+    {
+      "name": "Adebayo O. Ogunlesi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Peter Oppenheimer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ellen Kullman",
+      "role": "Board Member"
+    },
     {
       "name": "Mark Winkelman",
       "role": "Board Member"
@@ -56,18 +68,6 @@
     },
     {
       "name": "Drew Gilpin Faust",
-      "role": "Board Member"
-    },
-    {
-      "name": "Adebayo O. Ogunlesi",
-      "role": "Board Member"
-    },
-    {
-      "name": "Peter Oppenheimer",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ellen Kullman",
       "role": "Board Member"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "CSCO",
   "qid": "Q173395",
-  "fetchedAt": "2026-05-29T08:35:40.500273Z",
+  "fetchedAt": "2026-06-01T07:40:12.330946Z",
   "source": "wikidata",
   "name": "Cisco",
   "description": "American multinational technology company",
@@ -47,10 +47,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Marianna Tessel",
-      "role": "Board Member"
-    },
-    {
       "name": "Sarah Rae Murphy",
       "role": "Board Member"
     },
@@ -77,6 +73,10 @@
     {
       "name": "Lisa Su",
       "role": "Board Member"
+    },
+    {
+      "name": "Marianna Tessel",
+      "role": "Board Member"
     }
   ],
   "founders": [
@@ -88,6 +88,15 @@
     }
   ],
   "products": [
+    {
+      "name": "cable modem"
+    },
+    {
+      "name": "wireless access point"
+    },
+    {
+      "name": "gateway"
+    },
     {
       "name": "networking hardware"
     },
@@ -101,19 +110,10 @@
       "name": "software"
     },
     {
-      "name": "gateway"
-    },
-    {
       "name": "router"
     },
     {
       "name": "network switch"
-    },
-    {
-      "name": "cable modem"
-    },
-    {
-      "name": "wireless access point"
     }
   ],
   "countries": []

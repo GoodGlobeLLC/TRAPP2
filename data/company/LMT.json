@@ -1,7 +1,7 @@
 {
   "ticker": "LMT",
   "qid": "Q7240",
-  "fetchedAt": "2026-05-29T08:23:38.938879Z",
+  "fetchedAt": "2026-06-01T07:17:11.929771Z",
   "source": "wikidata",
   "name": "Lockheed Martin",
   "description": "US aerospace and defense manufacturer",
@@ -9,7 +9,7 @@
   "isin": "US5398301094",
   "inception": "1995-01-01",
   "employees": 110000,
-  "industry": "aerospace industry",
+  "industry": "weapons industry",
   "headquarters": "Bethesda",
   "executives": [
     {
@@ -18,22 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Joseph F. Dunford, Jr.",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jeh C. Johnson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Bruce A. Carlson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Daniel Akerson",
-      "role": "Board Member"
-    },
     {
       "name": "Patricia Yarrington",
       "role": "Board Member"
@@ -72,6 +56,22 @@
     },
     {
       "name": "Thomas J. Falk",
+      "role": "Board Member"
+    },
+    {
+      "name": "Joseph F. Dunford, Jr.",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jeh C. Johnson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bruce A. Carlson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Daniel Akerson",
       "role": "Board Member"
     }
   ],

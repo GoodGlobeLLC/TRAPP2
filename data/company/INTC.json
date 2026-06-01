@@ -1,7 +1,7 @@
 {
   "ticker": "INTC",
   "qid": "Q248",
-  "fetchedAt": "2026-05-29T08:40:45.311868Z",
+  "fetchedAt": "2026-06-01T07:47:45.908529Z",
   "source": "wikidata",
   "name": "Intel",
   "description": "American multinational technology company",
@@ -13,23 +13,11 @@
   "headquarters": "Santa Clara",
   "executives": [
     {
-      "name": "Brian Krzanich",
+      "name": "Gordon Moore",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Pat Gelsinger",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Craig R. Barrett",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Michelle Johnston Holthaus",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Bob Swan",
+      "name": "Robert Noyce",
       "role": "Chief Executive Officer"
     },
     {
@@ -41,15 +29,47 @@
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Gordon Moore",
+      "name": "Michelle Johnston Holthaus",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Robert Noyce",
+      "name": "Bob Swan",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Brian Krzanich",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Pat Gelsinger",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Craig R. Barrett",
       "role": "Chief Executive Officer"
     }
   ],
   "board": [
+    {
+      "name": "Frank Yeary",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alyssa Henry",
+      "role": "Board Member"
+    },
+    {
+      "name": "Omar Ishrak",
+      "role": "Board Member"
+    },
+    {
+      "name": "Greg Smith",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tsu-Jae King Liu",
+      "role": "Board Member"
+    },
     {
       "name": "Dion Weisler",
       "role": "Board Member"
@@ -72,26 +92,6 @@
     },
     {
       "name": "Jim Goetz",
-      "role": "Board Member"
-    },
-    {
-      "name": "Frank Yeary",
-      "role": "Board Member"
-    },
-    {
-      "name": "Alyssa Henry",
-      "role": "Board Member"
-    },
-    {
-      "name": "Omar Ishrak",
-      "role": "Board Member"
-    },
-    {
-      "name": "Greg Smith",
-      "role": "Board Member"
-    },
-    {
-      "name": "Tsu-Jae King Liu",
       "role": "Board Member"
     }
   ],

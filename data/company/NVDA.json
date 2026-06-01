@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "qid": "Q182477",
-  "fetchedAt": "2026-05-29T08:14:03.980088Z",
+  "fetchedAt": "2026-06-01T06:54:42.420053Z",
   "source": "wikidata",
   "name": "Nvidia",
   "description": "American multinational technology company",
@@ -10,7 +10,7 @@
   "inception": "1993-04-05",
   "employees": 13775,
   "industry": "semiconductor industry",
-  "headquarters": "California",
+  "headquarters": "Santa Clara",
   "executives": [
     {
       "name": "Jensen Huang",
@@ -88,10 +88,10 @@
   ],
   "products": [
     {
-      "name": "chipset"
+      "name": "graphics processing unit"
     },
     {
-      "name": "graphics processing unit"
+      "name": "chipset"
     },
     {
       "name": "software"

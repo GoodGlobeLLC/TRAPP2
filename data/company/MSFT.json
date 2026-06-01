@@ -1,7 +1,7 @@
 {
   "ticker": "MSFT",
   "qid": "Q2283",
-  "fetchedAt": "2026-05-29T08:13:59.179299Z",
+  "fetchedAt": "2026-06-01T06:54:36.752797Z",
   "source": "wikidata",
   "name": "Microsoft",
   "description": "American multinational technology corporation",
@@ -18,6 +18,18 @@
     }
   ],
   "board": [
+    {
+      "name": "John W. Stanton",
+      "role": "Board Member"
+    },
+    {
+      "name": "Penny Pritzker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "Board Member"
+    },
     {
       "name": "Mark Mason",
       "role": "Board Member"
@@ -39,18 +51,6 @@
       "role": "Board Member"
     },
     {
-      "name": "John W. Stanton",
-      "role": "Board Member"
-    },
-    {
-      "name": "Penny Pritzker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Reid Hoffman",
-      "role": "Board Member"
-    },
-    {
       "name": "Sandi Peterson",
       "role": "Board Member"
     },
@@ -65,13 +65,19 @@
   ],
   "founders": [
     {
-      "name": "Bill Gates"
+      "name": "Paul Allen"
     },
     {
-      "name": "Paul Allen"
+      "name": "Bill Gates"
     }
   ],
   "products": [
+    {
+      "name": "Azure"
+    },
+    {
+      "name": "Microsoft Surface"
+    },
     {
       "name": "Microsoft Mobile"
     },
@@ -82,28 +88,22 @@
       "name": "Microsoft Dynamics"
     },
     {
-      "name": "Azure"
-    },
-    {
-      "name": "Microsoft Surface"
-    },
-    {
-      "name": "Microsoft Bing"
-    },
-    {
-      "name": "Visual Studio"
-    },
-    {
-      "name": "Skype"
-    },
-    {
       "name": "computer hardware"
     },
     {
       "name": "Microsoft Windows"
     },
     {
+      "name": "Microsoft Bing"
+    },
+    {
       "name": "software"
+    },
+    {
+      "name": "Visual Studio"
+    },
+    {
+      "name": "Skype"
     }
   ],
   "countries": [

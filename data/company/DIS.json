@@ -1,7 +1,7 @@
 {
   "ticker": "DIS",
   "qid": "Q7414",
-  "fetchedAt": "2026-05-29T08:38:23.625854Z",
+  "fetchedAt": "2026-06-01T07:44:35.813183Z",
   "source": "wikidata",
   "name": "The Walt Disney Company",
   "description": "American multinational mass media company",
@@ -9,13 +9,9 @@
   "isin": "US2546871060",
   "inception": "1923-10-16",
   "employees": 201000,
-  "industry": "amusement park",
+  "industry": "media industry",
   "headquarters": "Burbank",
   "executives": [
-    {
-      "name": "Walt Disney",
-      "role": "Chief Executive Officer"
-    },
     {
       "name": "Bob Chapek",
       "role": "Chief Executive Officer"
@@ -49,27 +45,15 @@
       "role": "Chief Executive Officer"
     },
     {
+      "name": "Walt Disney",
+      "role": "Chief Executive Officer"
+    },
+    {
       "name": "Susan Arnold",
       "role": "Chairperson"
     }
   ],
   "board": [
-    {
-      "name": "Francis deSouza",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mark Parker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Susan Arnold",
-      "role": "Board Member"
-    },
-    {
-      "name": "Safra Catz",
-      "role": "Board Member"
-    },
     {
       "name": "Caroline Leonetti Ahmanson",
       "role": "Board Member"
@@ -84,6 +68,22 @@
     },
     {
       "name": "Maria Elena Lagomasino",
+      "role": "Board Member"
+    },
+    {
+      "name": "Francis deSouza",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mark Parker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Susan Arnold",
+      "role": "Board Member"
+    },
+    {
+      "name": "Safra Catz",
       "role": "Board Member"
     },
     {
@@ -113,6 +113,9 @@
   ],
   "products": [
     {
+      "name": "software"
+    },
+    {
       "name": "broadcasting"
     },
     {
@@ -120,9 +123,6 @@
     },
     {
       "name": "video game"
-    },
-    {
-      "name": "software"
     }
   ],
   "countries": [

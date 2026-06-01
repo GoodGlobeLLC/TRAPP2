@@ -1,7 +1,7 @@
 {
   "ticker": "COIN",
   "qid": "Q16972754",
-  "fetchedAt": "2026-05-29T08:19:01.120754Z",
+  "fetchedAt": "2026-06-01T07:06:55.967823Z",
   "source": "wikidata",
   "name": "Coinbase",
   "description": "American company that operates a cryptocurrency exchange platform",
@@ -11,7 +11,12 @@
   "employees": 1249,
   "industry": "cryptocurrency industry",
   "headquarters": "San Francisco",
-  "executives": [],
+  "executives": [
+    {
+      "name": "Brian Armstrong",
+      "role": "Chief Executive Officer"
+    }
+  ],
   "board": [],
   "founders": [
     {

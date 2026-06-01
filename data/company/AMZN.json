@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-05-29T08:14:20.021866Z",
+  "fetchedAt": "2026-06-01T06:54:58.770827Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -9,7 +9,7 @@
   "isin": "US0231351067",
   "inception": "1994-07-05",
   "employees": 1500000,
-  "industry": "retail",
+  "industry": "web hosting service",
   "headquarters": "Seattle",
   "executives": [
     {
@@ -22,6 +22,22 @@
     }
   ],
   "board": [
+    {
+      "name": "Judy McGrath",
+      "role": "Board Member"
+    },
+    {
+      "name": "Keith B. Alexander",
+      "role": "Board Member"
+    },
+    {
+      "name": "Daniel P. Huttenlocher",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jon Rubinstein",
+      "role": "Board Member"
+    },
     {
       "name": "Andy Jassy",
       "role": "Board Member"
@@ -43,19 +59,11 @@
       "role": "Board Member"
     },
     {
-      "name": "Judy McGrath",
+      "name": "Edith Cooper",
       "role": "Board Member"
     },
     {
-      "name": "Keith B. Alexander",
-      "role": "Board Member"
-    },
-    {
-      "name": "Daniel P. Huttenlocher",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jon Rubinstein",
+      "name": "Jamie S. Gorelick",
       "role": "Board Member"
     },
     {
@@ -64,14 +72,6 @@
     },
     {
       "name": "Indra Nooyi",
-      "role": "Board Member"
-    },
-    {
-      "name": "Edith Cooper",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jamie S. Gorelick",
       "role": "Board Member"
     }
   ],
@@ -82,10 +82,13 @@
   ],
   "products": [
     {
-      "name": "IMDb"
+      "name": "Alexa Internet"
     },
     {
-      "name": "Alexa Internet"
+      "name": "Amazon Web Services"
+    },
+    {
+      "name": "Amazon Appstore"
     },
     {
       "name": "Amazon.com"
@@ -106,6 +109,9 @@
       "name": "ComiXology"
     },
     {
+      "name": "IMDb"
+    },
+    {
       "name": "Amazon Prime Video"
     },
     {
@@ -113,12 +119,6 @@
     },
     {
       "name": "Amazon S3"
-    },
-    {
-      "name": "Amazon Web Services"
-    },
-    {
-      "name": "Amazon Appstore"
     }
   ],
   "countries": []
