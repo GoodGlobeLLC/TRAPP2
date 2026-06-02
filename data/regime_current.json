@@ -4,8 +4,8 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.156,
-    "liquidity": 0.17,
-    "volatility": 0.792,
+    "liquidity": 0.159,
+    "volatility": 0.747,
     "valuation": -0.359,
     "trend": 0.85,
     "breadth": 0.455,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.522,
-    "risk_on_melt_up": 0.2166,
-    "inflation_shock": 0.0083,
+    "expansion": 0.5187,
+    "risk_on_melt_up": 0.2061,
+    "inflation_shock": 0.0093,
     "recession_fear": 0.0002,
-    "risk_off": 0.0034,
-    "neutral": 0.2496
+    "risk_off": 0.0038,
+    "neutral": 0.2619
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.792,
+      "score": 0.747,
       "confidence": 1.0,
-      "weight": 0.792,
+      "weight": 0.747,
       "direction": "bullish"
     },
     {
@@ -60,20 +60,20 @@
       "indpro_yoy": 0.0135
     },
     "liquidity": {
-      "t10y2y": 0.47,
+      "t10y2y": 0.42,
       "hy_spread": 2.74,
       "hy_spread_z": -1.06,
       "hyg_minus_lqd_1m": -0.0058
     },
     "volatility": {
-      "vix_level": 15.32,
-      "vix9d_over_vix": 0.8982
+      "vix_level": 16.05,
+      "vix9d_over_vix": 0.8573
     },
     "valuation": {
-      "spy_pe": 28.42,
-      "earnings_yield": 0.0352,
+      "spy_pe": 28.5,
+      "earnings_yield": 0.0351,
       "real_10y": 0.005,
-      "fed_model_spread": 0.0302
+      "fed_model_spread": 0.0301
     },
     "trend": {
       "spy_price": 758.54,
@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-02T05:16:12+00:00",
+  "computed_at": "2026-06-02T18:59:46+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.7059,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 11,
   "transition_warning": "Only 11 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-02T05:16:12+00:00"
+  "transitions_computed_at": "2026-06-02T18:59:46+00:00"
 }
