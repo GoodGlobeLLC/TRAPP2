@@ -4,9 +4,9 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.231,
-    "liquidity": 0.179,
-    "volatility": 0.764,
-    "valuation": -0.361,
+    "liquidity": 0.168,
+    "volatility": 0.746,
+    "valuation": -0.358,
     "trend": 0.895,
     "breadth": 0.273,
     "commodity": 0.223,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.5117,
-    "risk_on_melt_up": 0.139,
-    "inflation_shock": 0.0143,
-    "recession_fear": 0.0003,
-    "risk_off": 0.0076,
-    "neutral": 0.327
+    "expansion": 0.5076,
+    "risk_on_melt_up": 0.1348,
+    "inflation_shock": 0.0152,
+    "recession_fear": 0.0004,
+    "risk_off": 0.0081,
+    "neutral": 0.334
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.764,
+      "score": 0.746,
       "confidence": 1.0,
-      "weight": 0.764,
+      "weight": 0.746,
       "direction": "bullish"
     },
     {
@@ -61,19 +61,19 @@
     },
     "liquidity": {
       "t10y2y": 0.41,
-      "hy_spread": 2.71,
-      "hy_spread_z": -1.12,
+      "hy_spread": 2.75,
+      "hy_spread_z": -1.04,
       "hyg_minus_lqd_1m": -0.0049
     },
     "volatility": {
-      "vix_level": 15.77,
-      "vix9d_over_vix": 0.8503
+      "vix_level": 16.06,
+      "vix9d_over_vix": 0.835
     },
     "valuation": {
-      "spy_pe": 28.53,
-      "earnings_yield": 0.035,
+      "spy_pe": 28.27,
+      "earnings_yield": 0.0354,
       "real_10y": 0.0051,
-      "fed_model_spread": 0.0299
+      "fed_model_spread": 0.0302
     },
     "trend": {
       "spy_price": 754.24,
@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-04T05:28:45+00:00",
+  "computed_at": "2026-06-04T17:59:01+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.7368,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 13,
   "transition_warning": "Only 13 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-04T05:28:45+00:00"
+  "transitions_computed_at": "2026-06-04T17:59:01+00:00"
 }
