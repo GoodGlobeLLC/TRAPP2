@@ -1,196 +1,196 @@
 {
-  "generatedAt": "2026-06-06T04:42:03.710681Z",
+  "generatedAt": "2026-06-07T05:17:04.425755Z",
   "totalAttempted": 38,
   "etfs": {
     "AGG": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:06.235740Z"
+      "fetchedAt": "2026-06-07T05:17:06.925385Z"
     },
     "BND": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0928.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:06.740478Z"
+      "fetchedAt": "2026-06-07T05:17:07.555924Z"
     },
     "DIA": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:07.396984Z"
+      "fetchedAt": "2026-06-07T05:17:08.660448Z"
     },
     "EEM": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:08.814548Z"
+      "fetchedAt": "2026-06-07T05:17:10.563926Z"
     },
     "EFA": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:10.358343Z"
+      "fetchedAt": "2026-06-07T05:17:12.421721Z"
     },
     "HYG": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:12.067790Z"
+      "fetchedAt": "2026-06-07T05:17:14.228178Z"
     },
     "IJH": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:13.565353Z"
+      "fetchedAt": "2026-06-07T05:17:16.122995Z"
     },
     "IJR": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:15.017685Z"
+      "fetchedAt": "2026-06-07T05:17:18.030168Z"
     },
     "IVV": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:16.451633Z"
+      "fetchedAt": "2026-06-07T05:17:20.099988Z"
     },
     "IWD": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:17.647702Z"
+      "fetchedAt": "2026-06-07T05:17:22.255204Z"
     },
     "IWF": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:18.804065Z"
+      "fetchedAt": "2026-06-07T05:17:24.144924Z"
     },
     "IWM": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:20.648934Z"
+      "fetchedAt": "2026-06-07T05:17:26.174615Z"
     },
     "IYR": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:22.360231Z"
+      "fetchedAt": "2026-06-07T05:17:28.305050Z"
     },
     "IYT": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:23.406189Z"
+      "fetchedAt": "2026-06-07T05:17:29.939388Z"
     },
     "QQQ": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ParserError: Error tokenizing data. C error: Expected 1 fields in line 11, saw 13\n | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:24.698113Z"
+      "fetchedAt": "2026-06-07T05:17:31.598491Z"
     },
     "QQQM": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ParserError: Error tokenizing data. C error: Expected 1 fields in line 11, saw 13\n | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:25.811582Z"
+      "fetchedAt": "2026-06-07T05:17:32.549259Z"
     },
     "RSP": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ParserError: Error tokenizing data. C error: Expected 1 fields in line 11, saw 13\n | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:27.003344Z"
+      "fetchedAt": "2026-06-07T05:17:34.171945Z"
     },
     "SPY": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:27.837386Z"
+      "fetchedAt": "2026-06-07T05:17:35.143499Z"
     },
     "TIP": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ValueError: Was expecting an 'as of date' indicator, instead found: set() | S2: direct CSV parser returned 0 holdings | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:34.013136Z"
+      "fetchedAt": "2026-06-07T05:17:37.433888Z"
     },
     "VEA": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0936.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:34.569950Z"
+      "fetchedAt": "2026-06-07T05:17:38.070883Z"
     },
     "VNQ": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0986.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:35.144417Z"
+      "fetchedAt": "2026-06-07T05:17:38.591083Z"
     },
     "VOO": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0968.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:35.705009Z"
+      "fetchedAt": "2026-06-07T05:17:39.237825Z"
     },
     "VTI": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0970.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:36.201790Z"
+      "fetchedAt": "2026-06-07T05:17:39.843000Z"
     },
     "VTV": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0966.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:36.762687Z"
+      "fetchedAt": "2026-06-07T05:17:40.429441Z"
     },
     "VUG": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0967.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:37.295076Z"
+      "fetchedAt": "2026-06-07T05:17:41.059882Z"
     },
     "VWO": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0964.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:37.749867Z"
+      "fetchedAt": "2026-06-07T05:17:41.587892Z"
     },
     "VYM": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: ConnectionError: HTTPSConnectionPool(host='eds.ecs.gisp.c1.vanguard.com', port=443): Max retries exceeded with url: /eds-eip-distributions-service/holdings/holding-details-history/0923.json?as-of-date=2026-05-31 (Caused by NameResolutionError(\"HTTPSConnection(host='eds.ecs.gisp.c1.vanguard.com', port=443): Failed to resolve 'eds.ecs.gisp.c1.vanguard.com' ([Errno -2] Name or service not known)\")) | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:38.292078Z"
+      "fetchedAt": "2026-06-07T05:17:42.234468Z"
     },
     "XLB": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:39.078488Z"
+      "fetchedAt": "2026-06-07T05:17:43.080654Z"
     },
     "XLC": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:39.756235Z"
+      "fetchedAt": "2026-06-07T05:17:43.863422Z"
     },
     "XLE": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:40.365943Z"
+      "fetchedAt": "2026-06-07T05:17:44.646410Z"
     },
     "XLF": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:41.031132Z"
+      "fetchedAt": "2026-06-07T05:17:45.438257Z"
     },
     "XLI": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:41.665149Z"
+      "fetchedAt": "2026-06-07T05:17:46.210557Z"
     },
     "XLK": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:42.280256Z"
+      "fetchedAt": "2026-06-07T05:17:47.045405Z"
     },
     "XLP": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:42.890323Z"
+      "fetchedAt": "2026-06-07T05:17:47.850961Z"
     },
     "XLRE": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:43.505199Z"
+      "fetchedAt": "2026-06-07T05:17:48.792707Z"
     },
     "XLU": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:44.096088Z"
+      "fetchedAt": "2026-06-07T05:17:49.561179Z"
     },
     "XLV": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:44.730070Z"
+      "fetchedAt": "2026-06-07T05:17:50.461371Z"
     },
     "XLY": {
       "ok": false,
       "msg": "all 3 strategies failed (S1: etf_scraper: TypeError: Expected file path name or file-like object, got <class 'bytes'> type | S2: no direct-fetch URL registered for ticker | S3: yahoo HTTP 429)",
-      "fetchedAt": "2026-06-06T04:42:45.319591Z"
+      "fetchedAt": "2026-06-07T05:17:51.224869Z"
     }
   },
   "totalSucceeded": 0,
