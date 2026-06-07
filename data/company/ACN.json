@@ -1,7 +1,7 @@
 {
   "ticker": "ACN",
   "qid": "Q338825",
-  "fetchedAt": "2026-06-01T07:10:15.248735Z",
+  "fetchedAt": "2026-06-07T20:17:23.019598Z",
   "source": "wikidata",
   "name": "Accenture",
   "description": "multinational management consulting, technology services and outsourcing company",
@@ -67,40 +67,34 @@
   "products": [],
   "countries": [
     {
-      "name": "Argentina"
-    },
-    {
-      "name": "Bangladesh"
-    },
-    {
       "name": "Ireland"
-    },
-    {
-      "name": "India"
-    },
-    {
-      "name": "Australia"
-    },
-    {
-      "name": "Costa Rica"
-    },
-    {
-      "name": "Philippines"
-    },
-    {
-      "name": "Latvia"
-    },
-    {
-      "name": "Malaysia"
     },
     {
       "name": "Mauritius"
     },
     {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Malaysia"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "India"
+    },
+    {
       "name": "Romania"
     },
     {
-      "name": "Germany"
+      "name": "Australia"
     },
     {
       "name": "Slovakia"
@@ -109,7 +103,13 @@
       "name": "Czech Republic"
     },
     {
-      "name": "Mexico"
+      "name": "Latvia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Brazil"
     },
     {
       "name": "United Kingdom"
@@ -118,19 +118,19 @@
       "name": "France"
     },
     {
-      "name": "Brazil"
-    },
-    {
-      "name": "Portugal"
+      "name": "Mexico"
     },
     {
       "name": "Netherlands"
     },
     {
-      "name": "Greece"
+      "name": "Portugal"
     },
     {
       "name": "Austria"
+    },
+    {
+      "name": "Greece"
     },
     {
       "name": "Switzerland"
@@ -151,13 +151,13 @@
       "name": "Belgium"
     },
     {
+      "name": "Norway"
+    },
+    {
       "name": "Spain"
     },
     {
       "name": "United States"
-    },
-    {
-      "name": "Norway"
     }
   ]
 }

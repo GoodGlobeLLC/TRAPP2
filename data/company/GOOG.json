@@ -1,7 +1,7 @@
 {
   "ticker": "GOOG",
   "qid": "Q95",
-  "fetchedAt": "2026-06-01T06:54:49.590316Z",
+  "fetchedAt": "2026-06-07T20:06:35.298905Z",
   "source": "wikidata",
   "name": "Google",
   "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
@@ -9,8 +9,8 @@
   "isin": null,
   "inception": "1998-09-04",
   "employees": 187000,
-  "industry": "Internet industry",
-  "headquarters": "Googleplex",
+  "industry": "technology industry",
+  "headquarters": "Mountain View",
   "executives": [
     {
       "name": "Sundar Pichai",
@@ -20,16 +20,13 @@
   "board": [],
   "founders": [
     {
-      "name": "Sergey Brin"
+      "name": "Larry Page"
     },
     {
-      "name": "Larry Page"
+      "name": "Sergey Brin"
     }
   ],
   "products": [
-    {
-      "name": "Google Search"
-    },
     {
       "name": "Gemini"
     },
@@ -41,6 +38,9 @@
     },
     {
       "name": "Google Voice"
+    },
+    {
+      "name": "Google Search"
     }
   ],
   "countries": [

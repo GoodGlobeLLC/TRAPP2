@@ -1,7 +1,7 @@
 {
   "ticker": "F",
   "qid": "Q44294",
-  "fetchedAt": "2026-06-01T07:13:49.983194Z",
+  "fetchedAt": "2026-06-07T20:20:43.165179Z",
   "source": "wikidata",
   "name": "Ford Motor Company",
   "description": "American multinational automotive company",
@@ -22,6 +22,18 @@
     }
   ],
   "board": [
+    {
+      "name": "William Kennard",
+      "role": "Board Member"
+    },
+    {
+      "name": "William Clay Ford",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jon Meade Huntsman Jr.",
+      "role": "Board Member"
+    },
     {
       "name": "John Weinberg",
       "role": "Board Member"
@@ -67,18 +79,6 @@
       "role": "Board Member"
     },
     {
-      "name": "William Kennard",
-      "role": "Board Member"
-    },
-    {
-      "name": "William Clay Ford",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jon Meade Huntsman Jr.",
-      "role": "Board Member"
-    },
-    {
       "name": "John May",
       "role": "Board Member"
     }
@@ -90,10 +90,10 @@
   ],
   "products": [
     {
-      "name": "truck"
+      "name": "passenger car"
     },
     {
-      "name": "passenger car"
+      "name": "truck"
     }
   ],
   "countries": [

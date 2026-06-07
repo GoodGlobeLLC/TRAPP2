@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-06-01T06:54:58.770827Z",
+  "fetchedAt": "2026-06-07T20:06:44.883635Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -9,15 +9,15 @@
   "isin": "US0231351067",
   "inception": "1994-07-05",
   "employees": 1500000,
-  "industry": "web hosting service",
+  "industry": "retail",
   "headquarters": "Seattle",
   "executives": [
     {
-      "name": "Andy Jassy",
+      "name": "Jeff Bezos",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Jeff Bezos",
+      "name": "Andy Jassy",
       "role": "Chief Executive Officer"
     }
   ],
@@ -36,6 +36,10 @@
     },
     {
       "name": "Jon Rubinstein",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jamie S. Gorelick",
       "role": "Board Member"
     },
     {
@@ -63,10 +67,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Jamie S. Gorelick",
-      "role": "Board Member"
-    },
-    {
       "name": "Jeff Bezos",
       "role": "Board Member"
     },
@@ -82,13 +82,28 @@
   ],
   "products": [
     {
-      "name": "Alexa Internet"
+      "name": "Amazon Echo"
+    },
+    {
+      "name": "Amazon Fire TV"
+    },
+    {
+      "name": "ComiXology"
     },
     {
       "name": "Amazon Web Services"
     },
     {
       "name": "Amazon Appstore"
+    },
+    {
+      "name": "Amazon Prime Video"
+    },
+    {
+      "name": "Amazon Fresh"
+    },
+    {
+      "name": "Amazon S3"
     },
     {
       "name": "Amazon.com"
@@ -100,25 +115,10 @@
       "name": "Amazon Prime"
     },
     {
-      "name": "Amazon Echo"
-    },
-    {
-      "name": "Amazon Fire TV"
-    },
-    {
-      "name": "ComiXology"
+      "name": "Alexa Internet"
     },
     {
       "name": "IMDb"
-    },
-    {
-      "name": "Amazon Prime Video"
-    },
-    {
-      "name": "Amazon Fresh"
-    },
-    {
-      "name": "Amazon S3"
     }
   ],
   "countries": []

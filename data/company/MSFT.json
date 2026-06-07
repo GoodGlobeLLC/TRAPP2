@@ -1,7 +1,7 @@
 {
   "ticker": "MSFT",
   "qid": "Q2283",
-  "fetchedAt": "2026-06-01T06:54:36.752797Z",
+  "fetchedAt": "2026-06-07T20:06:21.635518Z",
   "source": "wikidata",
   "name": "Microsoft",
   "description": "American multinational technology corporation",
@@ -9,7 +9,7 @@
   "isin": "US5949181045",
   "inception": "1975-04-04",
   "employees": 228000,
-  "industry": "software industry",
+  "industry": "International Standard Industrial Classification",
   "headquarters": "Redmond",
   "executives": [
     {
@@ -18,18 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "John W. Stanton",
-      "role": "Board Member"
-    },
-    {
-      "name": "Penny Pritzker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Reid Hoffman",
-      "role": "Board Member"
-    },
     {
       "name": "Mark Mason",
       "role": "Board Member"
@@ -51,6 +39,18 @@
       "role": "Board Member"
     },
     {
+      "name": "John W. Stanton",
+      "role": "Board Member"
+    },
+    {
+      "name": "Penny Pritzker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "Board Member"
+    },
+    {
       "name": "Sandi Peterson",
       "role": "Board Member"
     },
@@ -65,19 +65,13 @@
   ],
   "founders": [
     {
-      "name": "Paul Allen"
+      "name": "Bill Gates"
     },
     {
-      "name": "Bill Gates"
+      "name": "Paul Allen"
     }
   ],
   "products": [
-    {
-      "name": "Azure"
-    },
-    {
-      "name": "Microsoft Surface"
-    },
     {
       "name": "Microsoft Mobile"
     },
@@ -88,22 +82,28 @@
       "name": "Microsoft Dynamics"
     },
     {
-      "name": "computer hardware"
+      "name": "Azure"
     },
     {
-      "name": "Microsoft Windows"
+      "name": "Microsoft Surface"
     },
     {
       "name": "Microsoft Bing"
-    },
-    {
-      "name": "software"
     },
     {
       "name": "Visual Studio"
     },
     {
       "name": "Skype"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
+      "name": "Microsoft Windows"
     }
   ],
   "countries": [
