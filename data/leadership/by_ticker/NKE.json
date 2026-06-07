@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-01T11:52:54.814157Z",
+  "fetchedAt": "2026-06-07T20:28:13.393471Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -62,28 +62,28 @@
         "occupations": [
           "presenter",
           "manager",
-          "chief executive officer",
           "computer scientist",
           "engineer",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -111,8 +111,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -151,8 +151,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "venture capitalist"
+          "venture capitalist",
+          "businessperson"
         ],
         "education": [
           "University of Montana"
@@ -214,10 +214,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film producer",
           "rapper",
           "animator",
-          "film director"
+          "film director",
+          "film producer"
         ],
         "education": [
           "Jesuit High School",
@@ -242,18 +242,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -324,17 +324,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "writer",
           "philanthropist",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
-          "Oregon State University"
+          "Oregon State University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -358,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "writer",
           "philanthropist",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "writer"
         ],
         "education": [
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
-          "Oregon State University"
+          "Oregon State University",
+          "Stanford University"
         ],
         "employers": [
           {
