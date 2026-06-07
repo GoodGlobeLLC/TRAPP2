@@ -409,3 +409,29 @@ if __name__ == "__main__":
     log("=== NOTES ===")
     import json as _json
     log(_json.dumps(notes, indent=2))
+
+    # Write data/signals.json so merge_signals.py (which fetches each repo's
+    # signals.json and builds the consensus the app reads) has a source. Without
+    # this the signal-consensus chain has nothing to merge. Shape is the
+    # "aggregate" form merge_signals auto-detects: { signals: { key: {raw, tier} } }.
+    import datetime as _dt
+    out_signals = {}
+    for k, v in scores.items():
+        out_signals[k] = {
+            "raw": v,
+            "confidence": confs.get(k),
+            "tier": "LIVE" if (confs.get(k) or 0) >= 0.66 else "CACHED" if (confs.get(k) or 0) >= 0.33 else "STALE",
+            "note": notes.get(k),
+        }
+    out_doc = {
+        "_schema": "valuatio-signals-v1",
+        "updatedAt": _dt.datetime.utcnow().isoformat() + "Z",
+        "tickerCount": len(REFERENCE_TICKERS),
+        "signals": out_signals,
+    }
+    try:
+        out_path = DATA / "signals.json"
+        out_path.write_text(_json.dumps(out_doc, indent=2))
+        log(f"\nWrote {len(out_signals)} signals -> {out_path}")
+    except Exception as e:
+        log(f"\nFailed to write signals.json: {e}")
