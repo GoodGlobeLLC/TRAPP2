@@ -47,6 +47,11 @@ COLUMNS = [
     "currency", "employees", "city", "state", "phone", "address",
     "dividend_yield", "fetched_at", "profile_fetched_at",
     "asset_class",  # NEW — Equity / Future / FX / Crypto / Index / Mutual Fund / Private / Option
+    # Financial metrics for Research grading + bot engine (camelCase to match app)
+    "returnOnEquity", "returnOnAssets", "grossMargin", "operatingMargin",
+    "profitMargin", "revenueGrowth", "earningsGrowth", "revenue", "ebitda",
+    "freeCashFlow", "netIncome", "priceToBook", "evToEbitda", "evToRevenue",
+    "totalDebt", "totalEquity", "totalAssets", "cash",
 ]
 
 
@@ -445,6 +450,27 @@ def fetch_quote(ticker, profile_cache):
         "phone": safe(info, "phone"),
         "address": safe(info, "address1") or safe(info, "address"),
         "dividend_yield": fmt_num(safe(info, "dividendYield")),
+        # --- Financial metrics for Research grading + the bot engine ---
+        # Yahoo's .info already carries these; we just extract them. camelCase
+        # so they match what the app reads (no client-side remap needed).
+        "returnOnEquity": fmt_num(safe(info, "returnOnEquity")),
+        "returnOnAssets": fmt_num(safe(info, "returnOnAssets")),
+        "grossMargin": fmt_num(safe(info, "grossMargins")),
+        "operatingMargin": fmt_num(safe(info, "operatingMargins")),
+        "profitMargin": fmt_num(safe(info, "profitMargins")),
+        "revenueGrowth": fmt_num(safe(info, "revenueGrowth")),
+        "earningsGrowth": fmt_num(safe(info, "earningsGrowth")),
+        "revenue": fmt_num(safe(info, "totalRevenue")),
+        "ebitda": fmt_num(safe(info, "ebitda")),
+        "freeCashFlow": fmt_num(safe(info, "freeCashflow")),
+        "netIncome": fmt_num(safe(info, "netIncomeToCommon")),
+        "priceToBook": fmt_num(safe(info, "priceToBook")),
+        "evToEbitda": fmt_num(safe(info, "enterpriseToEbitda")),
+        "evToRevenue": fmt_num(safe(info, "enterpriseToRevenue")),
+        "totalDebt": fmt_num(safe(info, "totalDebt")),
+        "totalEquity": fmt_num(safe(info, "totalStockholderEquity")),
+        "totalAssets": fmt_num(safe(info, "totalAssets")),
+        "cash": fmt_num(safe(info, "totalCash")),
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "profile_fetched_at": profile_fetched_at,
     }
