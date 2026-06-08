@@ -1,167 +1,12 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-05-25T09:02:20.823764Z",
+  "fetchedAt": "2026-06-08T01:22:51.064325Z",
   "people": [
     {
       "qid": "Q912811",
       "name": "Brian Moynihan",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
-      "career": {
-        "qid": "Q912811",
-        "name": "Brian Moynihan",
-        "dateOfBirth": "1959-10-09",
-        "birthPlace": "Marietta",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
-        "occupations": [
-          "banker",
-          "chief executive officer"
-        ],
-        "education": [
-          "Notre Dame Law School",
-          "Marietta High School",
-          "University of Notre Dame",
-          "Brown University"
-        ],
-        "employers": [
-          {
-            "company": "Bank of America",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "trustee",
-            "company": null,
-            "start": "2010-01-01",
-            "end": "2016-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "chancellor",
-            "company": null,
-            "start": "2024-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6551659",
-      "name": "Linda Hudson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6551659",
-        "name": "Linda Hudson",
-        "dateOfBirth": "1950-08-22",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "University of Florida"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6291340",
-      "name": "Joe Almeida",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6291340",
-        "name": "Joe Almeida",
-        "dateOfBirth": "1961-09-22",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Centro Universit\u00e1rio do Instituto Mau\u00e1 de Tecnologia"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q4194276",
-      "name": "Maria T. Zuber",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q4194276",
-        "name": "Maria T. Zuber",
-        "dateOfBirth": "1958-06-27",
-        "birthPlace": "Norristown",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Zuber%2C%20MIT%20Media%20Lab%20%28cropped%29.jpg",
-        "occupations": [
-          "astronomer"
-        ],
-        "education": [
-          "University of Pennsylvania",
-          "Brown University"
-        ],
-        "employers": [
-          {
-            "company": "Johns Hopkins University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q1557228",
-      "name": "Monica C. Lozano",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1557228",
-        "name": "Monica C. Lozano",
-        "dateOfBirth": "1956-07-21",
-        "birthPlace": "Los Angeles",
-        "image": null,
-        "occupations": [
-          "editor",
-          "newspaper editor"
-        ],
-        "education": [
-          "City College of San Francisco",
-          "University of Oregon"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q912811",
-      "name": "Brian Moynihan",
-      "role_at_company": "Board Member",
-      "source_field": "board",
       "career": {
         "qid": "Q912811",
         "name": "Brian Moynihan",
@@ -478,6 +323,161 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q6551659",
+      "name": "Linda Hudson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6551659",
+        "name": "Linda Hudson",
+        "dateOfBirth": "1950-08-22",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of Florida"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6291340",
+      "name": "Joe Almeida",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6291340",
+        "name": "Joe Almeida",
+        "dateOfBirth": "1961-09-22",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Centro Universit\u00e1rio do Instituto Mau\u00e1 de Tecnologia"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4194276",
+      "name": "Maria T. Zuber",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4194276",
+        "name": "Maria T. Zuber",
+        "dateOfBirth": "1958-06-27",
+        "birthPlace": "Norristown",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Zuber%2C%20MIT%20Media%20Lab%20%28cropped%29.jpg",
+        "occupations": [
+          "astronomer"
+        ],
+        "education": [
+          "Brown University",
+          "University of Pennsylvania"
+        ],
+        "employers": [
+          {
+            "company": "Johns Hopkins University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1557228",
+      "name": "Monica C. Lozano",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1557228",
+        "name": "Monica C. Lozano",
+        "dateOfBirth": "1956-07-21",
+        "birthPlace": "Los Angeles",
+        "image": null,
+        "occupations": [
+          "newspaper editor",
+          "editor"
+        ],
+        "education": [
+          "City College of San Francisco",
+          "University of Oregon"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q912811",
+      "name": "Brian Moynihan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q912811",
+        "name": "Brian Moynihan",
+        "dateOfBirth": "1959-10-09",
+        "birthPlace": "Marietta",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Moynihan%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "banker",
+          "chief executive officer"
+        ],
+        "education": [
+          "Notre Dame Law School",
+          "Marietta High School",
+          "University of Notre Dame",
+          "Brown University"
+        ],
+        "employers": [
+          {
+            "company": "Bank of America",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "trustee",
+            "company": null,
+            "start": "2010-01-01",
+            "end": "2016-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chancellor",
+            "company": null,
+            "start": "2024-01-01",
+            "end": null
+          }
+        ]
       }
     }
   ]

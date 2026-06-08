@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-05-25T09:02:20.822598Z",
+  "fetchedAt": "2026-06-08T01:22:51.063215Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -72,100 +72,6 @@
       }
     },
     {
-      "qid": "Q879432",
-      "name": "Mike Leavitt",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q879432",
-        "name": "Mike Leavitt",
-        "dateOfBirth": "1951-02-11",
-        "birthPlace": "Cedar City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Leavitt.jpg",
-        "occupations": [
-          "elector",
-          "blogger",
-          "politician",
-          "public figure",
-          "governor",
-          "economist"
-        ],
-        "education": [
-          "Cedar High School",
-          "Southern Utah University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Secretary of Health and Human Services",
-            "company": null,
-            "start": "2005-01-26",
-            "end": "2009-01-20"
-          },
-          {
-            "title": "Governor of Utah",
-            "company": null,
-            "start": "1993-01-04",
-            "end": "2003-11-05"
-          },
-          {
-            "title": "Administrator of the Environmental Protection Agency",
-            "company": null,
-            "start": "2003-11-06",
-            "end": "2005-01-26"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q164324",
-      "name": "Charlene Barshefsky",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q164324",
-        "name": "Charlene Barshefsky",
-        "dateOfBirth": "1950-08-11",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
-        "occupations": [
-          "diplomat",
-          "businessperson",
-          "politician",
-          "lawyer"
-        ],
-        "education": [
-          "Von Steuben Metropolitan Science Center",
-          "University of Wisconsin\u2013Madison"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q116679",
-      "name": "Dan Vasella",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q116679",
-        "name": "Dan Vasella",
-        "dateOfBirth": "1953-08-15",
-        "birthPlace": "Fribourg",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Vasella%20World%20Economic%20Forum%202013.jpg",
-        "occupations": [
-          "physician",
-          "businessperson"
-        ],
-        "education": [
-          "University of Bern",
-          "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q114834841",
       "name": "Christopher Young",
       "role_at_company": "Board Member",
@@ -202,9 +108,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford Law School",
           "Vassar College",
-          "The Wharton School",
-          "Stanford Law School"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -347,6 +253,100 @@
       }
     },
     {
+      "qid": "Q879432",
+      "name": "Mike Leavitt",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q879432",
+        "name": "Mike Leavitt",
+        "dateOfBirth": "1951-02-11",
+        "birthPlace": "Cedar City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Leavitt.jpg",
+        "occupations": [
+          "elector",
+          "blogger",
+          "economist",
+          "public figure",
+          "politician",
+          "governor"
+        ],
+        "education": [
+          "Cedar High School",
+          "Southern Utah University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Secretary of Health and Human Services",
+            "company": null,
+            "start": "2005-01-26",
+            "end": "2009-01-20"
+          },
+          {
+            "title": "Governor of Utah",
+            "company": null,
+            "start": "1993-01-04",
+            "end": "2003-11-05"
+          },
+          {
+            "title": "Administrator of the Environmental Protection Agency",
+            "company": null,
+            "start": "2003-11-06",
+            "end": "2005-01-26"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q164324",
+      "name": "Charlene Barshefsky",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q164324",
+        "name": "Charlene Barshefsky",
+        "dateOfBirth": "1950-08-11",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
+        "occupations": [
+          "businessperson",
+          "diplomat",
+          "politician",
+          "lawyer"
+        ],
+        "education": [
+          "Von Steuben Metropolitan Science Center",
+          "University of Wisconsin\u2013Madison"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q116679",
+      "name": "Dan Vasella",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q116679",
+        "name": "Dan Vasella",
+        "dateOfBirth": "1953-08-15",
+        "birthPlace": "Fribourg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Vasella%20World%20Economic%20Forum%202013.jpg",
+        "occupations": [
+          "businessperson",
+          "physician"
+        ],
+        "education": [
+          "University of Bern",
+          "Harvard Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q15069859",
       "name": "Peter Chernin",
       "role_at_company": "Board Member",
@@ -358,9 +358,9 @@
         "birthPlace": "Harrison",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Chernin%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202009.jpg",
         "occupations": [
-          "television producer",
           "film producer",
           "financier",
+          "television producer",
           "businessperson",
           "entrepreneur"
         ],

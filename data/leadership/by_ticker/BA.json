@@ -1,405 +1,343 @@
 {
   "ticker": "BA",
-  "fetchedAt": "2026-05-25T09:02:20.823108Z",
+  "fetchedAt": "2026-06-08T01:22:51.063703Z",
   "people": [
     {
-      "qid": "Q109767256",
-      "name": "Kelly Ortberg",
+      "qid": "Q104862847",
+      "name": "Sean Doyle",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q109767256",
-        "name": "Kelly Ortberg",
-        "dateOfBirth": "1960-01-01",
+        "qid": "Q104862847",
+        "name": "Sean Doyle",
+        "dateOfBirth": null,
         "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sean%20Doyle%20at%20SXSW%20London%202025.jpg",
         "occupations": [
-          "board member",
-          "businessperson"
+          "business executive"
         ],
-        "education": [
-          "University of Iowa"
-        ],
-        "employers": [
+        "education": [],
+        "employers": [],
+        "positions": [
           {
-            "company": "Boeing",
-            "start": null,
+            "title": "chairperson",
+            "company": null,
+            "start": "2021-04-01",
             "end": null
           },
           {
-            "company": "Rockwell Collins",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
             "title": "chief executive officer",
             "company": null,
-            "start": "2024-08-08",
+            "start": "2020-10-01",
             "end": null
           }
         ]
       }
     },
     {
-      "qid": "Q114559065",
-      "name": "Dave Gitlin",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q96385593",
+      "name": "Keith Williams",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q114559065",
-        "name": "Dave Gitlin",
+        "qid": "Q96385593",
+        "name": "Keith Williams",
+        "dateOfBirth": null,
+        "birthPlace": "Teesside",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q75517224",
+      "name": "Roy Thomas Watts",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q75517224",
+        "name": "Roy Thomas Watts",
         "dateOfBirth": null,
         "birthPlace": null,
         "image": null,
         "occupations": [],
-        "education": [
-          "University of Connecticut School of Law",
-          "Massachusetts Institute of Technology",
-          "Cornell University"
-        ],
+        "education": [],
         "employers": [],
         "positions": []
       }
     },
     {
-      "qid": "Q109772673",
-      "name": "David Joyce",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q64876118",
+      "name": "Ross Stainton",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q109772673",
-        "name": "David Joyce",
-        "dateOfBirth": null,
+        "qid": "Q64876118",
+        "name": "Ross Stainton",
+        "dateOfBirth": "1914-05-27",
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q22003790",
+      "name": "\u00c1lex Cruz",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q22003790",
+        "name": "\u00c1lex Cruz",
+        "dateOfBirth": "1966-01-01",
+        "birthPlace": "Bilbao",
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Ohio State University",
+          "Central Michigan University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-11-06",
+            "end": "2021-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7356184",
+      "name": "Rod Eddington",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7356184",
+        "name": "Rod Eddington",
+        "dateOfBirth": "1950-01-02",
+        "birthPlace": "Perth",
+        "image": null,
+        "occupations": [
+          "cricketer",
+          "merchant",
           "businessperson",
-          "board member"
-        ],
-        "education": [
-          "Xavier University",
-          "Michigan State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109771521",
-      "name": "Lynne Doughtie",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109771521",
-        "name": "Lynne Doughtie",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "board member",
-          "businessperson"
-        ],
-        "education": [
-          "Virginia Tech"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109579686",
-      "name": "Akhil Johri",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109579686",
-        "name": "Akhil Johri",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Indian Institute of Management Ahmedabad"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q30015214",
-      "name": "Stayce Harris",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q30015214",
-        "name": "Stayce Harris",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": "Los Angeles",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lt.%20Gen.%20Stayce%20D.%20Harris.jpg",
-        "occupations": [
-          "military personnel"
-        ],
-        "education": [
-          "University of Southern California"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q18634617",
-      "name": "Steve Mollenkopf",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q18634617",
-        "name": "Steve Mollenkopf",
-        "dateOfBirth": "1968-01-01",
-        "birthPlace": "United States",
-        "image": null,
-        "occupations": [
           "engineer"
         ],
         "education": [
-          "University of Michigan",
-          "Virginia Tech"
+          "Christ Church Grammar School",
+          "University of Western Australia",
+          "Lincoln College"
         ],
-        "employers": [
-          {
-            "company": "Qualcomm",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
     {
-      "qid": "Q17180532",
-      "name": "Robert A. Bradway",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q7341669",
+      "name": "Robert Ayling",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q17180532",
-        "name": "Robert A. Bradway",
-        "dateOfBirth": "1963-01-01",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20A.%20Bradway.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Harvard Business School",
-          "Amherst College",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "Amgen",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q16866325",
-      "name": "Lynn Good",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16866325",
-        "name": "Lynn Good",
-        "dateOfBirth": "1953-01-01",
-        "birthPlace": "Ohio",
+        "qid": "Q7341669",
+        "name": "Robert Ayling",
+        "dateOfBirth": "1946-08-03",
+        "birthPlace": "Battersea",
         "image": null,
         "occupations": [
-          "merchant",
+          "chief executive officer"
+        ],
+        "education": [
+          "King's College School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q3569110",
+      "name": "Willie Walsh",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3569110",
+        "name": "Willie Walsh",
+        "dateOfBirth": "1961-10-25",
+        "birthPlace": "Dublin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Willie%20Walsh%20%28cropped%29.jpg",
+        "occupations": [
           "entrepreneur",
           "businessperson"
         ],
         "education": [
-          "Miami University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q16727786",
-      "name": "Dave Calhoun",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16727786",
-        "name": "Dave Calhoun",
-        "dateOfBirth": "1957-04-18",
-        "birthPlace": "Philadelphia",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Calhoun%20%28cropped%29.png",
-        "occupations": [
-          "business executive",
-          "manager"
-        ],
-        "education": [
-          "Parkland High School",
-          "Virginia Tech"
+          "School of Business, Trinity College Dublin",
+          "Trinity College, Dublin"
         ],
         "employers": [],
         "positions": [
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "2020-01-01",
-            "end": "2024-08-07"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q7364540",
-      "name": "Ron Williams",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7364540",
-        "name": "Ron Williams",
-        "dateOfBirth": "1949-09-30",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20A.%20Williams%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010%20crop.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Weir High School",
-          "Sloan Fellows Program",
-          "Roosevelt University",
-          "MIT Sloan School of Management"
-        ],
-        "employers": [
-          {
-            "company": "Aetna",
-            "start": "2001-03-15",
-            "end": "2011-04-08"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2011-06-14",
-            "end": "2022-04-28"
+            "start": "2011-01-24",
+            "end": "2020-10-11"
           },
           {
-            "title": "board of directors member",
+            "title": "director general",
             "company": null,
-            "start": "2002-09-27",
-            "end": "2011-04-08"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-02-14",
-            "end": "2010-11-29"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6490609",
-      "name": "Larry Kellner",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6490609",
-        "name": "Larry Kellner",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": "Sumter",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Kellner.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "University of South Carolina"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2023-01-01",
+            "start": "2021-04-01",
             "end": null
           }
         ]
       }
     },
     {
-      "qid": "Q2997321",
-      "name": "John M. Richardson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q404455",
+      "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q2997321",
-        "name": "John M. Richardson",
-        "dateOfBirth": "1960-04-08",
-        "birthPlace": "Petersburg",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20John%20M.%20Richardson%20%28CNO%29%20150917-N-AT895-703%20%2826207156950%29.jpg",
+        "qid": "Q404455",
+        "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+        "dateOfBirth": "1933-11-16",
+        "birthPlace": "London Borough of Barnet",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lord%20Marshall%20of%20Knightsbridge.jpg",
         "occupations": [
-          "military officer"
+          "politician"
         ],
         "education": [
-          "United States Naval Academy",
-          "National War College",
-          "Massachusetts Institute of Technology"
+          "University College School"
         ],
         "employers": [],
         "positions": [
           {
-            "title": "Chief of Naval Operations",
+            "title": "member of the House of Lords",
             "company": null,
-            "start": "2015-09-18",
-            "end": "2019-08-22"
+            "start": "1998-07-20",
+            "end": "2012-07-05"
           }
         ]
       }
     },
     {
-      "qid": "Q1286705",
-      "name": "Edmund Giambastiani",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q15810073",
+      "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
       "career": {
-        "qid": "Q1286705",
-        "name": "Edmund Giambastiani",
-        "dateOfBirth": "1948-05-04",
-        "birthPlace": "Canastota",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Giambastiani%20-%2027%20Feb%2007.jpg",
+        "qid": "Q15810073",
+        "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+        "dateOfBirth": "1915-11-26",
+        "birthPlace": "Troon",
+        "image": null,
         "occupations": [
-          "military officer",
-          "submariner"
+          "university teacher",
+          "politician",
+          "manager",
+          "economist"
         ],
         "education": [
-          "United States Naval Academy"
+          "London School of Economics and Political Science",
+          "University of Glasgow"
         ],
         "employers": [],
         "positions": [
           {
-            "title": "Supreme Allied Commander Transformation",
+            "title": "member of the House of Lords",
             "company": null,
-            "start": "2003-06-19",
-            "end": "2005-06-19"
-          },
-          {
-            "title": "Vice Chairman of the Joint Chiefs of Staff",
-            "company": null,
-            "start": "2005-08-12",
-            "end": "2007-07-27"
+            "start": "1980-09-01",
+            "end": "1992-05-23"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q5238030",
+      "name": "David Nicolson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5238030",
+        "name": "David Nicolson",
+        "dateOfBirth": "1922-09-20",
+        "birthPlace": "London",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "politician"
+        ],
+        "education": [
+          "Haileybury and Imperial Service College",
+          "St Paul's School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Member of the European Parliament",
+            "company": null,
+            "start": "1979-07-17",
+            "end": "1984-07-23"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1700825",
+      "name": "John King, Baron King of Wartnaby",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1700825",
+        "name": "John King, Baron King of Wartnaby",
+        "dateOfBirth": "1917-08-29",
+        "birthPlace": "Brentwood",
+        "image": null,
+        "occupations": [
+          "politician",
+          "farmer"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": "1983-07-15",
+            "end": "2005-07-12"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q859931",
+      "name": "Martin Broughton",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q859931",
+        "name": "Martin Broughton",
+        "dateOfBirth": "1947-04-15",
+        "birthPlace": "London",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "association football player"
+        ],
+        "education": [
+          "Westminster City School"
+        ],
+        "employers": [],
+        "positions": []
       }
     }
   ]

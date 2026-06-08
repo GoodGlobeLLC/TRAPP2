@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-05-25T09:02:20.853543Z",
+  "fetchedAt": "2026-06-08T01:22:51.092256Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,20 +14,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
-          "computer scientist",
           "philanthropist",
+          "patron of the arts",
+          "chief executive officer",
           "entrepreneur",
           "programmer",
-          "chief executive officer"
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Harvard University",
-          "Phillips Exeter Academy"
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -41,209 +41,6 @@
             "title": "chief executive officer",
             "company": null,
             "start": "2004-02-04",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5307199",
-      "name": "Drew Houston",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5307199",
-        "name": "Drew Houston",
-        "dateOfBirth": "1983-03-04",
-        "birthPlace": "Acton",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
-        "occupations": [
-          "computer scientist",
-          "entrepreneur"
-        ],
-        "education": [
-          "Massachusetts Institute of Technology",
-          "Acton-Boxborough Regional High School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-02-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q822657",
-      "name": "Robert M. Kimmitt",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q822657",
-        "name": "Robert M. Kimmitt",
-        "dateOfBirth": "1947-12-19",
-        "birthPlace": "Logan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
-        "occupations": [
-          "diplomat",
-          "politician"
-        ],
-        "education": [
-          "Georgetown University Law Center",
-          "United States Military Academy"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Deputy Secretary of the Treasury",
-            "company": null,
-            "start": "2005-08-16",
-            "end": "2009-01-20"
-          },
-          {
-            "title": "ambassador",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-03-01",
-            "end": null
-          },
-          {
-            "title": "Under Secretary of State for Political Affairs",
-            "company": null,
-            "start": "1989-03-02",
-            "end": "1991-08-23"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q705525",
-      "name": "Peter Thiel",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q705525",
-        "name": "Peter Thiel",
-        "dateOfBirth": "1967-10-11",
-        "birthPlace": "Frankfurt",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
-        "occupations": [
-          "technology entrepreneur",
-          "computer scientist",
-          "manager",
-          "investor",
-          "chess player",
-          "financier",
-          "banker",
-          "entrepreneur",
-          "writer"
-        ],
-        "education": [
-          "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
-        ],
-        "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2003-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2005-04-01",
-            "end": "2022-05-25"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q234653",
-      "name": "Sheryl Sandberg",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q234653",
-        "name": "Sheryl Sandberg",
-        "dateOfBirth": "1969-08-28",
-        "birthPlace": "Washington, D.C.",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
-        "occupations": [
-          "businessperson",
-          "economist",
-          "entrepreneur",
-          "computer scientist"
-        ],
-        "education": [
-          "Harvard Business School",
-          "Harvard College",
-          "North Miami Beach High School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "vice president",
-            "company": null,
-            "start": "2001-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "title": "business consultant",
-            "company": null,
-            "start": "1995-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
-            "title": "Chief of Staff",
-            "company": null,
-            "start": "1996-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": "2008-03-01",
-            "end": "2022-09-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
-            "title": "research assistant",
-            "company": null,
-            "start": null,
             "end": null
           }
         ]
@@ -331,12 +128,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Lynbrook High School",
-          "Harvard University"
+          "Harvard University",
+          "Lynbrook High School"
         ],
         "employers": [
           {
@@ -368,6 +165,16 @@
         ],
         "employers": [
           {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -381,16 +188,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
           },
           {
             "company": "General Motors",
@@ -474,6 +271,209 @@
       }
     },
     {
+      "qid": "Q5307199",
+      "name": "Drew Houston",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5307199",
+        "name": "Drew Houston",
+        "dateOfBirth": "1983-03-04",
+        "birthPlace": "Acton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
+        "occupations": [
+          "entrepreneur",
+          "computer scientist"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Acton-Boxborough Regional High School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-02-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q822657",
+      "name": "Robert M. Kimmitt",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q822657",
+        "name": "Robert M. Kimmitt",
+        "dateOfBirth": "1947-12-19",
+        "birthPlace": "Logan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
+        "occupations": [
+          "diplomat",
+          "politician"
+        ],
+        "education": [
+          "Georgetown University Law Center",
+          "United States Military Academy"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Deputy Secretary of the Treasury",
+            "company": null,
+            "start": "2005-08-16",
+            "end": "2009-01-20"
+          },
+          {
+            "title": "ambassador",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-03-01",
+            "end": null
+          },
+          {
+            "title": "Under Secretary of State for Political Affairs",
+            "company": null,
+            "start": "1989-03-02",
+            "end": "1991-08-23"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q705525",
+      "name": "Peter Thiel",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q705525",
+        "name": "Peter Thiel",
+        "dateOfBirth": "1967-10-11",
+        "birthPlace": "Frankfurt",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
+        "occupations": [
+          "financier",
+          "banker",
+          "chess player",
+          "manager",
+          "technology entrepreneur",
+          "investor",
+          "entrepreneur",
+          "computer scientist",
+          "writer"
+        ],
+        "education": [
+          "Stanford Law School",
+          "San Mateo High School",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2003-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2005-04-01",
+            "end": "2022-05-25"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q234653",
+      "name": "Sheryl Sandberg",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q234653",
+        "name": "Sheryl Sandberg",
+        "dateOfBirth": "1969-08-28",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "computer scientist",
+          "economist",
+          "businessperson"
+        ],
+        "education": [
+          "Harvard College",
+          "North Miami Beach High School",
+          "Harvard Business School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "vice president",
+            "company": null,
+            "start": "2001-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "title": "business consultant",
+            "company": null,
+            "start": "1995-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2009-01-01",
+            "end": null
+          },
+          {
+            "title": "Chief of Staff",
+            "company": null,
+            "start": "1996-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": "2008-03-01",
+            "end": "2022-09-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "title": "research assistant",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q62882",
       "name": "Marc Andreessen",
       "role_at_company": "Board Member",
@@ -489,10 +489,10 @@
           "programmer",
           "software engineer",
           "investor",
-          "engineer",
           "inventor",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "New Lisbon High School",
@@ -532,20 +532,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
-          "computer scientist",
           "philanthropist",
+          "patron of the arts",
+          "chief executive officer",
           "entrepreneur",
           "programmer",
-          "chief executive officer"
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Harvard University",
-          "Phillips Exeter Academy"
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -604,20 +604,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
-          "computer scientist",
           "philanthropist",
+          "patron of the arts",
+          "chief executive officer",
           "entrepreneur",
           "programmer",
-          "chief executive officer"
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
           "New York Medical College",
-          "Harvard University",
-          "Phillips Exeter Academy"
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {

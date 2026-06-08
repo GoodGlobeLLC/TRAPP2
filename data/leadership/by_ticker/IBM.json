@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-05-25T09:02:20.844319Z",
+  "fetchedAt": "2026-06-08T01:22:51.083633Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -43,8 +43,8 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "businessperson",
-          "fighter pilot"
+          "fighter pilot",
+          "businessperson"
         ],
         "education": [
           "Yale University"
@@ -89,8 +89,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -156,6 +156,137 @@
       }
     },
     {
+      "qid": "Q84053114",
+      "name": "Arvind Krishna",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q84053114",
+        "name": "Arvind Krishna",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": "West Godavari district",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arvind%20Krishna%20%28born%201962%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "Indian Institute of Technology Kanpur",
+          "University of Illinois Urbana-Champaign",
+          "Stanes Anglo Indian Higher Secondary School"
+        ],
+        "employers": [
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q23560320",
+      "name": "Thomas Buberl",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q23560320",
+        "name": "Thomas Buberl",
+        "dateOfBirth": "1973-03-24",
+        "birthPlace": "Cologne",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
+        "occupations": [
+          "chairman of the executive board",
+          "business manager",
+          "bank teller",
+          "businessperson"
+        ],
+        "education": [
+          "University of St. Gallen",
+          "WHU \u2013 Otto Beisheim School of Management",
+          "University of Lancaster"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2016-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q21551743",
+      "name": "Rick Waddell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21551743",
+        "name": "Rick Waddell",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "board member"
+        ],
+        "education": [
+          "Kellogg School of Management",
+          "Dartmouth College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-11-29",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q20111482",
+      "name": "Martha Pollack",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q20111482",
+        "name": "Martha Pollack",
+        "dateOfBirth": "1958-08-27",
+        "birthPlace": "Stamford",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20E.%20Pollack%20in%202017.jpg",
+        "occupations": [
+          "computer scientist",
+          "university president"
+        ],
+        "education": [
+          "University of Pennsylvania",
+          "Dartmouth College"
+        ],
+        "employers": [
+          {
+            "company": "University of Michigan",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Pittsburgh",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q18153753",
       "name": "Joe Swedish",
       "role_at_company": "Board Member",
@@ -202,9 +333,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
+          "merchant",
           "business executive",
-          "merchant"
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -286,8 +417,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -327,202 +458,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q84053114",
-      "name": "Arvind Krishna",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q84053114",
-        "name": "Arvind Krishna",
-        "dateOfBirth": "1962-01-01",
-        "birthPlace": "West Godavari district",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arvind%20Krishna%20%28born%201962%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "Indian Institute of Technology Kanpur",
-          "University of Illinois Urbana-Champaign",
-          "Stanes Anglo Indian Higher Secondary School"
-        ],
-        "employers": [
-          {
-            "company": "IBM",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q23560320",
-      "name": "Thomas Buberl",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q23560320",
-        "name": "Thomas Buberl",
-        "dateOfBirth": "1973-03-24",
-        "birthPlace": "Cologne",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
-        "occupations": [
-          "businessperson",
-          "chairman of the executive board",
-          "business manager",
-          "bank teller"
-        ],
-        "education": [
-          "University of St. Gallen",
-          "WHU \u2013 Otto Beisheim School of Management",
-          "University of Lancaster"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2016-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q21551743",
-      "name": "Rick Waddell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q21551743",
-        "name": "Rick Waddell",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "board member"
-        ],
-        "education": [
-          "Kellogg School of Management",
-          "Dartmouth College"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-11-29",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q20111482",
-      "name": "Martha Pollack",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q20111482",
-        "name": "Martha Pollack",
-        "dateOfBirth": "1958-08-27",
-        "birthPlace": "Stamford",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20E.%20Pollack%20in%202017.jpg",
-        "occupations": [
-          "computer scientist",
-          "university president"
-        ],
-        "education": [
-          "University of Pennsylvania",
-          "Dartmouth College"
-        ],
-        "employers": [
-          {
-            "company": "University of Pittsburgh",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Michigan",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Cornell University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q116012",
-      "name": "Peter Voser",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q116012",
-        "name": "Peter Voser",
-        "dateOfBirth": "1958-08-29",
-        "birthPlace": "Baden",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Voser.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "ZHAW Zurich University of Applied Sciences"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Shell chief executive",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2013-12-31"
-          },
-          {
-            "title": "chairman of the board of ABB",
-            "company": null,
-            "start": "2015-04-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q83636",
-      "name": "Andrew Liveris",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q83636",
-        "name": "Andrew Liveris",
-        "dateOfBirth": "1954-05-05",
-        "birthPlace": "Darwin",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
-        "occupations": [
-          "businessperson",
-          "chemist"
-        ],
-        "education": [
-          "Darwin High School",
-          "Brisbane State High School",
-          "University of Queensland"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2004-11-01",
-            "end": null
-          }
-        ]
       }
     },
     {
@@ -572,6 +507,71 @@
       }
     },
     {
+      "qid": "Q116012",
+      "name": "Peter Voser",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q116012",
+        "name": "Peter Voser",
+        "dateOfBirth": "1958-08-29",
+        "birthPlace": "Baden",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Voser.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "ZHAW Zurich University of Applied Sciences"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Shell chief executive",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2013-12-31"
+          },
+          {
+            "title": "chairman of the board of ABB",
+            "company": null,
+            "start": "2015-04-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q83636",
+      "name": "Andrew Liveris",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q83636",
+        "name": "Andrew Liveris",
+        "dateOfBirth": "1954-05-05",
+        "birthPlace": "Darwin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
+        "occupations": [
+          "chemist",
+          "businessperson"
+        ],
+        "education": [
+          "Darwin High School",
+          "Brisbane State High School",
+          "University of Queensland"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2004-11-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q2960084",
       "name": "Charles Ranlett Flint",
       "role_at_company": "Founder",
@@ -610,9 +610,9 @@
         "birthPlace": "Campbell",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20J%20Watson%20Sr.jpg",
         "occupations": [
-          "chief executive officer",
           "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Columbia University"

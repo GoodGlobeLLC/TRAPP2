@@ -5,21 +5,16 @@
   "birthPlace": "Oakland",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
   "occupations": [
-    "manager",
     "businessperson",
+    "manager",
     "military officer"
   ],
   "education": [
+    "Mankato West High School",
     "United States Naval Academy",
-    "London School of Economics and Political Science",
-    "Mankato West High School"
+    "London School of Economics and Political Science"
   ],
   "employers": [
-    {
-      "company": "Carlyle Group",
-      "start": null,
-      "end": null
-    },
     {
       "company": "General Motors",
       "start": null,
@@ -27,6 +22,11 @@
     },
     {
       "company": "American Express",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Carlyle Group",
       "start": null,
       "end": null
     }

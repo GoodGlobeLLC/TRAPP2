@@ -1,57 +1,7 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-05-25T09:02:20.854577Z",
+  "fetchedAt": "2026-06-08T01:22:51.093297Z",
   "people": [
-    {
-      "qid": "Q1289900",
-      "name": "Kenneth Frazier",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q1289900",
-        "name": "Kenneth Frazier",
-        "dateOfBirth": "1954-12-17",
-        "birthPlace": "Philadelphia",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
-        "occupations": [
-          "businessperson",
-          "business executive",
-          "lawyer"
-        ],
-        "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
-          "Northeast High School",
-          "Julia R. Masterman School"
-        ],
-        "employers": [
-          {
-            "company": "Faegre Drinker",
-            "start": "1978-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Merck & Co.",
-            "start": "1992-01-01",
-            "end": "2022-11-30"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2011-01-01",
-            "end": "2021-06-30"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2009-05-27",
-            "end": "2022-05-25"
-          }
-        ]
-      }
-    },
     {
       "qid": "Q114706038",
       "name": "Rob Davis",
@@ -92,83 +42,51 @@
       }
     },
     {
-      "qid": "Q533750",
-      "name": "Patricia Russo",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q1289900",
+      "name": "Kenneth Frazier",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q533750",
-        "name": "Patricia Russo",
-        "dateOfBirth": "1952-06-12",
-        "birthPlace": "Trenton",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Russo.jpg",
+        "qid": "Q1289900",
+        "name": "Kenneth Frazier",
+        "dateOfBirth": "1954-12-17",
+        "birthPlace": "Philadelphia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson"
+          "lawyer",
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "Lawrence High School",
-          "Georgetown University"
+          "Pennsylvania State University",
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
-            "company": "Alcatel-Lucent",
-            "start": "2006-01-01",
-            "end": "2008-01-01"
+            "company": "Faegre Drinker",
+            "start": "1978-01-01",
+            "end": "1992-01-01"
           },
           {
-            "company": "IBM",
-            "start": null,
-            "end": null
+            "company": "Merck & Co.",
+            "start": "1992-01-01",
+            "end": "2022-11-30"
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1995-01-01",
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "2006-01-01",
-            "end": "2008-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q466772",
-      "name": "Tom Glocer",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q466772",
-        "name": "Tom Glocer",
-        "dateOfBirth": "1959-10-08",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
-        "occupations": [
-          "manager",
-          "businessperson"
-        ],
-        "education": [
-          "Yale Law School",
-          "Columbia University"
-        ],
-        "employers": [],
-        "positions": [
+            "start": "2011-01-01",
+            "end": "2021-06-30"
+          },
           {
             "title": "board of directors member",
             "company": null,
-            "start": "2007-11-27",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "2001-01-01",
-            "end": "2012-01-01"
+            "start": "2009-05-27",
+            "end": "2022-05-25"
           }
         ]
       }
@@ -186,8 +104,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Princeton University"
+          "Princeton University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -320,17 +238,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -444,8 +362,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Yale University"
+          "Yale University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -491,12 +409,12 @@
           "physician"
         ],
         "education": [
-          "The Bush School",
-          "The Wharton School",
           "Stony Brook University",
-          "University of Pennsylvania",
           "Harvard Medical School",
-          "Harvard University"
+          "University of Pennsylvania",
+          "Harvard University",
+          "The Bush School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -577,8 +495,8 @@
         "birthPlace": "Malm\u00f6",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "University of Gothenburg"
@@ -612,9 +530,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
+          "lawyer",
           "businessperson",
-          "business executive",
-          "lawyer"
+          "business executive"
         ],
         "education": [
           "Pennsylvania State University",
@@ -646,6 +564,88 @@
             "company": null,
             "start": "2009-05-27",
             "end": "2022-05-25"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q533750",
+      "name": "Patricia Russo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q533750",
+        "name": "Patricia Russo",
+        "dateOfBirth": "1952-06-12",
+        "birthPlace": "Trenton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Russo.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Lawrence High School",
+          "Georgetown University"
+        ],
+        "employers": [
+          {
+            "company": "Alcatel-Lucent",
+            "start": "2006-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2008-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q466772",
+      "name": "Tom Glocer",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q466772",
+        "name": "Tom Glocer",
+        "dateOfBirth": "1959-10-08",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
+        "occupations": [
+          "businessperson",
+          "manager"
+        ],
+        "education": [
+          "Yale Law School",
+          "Columbia University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-11-27",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2001-01-01",
+            "end": "2012-01-01"
           }
         ]
       }

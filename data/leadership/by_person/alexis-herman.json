@@ -5,9 +5,9 @@
   "birthPlace": "Mobile",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
   "occupations": [
+    "social worker",
     "business executive",
     "sociologist",
-    "social worker",
     "politician"
   ],
   "education": [
@@ -17,13 +17,18 @@
   ],
   "employers": [
     {
-      "company": "Cummins",
-      "start": null,
-      "end": null
+      "company": "Office of Public Liaison",
+      "start": "1993-01-20",
+      "end": "1997-02-07"
     },
     {
-      "company": "Toyota",
-      "start": "2006-01-01",
+      "company": "United States Women's Bureau",
+      "start": "1977-04-04",
+      "end": "1981-01-20"
+    },
+    {
+      "company": "Southern Regional Council",
+      "start": null,
       "end": null
     },
     {
@@ -47,18 +52,13 @@
       "end": null
     },
     {
-      "company": "Office of Public Liaison",
-      "start": "1993-01-20",
-      "end": "1997-02-07"
-    },
-    {
-      "company": "United States Women's Bureau",
-      "start": "1977-04-04",
-      "end": "1981-01-20"
-    },
-    {
-      "company": "Southern Regional Council",
+      "company": "Cummins",
       "start": null,
+      "end": null
+    },
+    {
+      "company": "Toyota",
+      "start": "2006-01-01",
       "end": null
     }
   ],

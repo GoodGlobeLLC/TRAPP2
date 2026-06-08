@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-05-25T09:02:20.851683Z",
+  "fetchedAt": "2026-06-08T01:22:51.090492Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -14,8 +14,8 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Passau",
@@ -102,30 +102,6 @@
       }
     },
     {
-      "qid": "Q125144187",
-      "name": "Harit Talwar",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q125144187",
-        "name": "Harit Talwar",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2022-04-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q125024606",
       "name": "Gabrielle Sulzberger",
       "role_at_company": "Board Member",
@@ -140,9 +116,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
+          "Princeton University",
           "Harvard Law School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -179,8 +155,8 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Passau",
@@ -381,8 +357,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "California State University, Fullerton"
@@ -462,8 +438,8 @@
         "education": [
           "Marsha Stern Talmudical Academy",
           "Columbia College",
-          "Harvard Law School",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -505,6 +481,30 @@
             "title": "chief executive officer",
             "company": null,
             "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q125144187",
+      "name": "Harit Talwar",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q125144187",
+        "name": "Harit Talwar",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-04-01",
             "end": null
           }
         ]

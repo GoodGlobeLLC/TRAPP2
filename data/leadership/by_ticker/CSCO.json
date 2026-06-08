@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-05-25T09:02:20.831286Z",
+  "fetchedAt": "2026-06-08T01:22:51.071412Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -70,7 +70,7 @@
             "end": null
           },
           {
-            "company": "Honeywell International, Inc.",
+            "company": "Honeywell",
             "start": null,
             "end": null
           },
@@ -104,11 +104,11 @@
           "entrepreneur"
         ],
         "education": [
+          "Duke University",
+          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
-          "West Virginia University College of Law",
-          "Duke University",
-          "West Virginia University"
+          "West Virginia University College of Law"
         ],
         "employers": [
           {
@@ -244,26 +244,6 @@
             "end": "1999-01-01"
           }
         ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q114627246",
-      "name": "Marianna Tessel",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114627246",
-        "name": "Marianna Tessel",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Technion \u2013 Israel Institute of Technology",
-          "Weizmann Institute of Science"
-        ],
-        "employers": [],
         "positions": []
       }
     },
@@ -447,14 +427,19 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "electrical engineer",
+          "chief executive officer",
           "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -463,11 +448,6 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           },
           {
@@ -490,6 +470,26 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q114627246",
+      "name": "Marianna Tessel",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114627246",
+        "name": "Marianna Tessel",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Technion \u2013 Israel Institute of Technology",
+          "Weizmann Institute of Science"
+        ],
+        "employers": [],
+        "positions": []
       }
     }
   ]

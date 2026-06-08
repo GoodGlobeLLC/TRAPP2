@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-05-25T09:02:20.841002Z",
+  "fetchedAt": "2026-06-08T01:22:51.080551Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -46,6 +46,350 @@
             "title": "manager",
             "company": null,
             "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q533750",
+      "name": "Patricia Russo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q533750",
+        "name": "Patricia Russo",
+        "dateOfBirth": "1952-06-12",
+        "birthPlace": "Trenton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Russo.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Lawrence High School",
+          "Georgetown University"
+        ],
+        "employers": [
+          {
+            "company": "Alcatel-Lucent",
+            "start": "2006-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2008-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q344045",
+      "name": "Alfred P. Sloan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q344045",
+        "name": "Alfred P. Sloan",
+        "dateOfBirth": "1875-05-23",
+        "birthPlace": "New Haven",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20P.%20Sloan%20on%20the%20cover%20of%20TIME%20Magazine%2C%20December%2027%2C%201926.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Poly Prep Country Day School",
+          "New York University Tandon School of Engineering"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q55174",
+      "name": "Meg Whitman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q55174",
+        "name": "Meg Whitman",
+        "dateOfBirth": "1956-08-04",
+        "birthPlace": "Cold Spring Harbor",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
+        "occupations": [
+          "politician",
+          "entrepreneur",
+          "business executive"
+        ],
+        "education": [
+          "Cold Spring Harbor Jr./Sr. High School",
+          "Harvard Business School",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Hasbro",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
+            "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "eBay",
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "general manager",
+            "company": null,
+            "start": "1997-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "title": "consultant",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "founder",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "vice president",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q13560794",
+      "name": "Jane Mendillo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q13560794",
+        "name": "Jane Mendillo",
+        "dateOfBirth": "2000-01-01",
+        "birthPlace": "New Britain",
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Yale University",
+          "Yale School of Management",
+          "Yale College"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q8017971",
+      "name": "William S. Knudsen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q8017971",
+        "name": "William S. Knudsen",
+        "dateOfBirth": "1879-03-25",
+        "birthPlace": "Copenhagen",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
+        "occupations": [
+          "businessperson",
+          "entrepreneur",
+          "executive"
+        ],
+        "education": [
+          "Grosse Ile High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7793810",
+      "name": "Thomas Schoewe",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7793810",
+        "name": "Thomas Schoewe",
+        "dateOfBirth": "1952-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief financial officer"
+        ],
+        "education": [
+          "Loyola University Chicago Quinlan School of Business",
+          "Loyola University Chicago"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6779013",
+      "name": "Mary Barra",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6779013",
+        "name": "Mary Barra",
+        "dateOfBirth": "1961-12-24",
+        "birthPlace": "Waterford",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Barra%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Waterford Mott High School",
+          "Kettering University",
+          "Stanford Graduate School of Business",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2014-01-15",
+            "end": null
+          },
+          {
+            "title": "vice president",
+            "company": null,
+            "start": "2008-02-01",
+            "end": "2014-01-15"
+          },
+          {
+            "title": "manager",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6284393",
+      "name": "Joseph Jimenez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6284393",
+        "name": "Joseph Jimenez",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": "Switzerland",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson",
+          "chief executive officer"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Novartis",
+            "start": "2007-01-01",
+            "end": "2018-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2010-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
             "end": null
           }
         ]
@@ -145,8 +489,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -164,350 +508,6 @@
             "company": null,
             "start": "1953-01-28",
             "end": "1957-10-08"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q533750",
-      "name": "Patricia Russo",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q533750",
-        "name": "Patricia Russo",
-        "dateOfBirth": "1952-06-12",
-        "birthPlace": "Trenton",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Russo.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Lawrence High School",
-          "Georgetown University"
-        ],
-        "employers": [
-          {
-            "company": "Alcatel-Lucent",
-            "start": "2006-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "company": "IBM",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-01-01",
-            "end": "2008-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q344045",
-      "name": "Alfred P. Sloan",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q344045",
-        "name": "Alfred P. Sloan",
-        "dateOfBirth": "1875-05-23",
-        "birthPlace": "New Haven",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20P.%20Sloan%20on%20the%20cover%20of%20TIME%20Magazine%2C%20December%2027%2C%201926.jpg",
-        "occupations": [
-          "entrepreneur"
-        ],
-        "education": [
-          "Massachusetts Institute of Technology",
-          "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q55174",
-      "name": "Meg Whitman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q55174",
-        "name": "Meg Whitman",
-        "dateOfBirth": "1956-08-04",
-        "birthPlace": "Cold Spring Harbor",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
-        "occupations": [
-          "politician",
-          "entrepreneur",
-          "business executive"
-        ],
-        "education": [
-          "Princeton University",
-          "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
-        ],
-        "employers": [
-          {
-            "company": "eBay",
-            "start": "1998-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Hasbro",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bain & Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
-            "company": "Quibi",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "general manager",
-            "company": null,
-            "start": "1997-01-01",
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "title": "consultant",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1998-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "title": "vice president",
-            "company": null,
-            "start": "1989-01-01",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "founder",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "vice president",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q13560794",
-      "name": "Jane Mendillo",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q13560794",
-        "name": "Jane Mendillo",
-        "dateOfBirth": "2000-01-01",
-        "birthPlace": "New Britain",
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Yale School of Management",
-          "Yale College",
-          "Yale University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q8017971",
-      "name": "William S. Knudsen",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q8017971",
-        "name": "William S. Knudsen",
-        "dateOfBirth": "1879-03-25",
-        "birthPlace": "Copenhagen",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
-        "occupations": [
-          "entrepreneur",
-          "businessperson",
-          "executive"
-        ],
-        "education": [
-          "Grosse Ile High School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7793810",
-      "name": "Thomas Schoewe",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7793810",
-        "name": "Thomas Schoewe",
-        "dateOfBirth": "1952-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chief financial officer"
-        ],
-        "education": [
-          "Loyola University Chicago Quinlan School of Business",
-          "Loyola University Chicago"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6779013",
-      "name": "Mary Barra",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6779013",
-        "name": "Mary Barra",
-        "dateOfBirth": "1961-12-24",
-        "birthPlace": "Waterford",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Barra%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Waterford Mott High School",
-          "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
-        ],
-        "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2014-01-15",
-            "end": null
-          },
-          {
-            "title": "vice president",
-            "company": null,
-            "start": "2008-02-01",
-            "end": "2014-01-15"
-          },
-          {
-            "title": "manager",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6284393",
-      "name": "Joseph Jimenez",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6284393",
-        "name": "Joseph Jimenez",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": "Switzerland",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
-        "occupations": [
-          "businessperson",
-          "entrepreneur",
-          "chief executive officer"
-        ],
-        "education": [
-          "University of California, Berkeley",
-          "Stanford University"
-        ],
-        "employers": [
-          {
-            "company": "Novartis",
-            "start": "2007-01-01",
-            "end": "2018-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2010-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }

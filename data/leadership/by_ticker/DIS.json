@@ -1,7 +1,127 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-05-25T09:02:20.834286Z",
+  "fetchedAt": "2026-06-08T01:22:51.074140Z",
   "people": [
+    {
+      "qid": "Q86408516",
+      "name": "Bob Chapek",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q86408516",
+        "name": "Bob Chapek",
+        "dateOfBirth": "1960-01-01",
+        "birthPlace": "Hammond",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson",
+          "business executive"
+        ],
+        "education": [
+          "Indiana University Bloomington",
+          "Michigan State University",
+          "Eli Broad College of Business",
+          "Clark High School"
+        ],
+        "employers": [
+          {
+            "company": "The Walt Disney Company",
+            "start": "1993-01-01",
+            "end": "2022-11-20"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2020-02-25",
+            "end": "2022-11-20"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2015-02-23",
+            "end": "2020-02-25"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q69598904",
+      "name": "Josh D'Amaro",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q69598904",
+        "name": "Josh D'Amaro",
+        "dateOfBirth": "1971-02-10",
+        "birthPlace": "Medford",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
+        "occupations": [
+          "chairperson",
+          "chief executive officer"
+        ],
+        "education": [
+          "Georgetown University"
+        ],
+        "employers": [
+          {
+            "company": "The Walt Disney Company",
+            "start": "1998-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2026-03-18",
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2019-11-01",
+            "end": "2020-05-18"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2018-02-01",
+            "end": "2019-11-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3421200",
+      "name": "Raymond Watson",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3421200",
+        "name": "Raymond Watson",
+        "dateOfBirth": "1926-10-04",
+        "birthPlace": "Seattle",
+        "image": null,
+        "occupations": [
+          "architect",
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Berkeley"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1983-01-01",
+            "end": "1984-01-01"
+          }
+        ]
+      }
+    },
     {
       "qid": "Q727953",
       "name": "Michael Eisner",
@@ -112,6 +232,12 @@
             "end": "2005-01-01"
           },
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-10-01",
+            "end": "2020-02-25"
+          },
+          {
             "title": "president",
             "company": null,
             "start": "1989-01-01",
@@ -122,132 +248,6 @@
             "company": null,
             "start": "2022-11-20",
             "end": "2026-03-17"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2005-10-01",
-            "end": "2020-02-25"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q86408516",
-      "name": "Bob Chapek",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q86408516",
-        "name": "Bob Chapek",
-        "dateOfBirth": "1960-01-01",
-        "birthPlace": "Hammond",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
-        "occupations": [
-          "business executive",
-          "businessperson"
-        ],
-        "education": [
-          "Indiana University Bloomington",
-          "Michigan State University",
-          "Eli Broad College of Business",
-          "Clark High School"
-        ],
-        "employers": [
-          {
-            "company": "The Walt Disney Company",
-            "start": "1993-01-01",
-            "end": "2022-11-20"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2020-02-25",
-            "end": "2022-11-20"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2015-02-23",
-            "end": "2020-02-25"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q69598904",
-      "name": "Josh D'Amaro",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q69598904",
-        "name": "Josh D'Amaro",
-        "dateOfBirth": "1971-02-10",
-        "birthPlace": "Medford",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
-        "occupations": [
-          "chief executive officer",
-          "chairperson"
-        ],
-        "education": [
-          "Georgetown University"
-        ],
-        "employers": [
-          {
-            "company": "The Walt Disney Company",
-            "start": "1998-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2026-01-01",
-            "end": null
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "2019-11-01",
-            "end": "2020-05-18"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "2018-02-01",
-            "end": "2019-11-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q3421200",
-      "name": "Raymond Watson",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q3421200",
-        "name": "Raymond Watson",
-        "dateOfBirth": "1926-10-04",
-        "birthPlace": "Seattle",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "architect"
-        ],
-        "education": [
-          "University of California, Berkeley"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1983-01-01",
-            "end": "1984-01-01"
           }
         ]
       }
@@ -264,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "animator",
-          "businessperson"
+          "businessperson",
+          "animator"
         ],
         "education": [],
         "employers": [],
@@ -312,8 +312,8 @@
         "birthPlace": "Rexburg",
         "image": null,
         "occupations": [
-          "film producer",
-          "businessperson"
+          "businessperson",
+          "film producer"
         ],
         "education": [],
         "employers": [],
@@ -351,25 +351,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "designer",
-          "caricaturist",
-          "director",
-          "film producer",
           "television presenter",
-          "producer",
-          "draftsperson",
           "comics artist",
           "illustrator",
-          "film director",
+          "producer",
+          "director",
+          "draftsperson",
+          "animator",
+          "designer",
+          "caricaturist",
           "manufacturer",
           "film actor",
-          "animator",
-          "inventor",
-          "actor",
-          "voice actor",
+          "film producer",
+          "film director",
           "painter",
-          "writer",
-          "screenwriter"
+          "voice actor",
+          "actor",
+          "inventor",
+          "writer"
         ],
         "education": [
           "McKinley High School",
@@ -392,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -448,12 +447,12 @@
           "politician"
         ],
         "education": [
-          "Princeton University",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "University of Oxford",
           "Harvard Law School",
-          "The Branson School"
+          "The Branson School",
+          "University of Oxford",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -577,8 +576,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -606,8 +605,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -642,10 +641,10 @@
           "chief financial officer"
         ],
         "education": [
-          "The Wharton School",
-          "Harvard Law School",
           "Brookline High School",
-          "University of Pennsylvania Carey Law School"
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -731,8 +730,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -783,8 +782,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -848,25 +847,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "designer",
-          "caricaturist",
-          "director",
-          "film producer",
           "television presenter",
-          "producer",
-          "draftsperson",
           "comics artist",
           "illustrator",
-          "film director",
+          "producer",
+          "director",
+          "draftsperson",
+          "animator",
+          "designer",
+          "caricaturist",
           "manufacturer",
           "film actor",
-          "animator",
-          "inventor",
-          "actor",
-          "voice actor",
+          "film producer",
+          "film director",
           "painter",
-          "writer",
-          "screenwriter"
+          "voice actor",
+          "actor",
+          "inventor",
+          "writer"
         ],
         "education": [
           "McKinley High School",

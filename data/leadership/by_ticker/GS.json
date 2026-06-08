@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-05-25T09:02:20.842244Z",
+  "fetchedAt": "2026-06-08T01:22:51.081787Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,10 +50,10 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson",
           "academic",
-          "investment banker"
+          "investment banker",
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Harvard Business School",
@@ -88,8 +88,8 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
+          "director",
           "businessperson"
         ],
         "education": [
@@ -321,10 +321,10 @@
           "chief financial officer"
         ],
         "education": [
-          "Harvard Business School",
           "Union College",
           "Bronx High School of Science",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {

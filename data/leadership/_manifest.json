@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-07T20:28:13.452874Z",
-  "totalPeople": 937,
-  "totalTickers": 134,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 331,
-  "thisRunTickers": 106,
+  "generatedAt": "2026-06-08T01:22:51.188766Z",
+  "totalPeople": 951,
+  "totalTickers": 135,
+  "lastRangeFilter": "A-M",
+  "thisRunPeople": 653,
+  "thisRunTickers": 152,
   "index": [
     {
       "qid": "Q125453309",
@@ -132,7 +132,7 @@
       "name": "Tim Cook",
       "slug": "tim-cook",
       "tickers": [
-        "NKE"
+        "AAPL"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -163,7 +163,8 @@
       "name": "Ronald Sugar",
       "slug": "ronald-sugar",
       "tickers": [
-        "UBER"
+        "AAPL",
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -266,7 +267,8 @@
       "name": "Glenn Tilton",
       "slug": "glenn-tilton",
       "tickers": [
-        "PSX"
+        "ABBV",
+        "ABT"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -357,7 +359,7 @@
       "name": "Roxanne Austin",
       "slug": "roxanne-austin",
       "tickers": [
-        "VZ"
+        "ABBV"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -408,7 +410,8 @@
       "name": "Joe Gebbia",
       "slug": "joe-gebbia",
       "tickers": [
-        "TSLA"
+        "ABNB",
+        "ABNB"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -655,7 +658,8 @@
       "name": "Beth E. Mooney",
       "slug": "beth-e-mooney",
       "tickers": [
-        "T"
+        "ACN",
+        "F"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -705,7 +709,8 @@
       "name": "Shantanu Narayen",
       "slug": "shantanu-narayen",
       "tickers": [
-        "PFE"
+        "ADBE",
+        "ADBE"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -787,7 +792,7 @@
       "name": "Cristiano Amon",
       "slug": "cristiano-amon",
       "tickers": [
-        "QCOM"
+        "ADBE"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -918,7 +923,7 @@
       "name": "W. Don Cornwell",
       "slug": "w-don-cornwell",
       "tickers": [
-        "PFE"
+        "AIG"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -979,7 +984,7 @@
       "name": "Kermit Crawford",
       "slug": "kermit-crawford",
       "tickers": [
-        "V"
+        "ALL"
       ],
       "positionsCount": 2,
       "employersCount": 3
@@ -1009,7 +1014,7 @@
       "name": "Maria Morris",
       "slug": "maria-morris",
       "tickers": [
-        "WFC"
+        "ALL"
       ],
       "positionsCount": 1,
       "employersCount": 1
@@ -1396,7 +1401,7 @@
       "name": "Lisa Davis",
       "slug": "lisa-davis",
       "tickers": [
-        "PSX"
+        "APD"
       ],
       "positionsCount": 1,
       "employersCount": 1
@@ -1770,7 +1775,6 @@
       "name": "Dave Calhoun",
       "slug": "dave-calhoun",
       "tickers": [
-        "BA",
         "CAT"
       ],
       "positionsCount": 1,
@@ -1781,7 +1785,6 @@
       "name": "Ron Williams",
       "slug": "ron-williams",
       "tickers": [
-        "BA",
         "JNJ"
       ],
       "positionsCount": 3,
@@ -1934,8 +1937,7 @@
       "name": "Denise Ramos",
       "slug": "denise-ramos",
       "tickers": [
-        "PSX",
-        "RTX"
+        "BAC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -2255,7 +2257,7 @@
       "name": "Jim Turley",
       "slug": "jim-turley",
       "tickers": [
-        "NOC"
+        "C"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -2265,7 +2267,7 @@
       "name": "Ren\u00e9e James",
       "slug": "ren-e-james",
       "tickers": [
-        "ORCL"
+        "C"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -2275,7 +2277,7 @@
       "name": "Peter Henry",
       "slug": "peter-henry",
       "tickers": [
-        "NKE"
+        "C"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3172,8 +3174,7 @@
       "name": "Dan Schulman",
       "slug": "dan-schulman",
       "tickers": [
-        "PYPL",
-        "VZ"
+        "CSCO"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -3223,7 +3224,7 @@
       "name": "John Harris",
       "slug": "john-harris",
       "tickers": [
-        "XOM"
+        "CSCO"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -3325,7 +3326,7 @@
       "name": "Roger N. Farah",
       "slug": "roger-n-farah",
       "tickers": [
-        "PGR"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -3405,7 +3406,7 @@
       "name": "Mark T. Bertolini",
       "slug": "mark-t-bertolini",
       "tickers": [
-        "VZ"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3477,7 +3478,7 @@
       "name": "Charles Moorman",
       "slug": "charles-moorman",
       "tickers": [
-        "ORCL"
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 3
@@ -3728,7 +3729,7 @@
       "name": "Mark Parker",
       "slug": "mark-parker",
       "tickers": [
-        "NKE"
+        "DIS"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -3738,7 +3739,7 @@
       "name": "Safra Catz",
       "slug": "safra-catz",
       "tickers": [
-        "ORCL"
+        "DIS"
       ],
       "positionsCount": 6,
       "employersCount": 2
@@ -4122,7 +4123,7 @@
       "name": "William Kennard",
       "slug": "william-kennard",
       "tickers": [
-        "T"
+        "F"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -4163,7 +4164,7 @@
       "name": "David Abney",
       "slug": "david-abney",
       "tickers": [
-        "NOC"
+        "FCX"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -4408,7 +4409,7 @@
       "name": "Thomas Horton",
       "slug": "thomas-horton",
       "tickers": [
-        "WMT"
+        "GE"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4551,7 +4552,7 @@
       "name": "Thomas Schoewe",
       "slug": "thomas-schoewe",
       "tickers": [
-        "NOC"
+        "GM"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4611,8 +4612,7 @@
       "name": "Aneel Bhusri",
       "slug": "aneel-bhusri",
       "tickers": [
-        "WDAY",
-        "WDAY"
+        "GM"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4725,7 +4725,7 @@
       "name": "Jan E. Tighe",
       "slug": "jan-e-tighe",
       "tickers": [
-        "PGR"
+        "GS"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5021,7 +5021,7 @@
       "name": "F. William McNabb III",
       "slug": "f-william-mcnabb-iii",
       "tickers": [
-        "UNH"
+        "IBM"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -5145,7 +5145,7 @@
       "name": "Dion Weisler",
       "slug": "dion-weisler",
       "tickers": [
-        "TMO"
+        "INTC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -5266,7 +5266,7 @@
       "name": "Nadja West",
       "slug": "nadja-west",
       "tickers": [
-        "NUE"
+        "JNJ"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -5408,8 +5408,7 @@
       "name": "Timothy P. Flynn",
       "slug": "timothy-p-flynn",
       "tickers": [
-        "UNH",
-        "WMT"
+        "JPM"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -5460,7 +5459,8 @@
       "name": "James Quincey",
       "slug": "james-quincey",
       "tickers": [
-        "PFE"
+        "KO",
+        "KO"
       ],
       "positionsCount": 1,
       "employersCount": 1
@@ -5953,7 +5953,7 @@
       "name": "Brian Rogers",
       "slug": "brian-rogers",
       "tickers": [
-        "RTX"
+        "LOW"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -6066,7 +6066,7 @@
       "name": "Richard K. Davis",
       "slug": "richard-k-davis",
       "tickers": [
-        "WFC"
+        "MA"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -6086,7 +6086,7 @@
       "name": "Goh Choon Phong",
       "slug": "goh-choon-phong",
       "tickers": [
-        "SQ"
+        "MA"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -6217,7 +6217,7 @@
       "name": "Kathleen Wilson-Thompson",
       "slug": "kathleen-wilson-thompson",
       "tickers": [
-        "TSLA"
+        "MCK"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -6340,8 +6340,7 @@
       "name": "Peter Thiel",
       "slug": "peter-thiel",
       "tickers": [
-        "PLTR",
-        "PLTR"
+        "META"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -6422,7 +6421,8 @@
       "name": "Kenneth Frazier",
       "slug": "kenneth-frazier",
       "tickers": [
-        "XOM"
+        "MRK",
+        "MRK"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -6463,7 +6463,7 @@
       "name": "Pamela Craig",
       "slug": "pamela-craig",
       "tickers": [
-        "PGR"
+        "MRK"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -6483,8 +6483,7 @@
       "name": "Kathy J. Warden",
       "slug": "kathy-j-warden",
       "tickers": [
-        "NOC",
-        "NOC"
+        "MRK"
       ],
       "positionsCount": 5,
       "employersCount": 3
@@ -6575,7 +6574,7 @@
       "name": "Teri List",
       "slug": "teri-list",
       "tickers": [
-        "V"
+        "MSFT"
       ],
       "positionsCount": 1,
       "employersCount": 5
@@ -6625,8 +6624,7 @@
       "name": "Charlie Scharf",
       "slug": "charlie-scharf",
       "tickers": [
-        "WFC",
-        "WFC"
+        "MSFT"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -9538,6 +9536,147 @@
       ],
       "positionsCount": 0,
       "employersCount": 1
+    },
+    {
+      "qid": "Q104862847",
+      "name": "Sean Doyle",
+      "slug": "sean-doyle",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q96385593",
+      "name": "Keith Williams",
+      "slug": "keith-williams",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q75517224",
+      "name": "Roy Thomas Watts",
+      "slug": "roy-thomas-watts",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q64876118",
+      "name": "Ross Stainton",
+      "slug": "ross-stainton",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q22003790",
+      "name": "\u00c1lex Cruz",
+      "slug": "lex-cruz",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7356184",
+      "name": "Rod Eddington",
+      "slug": "rod-eddington",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q7341669",
+      "name": "Robert Ayling",
+      "slug": "robert-ayling",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q3569110",
+      "name": "Willie Walsh",
+      "slug": "willie-walsh",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q404455",
+      "name": "Colin Marshall, Baron Marshall of Knightsbridge",
+      "slug": "colin-marshall-baron-marshall-of-knightsbridge",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q15810073",
+      "name": "Francis McFadzean, Baron McFadzean of Kelvinside",
+      "slug": "francis-mcfadzean-baron-mcfadzean-of-kelvinside",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5238030",
+      "name": "David Nicolson",
+      "slug": "david-nicolson",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q1700825",
+      "name": "John King, Baron King of Wartnaby",
+      "slug": "john-king-baron-king-of-wartnaby",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q859931",
+      "name": "Martin Broughton",
+      "slug": "martin-broughton",
+      "tickers": [
+        "BA"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q64705310",
+      "name": "Brian Armstrong",
+      "slug": "brian-armstrong",
+      "tickers": [
+        "COIN",
+        "COIN"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
     }
   ]
 }

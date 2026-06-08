@@ -1,48 +1,7 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-05-25T09:02:20.820354Z",
+  "fetchedAt": "2026-06-08T01:22:51.061067Z",
   "people": [
-    {
-      "qid": "Q41812531",
-      "name": "Andy Jassy",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q41812531",
-        "name": "Andy Jassy",
-        "dateOfBirth": "1968-01-13",
-        "birthPlace": "Scarsdale",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Jassy.jpg",
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
-        ],
-        "employers": [
-          {
-            "company": "Amazon",
-            "start": "1997-01-01",
-            "end": null
-          },
-          {
-            "company": "Amazon Web Services",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2021-07-01",
-            "end": null
-          }
-        ]
-      }
-    },
     {
       "qid": "Q312556",
       "name": "Jeff Bezos",
@@ -57,14 +16,14 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
           "business oligarch",
-          "computer scientist",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
@@ -107,6 +66,214 @@
     {
       "qid": "Q41812531",
       "name": "Andy Jassy",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q41812531",
+        "name": "Andy Jassy",
+        "dateOfBirth": "1968-01-13",
+        "birthPlace": "Scarsdale",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Jassy.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Harvard Business School",
+          "Scarsdale High School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Amazon",
+            "start": "1997-01-01",
+            "end": null
+          },
+          {
+            "company": "Amazon Web Services",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2021-07-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1571715",
+      "name": "Judy McGrath",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1571715",
+        "name": "Judy McGrath",
+        "dateOfBirth": "1952-07-02",
+        "birthPlace": "Scranton",
+        "image": null,
+        "occupations": [
+          "film producer"
+        ],
+        "education": [
+          "Cedar Crest College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1360488",
+      "name": "Keith B. Alexander",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1360488",
+        "name": "Keith B. Alexander",
+        "dateOfBirth": "1951-12-02",
+        "birthPlace": "Syracuse",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
+        "occupations": [
+          "spy",
+          "intelligence officer",
+          "soldier"
+        ],
+        "education": [
+          "Questrom School of Business",
+          "Naval Postgraduate School",
+          "Boston University",
+          "United States Military Academy",
+          "Westhill Senior High School"
+        ],
+        "employers": [
+          {
+            "company": "National Security Agency",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Director of the National Security Agency",
+            "company": null,
+            "start": "2005-08-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1162007",
+      "name": "Daniel P. Huttenlocher",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1162007",
+        "name": "Daniel P. Huttenlocher",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "university teacher",
+          "executive",
+          "dean",
+          "academic",
+          "computer scientist"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "University of Michigan"
+        ],
+        "employers": [
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q869322",
+      "name": "Jon Rubinstein",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q869322",
+        "name": "Jon Rubinstein",
+        "dateOfBirth": "1956-04-18",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
+        "occupations": [
+          "engineer",
+          "computer scientist"
+        ],
+        "education": [
+          "Horace Mann School",
+          "Cornell University College of Engineering",
+          "Colorado State University",
+          "Cornell University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q376800",
+      "name": "Jamie S. Gorelick",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q376800",
+        "name": "Jamie S. Gorelick",
+        "dateOfBirth": "1950-05-06",
+        "birthPlace": "Brooklyn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Gorelick%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "lawyer"
+        ],
+        "education": [
+          "William A. Shine Great Neck South High School",
+          "Radcliffe College",
+          "Harvard Law School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Deputy Attorney General",
+            "company": null,
+            "start": "1994-03-17",
+            "end": "1997-05-01"
+          },
+          {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "1993-05-05",
+            "end": "1994-03-17"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q41812531",
+      "name": "Andy Jassy",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
@@ -120,8 +287,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -255,137 +422,6 @@
       }
     },
     {
-      "qid": "Q1571715",
-      "name": "Judy McGrath",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1571715",
-        "name": "Judy McGrath",
-        "dateOfBirth": "1952-07-02",
-        "birthPlace": "Scranton",
-        "image": null,
-        "occupations": [
-          "film producer"
-        ],
-        "education": [
-          "Cedar Crest College"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1360488",
-      "name": "Keith B. Alexander",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1360488",
-        "name": "Keith B. Alexander",
-        "dateOfBirth": "1951-12-02",
-        "birthPlace": "Syracuse",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
-        "occupations": [
-          "spy",
-          "soldier",
-          "intelligence officer"
-        ],
-        "education": [
-          "Boston University",
-          "United States Military Academy",
-          "Questrom School of Business",
-          "Naval Postgraduate School",
-          "Westhill Senior High School"
-        ],
-        "employers": [
-          {
-            "company": "National Security Agency",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Director of the National Security Agency",
-            "company": null,
-            "start": "2005-08-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1162007",
-      "name": "Daniel P. Huttenlocher",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1162007",
-        "name": "Daniel P. Huttenlocher",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "academic",
-          "university teacher",
-          "executive",
-          "dean",
-          "computer scientist"
-        ],
-        "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [
-          {
-            "company": "Cornell University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q869322",
-      "name": "Jon Rubinstein",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q869322",
-        "name": "Jon Rubinstein",
-        "dateOfBirth": "1956-04-18",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
-        "occupations": [
-          "computer scientist",
-          "engineer"
-        ],
-        "education": [
-          "Horace Mann School",
-          "Cornell University College of Engineering",
-          "Colorado State University",
-          "Cornell University"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q109497888",
       "name": "Edith Cooper",
       "role_at_company": "Board Member",
@@ -419,14 +455,14 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
           "business oligarch",
-          "computer scientist",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
@@ -484,16 +520,11 @@
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Yale University",
           "Indian Institute of Management Calcutta",
-          "University of Madras"
+          "University of Madras",
+          "Yale University"
         ],
         "employers": [
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
@@ -511,6 +542,11 @@
           },
           {
             "company": "Booz Allen Hamilton",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -537,42 +573,6 @@
       }
     },
     {
-      "qid": "Q376800",
-      "name": "Jamie S. Gorelick",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q376800",
-        "name": "Jamie S. Gorelick",
-        "dateOfBirth": "1950-05-06",
-        "birthPlace": "Brooklyn",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Gorelick%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
-        "occupations": [
-          "lawyer"
-        ],
-        "education": [
-          "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Deputy Attorney General",
-            "company": null,
-            "start": "1994-03-17",
-            "end": "1997-05-01"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "1993-05-05",
-            "end": "1994-03-17"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q312556",
       "name": "Jeff Bezos",
       "role_at_company": "Founder",
@@ -586,14 +586,14 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
           "business oligarch",
-          "computer scientist",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {

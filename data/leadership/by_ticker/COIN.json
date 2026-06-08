@@ -1,5 +1,54 @@
 {
   "ticker": "COIN",
-  "fetchedAt": "2026-05-25T09:02:20.829216Z",
-  "people": []
+  "fetchedAt": "2026-06-08T01:22:51.069331Z",
+  "people": [
+    {
+      "qid": "Q64705310",
+      "name": "Brian Armstrong",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q64705310",
+        "name": "Brian Armstrong",
+        "dateOfBirth": "1983-01-25",
+        "birthPlace": "San Jose",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
+        "occupations": [
+          "business executive",
+          "software engineer",
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Bellarmine College Preparatory"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q64705310",
+      "name": "Brian Armstrong",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q64705310",
+        "name": "Brian Armstrong",
+        "dateOfBirth": "1983-01-25",
+        "birthPlace": "San Jose",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
+        "occupations": [
+          "business executive",
+          "software engineer",
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Bellarmine College Preparatory"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
 }

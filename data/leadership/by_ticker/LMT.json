@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-05-25T09:02:20.850310Z",
+  "fetchedAt": "2026-06-08T01:22:51.089322Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -262,11 +262,11 @@
           "military officer"
         ],
         "education": [
+          "Georgetown University",
+          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy",
-          "Georgetown University",
-          "Tufts University"
+          "The Fletcher School of Law and Diplomacy"
         ],
         "employers": [],
         "positions": [
@@ -303,13 +303,13 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeh%20Johnson%20official%20DHS%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
-          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College"
+          "Morehouse College",
+          "Columbia Law School"
         ],
         "employers": [
           {
@@ -355,12 +355,6 @@
         ],
         "positions": [
           {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
-          },
-          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -371,6 +365,12 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
+          },
+          {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
           }
         ]
       }
@@ -410,21 +410,16 @@
         "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "manager",
           "businessperson",
+          "manager",
           "military officer"
         ],
         "education": [
+          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science",
-          "Mankato West High School"
+          "London School of Economics and Political Science"
         ],
         "employers": [
-          {
-            "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          },
           {
             "company": "General Motors",
             "start": null,
@@ -432,6 +427,11 @@
           },
           {
             "company": "American Express",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

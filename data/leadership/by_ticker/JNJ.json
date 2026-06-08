@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-05-25T09:02:20.846531Z",
+  "fetchedAt": "2026-06-08T01:22:51.085731Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Valencia",
+        "birthPlace": "Spain",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -58,9 +58,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
+          "merchant",
           "business executive",
-          "merchant"
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -110,9 +110,9 @@
           "cardiologist"
         ],
         "education": [
+          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School",
-          "Harvard T.H. Chan School of Public Health"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -203,6 +203,377 @@
       }
     },
     {
+      "qid": "Q6768777",
+      "name": "Mark McClellan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6768777",
+        "name": "Mark McClellan",
+        "dateOfBirth": "1963-06-26",
+        "birthPlace": "Austin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MarkMcClellan.jpg",
+        "occupations": [
+          "physician"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-10-15",
+            "end": null
+          },
+          {
+            "title": "Commissioner of Food and Drugs",
+            "company": null,
+            "start": "2002-11-14",
+            "end": "2004-03-25"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5081762",
+      "name": "Charles Prince",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5081762",
+        "name": "Charles Prince",
+        "dateOfBirth": "1950-01-13",
+        "birthPlace": "Lynwood",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prince25012007.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Columbia University",
+          "University of Southern California",
+          "USC Gould School of Law",
+          "Georgetown University Law Center"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2006-02-13",
+            "end": "2022-04-28"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4953889",
+      "name": "Marillyn Hewson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4953889",
+        "name": "Marillyn Hewson",
+        "dateOfBirth": "1953-12-27",
+        "birthPlace": "Junction City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marillyn%20Hewson.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Columbia Business School",
+          "University of Alabama",
+          "Columbia University",
+          "Harvard Business School"
+        ],
+        "employers": [
+          {
+            "company": "Lockheed Martin",
+            "start": "1983-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2013-01-01",
+            "end": "2020-06-15"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-04-25",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-11-09",
+            "end": "2021-03-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1655497",
+      "name": "Sir Ian Davis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1655497",
+        "name": "Sir Ian Davis",
+        "dateOfBirth": "1951-03-10",
+        "birthPlace": "Kent",
+        "image": null,
+        "occupations": [
+          "consultant",
+          "entrepreneur"
+        ],
+        "education": [
+          "Balliol College"
+        ],
+        "employers": [
+          {
+            "company": "McKinsey & Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2010-07-19",
+            "end": "2023-03-31"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q275117",
+      "name": "Anne Mulcahy",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q275117",
+        "name": "Anne Mulcahy",
+        "dateOfBirth": "1952-10-21",
+        "birthPlace": "Rockville Centre",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "chief executive officer"
+        ],
+        "education": [
+          "Marymount College, Tarrytown",
+          "Fordham University"
+        ],
+        "employers": [
+          {
+            "company": "Xerox",
+            "start": "1976-01-01",
+            "end": "2009-07-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2001-01-01",
+            "end": "2009-07-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2009-10-22",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q56068",
+      "name": "Jennifer Doudna",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q56068",
+        "name": "Jennifer Doudna",
+        "dateOfBirth": "1964-02-19",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
+        "occupations": [
+          "crystallographer",
+          "molecular biologist",
+          "chemist",
+          "university teacher",
+          "biochemist"
+        ],
+        "education": [
+          "Pomona College",
+          "Hilo High School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Yale University",
+            "start": "1994-01-01",
+            "end": "2002-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-04-26",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q113356474",
+      "name": "Joaquin Duato",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q113356474",
+        "name": "Joaquin Duato",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": "Spain",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": "1989-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2022-01-03",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-01-03",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2023-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q108001558",
+      "name": "Eugene Washington",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q108001558",
+        "name": "Eugene Washington",
+        "dateOfBirth": "1951-01-01",
+        "birthPlace": "Houston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
+        "occupations": [
+          "university teacher",
+          "business executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-04-01",
+            "end": "2023-06-30"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-11-06",
+            "end": "2023-04-27"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q25141716",
+      "name": "Darius Adamczyk",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q25141716",
+        "name": "Darius Adamczyk",
+        "dateOfBirth": "1966-02-08",
+        "birthPlace": "Poland",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
+        "occupations": [
+          "chief executive officer",
+          "businessperson"
+        ],
+        "education": [
+          "Michigan State University",
+          "Harvard Business School",
+          "Syracuse University"
+        ],
+        "employers": [
+          {
+            "company": "Honeywell",
+            "start": "2008-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-02-15",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2016-12-09",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q16193601",
       "name": "Alex Gorsky",
       "role_at_company": "Board Member",
@@ -214,9 +585,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
+          "merchant",
           "business executive",
-          "merchant"
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -263,16 +634,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
           "lecturer",
+          "merchant",
+          "chief executive officer",
           "executive",
           "business manager",
-          "chief executive officer",
-          "merchant",
           "entrepreneur"
         ],
         "education": [
-          "Lyc\u00e9e Louis-le-Grand",
+          "Sciences Po",
           "HEC Paris",
-          "Sciences Po"
+          "Lyc\u00e9e Louis-le-Grand"
         ],
         "employers": [
           {
@@ -315,15 +686,15 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
-          "Weatherhead School of Management",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
-          "Case Western Reserve University",
-          "Georgetown University Law Center"
+          "Weatherhead School of Management"
         ],
         "employers": [],
         "positions": [
@@ -434,377 +805,6 @@
             "company": null,
             "start": "2006-02-14",
             "end": "2010-11-29"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6768777",
-      "name": "Mark McClellan",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6768777",
-        "name": "Mark McClellan",
-        "dateOfBirth": "1963-06-26",
-        "birthPlace": "Austin",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MarkMcClellan.jpg",
-        "occupations": [
-          "physician"
-        ],
-        "education": [
-          "Massachusetts Institute of Technology",
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2013-10-15",
-            "end": null
-          },
-          {
-            "title": "Commissioner of Food and Drugs",
-            "company": null,
-            "start": "2002-11-14",
-            "end": "2004-03-25"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5081762",
-      "name": "Charles Prince",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5081762",
-        "name": "Charles Prince",
-        "dateOfBirth": "1950-01-13",
-        "birthPlace": "Lynwood",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prince25012007.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "USC Gould School of Law",
-          "Georgetown University Law Center",
-          "Columbia University",
-          "University of Southern California"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2006-02-13",
-            "end": "2022-04-28"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q4953889",
-      "name": "Marillyn Hewson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q4953889",
-        "name": "Marillyn Hewson",
-        "dateOfBirth": "1953-12-27",
-        "birthPlace": "Junction City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marillyn%20Hewson.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Columbia Business School",
-          "University of Alabama",
-          "Columbia University",
-          "Harvard Business School"
-        ],
-        "employers": [
-          {
-            "company": "Lockheed Martin",
-            "start": "1983-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2013-01-01",
-            "end": "2020-06-15"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2019-04-25",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-11-09",
-            "end": "2021-03-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1655497",
-      "name": "Sir Ian Davis",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1655497",
-        "name": "Sir Ian Davis",
-        "dateOfBirth": "1951-03-10",
-        "birthPlace": "Kent",
-        "image": null,
-        "occupations": [
-          "consultant",
-          "entrepreneur"
-        ],
-        "education": [
-          "Balliol College"
-        ],
-        "employers": [
-          {
-            "company": "McKinsey & Company",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2010-07-19",
-            "end": "2023-03-31"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q275117",
-      "name": "Anne Mulcahy",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q275117",
-        "name": "Anne Mulcahy",
-        "dateOfBirth": "1952-10-21",
-        "birthPlace": "Rockville Centre",
-        "image": null,
-        "occupations": [
-          "chief executive officer",
-          "businessperson"
-        ],
-        "education": [
-          "Marymount College, Tarrytown",
-          "Fordham University"
-        ],
-        "employers": [
-          {
-            "company": "Xerox",
-            "start": "1976-01-01",
-            "end": "2009-07-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2001-01-01",
-            "end": "2009-07-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2009-10-22",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q113356474",
-      "name": "Joaquin Duato",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q113356474",
-        "name": "Joaquin Duato",
-        "dateOfBirth": "1962-01-01",
-        "birthPlace": "Valencia",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
-        "occupations": [
-          "business executive"
-        ],
-        "education": [],
-        "employers": [
-          {
-            "company": "Johnson & Johnson",
-            "start": "1989-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2022-01-03",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2022-01-03",
-            "end": null
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2023-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q108001558",
-      "name": "Eugene Washington",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q108001558",
-        "name": "Eugene Washington",
-        "dateOfBirth": "1951-01-01",
-        "birthPlace": "Houston",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
-        "occupations": [
-          "business executive",
-          "university teacher"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2015-04-01",
-            "end": "2023-06-30"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-11-06",
-            "end": "2023-04-27"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q25141716",
-      "name": "Darius Adamczyk",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q25141716",
-        "name": "Darius Adamczyk",
-        "dateOfBirth": "1966-02-08",
-        "birthPlace": "Poland",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
-        "occupations": [
-          "chief executive officer",
-          "businessperson"
-        ],
-        "education": [
-          "Syracuse University",
-          "Michigan State University",
-          "Harvard Business School"
-        ],
-        "employers": [
-          {
-            "company": "Honeywell International, Inc.",
-            "start": "2008-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2022-02-15",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2016-12-09",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q56068",
-      "name": "Jennifer Doudna",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q56068",
-        "name": "Jennifer Doudna",
-        "dateOfBirth": "1964-02-19",
-        "birthPlace": "Washington, D.C.",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
-        "occupations": [
-          "chemist",
-          "university teacher",
-          "biochemist",
-          "molecular biologist",
-          "crystallographer"
-        ],
-        "education": [
-          "Harvard University",
-          "Pomona College",
-          "Hilo High School"
-        ],
-        "employers": [
-          {
-            "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Yale University",
-            "start": "1994-01-01",
-            "end": "2002-01-01"
-          },
-          {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-04-26",
-            "end": null
           }
         ]
       }

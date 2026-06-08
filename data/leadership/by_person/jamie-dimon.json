@@ -10,14 +10,19 @@
   "education": [
     "Harvard Business School",
     "Tufts University",
-    "Harvard University",
-    "Browning School"
+    "Browning School",
+    "Harvard University"
   ],
   "employers": [
     {
-      "company": "Goldman Sachs",
-      "start": null,
-      "end": null
+      "company": "Bank One Corporation",
+      "start": "2000-03-01",
+      "end": "2004-07-01"
+    },
+    {
+      "company": "American Express",
+      "start": "1982-01-01",
+      "end": "1985-01-01"
     },
     {
       "company": "JPMorgan Chase",
@@ -30,14 +35,9 @@
       "end": null
     },
     {
-      "company": "Bank One Corporation",
-      "start": "2000-03-01",
-      "end": "2004-07-01"
-    },
-    {
-      "company": "American Express",
-      "start": "1982-01-01",
-      "end": "1985-01-01"
+      "company": "Goldman Sachs",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [

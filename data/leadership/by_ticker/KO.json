@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-05-25T09:02:20.848721Z",
+  "fetchedAt": "2026-06-08T01:22:51.087823Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -39,29 +39,6 @@
       }
     },
     {
-      "qid": "Q3030584",
-      "name": "Marc Bolland",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q3030584",
-        "name": "Marc Bolland",
-        "dateOfBirth": "1959-03-28",
-        "birthPlace": "Apeldoorn",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "merchant",
-          "entrepreneur"
-        ],
-        "education": [
-          "University of Groningen"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q27839505",
       "name": "James Quincey",
       "role_at_company": "Board Member",
@@ -73,8 +50,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -179,9 +156,9 @@
         "education": [
           "Johns Hopkins University",
           "Barnard College",
-          "University of Pennsylvania",
           "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health"
+          "Johns Hopkins Bloomberg School of Public Health",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -227,8 +204,8 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
           "film producer",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
@@ -267,8 +244,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "businessperson",
+          "banker",
           "economist"
         ],
         "education": [
@@ -302,9 +279,9 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
+          "social worker",
           "business executive",
           "sociologist",
-          "social worker",
           "politician"
         ],
         "education": [
@@ -314,13 +291,18 @@
         ],
         "employers": [
           {
-            "company": "Cummins",
-            "start": null,
-            "end": null
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
           },
           {
-            "company": "Toyota",
-            "start": "2006-01-01",
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
             "end": null
           },
           {
@@ -344,18 +326,13 @@
             "end": null
           },
           {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
+            "company": "Cummins",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
             "end": null
           }
         ],
@@ -373,6 +350,29 @@
             "end": "2001-01-20"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q3030584",
+      "name": "Marc Bolland",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3030584",
+        "name": "Marc Bolland",
+        "dateOfBirth": "1959-03-28",
+        "birthPlace": "Apeldoorn",
+        "image": null,
+        "occupations": [
+          "merchant",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "University of Groningen"
+        ],
+        "employers": [],
+        "positions": []
       }
     },
     {
