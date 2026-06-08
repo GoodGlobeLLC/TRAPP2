@@ -73,7 +73,11 @@ jobs:
             git commit -m "Company facts refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             for i in 1 2 3; do
               if git push; then break; fi
-              git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
+              git fetch origin
+
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+
+              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
               sleep 4
             done
           fi
