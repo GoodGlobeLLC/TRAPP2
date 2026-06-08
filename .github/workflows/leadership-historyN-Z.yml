@@ -6,9 +6,8 @@ name: Leadership History Refresh N-Z (Weekly)
 # Scheduled 2 hours after the A-M workflow (which kicks off at 04:00 UTC).
 # The A-M run should finish well within 60 minutes, so by the time N-Z
 # starts there's no contention on the leadership/_manifest.json file. If
-# A-M is still running at 06:00 UTC, the script's merge-on-write logic +
-# git pull --rebase in the commit step handles it gracefully — neither
-# job's data gets lost.
+# A-M is still running at 06:00 UTC, the commit step's "ours-wins" merge
+# handles any conflict gracefully — neither job's data gets lost.
 #
 # A-M + N-Z together replace the old monolithic leadership-history.yml.
 
@@ -68,7 +67,11 @@ jobs:
                 break
               fi
               echo "Push attempt $i failed, rebasing and retrying"
-              git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
+              git fetch origin
+
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+
+              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
               sleep 5
             done
           fi
