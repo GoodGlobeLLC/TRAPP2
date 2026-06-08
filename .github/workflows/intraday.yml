@@ -50,9 +50,12 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Intraday quotes $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            for i in 1 2 3; do
-              git pull --rebase --autostash && git push && break
-              echo "Push attempt $i failed, retrying"
+            for i in 1 2 3 4 5; do
+              if git push; then echo "Push succeeded on attempt $i"; break; fi
+              echo "Push attempt $i failed — merging remote with OURS winning conflicts"
+              git fetch origin
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
               sleep 5
             done
           fi
