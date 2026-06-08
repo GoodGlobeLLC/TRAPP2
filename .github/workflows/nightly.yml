@@ -7,12 +7,8 @@ name: Nightly Full Refresh
 # 00:30 UTC = 8:30 PM ET (EDT) / 7:30 PM ET (EST). Runs after close, before
 # any pre-market data appears.
 #
-# Fast pipeline (no company facts or leadership history):
-# quotes → 5-year history → FRED macro → regime → Markov → ETF holdings → commit
-#
-# Slower steps moved to separate workflows:
-# • company-facts.yml runs every 3 weeks (Sunday 02:00 UTC) — Wikidata board/exec fetch
-# • leadership-history.yml runs weekly (Monday 04:00 UTC) — career history/cross-ticker links
+# Full pipeline: quotes → 5-year history → FRED macro → regime → Markov
+# → ETF holdings → company facts → CEO tracker.
 
 on:
   schedule:
@@ -20,13 +16,13 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: trapp2-nightly
+  group: trapp2-regime
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     permissions:
       contents: write
     steps:
@@ -67,31 +63,89 @@ jobs:
         # Each ETF is fetched independently; partial success commits what worked.
         run: python pipeline/fetch_etf_holdings.py || echo "ETF holdings step had errors but continuing"
 
+      - name: Fetch company facts (Wikidata)
+        # Pulls executives, board, products, countries, ISIN, HQ etc. from Wikidata.
+        # Free, no API key, CC0-licensed data. Rate-limited to 1 req/sec.
+        # Best-effort: individual ticker failures don't break the workflow.
+        # We diagnose tickers.txt presence first so the logs show whether the
+        # file is missing (using fallback list) or present (using full list).
+        run: |
+          echo "=== tickers.txt diagnostic ==="
+          if [ -f data/tickers.txt ]; then
+            echo "data/tickers.txt EXISTS — $(wc -l < data/tickers.txt) lines"
+            echo "First 10 non-comment lines:"
+            grep -v '^#' data/tickers.txt | grep -v '^$' | head -10
+          else
+            echo "data/tickers.txt MISSING — script will use built-in fallback (85 tickers)"
+          fi
+          echo "=== existing data/company/ contents ==="
+          ls -la data/company/ 2>/dev/null | head -20 || echo "(directory does not exist yet)"
+          echo "=== running fetch_company_facts.py ==="
+          python pipeline/fetch_company_facts.py || echo "Company facts step had errors but continuing"
+          echo "=== company files after run ==="
+          ls data/company/ | wc -l
+          ls data/company/ | head -20
+
+      - name: Commit company facts (partial progress)
+        # Commit company facts immediately so we don't lose progress if a later
+        # step times out or the runner gets killed. The CEO tracker step can
+        # take 30+ minutes and is the most likely to time out.
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/company/
+          if git diff --staged --quiet; then
+            echo "No company-facts changes to commit"
+          else
+            git commit -m "Company facts refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do
+              if git push; then break; fi
+              git fetch origin
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+              if [ -f .git/MERGE_HEAD ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
+              sleep 4
+            done
+          fi
+
+      - name: Fetch CEO/leadership career history (Wikidata)
+        # Builds data/leadership/ database from people listed in data/company/*.json.
+        # For each person, pulls their employer history + positions held over time
+        # via Wikidata P108/P39. Cross-references which other tickers share board members.
+        # Slow step (~1s per query, ~2 queries per person) — runs only nightly.
+        run: |
+          echo "=== company files available to CEO tracker ==="
+          ls data/company/ | grep -v '^_' | wc -l
+          echo "tickers"
+          echo "=== running fetch_ceo_tracker.py ==="
+          python pipeline/fetch_ceo_tracker.py || echo "CEO tracker step had errors but continuing"
+          echo "=== leadership files after run ==="
+          ls -la data/leadership/by_ticker/ 2>/dev/null | wc -l || echo "no by_ticker dir"
+          ls -la data/leadership/by_person/ 2>/dev/null | wc -l || echo "no by_person dir"
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Stage every file under data/ (including untracked files like regime_current.json)
           git add -A data/
-          # Show what's about to be committed (useful for debugging in workflow logs)
-          echo "=== git status before commit ==="
-          git status --short
-          echo "=== files staged ==="
-          git diff --staged --name-only
           if git diff --staged --quiet; then
             echo "No nightly changes to commit"
           else
             git commit -m "Nightly refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            # Push with retry — if remote moved (another workflow committed in parallel),
-            # rebase our commit on top and retry. --autostash here is harmless because
-            # all our changes are already committed.
-            for i in 1 2 3; do
+            # Generated data — on conflict with a parallel run, OURS wins. Never
+            # hand-rebase JSON (git can't auto-merge it; that was the exit-128 cause).
+            for i in 1 2 3 4 5; do
               if git push; then
                 echo "Push succeeded on attempt $i"
                 break
               fi
-              echo "Push attempt $i failed, rebasing and retrying"
-              git pull --rebase --autostash origin main || git pull --rebase --autostash origin master
+              echo "Push attempt $i failed — merging remote with OURS winning conflicts"
+              git fetch origin
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+              if [ -d .git/rebase-merge ] || [ -f .git/MERGE_HEAD ]; then
+                git checkout --ours -- data/ 2>/dev/null || true
+                git add -A data/ 2>/dev/null || true
+                git commit --no-edit 2>/dev/null || true
+              fi
               sleep 4
             done
           fi
