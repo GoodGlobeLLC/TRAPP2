@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-07T20:28:13.393471Z",
+  "fetchedAt": "2026-06-08T11:28:39.557912Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -17,83 +17,6 @@
         "education": [],
         "employers": [],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q267074",
-      "name": "John Donahoe",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q267074",
-        "name": "John Donahoe",
-        "dateOfBirth": "1960-04-30",
-        "birthPlace": "Evanston",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JohnDonahoe.jpg",
-        "occupations": [
-          "entrepreneur"
-        ],
-        "education": [
-          "Stanford University",
-          "Dartmouth College",
-          "Stanford Graduate School of Business"
-        ],
-        "employers": [
-          {
-            "company": "Bain & Company",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q265852",
-      "name": "Tim Cook",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q265852",
-        "name": "Tim Cook",
-        "dateOfBirth": "1960-11-01",
-        "birthPlace": "Mobile",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
-        "occupations": [
-          "presenter",
-          "manager",
-          "computer scientist",
-          "engineer",
-          "chief executive officer",
-          "businessperson"
-        ],
-        "education": [
-          "Rostrevor College",
-          "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2011-08-24",
-            "end": "2026-09-01"
-          }
-        ]
       }
     },
     {
@@ -151,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "venture capitalist",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "University of Montana"
@@ -214,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "rapper",
-          "animator",
+          "film producer",
           "film director",
-          "film producer"
+          "rapper",
+          "animator"
         ],
         "education": [
           "Jesuit High School",
@@ -242,8 +165,8 @@
           "economist"
         ],
         "education": [
-          "St Catherine's College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "St Catherine's College"
         ],
         "employers": [
           {
@@ -295,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -325,16 +248,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [
           {
@@ -344,6 +267,83 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q267074",
+      "name": "John Donahoe",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q267074",
+        "name": "John Donahoe",
+        "dateOfBirth": "1960-04-30",
+        "birthPlace": "Evanston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JohnDonahoe.jpg",
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Dartmouth College",
+          "Stanford University",
+          "Stanford Graduate School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q265852",
+      "name": "Tim Cook",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q265852",
+        "name": "Tim Cook",
+        "dateOfBirth": "1960-11-01",
+        "birthPlace": "Mobile",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
+        "occupations": [
+          "presenter",
+          "manager",
+          "chief executive officer",
+          "computer scientist",
+          "engineer",
+          "businessperson"
+        ],
+        "education": [
+          "Rostrevor College",
+          "Robertsdale High School",
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-08-24",
+            "end": "2026-09-01"
+          }
+        ]
       }
     },
     {
@@ -359,16 +359,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
           "University of Oregon",
+          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [
           {

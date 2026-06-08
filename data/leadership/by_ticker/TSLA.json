@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-06-07T20:28:13.407476Z",
+  "fetchedAt": "2026-06-08T11:28:39.575516Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,12 +14,12 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "investor",
-          "civil servant",
-          "technology entrepreneur",
-          "dub actor",
           "financier",
+          "investor",
           "programmer",
+          "dub actor",
+          "technology entrepreneur",
+          "civil servant",
           "inventor",
           "entrepreneur",
           "politician",
@@ -33,25 +33,10 @@
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
-          "Stanford University"
+          "Stanford University",
+          "University of Pennsylvania"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
           {
             "company": "SolarCity",
             "start": null,
@@ -65,6 +50,21 @@
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -140,26 +140,6 @@
         ],
         "employers": [
           {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Toyota Australia",
             "start": "1989-01-01",
             "end": "1996-01-01"
@@ -173,6 +153,26 @@
             "company": "Echelon Corporation",
             "start": "2008-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
           },
           {
             "company": "Sun Microsystems",
@@ -336,26 +336,6 @@
         ],
         "employers": [
           {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Toyota Australia",
             "start": "1989-01-01",
             "end": "1996-01-01"
@@ -369,6 +349,26 @@
             "company": "Echelon Corporation",
             "start": "2008-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
           },
           {
             "company": "Sun Microsystems",
@@ -457,9 +457,9 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
-          "entrepreneur",
           "environmentalist",
-          "restaurateur"
+          "restaurateur",
+          "entrepreneur"
         ],
         "education": [
           "International Culinary Center",
@@ -488,8 +488,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
           "inventor",
-          "chief technology officer",
-          "businessperson"
+          "businessperson",
+          "chief technology officer"
         ],
         "education": [
           "Stanford University",
@@ -513,6 +513,43 @@
       }
     },
     {
+      "qid": "Q471851",
+      "name": "James Murdoch",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q471851",
+        "name": "James Murdoch",
+        "dateOfBirth": "1972-12-13",
+        "birthPlace": "Wimbledon",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
+        "occupations": [
+          "karateka",
+          "publisher",
+          "businessperson"
+        ],
+        "education": [
+          "Horace Mann School",
+          "Harvard University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2015-07-01",
+            "end": "2019-03-20"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2017-07-13",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q317521",
       "name": "Elon Musk",
       "role_at_company": "Board Member",
@@ -524,12 +561,12 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "investor",
-          "civil servant",
-          "technology entrepreneur",
-          "dub actor",
           "financier",
+          "investor",
           "programmer",
+          "dub actor",
+          "technology entrepreneur",
+          "civil servant",
           "inventor",
           "entrepreneur",
           "politician",
@@ -543,25 +580,10 @@
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
-          "Stanford University"
+          "Stanford University",
+          "University of Pennsylvania"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
           {
             "company": "SolarCity",
             "start": null,
@@ -575,6 +597,21 @@
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -640,11 +677,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "actor",
           "aircraft pilot",
           "businessperson",
-          "computer scientist",
-          "entrepreneur"
+          "actor",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "University of Chicago",
@@ -692,43 +729,6 @@
       }
     },
     {
-      "qid": "Q471851",
-      "name": "James Murdoch",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q471851",
-        "name": "James Murdoch",
-        "dateOfBirth": "1972-12-13",
-        "birthPlace": "Wimbledon",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
-        "occupations": [
-          "karateka",
-          "publisher",
-          "businessperson"
-        ],
-        "education": [
-          "Horace Mann School",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2015-07-01",
-            "end": "2019-03-20"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2017-07-13",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q1903673",
       "name": "Martin Eberhard",
       "role_at_company": "Founder",
@@ -740,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

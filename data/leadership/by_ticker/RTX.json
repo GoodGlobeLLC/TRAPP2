@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-06-07T20:28:13.402549Z",
+  "fetchedAt": "2026-06-08T11:28:39.570501Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,10 +39,10 @@
           "civil servant"
         ],
         "education": [
-          "Georgetown University",
+          "University of Oxford",
           "Saddleback High School",
           "Lexington High School",
-          "University of Oxford"
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -73,9 +73,9 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
-          "admiral",
           "military officer",
-          "naval air force"
+          "naval air force",
+          "admiral"
         ],
         "education": [
           "Fort Hunt High School",
@@ -388,17 +388,17 @@
         ],
         "employers": [
           {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
