@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "fetchedAt": "2026-06-08T01:22:51.081576Z",
+  "fetchedAt": "2026-06-08T09:40:33.101118Z",
   "people": [
     {
       "qid": "Q3503829",
@@ -14,9 +14,9 @@
         "birthPlace": "Madurai",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundar%20Pichai%20-%202023%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "chief executive officer",
-          "executive",
-          "computer scientist"
+          "executive"
         ],
         "education": [
           "Stanford University",
@@ -26,13 +26,13 @@
         ],
         "employers": [
           {
-            "company": "Alphabet Inc.",
-            "start": "2019-01-01",
+            "company": "Google",
+            "start": "2004-01-01",
             "end": null
           },
           {
-            "company": "Google",
-            "start": "2004-01-01",
+            "company": "Alphabet Inc.",
+            "start": "2019-01-01",
             "end": null
           }
         ],
@@ -64,9 +64,9 @@
         "birthPlace": "East Lansing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Page%20in%20the%20European%20Parliament%2C%2017.06.2009.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Interlochen Center for the Arts",

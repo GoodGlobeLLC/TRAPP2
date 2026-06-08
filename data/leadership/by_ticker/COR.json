@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-06-08T01:22:51.070009Z",
+  "fetchedAt": "2026-06-08T09:40:33.092782Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -50,9 +50,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "The Wharton School",
           "Perelman School of Medicine at the University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -302,8 +302,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "physician",
-          "oncologist"
+          "oncologist",
+          "physician"
         ],
         "education": [
           "Manchester University",
@@ -311,17 +311,17 @@
         ],
         "employers": [
           {
+            "company": "University of New Mexico",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

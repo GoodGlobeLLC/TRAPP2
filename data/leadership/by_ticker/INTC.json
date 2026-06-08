@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-08T01:22:51.084525Z",
+  "fetchedAt": "2026-06-08T09:40:33.103306Z",
   "people": [
     {
       "qid": "Q243969",
@@ -48,14 +48,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
           "physicist",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -105,7 +105,7 @@
         "qid": "Q432929",
         "name": "Andrew Grove",
         "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
+        "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
@@ -115,8 +115,8 @@
           "engineer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {
@@ -188,8 +188,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Binghamton University",
@@ -213,10 +213,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "engineer",
+          "chemist",
           "entrepreneur",
-          "businessperson",
-          "chemist"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -249,13 +249,13 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -325,8 +325,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -347,8 +347,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -389,9 +389,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
           "chief financial officer",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -458,11 +458,11 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "academic",
           "university teacher",
           "electrotechnician",
-          "academic",
-          "computer scientist",
-          "electrical engineer"
+          "electrical engineer",
+          "computer scientist"
         ],
         "education": [
           "University of California, Berkeley",
@@ -470,13 +470,13 @@
         ],
         "employers": [
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "California Institute of Technology",
+            "start": null,
             "end": null
           },
           {
-            "company": "California Institute of Technology",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           },
           {
@@ -524,16 +524,16 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
-          "Harvard Medical School",
           "University of Pennsylvania",
+          "Harvard Medical School",
           "Harvard University",
           "The Bush School",
           "The Wharton School"
@@ -589,13 +589,13 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -644,7 +644,7 @@
         "qid": "Q432929",
         "name": "Andrew Grove",
         "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
+        "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
@@ -654,8 +654,8 @@
           "engineer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {
@@ -742,14 +742,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
           "physicist",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {

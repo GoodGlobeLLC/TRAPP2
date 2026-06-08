@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-08T01:22:51.088698Z",
+  "fetchedAt": "2026-06-08T09:40:33.106342Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "HEC Paris",
-          "Columbia Business School"
+          "Columbia Business School",
+          "HEC Paris"
         ],
         "employers": [],
         "positions": []
@@ -268,9 +268,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Yale University",
@@ -278,24 +278,24 @@
         ],
         "employers": [
           {
-            "company": "University of California, Los Angeles",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "National Bureau of Economic Research",
             "start": "2001-01-01",
             "end": null
           },
           {
-            "company": "University of Chicago",
-            "start": "2017-01-01",
-            "end": null
+            "company": "University of California, Los Angeles",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
           },
           {
             "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Chicago",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Dartmouth College",
@@ -345,6 +345,11 @@
         ],
         "employers": [
           {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
             "end": null
@@ -352,11 +357,6 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
             "end": null
           }
         ],
@@ -389,11 +389,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
-          },
-          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -402,6 +397,11 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -500,8 +500,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -577,9 +577,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
+          "university teacher",
           "physician",
-          "university teacher"
+          "cardiologist"
         ],
         "education": [
           "Johns Hopkins School of Medicine",
@@ -627,8 +627,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "accountant",
-          "basketball player"
+          "basketball player",
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"

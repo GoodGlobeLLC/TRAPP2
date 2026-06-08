@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-06-08T01:22:51.089322Z",
+  "fetchedAt": "2026-06-08T09:40:33.106888Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -262,11 +262,11 @@
           "military officer"
         ],
         "education": [
-          "Georgetown University",
-          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy"
+          "The Fletcher School of Law and Diplomacy",
+          "Georgetown University",
+          "Tufts University"
         ],
         "employers": [],
         "positions": [
@@ -303,13 +303,13 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeh%20Johnson%20official%20DHS%20portrait.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
+          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College",
-          "Columbia Law School"
+          "Morehouse College"
         ],
         "employers": [
           {
@@ -355,6 +355,12 @@
         ],
         "positions": [
           {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
+          },
+          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -365,12 +371,6 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
           }
         ]
       }
@@ -387,8 +387,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "priest",
-          "military officer"
+          "military officer",
+          "priest"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -407,17 +407,17 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "Oakland",
+        "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
+          "military officer",
           "businessperson",
-          "manager",
-          "military officer"
+          "manager"
         ],
         "education": [
-          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Mankato West High School"
         ],
         "employers": [
           {

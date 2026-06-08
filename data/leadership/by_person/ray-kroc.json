@@ -6,20 +6,15 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
   "occupations": [
     "restaurateur",
-    "businessperson",
-    "entrepreneur",
     "salesperson",
-    "writer"
+    "entrepreneur",
+    "writer",
+    "businessperson"
   ],
   "education": [
     "Oak Park and River Forest High School"
   ],
   "employers": [
-    {
-      "company": "McDonald's",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Lily-Tulip Cup Company",
       "start": null,
@@ -27,6 +22,11 @@
     },
     {
       "company": "Prince Castle",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "McDonald's",
       "start": null,
       "end": null
     }

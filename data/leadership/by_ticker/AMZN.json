@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-08T01:22:51.061067Z",
+  "fetchedAt": "2026-06-08T09:40:33.085935Z",
   "people": [
     {
       "qid": "Q312556",
@@ -78,8 +78,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -145,8 +145,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
           "Questrom School of Business",
@@ -184,15 +184,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "computer scientist",
           "university teacher",
           "executive",
           "dean",
-          "academic",
-          "computer scientist"
+          "academic"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -286,8 +286,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -517,14 +517,19 @@
           "businessperson"
         ],
         "education": [
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale University"
         ],
         "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
@@ -541,18 +546,13 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],

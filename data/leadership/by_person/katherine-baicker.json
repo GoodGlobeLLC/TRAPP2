@@ -5,9 +5,9 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "economist",
     "health economist",
-    "crossword creator",
-    "economist"
+    "crossword creator"
   ],
   "education": [
     "Yale University",
@@ -15,24 +15,24 @@
   ],
   "employers": [
     {
-      "company": "University of California, Los Angeles",
-      "start": "2005-01-01",
-      "end": "2007-01-01"
-    },
-    {
       "company": "National Bureau of Economic Research",
       "start": "2001-01-01",
       "end": null
     },
     {
-      "company": "University of Chicago",
-      "start": "2017-01-01",
-      "end": null
+      "company": "University of California, Los Angeles",
+      "start": "2005-01-01",
+      "end": "2007-01-01"
     },
     {
       "company": "Council of Economic Advisers",
       "start": "2005-01-01",
       "end": "2007-01-01"
+    },
+    {
+      "company": "University of Chicago",
+      "start": "2017-01-01",
+      "end": null
     },
     {
       "company": "Dartmouth College",

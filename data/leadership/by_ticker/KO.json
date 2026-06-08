@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-08T01:22:51.087823Z",
+  "fetchedAt": "2026-06-08T09:40:33.105753Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -50,8 +50,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -154,11 +154,11 @@
           "pediatrician"
         ],
         "education": [
-          "Johns Hopkins University",
-          "Barnard College",
+          "University of Pennsylvania",
           "Perelman School of Medicine at the University of Pennsylvania",
           "Johns Hopkins Bloomberg School of Public Health",
-          "University of Pennsylvania"
+          "Johns Hopkins University",
+          "Barnard College"
         ],
         "employers": [
           {
@@ -205,8 +205,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -244,9 +244,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "economist",
           "banker",
-          "economist"
+          "businessperson"
         ],
         "education": [
           "St Mary's School",
@@ -279,10 +279,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "social worker",
           "business executive",
+          "politician",
           "sociologist",
-          "politician"
+          "social worker"
         ],
         "education": [
           "Spring Hill College",
@@ -290,21 +290,6 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
-            "start": null,
-            "end": null
-          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -333,6 +318,21 @@
           {
             "company": "Toyota",
             "start": "2006-01-01",
+            "end": null
+          },
+          {
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
+          },
+          {
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
             "end": null
           }
         ],
@@ -365,8 +365,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Groningen"

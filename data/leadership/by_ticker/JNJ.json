@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-08T01:22:51.085731Z",
+  "fetchedAt": "2026-06-08T09:40:33.104213Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -58,9 +58,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "merchant",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -106,13 +106,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "cardiologist"
+          "cardiologist",
+          "university teacher"
         ],
         "education": [
-          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Harvard T.H. Chan School of Public Health"
         ],
         "employers": [
           {
@@ -217,12 +217,12 @@
           "physician"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Harvard University"
+          "Harvard University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": [
@@ -256,10 +256,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "University of Southern California",
           "USC Gould School of Law",
-          "Georgetown University Law Center"
+          "Georgetown University Law Center",
+          "Columbia University",
+          "University of Southern California"
         ],
         "employers": [],
         "positions": [
@@ -287,9 +287,9 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University",
           "Harvard Business School"
         ],
         "employers": [
@@ -368,8 +368,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -412,8 +412,8 @@
         "occupations": [
           "crystallographer",
           "molecular biologist",
-          "chemist",
           "university teacher",
+          "chemist",
           "biochemist"
         ],
         "education": [
@@ -428,13 +428,13 @@
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
@@ -462,7 +462,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -509,8 +509,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "business executive"
+          "business executive",
+          "university teacher"
         ],
         "education": [],
         "employers": [],
@@ -546,9 +546,9 @@
           "businessperson"
         ],
         "education": [
+          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School",
-          "Syracuse University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -585,9 +585,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "merchant",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -634,15 +634,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
           "lecturer",
-          "merchant",
+          "entrepreneur",
           "chief executive officer",
           "executive",
           "business manager",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
-          "Sciences Po",
           "HEC Paris",
+          "Sciences Po",
           "Lyc\u00e9e Louis-le-Grand"
         ],
         "employers": [
