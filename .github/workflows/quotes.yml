@@ -1,0 +1,73 @@
+name: Live Quotes (Intraday)
+
+# Strategy: GitHub Actions schedules are queued, not fired-at-time. Observed
+# queue lag for this repo has been 3-6 hours on the first trigger of the day.
+# To compensate, we start the schedule 3 hours earlier than the user's target
+# window. Even if every trigger lags 3 hours, we'll have quotes flowing by
+# the 9:30 AM ET open.
+#
+# UTC mapping:
+#   EDT 9:30 AM = 13:30 UTC, EST 9:30 AM = 14:30 UTC
+#   EDT 4:00 PM = 20:00 UTC, EST 4:00 PM = 21:00 UTC
+#
+# We schedule from 07:00 UTC through 21:00 UTC, covering both DST regimes
+# with 3 hours of pre-market warm-up to absorb queue latency.
+#
+# CADENCE: Every 20 minutes during market hours = 14 runs per trading day
+# inside the active US session, plus pre-market warmups.
+
+on:
+  schedule:
+    # Pre-market warmup: 07:00-13:00 UTC = 3 AM-9 AM ET (EDT) / 2 AM-8 AM ET (EST)
+    # These early runs absorb GitHub Actions queue lag so first real market
+    # refresh lands at or near the 9:30 ET bell.
+    - cron: '0,20,40 7-12 * * 1-5'
+    # Active session: 13:00-21:00 UTC = 9 AM-5 PM ET (EDT)
+    - cron: '0,20,40 13-21 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: trapp2-quotes
+  cancel-in-progress: false   # don't kill a run mid-fetch
+
+jobs:
+  quotes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Fetch live quotes (master.csv + master.json)
+        run: python pipeline/fetch_data.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/
+          if git diff --staged --quiet; then
+            echo "No quote changes to commit"
+          else
+            git commit -m "Live quotes $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            for i in 1 2 3; do
+              if git push; then break; fi
+              git fetch origin
+
+              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+
+              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
+              sleep 4
+            done
+          fi
