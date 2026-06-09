@@ -1,6 +1,6 @@
 {
   "ticker": "PM",
-  "fetchedAt": "2026-06-08T11:28:39.568490Z",
+  "fetchedAt": "2026-06-09T01:24:51.330264Z",
   "people": [
     {
       "qid": "Q106755529",
@@ -43,8 +43,8 @@
         "birthPlace": "Liverpool",
         "image": null,
         "occupations": [
-          "businessperson",
-          "patron of the arts"
+          "patron of the arts",
+          "businessperson"
         ],
         "education": [
           "University of Cambridge"
@@ -84,11 +84,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "art collector",
           "patron of the arts",
-          "merchant",
           "businessperson",
-          "military officer"
+          "merchant",
+          "military officer",
+          "art collector"
         ],
         "education": [
           "Zicklin School of Business",
@@ -124,9 +124,9 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bonin%20Bough%202015.jpg",
         "occupations": [
+          "television presenter",
           "writer",
-          "marketing executive",
-          "television presenter"
+          "marketing executive"
         ],
         "education": [],
         "employers": [],
@@ -298,10 +298,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Conservatoire national des Arts et M\u00e9tiers",
-          "\u00c9cole polytechnique",
           "T\u00e9l\u00e9com Paris",
           "Paris Dauphine University",
+          "Conservatoire national des Arts et M\u00e9tiers",
+          "\u00c9cole polytechnique",
           "Lyc\u00e9e Louis-le-Grand"
         ],
         "employers": [

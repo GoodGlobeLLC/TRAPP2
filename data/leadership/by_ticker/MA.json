@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-06-08T09:40:33.108123Z",
+  "fetchedAt": "2026-06-09T01:03:30.648315Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -36,6 +31,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -69,8 +69,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Michigan",
-          "Columbia Law School"
+          "Columbia Law School",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -116,8 +116,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
+          "Princeton University",
           "Harvard Business School"
         ],
         "employers": [
@@ -164,11 +164,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -177,6 +172,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -389,8 +389,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Michigan",
-          "Columbia Law School"
+          "Columbia Law School",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -437,9 +437,9 @@
         ],
         "education": [
           "Harvard Law School",
-          "Columbia University",
           "Marsha Stern Talmudical Academy",
-          "Columbia College"
+          "Columbia College",
+          "Columbia University"
         ],
         "employers": [],
         "positions": [

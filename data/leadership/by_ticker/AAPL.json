@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-08T09:40:33.081452Z",
+  "fetchedAt": "2026-06-09T01:40:32.389655Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,8 +14,8 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
+          "presenter",
           "chief executive officer",
           "computer scientist",
           "engineer",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "businessperson",
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -100,14 +100,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "businessperson",
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -177,9 +177,9 @@
           "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -251,16 +251,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "environmentalist",
-          "financier",
           "climate activist",
           "orator",
           "journalist",
-          "farmer",
           "blogger",
+          "environmentalist",
+          "financier",
+          "farmer",
           "university teacher",
-          "businessperson",
           "writer",
+          "businessperson",
           "politician"
         ],
         "education": [
@@ -329,14 +329,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -351,33 +351,33 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
+          "engineer",
+          "teacher",
+          "actor",
           "programmer",
           "electronics technician",
-          "engineer",
           "inventor",
-          "businessperson",
-          "actor",
-          "teacher"
+          "entrepreneur",
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
+          "University of Colorado Boulder",
           "Homestead High School",
           "University of California, Berkeley",
           "University of Colorado",
-          "De Anza College",
-          "University of Colorado Boulder"
+          "De Anza College"
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -437,16 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "film producer",
           "designer",
-          "founder",
           "technology entrepreneur",
+          "film producer",
+          "founder",
           "financier",
           "general manager",
           "executive producer",
-          "computer scientist",
+          "inventor",
           "entrepreneur",
-          "inventor"
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -465,12 +465,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

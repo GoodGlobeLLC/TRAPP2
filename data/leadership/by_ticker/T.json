@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-06-08T11:28:39.573632Z",
+  "fetchedAt": "2026-06-09T01:24:51.336972Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,8 +18,8 @@
           "business executive"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
@@ -114,8 +114,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "musician",
-          "artist"
+          "artist",
+          "musician"
         ],
         "education": [
           "Trulaske College of Business",
@@ -188,32 +188,12 @@
           "lawyer"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Harvard Law School",
           "Brown University",
-          "James B. Dudley High School"
+          "James B. Dudley High School",
+          "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Revlon",
             "start": null,
@@ -233,6 +213,26 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Monsanto",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kodak",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -266,9 +266,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -348,8 +348,8 @@
           "business executive"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
@@ -440,8 +440,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "entrepreneur",
-          "film producer"
+          "film producer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University"

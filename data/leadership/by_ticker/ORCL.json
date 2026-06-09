@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-08T11:28:39.559928Z",
+  "fetchedAt": "2026-06-09T01:24:51.326651Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,10 +15,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "businessperson",
           "actor",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "University of Chicago",
@@ -305,8 +305,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -375,6 +375,11 @@
             "end": "1983-01-01"
           },
           {
+            "company": "Claris",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -383,11 +388,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -413,10 +413,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
           "academic",
-          "economist",
           "university teacher",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "economist",
+          "writer"
         ],
         "education": [
           "University of California, Berkeley"
@@ -428,7 +428,7 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Harvard University",
             "start": null,
             "end": null
           },
@@ -438,7 +438,7 @@
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -463,10 +463,10 @@
           "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -532,10 +532,10 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "Oberleutnant",
           "university teacher",
-          "political scientist",
+          "Oberleutnant",
           "jurist",
+          "political scientist",
           "lawyer",
           "politician"
         ],
@@ -578,6 +578,18 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1993-01-05",
+            "end": "1993-01-22"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1985-01-03",
             "end": "1987-01-03"
           },
@@ -600,12 +612,6 @@
             "end": "1993-01-03"
           },
           {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -624,22 +630,16 @@
             "end": "2011-06-30"
           },
           {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1993-01-05",
-            "end": "1993-01-22"
           }
         ]
       }
@@ -657,10 +657,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "businessperson",
           "actor",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "University of Chicago",
@@ -720,10 +720,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "businessperson",
           "actor",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "University of Chicago",
