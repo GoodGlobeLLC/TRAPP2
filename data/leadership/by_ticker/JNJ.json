@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-08T09:40:33.104213Z",
+  "fetchedAt": "2026-06-09T01:03:30.643080Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -58,9 +58,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -110,9 +110,9 @@
           "university teacher"
         ],
         "education": [
+          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School",
-          "Harvard T.H. Chan School of Public Health"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -217,11 +217,11 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
+          "Harvard University",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Harvard University",
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology"
         ],
         "employers": [],
@@ -287,10 +287,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School"
+          "Columbia University"
         ],
         "employers": [
           {
@@ -410,10 +410,10 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "crystallographer",
+          "chemist",
           "molecular biologist",
           "university teacher",
-          "chemist",
+          "crystallographer",
           "biochemist"
         ],
         "education": [
@@ -428,13 +428,13 @@
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
             "end": null
           },
           {
@@ -542,8 +542,8 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Syracuse University",
@@ -585,9 +585,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -633,17 +633,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
-          "entrepreneur",
-          "chief executive officer",
           "executive",
           "business manager",
-          "merchant"
+          "lecturer",
+          "chief executive officer",
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
+          "Lyc\u00e9e Louis-le-Grand",
           "HEC Paris",
-          "Sciences Po",
-          "Lyc\u00e9e Louis-le-Grand"
+          "Sciences Po"
         ],
         "employers": [
           {
@@ -731,8 +731,8 @@
         "birthPlace": "Medford",
         "image": null,
         "occupations": [
-          "manager",
-          "chief executive officer"
+          "chief executive officer",
+          "manager"
         ],
         "education": [
           "Portland State University"

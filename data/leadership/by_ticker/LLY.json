@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-08T09:40:33.106342Z",
+  "fetchedAt": "2026-06-09T01:03:30.646396Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -80,8 +80,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard University",
           "Xavier University",
+          "Harvard University",
           "St. Xavier High School"
         ],
         "employers": [],
@@ -268,9 +268,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -345,11 +345,6 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
             "end": null
@@ -357,6 +352,11 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
             "end": null
           }
         ],
@@ -389,6 +389,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -397,11 +402,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -429,8 +429,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
+          "Princeton University",
           "Harvard Business School"
         ],
         "employers": [
@@ -577,9 +577,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "cardiologist",
           "university teacher",
-          "physician",
-          "cardiologist"
+          "physician"
         ],
         "education": [
           "Johns Hopkins School of Medicine",
