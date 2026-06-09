@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-08T09:40:33.105753Z",
+  "fetchedAt": "2026-06-09T01:03:30.645391Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -154,11 +154,11 @@
           "pediatrician"
         ],
         "education": [
-          "University of Pennsylvania",
           "Perelman School of Medicine at the University of Pennsylvania",
           "Johns Hopkins Bloomberg School of Public Health",
           "Johns Hopkins University",
-          "Barnard College"
+          "Barnard College",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -244,8 +244,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
           "banker",
+          "economist",
           "businessperson"
         ],
         "education": [
@@ -279,10 +279,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "business executive",
-          "politician",
+          "social worker",
           "sociologist",
-          "social worker"
+          "business executive",
+          "politician"
         ],
         "education": [
           "Spring Hill College",
@@ -290,6 +290,21 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
+          },
+          {
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
+            "end": null
+          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -318,21 +333,6 @@
           {
             "company": "Toyota",
             "start": "2006-01-01",
-            "end": null
-          },
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
-            "start": null,
             "end": null
           }
         ],
@@ -365,8 +365,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of Groningen"
