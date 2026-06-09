@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-08T09:40:33.104832Z",
+  "fetchedAt": "2026-06-09T01:03:30.643860Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,12 +17,22 @@
           "banker"
         ],
         "education": [
+          "Tufts University",
           "Harvard Business School",
           "Harvard University",
-          "Tufts University",
           "Browning School"
         ],
         "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -35,16 +45,6 @@
           },
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1994-01-01",
+            "end": "2019-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -208,9 +208,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -457,8 +457,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Harvard Business School",
@@ -503,12 +503,22 @@
           "banker"
         ],
         "education": [
+          "Tufts University",
           "Harvard Business School",
           "Harvard University",
-          "Tufts University",
           "Browning School"
         ],
         "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -521,16 +531,6 @@
           },
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -557,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
