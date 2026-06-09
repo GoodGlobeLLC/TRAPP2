@@ -5,17 +5,22 @@
   "birthPlace": "Salt Lake City",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
   "occupations": [
-    "entrepreneur",
     "mathematician",
-    "computer scientist",
+    "businessperson",
     "engineer",
-    "businessperson"
+    "computer scientist",
+    "entrepreneur"
   ],
   "education": [
     "Olympus High School",
     "University of Utah"
   ],
   "employers": [
+    {
+      "company": "Evans & Sutherland",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Adobe",
       "start": null,
@@ -25,11 +30,6 @@
       "company": "PARC",
       "start": "1978-01-01",
       "end": "1982-01-01"
-    },
-    {
-      "company": "Evans & Sutherland",
-      "start": null,
-      "end": null
     }
   ],
   "positions": [

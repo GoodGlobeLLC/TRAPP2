@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-08T09:40:33.080399Z",
+  "fetchedAt": "2026-06-09T01:40:32.388594Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -290,11 +290,6 @@
         "education": [],
         "employers": [
           {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
-          {
             "company": "Cisco",
             "start": "2007-10-01",
             "end": "2014-06-01"
@@ -303,6 +298,11 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -333,8 +333,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
@@ -382,8 +382,8 @@
           "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [
@@ -426,9 +426,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
+          "gastroenterologist",
           "university teacher",
-          "gastroenterologist"
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -483,9 +483,9 @@
           "physician"
         ],
         "education": [
-          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
+          "Pritzker School of Medicine",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -526,14 +526,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "chairperson"
+          "chairperson",
+          "investor"
         ],
         "education": [
-          "Imperial College London",
+          "Harvard University",
           "University of London",
-          "Harvard Business School",
-          "Harvard University"
+          "Imperial College London",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
