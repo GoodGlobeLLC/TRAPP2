@@ -1,7 +1,7 @@
 {
   "ticker": "TSLA",
   "qid": "Q478214",
-  "fetchedAt": "2026-06-07T20:06:49.364566Z",
+  "fetchedAt": "2026-06-09T00:54:06.837732Z",
   "source": "wikidata",
   "name": "Tesla",
   "description": "American automotive, energy storage and solar power company",
@@ -9,7 +9,7 @@
   "isin": "US88160R1014",
   "inception": "2003-07-01",
   "employees": 140473,
-  "industry": "automotive industry",
+  "industry": "battery industry",
   "headquarters": "Austin",
   "executives": [
     {
@@ -22,6 +22,18 @@
     }
   ],
   "board": [
+    {
+      "name": "Joe Gebbia",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Board Member"
+    },
+    {
+      "name": "J. B. Straubel",
+      "role": "Board Member"
+    },
     {
       "name": "Ira Ehrenpreis",
       "role": "Board Member"
@@ -39,27 +51,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Joe Gebbia",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kimbal Musk",
-      "role": "Board Member"
-    },
-    {
-      "name": "J. B. Straubel",
-      "role": "Board Member"
-    },
-    {
-      "name": "James Murdoch",
-      "role": "Board Member"
-    },
-    {
       "name": "Elon Musk",
       "role": "Board Member"
     },
     {
       "name": "Larry Ellison",
+      "role": "Board Member"
+    },
+    {
+      "name": "James Murdoch",
       "role": "Board Member"
     }
   ],

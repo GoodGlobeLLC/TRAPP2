@@ -1,7 +1,7 @@
 {
   "ticker": "GD",
   "qid": "Q502940",
-  "fetchedAt": "2026-06-01T07:41:42.114347Z",
+  "fetchedAt": "2026-06-09T01:30:53.865156Z",
   "source": "wikidata",
   "name": "General Dynamics",
   "description": "American defense manufacturing conglomerate",
@@ -9,7 +9,7 @@
   "isin": "US3695501086",
   "inception": "1952-02-21",
   "employees": 83500,
-  "industry": "shipbuilding",
+  "industry": "defense industry",
   "headquarters": "Reston",
   "executives": [
     {
@@ -18,6 +18,22 @@
     }
   ],
   "board": [
+    {
+      "name": "Peter Wall",
+      "role": "Board Member"
+    },
+    {
+      "name": "Cecil D. Haney",
+      "role": "Board Member"
+    },
+    {
+      "name": "Phebe Novakovic",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jim Mattis",
+      "role": "Board Member"
+    },
     {
       "name": "Laura Schumacher",
       "role": "Board Member"
@@ -48,22 +64,6 @@
     },
     {
       "name": "Robert K. Steel",
-      "role": "Board Member"
-    },
-    {
-      "name": "Peter Wall",
-      "role": "Board Member"
-    },
-    {
-      "name": "Cecil D. Haney",
-      "role": "Board Member"
-    },
-    {
-      "name": "Phebe Novakovic",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jim Mattis",
       "role": "Board Member"
     }
   ],

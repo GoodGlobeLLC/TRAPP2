@@ -1,7 +1,7 @@
 {
   "ticker": "MSFT",
   "qid": "Q2283",
-  "fetchedAt": "2026-06-07T20:06:21.635518Z",
+  "fetchedAt": "2026-06-09T00:53:44.883130Z",
   "source": "wikidata",
   "name": "Microsoft",
   "description": "American multinational technology corporation",
@@ -18,6 +18,18 @@
     }
   ],
   "board": [
+    {
+      "name": "John W. Stanton",
+      "role": "Board Member"
+    },
+    {
+      "name": "Penny Pritzker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Reid Hoffman",
+      "role": "Board Member"
+    },
     {
       "name": "Mark Mason",
       "role": "Board Member"
@@ -36,18 +48,6 @@
     },
     {
       "name": "Emma Walmsley",
-      "role": "Board Member"
-    },
-    {
-      "name": "John W. Stanton",
-      "role": "Board Member"
-    },
-    {
-      "name": "Penny Pritzker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Reid Hoffman",
       "role": "Board Member"
     },
     {
@@ -76,6 +76,9 @@
       "name": "Microsoft Mobile"
     },
     {
+      "name": "Xbox"
+    },
+    {
       "name": "Microsoft Servers"
     },
     {
@@ -97,13 +100,13 @@
       "name": "Skype"
     },
     {
-      "name": "software"
-    },
-    {
       "name": "computer hardware"
     },
     {
       "name": "Microsoft Windows"
+    },
+    {
+      "name": "software"
     }
   ],
   "countries": [

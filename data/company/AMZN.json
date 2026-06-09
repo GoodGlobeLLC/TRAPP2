@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-06-07T20:06:44.883635Z",
+  "fetchedAt": "2026-06-09T00:54:03.251151Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -9,15 +9,15 @@
   "isin": "US0231351067",
   "inception": "1994-07-05",
   "employees": 1500000,
-  "industry": "retail",
+  "industry": "web hosting service",
   "headquarters": "Seattle",
   "executives": [
     {
-      "name": "Jeff Bezos",
+      "name": "Andy Jassy",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Andy Jassy",
+      "name": "Jeff Bezos",
       "role": "Chief Executive Officer"
     }
   ],
@@ -36,10 +36,6 @@
     },
     {
       "name": "Jon Rubinstein",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jamie S. Gorelick",
       "role": "Board Member"
     },
     {
@@ -73,6 +69,10 @@
     {
       "name": "Indra Nooyi",
       "role": "Board Member"
+    },
+    {
+      "name": "Jamie S. Gorelick",
+      "role": "Board Member"
     }
   ],
   "founders": [
@@ -97,15 +97,6 @@
       "name": "Amazon Appstore"
     },
     {
-      "name": "Amazon Prime Video"
-    },
-    {
-      "name": "Amazon Fresh"
-    },
-    {
-      "name": "Amazon S3"
-    },
-    {
       "name": "Amazon.com"
     },
     {
@@ -113,6 +104,15 @@
     },
     {
       "name": "Amazon Prime"
+    },
+    {
+      "name": "Amazon Prime Video"
+    },
+    {
+      "name": "Amazon Fresh"
+    },
+    {
+      "name": "Amazon S3"
     },
     {
       "name": "Alexa Internet"

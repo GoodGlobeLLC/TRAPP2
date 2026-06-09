@@ -1,7 +1,7 @@
 {
   "ticker": "MRK",
   "qid": "Q247489",
-  "fetchedAt": "2026-06-01T07:26:57.456831Z",
+  "fetchedAt": "2026-06-09T01:18:04.277624Z",
   "source": "wikidata",
   "name": "Merck & Co.",
   "description": "American multinational pharmaceutical company",
@@ -13,15 +13,23 @@
   "headquarters": "Rahway",
   "executives": [
     {
-      "name": "Rob Davis",
+      "name": "Kenneth Frazier",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Kenneth Frazier",
+      "name": "Rob Davis",
       "role": "Chief Executive Officer"
     }
   ],
   "board": [
+    {
+      "name": "Patricia Russo",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tom Glocer",
+      "role": "Board Member"
+    },
     {
       "name": "Peter C. Wendell",
       "role": "Board Member"
@@ -68,14 +76,6 @@
     },
     {
       "name": "Kenneth Frazier",
-      "role": "Board Member"
-    },
-    {
-      "name": "Patricia Russo",
-      "role": "Board Member"
-    },
-    {
-      "name": "Tom Glocer",
       "role": "Board Member"
     }
   ],

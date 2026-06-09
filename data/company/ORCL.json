@@ -1,7 +1,7 @@
 {
   "ticker": "ORCL",
   "qid": "Q19900",
-  "fetchedAt": "2026-06-07T20:07:08.423536Z",
+  "fetchedAt": "2026-06-09T00:54:23.871632Z",
   "source": "wikidata",
   "name": "Oracle Corporation",
   "description": "American multinational computer corporation",
@@ -18,22 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Jeff Berg",
-      "role": "Board Member"
-    },
-    {
-      "name": "Awo Ablo",
-      "role": "Board Member"
-    },
-    {
-      "name": "George Conrades",
-      "role": "Board Member"
-    },
-    {
-      "name": "Rona Fairhead",
-      "role": "Board Member"
-    },
     {
       "name": "Ren\u00e9e James",
       "role": "Board Member"
@@ -71,6 +55,22 @@
       "role": "Board Member"
     },
     {
+      "name": "Jeff Berg",
+      "role": "Board Member"
+    },
+    {
+      "name": "Awo Ablo",
+      "role": "Board Member"
+    },
+    {
+      "name": "George Conrades",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rona Fairhead",
+      "role": "Board Member"
+    },
+    {
       "name": "Leon Panetta",
       "role": "Board Member"
     },
@@ -92,10 +92,10 @@
   ],
   "products": [
     {
-      "name": "relational database management system"
+      "name": "database management system"
     },
     {
-      "name": "database management system"
+      "name": "relational database management system"
     },
     {
       "name": "software"

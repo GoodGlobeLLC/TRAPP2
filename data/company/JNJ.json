@@ -1,7 +1,7 @@
 {
   "ticker": "JNJ",
   "qid": "Q333718",
-  "fetchedAt": "2026-06-01T07:26:53.242024Z",
+  "fetchedAt": "2026-06-09T01:18:00.997858Z",
   "source": "wikidata",
   "name": "Johnson & Johnson",
   "description": "U.S multinational medical devices, pharmaceutical and consumer packaged goods manufacturer",
@@ -35,6 +35,26 @@
       "role": "Board Member"
     },
     {
+      "name": "Alex Gorsky",
+      "role": "Board Member"
+    },
+    {
+      "name": "Hubert Joly",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mark Weinberger",
+      "role": "Board Member"
+    },
+    {
+      "name": "Scott Davis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ron Williams",
+      "role": "Board Member"
+    },
+    {
       "name": "Mark McClellan",
       "role": "Board Member"
     },
@@ -55,10 +75,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Jennifer Doudna",
-      "role": "Board Member"
-    },
-    {
       "name": "Joaquin Duato",
       "role": "Board Member"
     },
@@ -71,23 +87,7 @@
       "role": "Board Member"
     },
     {
-      "name": "Alex Gorsky",
-      "role": "Board Member"
-    },
-    {
-      "name": "Hubert Joly",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mark Weinberger",
-      "role": "Board Member"
-    },
-    {
-      "name": "Scott Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ron Williams",
+      "name": "Jennifer Doudna",
       "role": "Board Member"
     }
   ],
@@ -104,10 +104,10 @@
   ],
   "products": [
     {
-      "name": "medical device"
+      "name": "medication"
     },
     {
-      "name": "medication"
+      "name": "medical device"
     }
   ],
   "countries": []

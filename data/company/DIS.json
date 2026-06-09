@@ -1,7 +1,7 @@
 {
   "ticker": "DIS",
   "qid": "Q7414",
-  "fetchedAt": "2026-06-01T07:44:35.813183Z",
+  "fetchedAt": "2026-06-09T01:33:41.164702Z",
   "source": "wikidata",
   "name": "The Walt Disney Company",
   "description": "American multinational mass media company",
@@ -12,18 +12,6 @@
   "industry": "media industry",
   "headquarters": "Burbank",
   "executives": [
-    {
-      "name": "Bob Chapek",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Josh D'Amaro",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Raymond Watson",
-      "role": "Chief Executive Officer"
-    },
     {
       "name": "Michael Eisner",
       "role": "Chief Executive Officer"
@@ -45,6 +33,18 @@
       "role": "Chief Executive Officer"
     },
     {
+      "name": "Bob Chapek",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Josh D'Amaro",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Raymond Watson",
+      "role": "Chief Executive Officer"
+    },
+    {
       "name": "Walt Disney",
       "role": "Chief Executive Officer"
     },
@@ -54,22 +54,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Caroline Leonetti Ahmanson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Michael Froman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mary Barra",
-      "role": "Board Member"
-    },
-    {
-      "name": "Maria Elena Lagomasino",
-      "role": "Board Member"
-    },
     {
       "name": "Francis deSouza",
       "role": "Board Member"
@@ -84,6 +68,22 @@
     },
     {
       "name": "Safra Catz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Caroline Leonetti Ahmanson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Michael Froman",
+      "role": "Board Member"
+    },
+    {
+      "name": "Maria Elena Lagomasino",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mary Barra",
       "role": "Board Member"
     },
     {
@@ -113,10 +113,10 @@
   ],
   "products": [
     {
-      "name": "software"
+      "name": "broadcasting"
     },
     {
-      "name": "broadcasting"
+      "name": "software"
     },
     {
       "name": "music"
