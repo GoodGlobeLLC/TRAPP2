@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-06-09T00:54:03.251151Z",
+  "fetchedAt": "2026-06-09T04:58:38.498106Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -13,11 +13,11 @@
   "headquarters": "Seattle",
   "executives": [
     {
-      "name": "Andy Jassy",
+      "name": "Jeff Bezos",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Jeff Bezos",
+      "name": "Andy Jassy",
       "role": "Chief Executive Officer"
     }
   ],
@@ -59,15 +59,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Edith Cooper",
-      "role": "Board Member"
-    },
-    {
       "name": "Jeff Bezos",
       "role": "Board Member"
     },
     {
       "name": "Indra Nooyi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Edith Cooper",
       "role": "Board Member"
     },
     {
@@ -82,6 +82,30 @@
   ],
   "products": [
     {
+      "name": "Alexa Internet"
+    },
+    {
+      "name": "Amazon Prime Video"
+    },
+    {
+      "name": "Amazon Fresh"
+    },
+    {
+      "name": "Amazon S3"
+    },
+    {
+      "name": "Amazon.com"
+    },
+    {
+      "name": "Shopbop"
+    },
+    {
+      "name": "Amazon Prime"
+    },
+    {
+      "name": "IMDb"
+    },
+    {
       "name": "Amazon Echo"
     },
     {
@@ -95,30 +119,6 @@
     },
     {
       "name": "Amazon Appstore"
-    },
-    {
-      "name": "Amazon.com"
-    },
-    {
-      "name": "Shopbop"
-    },
-    {
-      "name": "Amazon Prime"
-    },
-    {
-      "name": "Amazon Prime Video"
-    },
-    {
-      "name": "Amazon Fresh"
-    },
-    {
-      "name": "Amazon S3"
-    },
-    {
-      "name": "Alexa Internet"
-    },
-    {
-      "name": "IMDb"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "JNJ",
   "qid": "Q333718",
-  "fetchedAt": "2026-06-09T01:18:00.997858Z",
+  "fetchedAt": "2026-06-09T05:14:33.379488Z",
   "source": "wikidata",
   "name": "Johnson & Johnson",
   "description": "U.S multinational medical devices, pharmaceutical and consumer packaged goods manufacturer",
@@ -23,15 +23,23 @@
   ],
   "board": [
     {
-      "name": "Paula Johnson",
+      "name": "Mark McClellan",
       "role": "Board Member"
     },
     {
-      "name": "Nadja West",
+      "name": "Charles Prince",
       "role": "Board Member"
     },
     {
-      "name": "Mary Beckerle",
+      "name": "Marillyn Hewson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Sir Ian Davis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Anne Mulcahy",
       "role": "Board Member"
     },
     {
@@ -55,23 +63,19 @@
       "role": "Board Member"
     },
     {
-      "name": "Mark McClellan",
+      "name": "Paula Johnson",
       "role": "Board Member"
     },
     {
-      "name": "Charles Prince",
+      "name": "Nadja West",
       "role": "Board Member"
     },
     {
-      "name": "Marillyn Hewson",
+      "name": "Mary Beckerle",
       "role": "Board Member"
     },
     {
-      "name": "Sir Ian Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "Anne Mulcahy",
+      "name": "Jennifer Doudna",
       "role": "Board Member"
     },
     {
@@ -84,10 +88,6 @@
     },
     {
       "name": "Darius Adamczyk",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jennifer Doudna",
       "role": "Board Member"
     }
   ],
@@ -104,10 +104,10 @@
   ],
   "products": [
     {
-      "name": "medication"
+      "name": "medical device"
     },
     {
-      "name": "medical device"
+      "name": "medication"
     }
   ],
   "countries": []

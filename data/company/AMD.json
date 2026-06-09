@@ -1,7 +1,7 @@
 {
   "ticker": "AMD",
   "qid": "Q128896",
-  "fetchedAt": "2026-06-09T00:59:58.124453Z",
+  "fetchedAt": "2026-06-09T05:05:03.972887Z",
   "source": "wikidata",
   "name": "AMD",
   "description": "American multinational semiconductor company",
@@ -68,22 +68,22 @@
   ],
   "products": [
     {
-      "name": "microprocessor"
-    },
-    {
-      "name": "AMD microprocessor"
-    },
-    {
       "name": "frame grabber"
     },
     {
       "name": "graphics processing unit"
     },
     {
+      "name": "chipset"
+    },
+    {
+      "name": "microprocessor"
+    },
+    {
       "name": "computer hardware"
     },
     {
-      "name": "chipset"
+      "name": "AMD microprocessor"
     }
   ],
   "countries": []

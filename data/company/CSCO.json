@@ -1,7 +1,7 @@
 {
   "ticker": "CSCO",
   "qid": "Q173395",
-  "fetchedAt": "2026-06-09T01:29:05.513793Z",
+  "fetchedAt": "2026-06-09T05:20:34.112508Z",
   "source": "wikidata",
   "name": "Cisco",
   "description": "American multinational technology company",
@@ -89,21 +89,6 @@
   ],
   "products": [
     {
-      "name": "cable modem"
-    },
-    {
-      "name": "wireless access point"
-    },
-    {
-      "name": "router"
-    },
-    {
-      "name": "network switch"
-    },
-    {
-      "name": "software"
-    },
-    {
       "name": "networking hardware"
     },
     {
@@ -113,7 +98,22 @@
       "name": "set-top box"
     },
     {
+      "name": "software"
+    },
+    {
+      "name": "cable modem"
+    },
+    {
+      "name": "wireless access point"
+    },
+    {
       "name": "gateway"
+    },
+    {
+      "name": "router"
+    },
+    {
+      "name": "network switch"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "META",
   "qid": "Q380",
-  "fetchedAt": "2026-06-09T00:53:59.771627Z",
+  "fetchedAt": "2026-06-09T04:58:34.778814Z",
   "source": "wikidata",
   "name": "Meta",
   "description": "American technology company",
@@ -20,14 +20,6 @@
   "board": [
     {
       "name": "Sheryl Sandberg",
-      "role": "Board Member"
-    },
-    {
-      "name": "Robert M. Kimmitt",
-      "role": "Board Member"
-    },
-    {
-      "name": "Peter Thiel",
       "role": "Board Member"
     },
     {
@@ -59,6 +51,14 @@
       "role": "Board Member"
     },
     {
+      "name": "Robert M. Kimmitt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Peter Thiel",
+      "role": "Board Member"
+    },
+    {
       "name": "Marc Andreessen",
       "role": "Board Member"
     },
@@ -86,16 +86,16 @@
   ],
   "products": [
     {
-      "name": "Facebook Custom Audience"
-    },
-    {
-      "name": "Meta pixel"
-    },
-    {
       "name": "software"
     },
     {
+      "name": "Facebook Custom Audience"
+    },
+    {
       "name": "Messenger"
+    },
+    {
+      "name": "Meta pixel"
     }
   ],
   "countries": []

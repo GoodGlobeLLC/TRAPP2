@@ -1,21 +1,27 @@
 {
   "ticker": "SPX",
   "qid": "Q109676747",
-  "fetchedAt": "2026-06-09T00:54:32.639063Z",
+  "fetchedAt": "2026-06-09T04:59:08.978792Z",
   "source": "wikidata",
   "name": "SPX Express",
   "description": "Logistics services owned by Singaporean ecommerce company Shopee",
-  "website": "https://shopeexpress.com.my/",
+  "website": "https://spx.tw",
   "isin": null,
   "inception": null,
   "employees": null,
-  "industry": "logistics",
+  "industry": "retail",
   "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],
   "products": [],
   "countries": [
+    {
+      "name": "Singapore"
+    },
+    {
+      "name": "Indonesia"
+    },
     {
       "name": "Philippines"
     },
@@ -26,16 +32,10 @@
       "name": "Thailand"
     },
     {
-      "name": "Taiwan"
-    },
-    {
       "name": "Malaysia"
     },
     {
-      "name": "Singapore"
-    },
-    {
-      "name": "Indonesia"
+      "name": "Taiwan"
     }
   ]
 }

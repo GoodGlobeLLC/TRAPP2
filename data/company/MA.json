@@ -1,7 +1,7 @@
 {
   "ticker": "MA",
   "qid": "Q489921",
-  "fetchedAt": "2026-06-09T01:30:26.969821Z",
+  "fetchedAt": "2026-06-09T05:21:34.633216Z",
   "source": "wikidata",
   "name": "Mastercard",
   "description": "American multinational financial services corporation",
@@ -22,6 +22,10 @@
     }
   ],
   "board": [
+    {
+      "name": "Harit Talwar",
+      "role": "Board Member"
+    },
     {
       "name": "Gabrielle Sulzberger",
       "role": "Board Member"
@@ -65,22 +69,18 @@
     {
       "name": "Goh Choon Phong",
       "role": "Board Member"
-    },
-    {
-      "name": "Harit Talwar",
-      "role": "Board Member"
     }
   ],
   "founders": [],
   "products": [
     {
-      "name": "Mastercard Cirrus ICR"
-    },
-    {
       "name": "credit card"
     },
     {
       "name": "debit card"
+    },
+    {
+      "name": "Mastercard Cirrus ICR"
     }
   ],
   "countries": []

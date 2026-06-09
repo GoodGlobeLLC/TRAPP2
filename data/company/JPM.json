@@ -1,7 +1,7 @@
 {
   "ticker": "JPM",
   "qid": "Q192314",
-  "fetchedAt": "2026-06-09T01:07:48.591096Z",
+  "fetchedAt": "2026-06-09T05:09:16.400239Z",
   "source": "wikidata",
   "name": "JPMorgan Chase",
   "description": "American multinational banking and financial services holding company",
@@ -9,7 +9,7 @@
   "isin": "US46625H1005",
   "inception": "1968-01-01",
   "employees": 271025,
-  "industry": "economics of banking",
+  "industry": "financial services",
   "headquarters": "New York City",
   "executives": [
     {
@@ -18,6 +18,22 @@
     }
   ],
   "board": [
+    {
+      "name": "Mike Neal",
+      "role": "Board Member"
+    },
+    {
+      "name": "Linda Bammann",
+      "role": "Board Member"
+    },
+    {
+      "name": "Timothy P. Flynn",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alicia Boler Davis",
+      "role": "Board Member"
+    },
     {
       "name": "Alex Gorsky",
       "role": "Board Member"
@@ -28,14 +44,6 @@
     },
     {
       "name": "Mark Weinberger",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jamie Dimon",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ginni Rometty",
       "role": "Board Member"
     },
     {
@@ -55,32 +63,24 @@
       "role": "Board Member"
     },
     {
-      "name": "Mike Neal",
+      "name": "Jamie Dimon",
       "role": "Board Member"
     },
     {
-      "name": "Linda Bammann",
-      "role": "Board Member"
-    },
-    {
-      "name": "Timothy P. Flynn",
-      "role": "Board Member"
-    },
-    {
-      "name": "Alicia Boler Davis",
+      "name": "Ginni Rometty",
       "role": "Board Member"
     }
   ],
   "founders": [],
   "products": [
     {
-      "name": "insurance"
-    },
-    {
       "name": "bank credit"
     },
     {
       "name": "asset management"
+    },
+    {
+      "name": "insurance"
     }
   ],
   "countries": []

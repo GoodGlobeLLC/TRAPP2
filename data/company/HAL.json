@@ -1,7 +1,7 @@
 {
   "ticker": "HAL",
   "qid": "Q357095",
-  "fetchedAt": "2026-06-09T01:40:25.586043Z",
+  "fetchedAt": "2026-06-09T05:28:57.191760Z",
   "source": "wikidata",
   "name": "Hindustan Aeronautics Limited",
   "description": "Indian public sector aerospace manufacturer",
@@ -20,6 +20,12 @@
   ],
   "products": [
     {
+      "name": "aircraft maintenance"
+    },
+    {
+      "name": "Dhruv"
+    },
+    {
       "name": "light combat aircraft"
     },
     {
@@ -35,6 +41,9 @@
       "name": "CE-20"
     },
     {
+      "name": "Dornier 228"
+    },
+    {
       "name": "Su-30MKI"
     },
     {
@@ -44,19 +53,10 @@
       "name": "HF-24 Marut"
     },
     {
-      "name": "aircraft maintenance"
-    },
-    {
-      "name": "Dhruv"
-    },
-    {
       "name": "attack helicopter"
     },
     {
       "name": "rocket engine"
-    },
-    {
-      "name": "fighter aircraft"
     },
     {
       "name": "trainer"
@@ -71,10 +71,10 @@
       "name": "supersonic aircraft"
     },
     {
-      "name": "helicopter"
+      "name": "fighter aircraft"
     },
     {
-      "name": "Dornier 228"
+      "name": "helicopter"
     }
   ],
   "countries": []

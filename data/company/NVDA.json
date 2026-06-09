@@ -1,7 +1,7 @@
 {
   "ticker": "NVDA",
   "qid": "Q182477",
-  "fetchedAt": "2026-06-09T00:53:49.838646Z",
+  "fetchedAt": "2026-06-09T04:57:58.717999Z",
   "source": "wikidata",
   "name": "Nvidia",
   "description": "American multinational technology company",
@@ -24,6 +24,18 @@
     },
     {
       "name": "Mark Stevens",
+      "role": "Board Member"
+    },
+    {
+      "name": "John O. Dabiri",
+      "role": "Board Member"
+    },
+    {
+      "name": "Persis Drell",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jensen Huang",
       "role": "Board Member"
     },
     {
@@ -61,18 +73,6 @@
     {
       "name": "Stephen Neal",
       "role": "Board Member"
-    },
-    {
-      "name": "John O. Dabiri",
-      "role": "Board Member"
-    },
-    {
-      "name": "Persis Drell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jensen Huang",
-      "role": "Board Member"
     }
   ],
   "founders": [
@@ -88,13 +88,13 @@
   ],
   "products": [
     {
+      "name": "software"
+    },
+    {
       "name": "chipset"
     },
     {
       "name": "graphics processing unit"
-    },
-    {
-      "name": "software"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "PFE",
   "qid": "Q206921",
-  "fetchedAt": "2026-06-09T01:18:34.840753Z",
+  "fetchedAt": "2026-06-09T05:14:59.482176Z",
   "source": "wikidata",
   "name": "Pfizer",
   "description": "American multinational pharmaceutical and biotechnology corporation",
@@ -18,6 +18,14 @@
     }
   ],
   "board": [
+    {
+      "name": "Shantanu Narayen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Susan Hockfield",
+      "role": "Board Member"
+    },
     {
       "name": "Scott Gottlieb",
       "role": "Board Member"
@@ -47,22 +55,6 @@
       "role": "Board Member"
     },
     {
-      "name": "James M. Kilts",
-      "role": "Board Member"
-    },
-    {
-      "name": "Dan Littman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Shantanu Narayen",
-      "role": "Board Member"
-    },
-    {
-      "name": "Susan Hockfield",
-      "role": "Board Member"
-    },
-    {
       "name": "Joe Echevarria",
       "role": "Board Member"
     },
@@ -73,19 +65,30 @@
     {
       "name": "James C. Smith",
       "role": "Board Member"
+    },
+    {
+      "name": "James M. Kilts",
+      "role": "Board Member"
+    },
+    {
+      "name": "Dan Littman",
+      "role": "Board Member"
     }
   ],
   "founders": [
     {
-      "name": "Charles F. Erhart"
+      "name": "Charles Pfizer"
     },
     {
-      "name": "Charles Pfizer"
+      "name": "Charles F. Erhart"
     }
   ],
   "products": [
     {
-      "name": "Pfizer\u2013BioNTech COVID-19 vaccine"
+      "name": "fluconazole"
+    },
+    {
+      "name": "sildenafil"
     },
     {
       "name": "pharmaceutical product"
@@ -94,10 +97,7 @@
       "name": "atorvastatin"
     },
     {
-      "name": "fluconazole"
-    },
-    {
-      "name": "sildenafil"
+      "name": "Pfizer\u2013BioNTech COVID-19 vaccine"
     }
   ],
   "countries": []

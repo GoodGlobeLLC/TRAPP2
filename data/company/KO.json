@@ -1,7 +1,7 @@
 {
   "ticker": "KO",
   "qid": "Q3295867",
-  "fetchedAt": "2026-06-09T01:14:11.230041Z",
+  "fetchedAt": "2026-06-09T05:13:05.575609Z",
   "source": "wikidata",
   "name": "The Coca-Cola Company",
   "description": "American multinational beverage corporation",
@@ -18,6 +18,22 @@
     }
   ],
   "board": [
+    {
+      "name": "Marc Bolland",
+      "role": "Board Member"
+    },
+    {
+      "name": "Barry Diller",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ana Bot\u00edn",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alexis Herman",
+      "role": "Board Member"
+    },
     {
       "name": "James Quincey",
       "role": "Board Member"
@@ -36,22 +52,6 @@
     },
     {
       "name": "Helene D. Gayle",
-      "role": "Board Member"
-    },
-    {
-      "name": "Barry Diller",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ana Bot\u00edn",
-      "role": "Board Member"
-    },
-    {
-      "name": "Alexis Herman",
-      "role": "Board Member"
-    },
-    {
-      "name": "Marc Bolland",
       "role": "Board Member"
     },
     {
@@ -87,19 +87,19 @@
       "name": "Diet Coke"
     },
     {
+      "name": "soft drink"
+    },
+    {
+      "name": "Coca-Cola"
+    },
+    {
       "name": "Sprite"
     },
     {
       "name": "Fanta Orange"
     },
     {
-      "name": "soft drink"
-    },
-    {
       "name": "alcoholic beverage"
-    },
-    {
-      "name": "Coca-Cola"
     }
   ],
   "countries": []
