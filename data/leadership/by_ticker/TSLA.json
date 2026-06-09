@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-06-08T11:28:39.575516Z",
+  "fetchedAt": "2026-06-09T01:24:51.339367Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,29 +14,34 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "dub actor",
+          "programmer",
+          "technology entrepreneur",
           "financier",
           "investor",
-          "programmer",
-          "dub actor",
-          "technology entrepreneur",
+          "entrepreneur",
           "civil servant",
           "inventor",
-          "entrepreneur",
-          "politician",
-          "engineer"
+          "engineer",
+          "politician"
         ],
         "education": [
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
-          "Stanford University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
           {
             "company": "SolarCity",
             "start": null,
@@ -46,11 +51,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
           },
           {
             "company": "Department of Government Efficiency",
@@ -63,8 +63,8 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -73,8 +73,8 @@
             "end": null
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
@@ -140,26 +140,6 @@
         ],
         "employers": [
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -175,18 +155,32 @@
             "end": "2017-04-01"
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
           {
             "title": "chief operating officer",
             "company": null,
@@ -197,6 +191,12 @@
             "title": "board member",
             "company": null,
             "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
             "end": null
           },
           {
@@ -336,26 +336,6 @@
         ],
         "employers": [
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -371,18 +351,32 @@
             "end": "2017-04-01"
           },
           {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2018-11-01",
-            "end": null
-          },
           {
             "title": "chief operating officer",
             "company": null,
@@ -393,6 +387,12 @@
             "title": "board member",
             "company": null,
             "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2018-11-01",
             "end": null
           },
           {
@@ -457,8 +457,8 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
-          "environmentalist",
           "restaurateur",
+          "environmentalist",
           "entrepreneur"
         ],
         "education": [
@@ -487,9 +487,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
+          "chief technology officer",
           "inventor",
-          "businessperson",
-          "chief technology officer"
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -524,9 +524,9 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
+          "businessperson",
           "karateka",
-          "publisher",
-          "businessperson"
+          "publisher"
         ],
         "education": [
           "Horace Mann School",
@@ -561,29 +561,34 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "dub actor",
+          "programmer",
+          "technology entrepreneur",
           "financier",
           "investor",
-          "programmer",
-          "dub actor",
-          "technology entrepreneur",
+          "entrepreneur",
           "civil servant",
           "inventor",
-          "entrepreneur",
-          "politician",
-          "engineer"
+          "engineer",
+          "politician"
         ],
         "education": [
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
-          "Stanford University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
           {
             "company": "SolarCity",
             "start": null,
@@ -593,11 +598,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
           },
           {
             "company": "Department of Government Efficiency",
@@ -610,8 +610,8 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -620,8 +620,8 @@
             "end": null
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
@@ -678,10 +678,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "businessperson",
           "actor",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "University of Chicago",
@@ -740,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "York Community High School",
