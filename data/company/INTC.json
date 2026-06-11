@@ -1,7 +1,7 @@
 {
   "ticker": "INTC",
   "qid": "Q248",
-  "fetchedAt": "2026-06-09T05:25:51.925890Z",
+  "fetchedAt": "2026-06-11T05:42:55.971124Z",
   "source": "wikidata",
   "name": "Intel",
   "description": "American multinational technology company",
@@ -13,14 +13,6 @@
   "headquarters": "Santa Clara",
   "executives": [
     {
-      "name": "Paul Otellini",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Andrew Grove",
-      "role": "Chief Executive Officer"
-    },
-    {
       "name": "Brian Krzanich",
       "role": "Chief Executive Officer"
     },
@@ -30,6 +22,14 @@
     },
     {
       "name": "Craig R. Barrett",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Paul Otellini",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Andrew Grove",
       "role": "Chief Executive Officer"
     },
     {
@@ -50,26 +50,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Frank Yeary",
-      "role": "Board Member"
-    },
-    {
-      "name": "Alyssa Henry",
-      "role": "Board Member"
-    },
-    {
-      "name": "Omar Ishrak",
-      "role": "Board Member"
-    },
-    {
-      "name": "Greg Smith",
-      "role": "Board Member"
-    },
-    {
-      "name": "Tsu-Jae King Liu",
-      "role": "Board Member"
-    },
     {
       "name": "Dion Weisler",
       "role": "Board Member"
@@ -92,6 +72,26 @@
     },
     {
       "name": "Jim Goetz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Frank Yeary",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alyssa Henry",
+      "role": "Board Member"
+    },
+    {
+      "name": "Omar Ishrak",
+      "role": "Board Member"
+    },
+    {
+      "name": "Greg Smith",
+      "role": "Board Member"
+    },
+    {
+      "name": "Tsu-Jae King Liu",
       "role": "Board Member"
     }
   ],

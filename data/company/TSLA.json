@@ -1,7 +1,7 @@
 {
   "ticker": "TSLA",
   "qid": "Q478214",
-  "fetchedAt": "2026-06-09T04:58:41.983107Z",
+  "fetchedAt": "2026-06-11T05:18:02.046424Z",
   "source": "wikidata",
   "name": "Tesla",
   "description": "American automotive, energy storage and solar power company",
@@ -23,18 +23,6 @@
   ],
   "board": [
     {
-      "name": "Joe Gebbia",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kimbal Musk",
-      "role": "Board Member"
-    },
-    {
-      "name": "J. B. Straubel",
-      "role": "Board Member"
-    },
-    {
       "name": "Ira Ehrenpreis",
       "role": "Board Member"
     },
@@ -51,7 +39,15 @@
       "role": "Board Member"
     },
     {
-      "name": "James Murdoch",
+      "name": "Joe Gebbia",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kimbal Musk",
+      "role": "Board Member"
+    },
+    {
+      "name": "J. B. Straubel",
       "role": "Board Member"
     },
     {
@@ -60,6 +56,10 @@
     },
     {
       "name": "Larry Ellison",
+      "role": "Board Member"
+    },
+    {
+      "name": "James Murdoch",
       "role": "Board Member"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "ticker": "AMZN",
   "qid": "Q3884",
-  "fetchedAt": "2026-06-09T04:58:38.498106Z",
+  "fetchedAt": "2026-06-11T05:17:58.629607Z",
   "source": "wikidata",
   "name": "Amazon",
   "description": "American multinational technology company",
@@ -13,31 +13,15 @@
   "headquarters": "Seattle",
   "executives": [
     {
-      "name": "Jeff Bezos",
+      "name": "Andy Jassy",
       "role": "Chief Executive Officer"
     },
     {
-      "name": "Andy Jassy",
+      "name": "Jeff Bezos",
       "role": "Chief Executive Officer"
     }
   ],
   "board": [
-    {
-      "name": "Judy McGrath",
-      "role": "Board Member"
-    },
-    {
-      "name": "Keith B. Alexander",
-      "role": "Board Member"
-    },
-    {
-      "name": "Daniel P. Huttenlocher",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jon Rubinstein",
-      "role": "Board Member"
-    },
     {
       "name": "Andy Jassy",
       "role": "Board Member"
@@ -59,11 +43,19 @@
       "role": "Board Member"
     },
     {
-      "name": "Jeff Bezos",
+      "name": "Judy McGrath",
       "role": "Board Member"
     },
     {
-      "name": "Indra Nooyi",
+      "name": "Keith B. Alexander",
+      "role": "Board Member"
+    },
+    {
+      "name": "Daniel P. Huttenlocher",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jon Rubinstein",
       "role": "Board Member"
     },
     {
@@ -72,6 +64,14 @@
     },
     {
       "name": "Jamie S. Gorelick",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jeff Bezos",
+      "role": "Board Member"
+    },
+    {
+      "name": "Indra Nooyi",
       "role": "Board Member"
     }
   ],
@@ -82,7 +82,13 @@
   ],
   "products": [
     {
-      "name": "Alexa Internet"
+      "name": "Amazon Echo"
+    },
+    {
+      "name": "Amazon Fire TV"
+    },
+    {
+      "name": "ComiXology"
     },
     {
       "name": "Amazon Prime Video"
@@ -103,22 +109,16 @@
       "name": "Amazon Prime"
     },
     {
-      "name": "IMDb"
-    },
-    {
-      "name": "Amazon Echo"
-    },
-    {
-      "name": "Amazon Fire TV"
-    },
-    {
-      "name": "ComiXology"
-    },
-    {
       "name": "Amazon Web Services"
     },
     {
       "name": "Amazon Appstore"
+    },
+    {
+      "name": "Alexa Internet"
+    },
+    {
+      "name": "IMDb"
     }
   ],
   "countries": []

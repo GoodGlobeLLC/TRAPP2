@@ -1,7 +1,7 @@
 {
   "ticker": "CRM",
   "qid": "Q941127",
-  "fetchedAt": "2026-06-09T05:06:21.026206Z",
+  "fetchedAt": "2026-06-11T05:23:55.210379Z",
   "source": "wikidata",
   "name": "Salesforce",
   "description": "American cloud-based software company",
@@ -9,7 +9,7 @@
   "isin": "US79466L3024",
   "inception": "1999-02-03",
   "employees": 35000,
-  "industry": "customer relationship management",
+  "industry": "software as a service",
   "headquarters": "San Francisco",
   "executives": [
     {
@@ -64,6 +64,9 @@
       "name": "enterprise software"
     },
     {
+      "name": "e-commerce"
+    },
+    {
       "name": "intelligent agent"
     },
     {
@@ -73,12 +76,6 @@
       "name": "analytics"
     },
     {
-      "name": "e-commerce"
-    },
-    {
-      "name": "cloud computing"
-    },
-    {
       "name": "software as a service"
     },
     {
@@ -86,6 +83,9 @@
     },
     {
       "name": "artificial intelligence"
+    },
+    {
+      "name": "cloud computing"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "IBM",
   "qid": "Q37156",
-  "fetchedAt": "2026-06-09T05:06:42.106585Z",
+  "fetchedAt": "2026-06-11T05:24:14.681676Z",
   "source": "wikidata",
   "name": "IBM",
   "description": "American multinational technology corporation",
@@ -27,11 +27,19 @@
   ],
   "board": [
     {
-      "name": "Peter Voser",
+      "name": "Arvind Krishna",
       "role": "Board Member"
     },
     {
-      "name": "Andrew Liveris",
+      "name": "Thomas Buberl",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rick Waddell",
+      "role": "Board Member"
+    },
+    {
+      "name": "Martha Pollack",
       "role": "Board Member"
     },
     {
@@ -55,27 +63,19 @@
       "role": "Board Member"
     },
     {
-      "name": "Arvind Krishna",
-      "role": "Board Member"
-    },
-    {
-      "name": "Thomas Buberl",
-      "role": "Board Member"
-    },
-    {
-      "name": "Rick Waddell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Martha Pollack",
-      "role": "Board Member"
-    },
-    {
       "name": "Al Zollar",
       "role": "Board Member"
     },
     {
       "name": "F. William McNabb III",
+      "role": "Board Member"
+    },
+    {
+      "name": "Peter Voser",
+      "role": "Board Member"
+    },
+    {
+      "name": "Andrew Liveris",
       "role": "Board Member"
     }
   ],

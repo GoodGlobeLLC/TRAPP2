@@ -1,7 +1,7 @@
 {
   "ticker": "PM",
   "qid": "Q1852556",
-  "fetchedAt": "2026-06-09T05:13:25.976424Z",
+  "fetchedAt": "2026-06-11T05:32:32.275705Z",
   "source": "wikidata",
   "name": "Philip Morris International",
   "description": "American global cigarette and tobacco company",
@@ -13,19 +13,27 @@
   "headquarters": "Stamford",
   "executives": [
     {
-      "name": "Jacek Olczak",
-      "role": "Chief Executive Officer"
-    },
-    {
       "name": "Hamish Maxwell",
       "role": "Chief Executive Officer"
     },
     {
       "name": "George Weissman",
       "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Jacek Olczak",
+      "role": "Chief Executive Officer"
     }
   ],
   "board": [
+    {
+      "name": "Michel Combes",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jacek Olczak",
+      "role": "Board Member"
+    },
     {
       "name": "Bonin Bough",
       "role": "Board Member"
@@ -56,14 +64,6 @@
     },
     {
       "name": "Juan Jos\u00e9 Daboub",
-      "role": "Board Member"
-    },
-    {
-      "name": "Michel Combes",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jacek Olczak",
       "role": "Board Member"
     }
   ],

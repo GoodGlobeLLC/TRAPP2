@@ -1,7 +1,7 @@
 {
   "ticker": "GE",
   "qid": "Q54173",
-  "fetchedAt": "2026-06-09T05:07:54.344426Z",
+  "fetchedAt": "2026-06-11T05:25:30.652161Z",
   "source": "wikidata",
   "name": "General Electric",
   "description": "American multinational conglomerate",
@@ -18,6 +18,14 @@
     }
   ],
   "board": [
+    {
+      "name": "Bella Goren",
+      "role": "Board Member"
+    },
+    {
+      "name": "Leslie Seidman",
+      "role": "Board Member"
+    },
     {
       "name": "Paula Rosput Reynolds",
       "role": "Board Member"
@@ -43,14 +51,6 @@
       "role": "Board Member"
     },
     {
-      "name": "Risa Lavizzo-Mourey",
-      "role": "Board Member"
-    },
-    {
-      "name": "James Tisch",
-      "role": "Board Member"
-    },
-    {
       "name": "Francisco D'Souza",
       "role": "Board Member"
     },
@@ -67,11 +67,11 @@
       "role": "Board Member"
     },
     {
-      "name": "Bella Goren",
+      "name": "Risa Lavizzo-Mourey",
       "role": "Board Member"
     },
     {
-      "name": "Leslie Seidman",
+      "name": "James Tisch",
       "role": "Board Member"
     }
   ],

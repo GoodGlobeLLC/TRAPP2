@@ -1,7 +1,7 @@
 {
   "ticker": "BLK",
   "qid": "Q219635",
-  "fetchedAt": "2026-06-09T05:09:59.158480Z",
+  "fetchedAt": "2026-06-11T05:29:08.094546Z",
   "source": "wikidata",
   "name": "BlackRock",
   "description": "American multinational investment management corporation",
@@ -31,16 +31,16 @@
   ],
   "products": [
     {
-      "name": "index fund"
-    },
-    {
-      "name": "asset management"
-    },
-    {
       "name": "mutual fund"
     },
     {
       "name": "risk management"
+    },
+    {
+      "name": "index fund"
+    },
+    {
+      "name": "asset management"
     },
     {
       "name": "Exchange-Traded Funds (ETFs): Issues for Congress"
@@ -48,7 +48,13 @@
   ],
   "countries": [
     {
+      "name": "Alto Adige"
+    },
+    {
       "name": "worldwide"
+    },
+    {
+      "name": "Friuli Annia"
     }
   ]
 }

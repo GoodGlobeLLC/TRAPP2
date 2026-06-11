@@ -1,7 +1,7 @@
 {
   "ticker": "KO",
   "qid": "Q3295867",
-  "fetchedAt": "2026-06-09T05:13:05.575609Z",
+  "fetchedAt": "2026-06-11T05:32:09.520779Z",
   "source": "wikidata",
   "name": "The Coca-Cola Company",
   "description": "American multinational beverage corporation",
@@ -19,19 +19,11 @@
   ],
   "board": [
     {
-      "name": "Marc Bolland",
+      "name": "Chris Davis",
       "role": "Board Member"
     },
     {
-      "name": "Barry Diller",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ana Bot\u00edn",
-      "role": "Board Member"
-    },
-    {
-      "name": "Alexis Herman",
+      "name": "David Weinberg",
       "role": "Board Member"
     },
     {
@@ -55,31 +47,42 @@
       "role": "Board Member"
     },
     {
+      "name": "Marc Bolland",
+      "role": "Board Member"
+    },
+    {
+      "name": "Barry Diller",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ana Bot\u00edn",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alexis Herman",
+      "role": "Board Member"
+    },
+    {
       "name": "Caroline Tsay",
       "role": "Board Member"
     },
     {
       "name": "Carolyn Everson",
       "role": "Board Member"
-    },
-    {
-      "name": "Chris Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "David Weinberg",
-      "role": "Board Member"
     }
   ],
   "founders": [
     {
-      "name": "Asa Griggs Candler"
+      "name": "John Pemberton"
     },
     {
-      "name": "John Pemberton"
+      "name": "Asa Griggs Candler"
     }
   ],
   "products": [
+    {
+      "name": "Sprite"
+    },
     {
       "name": "non-alcoholic beverage"
     },
@@ -87,19 +90,16 @@
       "name": "Diet Coke"
     },
     {
-      "name": "soft drink"
-    },
-    {
       "name": "Coca-Cola"
     },
     {
-      "name": "Sprite"
-    },
-    {
-      "name": "Fanta Orange"
+      "name": "soft drink"
     },
     {
       "name": "alcoholic beverage"
+    },
+    {
+      "name": "Fanta Orange"
     }
   ],
   "countries": []

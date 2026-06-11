@@ -1,7 +1,7 @@
 {
   "ticker": "JNJ",
   "qid": "Q333718",
-  "fetchedAt": "2026-06-09T05:14:33.379488Z",
+  "fetchedAt": "2026-06-11T05:33:40.584368Z",
   "source": "wikidata",
   "name": "Johnson & Johnson",
   "description": "U.S multinational medical devices, pharmaceutical and consumer packaged goods manufacturer",
@@ -22,26 +22,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Mark McClellan",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charles Prince",
-      "role": "Board Member"
-    },
-    {
-      "name": "Marillyn Hewson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Sir Ian Davis",
-      "role": "Board Member"
-    },
-    {
-      "name": "Anne Mulcahy",
-      "role": "Board Member"
-    },
     {
       "name": "Alex Gorsky",
       "role": "Board Member"
@@ -75,7 +55,23 @@
       "role": "Board Member"
     },
     {
-      "name": "Jennifer Doudna",
+      "name": "Mark McClellan",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charles Prince",
+      "role": "Board Member"
+    },
+    {
+      "name": "Marillyn Hewson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Sir Ian Davis",
+      "role": "Board Member"
+    },
+    {
+      "name": "Anne Mulcahy",
       "role": "Board Member"
     },
     {
@@ -88,6 +84,10 @@
     },
     {
       "name": "Darius Adamczyk",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jennifer Doudna",
       "role": "Board Member"
     }
   ],

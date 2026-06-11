@@ -1,7 +1,7 @@
 {
   "ticker": "WFC",
   "qid": "Q744149",
-  "fetchedAt": "2026-06-09T05:09:41.694607Z",
+  "fetchedAt": "2026-06-11T05:28:47.213534Z",
   "source": "wikidata",
   "name": "Wells Fargo",
   "description": "American multinational banking and financial services company",
@@ -9,7 +9,7 @@
   "isin": "US9497461015",
   "inception": "1852-01-01",
   "employees": 150500,
-  "industry": "financial services",
+  "industry": "financial sector",
   "headquarters": "San Francisco",
   "executives": [
     {
@@ -18,14 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Felicia Norwood",
-      "role": "Board Member"
-    },
-    {
-      "name": "CeCe Morken",
-      "role": "Board Member"
-    },
     {
       "name": "Juan Pujadas",
       "role": "Board Member"
@@ -73,14 +65,22 @@
     {
       "name": "Richard K. Davis",
       "role": "Board Member"
+    },
+    {
+      "name": "Felicia Norwood",
+      "role": "Board Member"
+    },
+    {
+      "name": "CeCe Morken",
+      "role": "Board Member"
     }
   ],
   "founders": [
     {
-      "name": "Henry Wells"
+      "name": "William Fargo"
     },
     {
-      "name": "William Fargo"
+      "name": "Henry Wells"
     }
   ],
   "products": [
