@@ -437,6 +437,17 @@ def fetch_ticker(ticker):
     """Resolve a ticker → write its company facts JSON file. Returns (ok, msg)."""
     qid, _label = find_qid_for_ticker(ticker)
     if not qid:
+        # Write a lightweight marker so this ticker isn't re-attempted every
+        # night (no-QID tickers — ETFs, obscure foreign listings — rarely gain
+        # a Wikidata entry suddenly). It still re-checks after the freshness
+        # window expires, in case an entry was added.
+        try:
+            (COMPANY_DIR / f"{ticker}.json").write_text(json.dumps({
+                "ticker": ticker, "fetchedAt": datetime.utcnow().isoformat() + "Z",
+                "source": "wikidata", "_noEntity": True, "name": None,
+            }, indent=2))
+        except Exception:
+            pass
         return False, "no Wikidata QID found"
     facts = fetch_company_facts(qid, ticker)
     if not facts or not facts.get("name"):
@@ -458,16 +469,63 @@ def fetch_ticker(ticker):
     return True, f"QID={qid}, {n_exec} execs, {n_board} board, {n_products} products"
 
 
+def _is_fresh(ticker, max_age_days=30):
+    """True if this ticker's company JSON exists and was fetched recently —
+    company facts (founded, HQ, leadership) rarely change, so we skip fresh ones.
+    This is what keeps the nightly run under the 1-hour limit: most nights only
+    a handful of new/stale tickers actually need fetching."""
+    out_path = COMPANY_DIR / f"{ticker}.json"
+    if not out_path.exists():
+        return False
+    try:
+        data = json.loads(out_path.read_text())
+        fetched = data.get("fetchedAt") or data.get("_fetchedAt")
+        if not fetched:
+            # No timestamp — fall back to file mtime.
+            age = time.time() - out_path.stat().st_mtime
+            return age < max_age_days * 86400
+        ts = datetime.fromisoformat(fetched.replace("Z", "+00:00"))
+        age_days = (datetime.now(ts.tzinfo) - ts).total_seconds() / 86400
+        return age_days < max_age_days
+    except Exception:
+        return False
+
+
 def main():
+    import os as _os
     tickers = load_tickers_from_file()
-    log(f"Fetching {len(tickers)} tickers from tickers.txt into {COMPANY_DIR}")
-    manifest = {
-        "generatedAt": datetime.utcnow().isoformat() + "Z",
-        "source": "wikidata",
-        "tickers": {},
-    }
+
+    # Time budget: stop fetching ~10 min before GitHub's 60-min job limit so the
+    # commit step always runs and we never lose a half-finished run. The next
+    # night picks up whatever's still stale. Override via FACTS_BUDGET_SECS.
+    budget_secs = int(_os.environ.get("FACTS_BUDGET_SECS", str(48 * 60)))
+    # Freshness window — re-fetch a ticker only if its file is older than this.
+    max_age_days = int(_os.environ.get("FACTS_MAX_AGE_DAYS", "30"))
+    # Force a full refresh (ignore freshness) with FACTS_FORCE=1.
+    force = _os.environ.get("FACTS_FORCE", "") == "1"
+    start = time.time()
+
+    # Partition: stale/missing first (these need work), skip the fresh ones.
+    to_fetch = tickers if force else [t for t in tickers if not _is_fresh(t, max_age_days)]
+    skipped = len(tickers) - len(to_fetch)
+    log(f"Company facts: {len(tickers)} total · {skipped} fresh (skipped) · {len(to_fetch)} to fetch · budget {budget_secs}s")
+
+    # Load existing manifest so skipped tickers keep their prior status.
+    manifest = {"generatedAt": datetime.utcnow().isoformat() + "Z", "source": "wikidata", "tickers": {}}
+    if MANIFEST_FILE.exists():
+        try:
+            prior = json.loads(MANIFEST_FILE.read_text())
+            manifest["tickers"] = prior.get("tickers", {})
+        except Exception:
+            pass
+
     success = 0
-    for ticker in tickers:
+    fetched_count = 0
+    for ticker in to_fetch:
+        # Stop if we're near the time budget — let the commit step run.
+        if time.time() - start > budget_secs:
+            log(f"⏱ Hit time budget after {fetched_count} fetches — stopping; remaining stale tickers will refresh next run.")
+            break
         try:
             ok, msg = fetch_ticker(ticker)
             if ok:
@@ -483,13 +541,12 @@ def main():
         except Exception as e:
             log(f"✗ {ticker:7s} — exception: {type(e).__name__}: {e}")
             manifest["tickers"][ticker] = {"ok": False, "msg": str(e)}
-        # Be courteous to Wikidata — sustained rate is ~1.5s safe, 1s gets us
-        # 429'd within ~30 tickers. Each ticker actually makes 2 SPARQL calls
-        # (find_qid + fetch_facts) so effective rate is ~1 query / 750ms.
+        fetched_count += 1
         time.sleep(1.5)
 
+    manifest["generatedAt"] = datetime.utcnow().isoformat() + "Z"
     MANIFEST_FILE.write_text(json.dumps(manifest, indent=2))
-    log(f"Done: {success}/{len(tickers)} successful")
+    log(f"Done: fetched {fetched_count}, {success} successful, {skipped} skipped as fresh")
     return 0
 
 
