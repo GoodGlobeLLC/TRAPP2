@@ -1,0 +1,41 @@
+# .github/workflows/refresh_history.yml  (commit into the TRAPP2 repo;
+# copy the same two files into TRAPP2-1 / TRAPP2-2 to cover those books)
+#
+# This is the "agent" — a scheduled GitHub Action that acts as Valuatio's
+# backend with zero servers and zero secrets: GITHUB_TOKEN is injected
+# automatically and can commit to its own repo. Every night it pulls a year
+# of daily closes for every ticker in data/master.json and commits compact
+# per-ticker history files + a manifest. The app then lazy-loads history
+# per ticker from raw.githubusercontent (already gzip-compressed on the
+# wire), so the browser never has to store the whole book.
+name: Refresh price history
+
+on:
+  schedule:
+    - cron: "20 1 * * 2-6"   # 01:20 UTC Tue–Sat (after each US close)
+  workflow_dispatch: {}        # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build per-ticker history + manifest
+        run: python build_history.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "valuatio-bot"
+          git config user.email "actions@github.com"
+          git add data/history data/history_manifest.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "history: nightly refresh $(date -u +%F)"
+          git push
