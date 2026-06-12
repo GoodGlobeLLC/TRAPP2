@@ -29,7 +29,7 @@ jobs:
           python-version: "3.12"
 
       - name: Build per-ticker history + manifest
-        run: python build_history.py
+        run: python pipeline/build_history.py
 
       - name: Commit & push
         run: |
