@@ -1,6 +1,6 @@
 {
   "ticker": "AXP",
-  "fetchedAt": "2026-06-09T01:40:32.397760Z",
+  "fetchedAt": "2026-06-13T02:49:39.811905Z",
   "people": [
     {
       "qid": "Q52272598",
@@ -14,11 +14,95 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Yale University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q15069859",
+      "name": "Peter Chernin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q15069859",
+        "name": "Peter Chernin",
+        "dateOfBirth": "1951-05-29",
+        "birthPlace": "Harrison",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Chernin%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202009.jpg",
+        "occupations": [
+          "film producer",
+          "financier",
+          "television producer",
+          "businessperson",
+          "entrepreneur"
+        ],
+        "education": [
+          "University of California, Berkeley"
+        ],
+        "employers": [
+          {
+            "company": "Chernin Entertainment",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7288329",
+      "name": "Ralph de la Vega",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7288329",
+        "name": "Ralph de la Vega",
+        "dateOfBirth": "1901-01-01",
+        "birthPlace": "Cuba",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ralph%20de%20la%20Vega%20459.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Miami Dade College",
+          "Florida Atlantic University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6381629",
+      "name": "Ted Leonsis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6381629",
+        "name": "Ted Leonsis",
+        "dateOfBirth": "1957-01-08",
+        "birthPlace": "Brooklyn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Leonsis%20headshot%202013.jpg",
+        "occupations": [
+          "journalist",
+          "inventor"
+        ],
+        "education": [
+          "Brooklyn Technical High School",
+          "Georgetown University",
+          "Lowell High School"
         ],
         "employers": [],
         "positions": []
@@ -39,8 +123,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Dartmouth College",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -191,8 +275,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Yale University"
@@ -265,11 +349,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mike%20Leavitt.jpg",
         "occupations": [
           "blogger",
-          "public figure",
           "elector",
-          "governor",
+          "public figure",
+          "politician",
           "economist",
-          "politician"
+          "governor"
         ],
         "education": [
           "Cedar High School",
@@ -310,10 +394,10 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlene%20Barshefsky%20official%20portrait.jpg",
         "occupations": [
-          "diplomat",
-          "lawyer",
           "politician",
-          "businessperson"
+          "diplomat",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Von Steuben Metropolitan Science Center",
@@ -341,90 +425,6 @@
         "education": [
           "University of Bern",
           "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q15069859",
-      "name": "Peter Chernin",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q15069859",
-        "name": "Peter Chernin",
-        "dateOfBirth": "1951-05-29",
-        "birthPlace": "Harrison",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Chernin%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202009.jpg",
-        "occupations": [
-          "film producer",
-          "financier",
-          "television producer",
-          "entrepreneur",
-          "businessperson"
-        ],
-        "education": [
-          "University of California, Berkeley"
-        ],
-        "employers": [
-          {
-            "company": "Chernin Entertainment",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q7288329",
-      "name": "Ralph de la Vega",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7288329",
-        "name": "Ralph de la Vega",
-        "dateOfBirth": "1901-01-01",
-        "birthPlace": "Cuba",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ralph%20de%20la%20Vega%20459.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Miami Dade College",
-          "Florida Atlantic University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6381629",
-      "name": "Ted Leonsis",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6381629",
-        "name": "Ted Leonsis",
-        "dateOfBirth": "1957-01-08",
-        "birthPlace": "Brooklyn",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ted%20Leonsis%20headshot%202013.jpg",
-        "occupations": [
-          "journalist",
-          "inventor"
-        ],
-        "education": [
-          "Brooklyn Technical High School",
-          "Georgetown University",
-          "Lowell High School"
         ],
         "employers": [],
         "positions": []

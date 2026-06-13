@@ -8,20 +8,10 @@
     "business executive"
   ],
   "education": [
-    "Massachusetts Institute of Technology",
-    "Harvard Business School"
+    "Harvard Business School",
+    "Massachusetts Institute of Technology"
   ],
   "employers": [
-    {
-      "company": "Commodore International",
-      "start": "1992-01-01",
-      "end": "1994-01-01"
-    },
-    {
-      "company": "PepsiCo",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Broadcom",
       "start": "2006-03-01",
@@ -36,6 +26,16 @@
       "company": "Integrated Circuit Systems",
       "start": "1994-01-01",
       "end": "2005-01-01"
+    },
+    {
+      "company": "Commodore International",
+      "start": "1992-01-01",
+      "end": "1994-01-01"
+    },
+    {
+      "company": "PepsiCo",
+      "start": null,
+      "end": null
     },
     {
       "company": "General Motors",
@@ -53,6 +53,7 @@
   ],
   "currentTickers": [
     "AVGO",
-    "AVGO"
+    "AVGO",
+    "META"
   ]
 }

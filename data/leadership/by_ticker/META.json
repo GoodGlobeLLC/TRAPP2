@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-06-09T01:03:30.650360Z",
+  "fetchedAt": "2026-06-13T02:49:39.843396Z",
   "people": [
     {
       "qid": "Q36215",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "computer scientist",
           "philanthropist",
-          "chief executive officer",
           "programmer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -128,8 +128,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -160,20 +160,10 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -188,6 +178,16 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
           },
           {
             "company": "General Motors",
@@ -312,8 +312,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "diplomat",
-          "politician"
+          "politician",
+          "diplomat"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -362,13 +362,13 @@
         "occupations": [
           "technology entrepreneur",
           "chess player",
+          "computer scientist",
+          "investor",
           "manager",
           "financier",
           "banker",
-          "investor",
           "entrepreneur",
-          "writer",
-          "computer scientist"
+          "writer"
         ],
         "education": [
           "Stanford Law School",
@@ -410,15 +410,15 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "economist",
-          "entrepreneur",
           "computer scientist",
-          "businessperson"
+          "economist",
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "North Miami Beach High School",
-          "Harvard Business School"
+          "North Miami Beach High School"
         ],
         "employers": [],
         "positions": [
@@ -489,10 +489,10 @@
           "programmer",
           "software engineer",
           "investor",
-          "entrepreneur",
           "inventor",
-          "computer scientist",
-          "engineer"
+          "entrepreneur",
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "New Lisbon High School",
@@ -533,11 +533,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "computer scientist",
           "philanthropist",
-          "chief executive officer",
           "programmer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -605,11 +605,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "computer scientist",
           "philanthropist",
-          "chief executive officer",
           "programmer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

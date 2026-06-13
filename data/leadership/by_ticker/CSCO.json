@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-06-09T01:40:32.406244Z",
+  "fetchedAt": "2026-06-13T02:49:39.821218Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,18 +52,13 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Cisco",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Stratus Technologies",
             "start": null,
@@ -76,6 +71,11 @@
           },
           {
             "company": "Honeywell",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -100,15 +100,15 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20T.%20Chambers%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Indiana University",
           "Indiana University Kelley School of Business",
-          "West Virginia University College of Law",
           "Duke University",
-          "West Virginia University"
+          "West Virginia University",
+          "West Virginia University College of Law"
         ],
         "employers": [
           {
@@ -234,16 +234,36 @@
         ],
         "employers": [
           {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
-          {
             "company": "Duke University",
             "start": "1999-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
           }
         ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114627246",
+      "name": "Marianna Tessel",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114627246",
+        "name": "Marianna Tessel",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Technion \u2013 Israel Institute of Technology",
+          "Weizmann Institute of Science"
+        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -352,6 +372,11 @@
         ],
         "employers": [
           {
+            "company": "Forest Laboratories",
+            "start": "2010-01-01",
+            "end": "2014-01-01"
+          },
+          {
             "company": "Actavis",
             "start": null,
             "end": null
@@ -370,11 +395,6 @@
             "company": "Bausch & Lomb",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Forest Laboratories",
-            "start": "2010-01-01",
-            "end": "2014-01-01"
           }
         ],
         "positions": []
@@ -428,18 +448,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "IBM Research",
-            "start": "1995-01-01",
-            "end": null
-          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -453,6 +468,11 @@
           {
             "company": "AMD",
             "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           }
         ],
@@ -470,26 +490,6 @@
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q114627246",
-      "name": "Marianna Tessel",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114627246",
-        "name": "Marianna Tessel",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Technion \u2013 Israel Institute of Technology",
-          "Weizmann Institute of Science"
-        ],
-        "employers": [],
-        "positions": []
       }
     }
   ]

@@ -1,7 +1,48 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-09T01:40:32.395537Z",
+  "fetchedAt": "2026-06-13T02:49:39.809605Z",
   "people": [
+    {
+      "qid": "Q41812531",
+      "name": "Andy Jassy",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q41812531",
+        "name": "Andy Jassy",
+        "dateOfBirth": "1968-01-13",
+        "birthPlace": "Scarsdale",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Jassy.jpg",
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Scarsdale High School",
+          "Harvard Business School",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Amazon Web Services",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Amazon",
+            "start": "1997-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2021-07-01",
+            "end": null
+          }
+        ]
+      }
+    },
     {
       "qid": "Q312556",
       "name": "Jeff Bezos",
@@ -16,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -26,6 +67,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -40,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -66,214 +107,6 @@
     {
       "qid": "Q41812531",
       "name": "Andy Jassy",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q41812531",
-        "name": "Andy Jassy",
-        "dateOfBirth": "1968-01-13",
-        "birthPlace": "Scarsdale",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andy%20Jassy.jpg",
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Harvard University",
-          "Harvard Business School",
-          "Scarsdale High School"
-        ],
-        "employers": [
-          {
-            "company": "Amazon",
-            "start": "1997-01-01",
-            "end": null
-          },
-          {
-            "company": "Amazon Web Services",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2021-07-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1571715",
-      "name": "Judy McGrath",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1571715",
-        "name": "Judy McGrath",
-        "dateOfBirth": "1952-07-02",
-        "birthPlace": "Scranton",
-        "image": null,
-        "occupations": [
-          "film producer"
-        ],
-        "education": [
-          "Cedar Crest College"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1360488",
-      "name": "Keith B. Alexander",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1360488",
-        "name": "Keith B. Alexander",
-        "dateOfBirth": "1951-12-02",
-        "birthPlace": "Syracuse",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
-        "occupations": [
-          "soldier",
-          "spy",
-          "intelligence officer"
-        ],
-        "education": [
-          "Questrom School of Business",
-          "Naval Postgraduate School",
-          "Boston University",
-          "United States Military Academy",
-          "Westhill Senior High School"
-        ],
-        "employers": [
-          {
-            "company": "National Security Agency",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Director of the National Security Agency",
-            "company": null,
-            "start": "2005-08-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1162007",
-      "name": "Daniel P. Huttenlocher",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1162007",
-        "name": "Daniel P. Huttenlocher",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "university teacher",
-          "academic",
-          "executive",
-          "dean",
-          "computer scientist"
-        ],
-        "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [
-          {
-            "company": "Cornell University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q869322",
-      "name": "Jon Rubinstein",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q869322",
-        "name": "Jon Rubinstein",
-        "dateOfBirth": "1956-04-18",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
-        "occupations": [
-          "computer scientist",
-          "engineer"
-        ],
-        "education": [
-          "Horace Mann School",
-          "Cornell University College of Engineering",
-          "Colorado State University",
-          "Cornell University"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q376800",
-      "name": "Jamie S. Gorelick",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q376800",
-        "name": "Jamie S. Gorelick",
-        "dateOfBirth": "1950-05-06",
-        "birthPlace": "Brooklyn",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Gorelick%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
-        "occupations": [
-          "lawyer"
-        ],
-        "education": [
-          "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Deputy Attorney General",
-            "company": null,
-            "start": "1994-03-17",
-            "end": "1997-05-01"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "1993-05-05",
-            "end": "1994-03-17"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q41812531",
-      "name": "Andy Jassy",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
@@ -286,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
+          "Scarsdale High School",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -422,6 +255,137 @@
       }
     },
     {
+      "qid": "Q1571715",
+      "name": "Judy McGrath",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1571715",
+        "name": "Judy McGrath",
+        "dateOfBirth": "1952-07-02",
+        "birthPlace": "Scranton",
+        "image": null,
+        "occupations": [
+          "film producer"
+        ],
+        "education": [
+          "Cedar Crest College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1360488",
+      "name": "Keith B. Alexander",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1360488",
+        "name": "Keith B. Alexander",
+        "dateOfBirth": "1951-12-02",
+        "birthPlace": "Syracuse",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
+        "occupations": [
+          "spy",
+          "intelligence officer",
+          "soldier"
+        ],
+        "education": [
+          "Questrom School of Business",
+          "Naval Postgraduate School",
+          "Boston University",
+          "United States Military Academy",
+          "Westhill Senior High School"
+        ],
+        "employers": [
+          {
+            "company": "National Security Agency",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Director of the National Security Agency",
+            "company": null,
+            "start": "2005-08-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1162007",
+      "name": "Daniel P. Huttenlocher",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1162007",
+        "name": "Daniel P. Huttenlocher",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "university teacher",
+          "executive",
+          "dean",
+          "computer scientist",
+          "academic"
+        ],
+        "education": [
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q869322",
+      "name": "Jon Rubinstein",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q869322",
+        "name": "Jon Rubinstein",
+        "dateOfBirth": "1956-04-18",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
+        "occupations": [
+          "engineer",
+          "computer scientist"
+        ],
+        "education": [
+          "Horace Mann School",
+          "Cornell University College of Engineering",
+          "Colorado State University",
+          "Cornell University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q109497888",
       "name": "Edith Cooper",
       "role_at_company": "Board Member",
@@ -442,6 +406,42 @@
       }
     },
     {
+      "qid": "Q376800",
+      "name": "Jamie S. Gorelick",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q376800",
+        "name": "Jamie S. Gorelick",
+        "dateOfBirth": "1950-05-06",
+        "birthPlace": "Brooklyn",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jamie%20Gorelick%2C%20official%20portrait%2C%20Homeland%20Security%20Council.jpg",
+        "occupations": [
+          "lawyer"
+        ],
+        "education": [
+          "Radcliffe College",
+          "Harvard Law School",
+          "William A. Shine Great Neck South High School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Deputy Attorney General",
+            "company": null,
+            "start": "1994-03-17",
+            "end": "1997-05-01"
+          },
+          {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "1993-05-05",
+            "end": "1994-03-17"
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q312556",
       "name": "Jeff Bezos",
       "role_at_company": "Board Member",
@@ -455,8 +455,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -465,6 +465,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -586,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -596,6 +596,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

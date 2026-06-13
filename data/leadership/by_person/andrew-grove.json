@@ -2,25 +2,20 @@
   "qid": "Q432929",
   "name": "Andrew Grove",
   "dateOfBirth": "1936-09-02",
-  "birthPlace": "United States",
+  "birthPlace": "Budapest",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
   "occupations": [
     "entrepreneur",
     "engineer",
-    "scientist",
     "professor",
+    "scientist",
     "writer"
   ],
   "education": [
-    "University of California, Berkeley",
-    "City University of New York"
+    "City University of New York",
+    "University of California, Berkeley"
   ],
   "employers": [
-    {
-      "company": "Fairchild Semiconductor",
-      "start": null,
-      "end": "1968-01-01"
-    },
     {
       "company": "Intel",
       "start": "1968-01-01",
@@ -30,6 +25,11 @@
       "company": "Stanford University",
       "start": null,
       "end": null
+    },
+    {
+      "company": "Fairchild Semiconductor",
+      "start": null,
+      "end": "1968-01-01"
     }
   ],
   "positions": [

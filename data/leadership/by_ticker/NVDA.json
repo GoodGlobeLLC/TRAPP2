@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-06-09T01:24:51.325581Z",
+  "fetchedAt": "2026-06-13T02:49:39.848203Z",
   "people": [
     {
       "qid": "Q305177",
@@ -17,10 +17,10 @@
           "founder",
           "manager",
           "electrical engineer",
-          "entrepreneur",
           "tech VIP",
-          "chief executive officer",
+          "entrepreneur",
           "computer scientist",
+          "chief executive officer",
           "engineer",
           "businessperson"
         ],
@@ -32,6 +32,63 @@
         ],
         "employers": [],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q7340009",
+      "name": "Rob Burgess",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7340009",
+        "name": "Rob Burgess",
+        "dateOfBirth": "1957-08-29",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Burgess-e1462301613308.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "McMaster University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6769848",
+      "name": "Mark Stevens",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6769848",
+        "name": "Mark Stevens",
+        "dateOfBirth": "1959-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
+        "occupations": [],
+        "education": [
+          "Harvard University",
+          "University of Southern California",
+          "Harvard Business School",
+          "USC Viterbi School of Engineering"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2008-01-01",
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -232,9 +289,9 @@
         "occupations": [],
         "education": [
           "Merton College",
+          "Stanford University",
           "Princeton School of Public and International Affairs",
-          "Princeton University",
-          "Stanford University"
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -277,63 +334,6 @@
       }
     },
     {
-      "qid": "Q7340009",
-      "name": "Rob Burgess",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7340009",
-        "name": "Rob Burgess",
-        "dateOfBirth": "1957-08-29",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Burgess-e1462301613308.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "McMaster University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2011-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6769848",
-      "name": "Mark Stevens",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6769848",
-        "name": "Mark Stevens",
-        "dateOfBirth": "1959-01-01",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
-        "occupations": [],
-        "education": [
-          "Harvard University",
-          "University of Southern California",
-          "Harvard Business School",
-          "USC Viterbi School of Engineering"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2008-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q6228369",
       "name": "John O. Dabiri",
       "role_at_company": "Board Member",
@@ -345,9 +345,9 @@
         "birthPlace": "Toledo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20O.%20Dabiri%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "biophysicist",
           "military flight engineer",
+          "university teacher",
           "engineer"
         ],
         "education": [
@@ -397,11 +397,6 @@
         ],
         "employers": [
           {
-            "company": "Cornell University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "SLAC National Accelerator Laboratory",
             "start": "2007-01-01",
             "end": "2012-01-01"
@@ -415,6 +410,11 @@
             "company": "Stanford University School of Engineering",
             "start": "2014-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
           },
           {
             "company": "Stanford University",
@@ -452,10 +452,10 @@
           "founder",
           "manager",
           "electrical engineer",
-          "entrepreneur",
           "tech VIP",
-          "chief executive officer",
+          "entrepreneur",
           "computer scientist",
+          "chief executive officer",
           "engineer",
           "businessperson"
         ],
@@ -484,10 +484,10 @@
           "founder",
           "manager",
           "electrical engineer",
-          "entrepreneur",
           "tech VIP",
-          "chief executive officer",
+          "entrepreneur",
           "computer scientist",
+          "chief executive officer",
           "engineer",
           "businessperson"
         ],

@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "fetchedAt": "2026-06-09T01:24:51.340580Z",
+  "fetchedAt": "2026-06-13T02:49:39.861166Z",
   "people": [
     {
       "qid": "Q5221979",
@@ -14,8 +14,8 @@
         "birthPlace": "Tehran",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Brown University",
@@ -44,77 +44,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q1701913",
-      "name": "John Alexander Thain",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1701913",
-        "name": "John Alexander Thain",
-        "dateOfBirth": "1955-05-26",
-        "birthPlace": "Antioch",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
-        "occupations": [
-          "investment banker",
-          "entrepreneur"
-        ],
-        "education": [
-          "Harvard University",
-          "Antioch Community High School",
-          "Howard University",
-          "Massachusetts Institute of Technology",
-          "Harvard Business School",
-          "Yale University"
-        ],
-        "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q465663",
-      "name": "Ursula Burns",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q465663",
-        "name": "Ursula Burns",
-        "dateOfBirth": "1958-09-20",
-        "birthPlace": "Manhattan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
-        "occupations": [
-          "engineer",
-          "business executive"
-        ],
-        "education": [
-          "Fu Foundation School of Engineering and Applied Science",
-          "Cathedral High School",
-          "New York University Tandon School of Engineering",
-          "Columbia University"
-        ],
-        "employers": [
-          {
-            "company": "Xerox",
-            "start": "1980-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2009-01-01",
-            "end": null
-          }
-        ]
       }
     },
     {
@@ -154,9 +83,9 @@
         "birthPlace": "Burayda",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasir%20bin%20Othman%20Al-Rumayyan.jpg",
         "occupations": [
-          "chairperson",
           "sports executive",
-          "businessperson"
+          "businessperson",
+          "chairperson"
         ],
         "education": [
           "King Faisal University"
@@ -315,8 +244,8 @@
           "investment banker"
         ],
         "education": [
-          "The Wharton School",
           "Harvard Business School",
+          "The Wharton School",
           "Harvard University"
         ],
         "employers": [
@@ -373,8 +302,8 @@
         "birthPlace": "Tehran",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Brown University",
@@ -403,6 +332,77 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q1701913",
+      "name": "John Alexander Thain",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1701913",
+        "name": "John Alexander Thain",
+        "dateOfBirth": "1955-05-26",
+        "birthPlace": "Antioch",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thain%20briefing.jpg",
+        "occupations": [
+          "investment banker",
+          "entrepreneur"
+        ],
+        "education": [
+          "Yale University",
+          "Harvard University",
+          "Antioch Community High School",
+          "Howard University",
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q465663",
+      "name": "Ursula Burns",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q465663",
+        "name": "Ursula Burns",
+        "dateOfBirth": "1958-09-20",
+        "birthPlace": "Manhattan",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ursula-Burns.jpg",
+        "occupations": [
+          "engineer",
+          "business executive"
+        ],
+        "education": [
+          "Fu Foundation School of Engineering and Applied Science",
+          "Cathedral High School",
+          "New York University Tandon School of Engineering",
+          "Columbia University"
+        ],
+        "employers": [
+          {
+            "company": "Xerox",
+            "start": "1980-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2009-01-01",
+            "end": null
+          }
+        ]
       }
     }
   ]

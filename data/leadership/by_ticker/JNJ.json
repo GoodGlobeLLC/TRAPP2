@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-09T01:03:30.643080Z",
+  "fetchedAt": "2026-06-13T02:49:39.836394Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -95,6 +95,242 @@
       }
     },
     {
+      "qid": "Q16193601",
+      "name": "Alex Gorsky",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16193601",
+        "name": "Alex Gorsky",
+        "dateOfBirth": "1960-03-20",
+        "birthPlace": "Kansas City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
+        "occupations": [
+          "business executive",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [
+          "The Wharton School",
+          "United States Military Academy"
+        ],
+        "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": "1988-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-07-19",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-04-26",
+            "end": "2022-01-03"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q16193174",
+      "name": "Hubert Joly",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q16193174",
+        "name": "Hubert Joly",
+        "dateOfBirth": "1959-08-11",
+        "birthPlace": "Laxou",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
+        "occupations": [
+          "executive",
+          "business manager",
+          "lecturer",
+          "chief executive officer",
+          "merchant",
+          "entrepreneur"
+        ],
+        "education": [
+          "HEC Paris",
+          "Sciences Po",
+          "Lyc\u00e9e Louis-le-Grand"
+        ],
+        "employers": [
+          {
+            "company": "Best Buy",
+            "start": "2012-09-04",
+            "end": "2020-06-11"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-09-04",
+            "end": "2019-06-11"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-09-04",
+            "end": "2020-06-11"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-12-05",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q14538344",
+      "name": "Mark Weinberger",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q14538344",
+        "name": "Mark Weinberger",
+        "dateOfBirth": "1961-01-01",
+        "birthPlace": "Scranton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
+        "occupations": [
+          "politician",
+          "entrepreneur"
+        ],
+        "education": [
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
+          "Weatherhead School of Management",
+          "Emory University",
+          "Georgetown University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2013-07-01",
+            "end": "2019-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2019-12-05",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2024-01-16",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7436228",
+      "name": "Scott Davis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7436228",
+        "name": "Scott Davis",
+        "dateOfBirth": "1952-01-01",
+        "birthPlace": "Medford",
+        "image": null,
+        "occupations": [
+          "manager",
+          "chief executive officer"
+        ],
+        "education": [
+          "Portland State University"
+        ],
+        "employers": [
+          {
+            "company": "United Parcel Service",
+            "start": "1986-01-01",
+            "end": "2016-05-05"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2014-06-09",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2006-02-09",
+            "end": "2016-05-05"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7364540",
+      "name": "Ron Williams",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7364540",
+        "name": "Ron Williams",
+        "dateOfBirth": "1949-09-30",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20A.%20Williams%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010%20crop.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Weir High School",
+          "Sloan Fellows Program",
+          "Roosevelt University",
+          "MIT Sloan School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Aetna",
+            "start": "2001-03-15",
+            "end": "2011-04-08"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2011-06-14",
+            "end": "2022-04-28"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2002-09-27",
+            "end": "2011-04-08"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-02-14",
+            "end": "2010-11-29"
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q23498304",
       "name": "Paula Johnson",
       "role_at_company": "Board Member",
@@ -106,13 +342,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
-          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Harvard T.H. Chan School of Public Health"
         ],
         "employers": [
           {
@@ -217,12 +453,12 @@
           "physician"
         ],
         "education": [
-          "Harvard University",
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
-          "Massachusetts Institute of Technology"
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
+          "Massachusetts Institute of Technology",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -287,10 +523,10 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -393,61 +629,6 @@
             "title": "board of directors member",
             "company": null,
             "start": "2009-10-22",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q56068",
-      "name": "Jennifer Doudna",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q56068",
-        "name": "Jennifer Doudna",
-        "dateOfBirth": "1964-02-19",
-        "birthPlace": "Washington, D.C.",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
-        "occupations": [
-          "chemist",
-          "molecular biologist",
-          "university teacher",
-          "crystallographer",
-          "biochemist"
-        ],
-        "education": [
-          "Pomona College",
-          "Hilo High School",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Yale University",
-            "start": "1994-01-01",
-            "end": "2002-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-04-26",
             "end": null
           }
         ]
@@ -574,33 +755,46 @@
       }
     },
     {
-      "qid": "Q16193601",
-      "name": "Alex Gorsky",
+      "qid": "Q56068",
+      "name": "Jennifer Doudna",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
-        "qid": "Q16193601",
-        "name": "Alex Gorsky",
-        "dateOfBirth": "1960-03-20",
-        "birthPlace": "Kansas City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
+        "qid": "Q56068",
+        "name": "Jennifer Doudna",
+        "dateOfBirth": "1964-02-19",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "merchant",
-          "entrepreneur"
+          "chemist",
+          "crystallographer",
+          "university teacher",
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "The Wharton School",
-          "United States Military Academy"
+          "Pomona College",
+          "Hilo High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Johnson & Johnson",
-            "start": "1988-01-01",
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "IBM",
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Yale University",
+            "start": "1994-01-01",
+            "end": "2002-01-01"
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
           }
@@ -609,202 +803,8 @@
           {
             "title": "board of directors member",
             "company": null,
-            "start": "2022-07-19",
+            "start": "2018-04-26",
             "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2012-04-26",
-            "end": "2022-01-03"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q16193174",
-      "name": "Hubert Joly",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16193174",
-        "name": "Hubert Joly",
-        "dateOfBirth": "1959-08-11",
-        "birthPlace": "Laxou",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
-        "occupations": [
-          "executive",
-          "business manager",
-          "lecturer",
-          "chief executive officer",
-          "merchant",
-          "entrepreneur"
-        ],
-        "education": [
-          "Lyc\u00e9e Louis-le-Grand",
-          "HEC Paris",
-          "Sciences Po"
-        ],
-        "employers": [
-          {
-            "company": "Best Buy",
-            "start": "2012-09-04",
-            "end": "2020-06-11"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2012-09-04",
-            "end": "2019-06-11"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-09-04",
-            "end": "2020-06-11"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2019-12-05",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q14538344",
-      "name": "Mark Weinberger",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q14538344",
-        "name": "Mark Weinberger",
-        "dateOfBirth": "1961-01-01",
-        "birthPlace": "Scranton",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
-        "occupations": [
-          "entrepreneur",
-          "politician"
-        ],
-        "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
-          "Emory University",
-          "Georgetown University",
-          "Weatherhead School of Management"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2013-07-01",
-            "end": "2019-01-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2019-12-05",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2024-01-16",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q7436228",
-      "name": "Scott Davis",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7436228",
-        "name": "Scott Davis",
-        "dateOfBirth": "1952-01-01",
-        "birthPlace": "Medford",
-        "image": null,
-        "occupations": [
-          "chief executive officer",
-          "manager"
-        ],
-        "education": [
-          "Portland State University"
-        ],
-        "employers": [
-          {
-            "company": "United Parcel Service",
-            "start": "1986-01-01",
-            "end": "2016-05-05"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2014-06-09",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2006-02-09",
-            "end": "2016-05-05"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q7364540",
-      "name": "Ron Williams",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7364540",
-        "name": "Ron Williams",
-        "dateOfBirth": "1949-09-30",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20A.%20Williams%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010%20crop.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Weir High School",
-          "Sloan Fellows Program",
-          "Roosevelt University",
-          "MIT Sloan School of Management"
-        ],
-        "employers": [
-          {
-            "company": "Aetna",
-            "start": "2001-03-15",
-            "end": "2011-04-08"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2011-06-14",
-            "end": "2022-04-28"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2002-09-27",
-            "end": "2011-04-08"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-02-14",
-            "end": "2010-11-29"
           }
         ]
       }

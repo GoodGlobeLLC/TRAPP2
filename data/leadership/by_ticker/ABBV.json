@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-06-09T01:40:32.390241Z",
+  "fetchedAt": "2026-06-13T02:49:39.804475Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -79,6 +79,119 @@
             "company": null,
             "start": "2013-01-01",
             "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q63410046",
+      "name": "Richard A. Gonzalez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q63410046",
+        "name": "Richard A. Gonzalez",
+        "dateOfBirth": "1954-01-21",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Houston"
+        ],
+        "employers": [
+          {
+            "company": "AbbVie",
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "company": "Abbott Laboratories",
+            "start": "1977-01-01",
+            "end": "2007-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q21551743",
+      "name": "Rick Waddell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21551743",
+        "name": "Rick Waddell",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "board member"
+        ],
+        "education": [
+          "Kellogg School of Management",
+          "Dartmouth College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-11-29",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5569148",
+      "name": "Glenn Tilton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5569148",
+        "name": "Glenn Tilton",
+        "dateOfBirth": "1948-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of South Carolina"
+        ],
+        "employers": [
+          {
+            "company": "UAL Corporation",
+            "start": "2002-09-05",
+            "end": "2010-10-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-04-27",
+            "end": "2023-04-28"
           }
         ]
       }
@@ -395,9 +508,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "researcher",
           "academic",
-          "nephrologist",
-          "researcher"
+          "nephrologist"
         ],
         "education": [
           "Yale School of Medicine"
@@ -426,119 +539,6 @@
             "company": null,
             "start": "2023-10-11",
             "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q63410046",
-      "name": "Richard A. Gonzalez",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q63410046",
-        "name": "Richard A. Gonzalez",
-        "dateOfBirth": "1954-01-21",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of Houston"
-        ],
-        "employers": [
-          {
-            "company": "AbbVie",
-            "start": "2013-01-01",
-            "end": null
-          },
-          {
-            "company": "Abbott Laboratories",
-            "start": "1977-01-01",
-            "end": "2007-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2013-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2013-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q21551743",
-      "name": "Rick Waddell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q21551743",
-        "name": "Rick Waddell",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "board member"
-        ],
-        "education": [
-          "Kellogg School of Management",
-          "Dartmouth College"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-11-29",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5569148",
-      "name": "Glenn Tilton",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5569148",
-        "name": "Glenn Tilton",
-        "dateOfBirth": "1948-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "University of South Carolina"
-        ],
-        "employers": [
-          {
-            "company": "UAL Corporation",
-            "start": "2002-09-05",
-            "end": "2010-10-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2013-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2007-04-27",
-            "end": "2023-04-28"
           }
         ]
       }

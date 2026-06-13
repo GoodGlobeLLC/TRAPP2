@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-09T01:03:30.653012Z",
+  "fetchedAt": "2026-06-13T02:49:39.845259Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -103,17 +103,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
           "manager",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -128,6 +123,11 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -200,8 +200,8 @@
           "executive"
         ],
         "education": [
-          "University of Oxford",
-          "St Swithun's School"
+          "St Swithun's School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -305,11 +305,11 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
+          "writer",
           "consultant",
+          "businessperson",
           "podcaster",
           "financier",
-          "writer",
-          "businessperson",
           "investor",
           "entrepreneur"
         ],
@@ -372,8 +372,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
@@ -455,8 +455,8 @@
           "record producer",
           "computer scientist",
           "entrepreneur",
-          "composer",
-          "businessperson"
+          "businessperson",
+          "composer"
         ],
         "education": [
           "Washington State University",

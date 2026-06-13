@@ -1,206 +1,7 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-09T01:03:30.641701Z",
+  "fetchedAt": "2026-06-13T02:49:39.835140Z",
   "people": [
-    {
-      "qid": "Q243969",
-      "name": "Gordon Moore",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q243969",
-        "name": "Gordon Moore",
-        "dateOfBirth": "1929-01-03",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
-        "occupations": [
-          "philanthropist",
-          "physicist",
-          "chemist",
-          "engineer",
-          "entrepreneur"
-        ],
-        "education": [
-          "Sequoia High School",
-          "San Jose State University",
-          "University of California, Berkeley",
-          "California Institute of Technology"
-        ],
-        "employers": [
-          {
-            "company": "University of California, Berkeley",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q241735",
-      "name": "Robert Noyce",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q241735",
-        "name": "Robert Noyce",
-        "dateOfBirth": "1927-12-12",
-        "birthPlace": "Burlington",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
-        "occupations": [
-          "computer scientist",
-          "inventor",
-          "businessperson",
-          "physicist"
-        ],
-        "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q1148995",
-      "name": "Paul Otellini",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q1148995",
-        "name": "Paul Otellini",
-        "dateOfBirth": "1950-10-12",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Otellini.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "St. Ignatius College Preparatory",
-          "Haas School of Business",
-          "University of San Francisco"
-        ],
-        "employers": [
-          {
-            "company": "Intel",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q432929",
-      "name": "Andrew Grove",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q432929",
-        "name": "Andrew Grove",
-        "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
-        "occupations": [
-          "entrepreneur",
-          "engineer",
-          "scientist",
-          "professor",
-          "writer"
-        ],
-        "education": [
-          "University of California, Berkeley",
-          "City University of New York"
-        ],
-        "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
-          {
-            "company": "Intel",
-            "start": "1968-01-01",
-            "end": "2004-01-01"
-          },
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
-          },
-          {
-            "title": "chairman of the executive board",
-            "company": null,
-            "start": "1997-01-01",
-            "end": "2004-01-01"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1979-01-01",
-            "end": "1987-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q131981722",
-      "name": "Michelle Johnston Holthaus",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q131981722",
-        "name": "Michelle Johnston Holthaus",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q55819738",
-      "name": "Bob Swan",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q55819738",
-        "name": "Bob Swan",
-        "dateOfBirth": "1960-05-09",
-        "birthPlace": "Syracuse",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "chief executive officer"
-        ],
-        "education": [
-          "Binghamton University",
-          "University at Buffalo",
-          "State University of New York at Buffalo School of Management",
-          "Corcoran High School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
     {
       "qid": "Q12572999",
       "name": "Brian Krzanich",
@@ -214,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
           "engineer",
-          "businessperson",
           "chemist",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [
@@ -249,8 +50,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -314,84 +115,108 @@
       }
     },
     {
-      "qid": "Q109751224",
-      "name": "Frank Yeary",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q1148995",
+      "name": "Paul Otellini",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q109751224",
-        "name": "Frank Yeary",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
+        "qid": "Q1148995",
+        "name": "Paul Otellini",
+        "dateOfBirth": "1950-10-12",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Otellini.jpg",
         "occupations": [
-          "businessperson",
-          "board member"
-        ],
-        "education": [
-          "University of California, Berkeley"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109743613",
-      "name": "Alyssa Henry",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109743613",
-        "name": "Alyssa Henry",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "board member",
           "businessperson"
         ],
         "education": [
-          "University of California, Los Angeles"
+          "St. Ignatius College Preparatory",
+          "Haas School of Business",
+          "University of San Francisco"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Intel",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": []
       }
     },
     {
-      "qid": "Q83780224",
-      "name": "Omar Ishrak",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q432929",
+      "name": "Andrew Grove",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q83780224",
-        "name": "Omar Ishrak",
-        "dateOfBirth": "1955-01-01",
-        "birthPlace": "Dhaka",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Ishrak%20at%20the%20World%20Economic%20Forum.jpg",
-        "occupations": [],
+        "qid": "Q432929",
+        "name": "Andrew Grove",
+        "dateOfBirth": "1936-09-02",
+        "birthPlace": "Budapest",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
+        "occupations": [
+          "entrepreneur",
+          "engineer",
+          "professor",
+          "scientist",
+          "writer"
+        ],
         "education": [
-          "Saint Joseph Higher Secondary School",
-          "King's College London"
+          "City University of New York",
+          "University of California, Berkeley"
         ],
-        "employers": [],
-        "positions": []
+        "employers": [
+          {
+            "company": "Intel",
+            "start": "1968-01-01",
+            "end": "2004-01-01"
+          },
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chairman of the executive board",
+            "company": null,
+            "start": "1997-01-01",
+            "end": "2004-01-01"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1979-01-01",
+            "end": "1987-01-01"
+          }
+        ]
       }
     },
     {
-      "qid": "Q80120949",
-      "name": "Greg Smith",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q131981722",
+      "name": "Michelle Johnston Holthaus",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q80120949",
-        "name": "Greg Smith",
+        "qid": "Q131981722",
+        "name": "Michelle Johnston Holthaus",
         "dateOfBirth": null,
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief financial officer",
-          "businessperson",
-          "board member"
+          "chief executive officer"
         ],
         "education": [],
         "employers": [],
@@ -399,25 +224,88 @@
       }
     },
     {
-      "qid": "Q64009348",
-      "name": "Tsu-Jae King Liu",
-      "role_at_company": "Board Member",
-      "source_field": "board",
+      "qid": "Q55819738",
+      "name": "Bob Swan",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
       "career": {
-        "qid": "Q64009348",
-        "name": "Tsu-Jae King Liu",
-        "dateOfBirth": "1956-05-08",
-        "birthPlace": "Ithaca",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsu-Jae%20King%20Lui.png",
+        "qid": "Q55819738",
+        "name": "Bob Swan",
+        "dateOfBirth": "1960-05-09",
+        "birthPlace": "Syracuse",
+        "image": null,
         "occupations": [
-          "engineer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Stanford University"
+          "Binghamton University",
+          "University at Buffalo",
+          "State University of New York at Buffalo School of Management",
+          "Corcoran High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q243969",
+      "name": "Gordon Moore",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q243969",
+        "name": "Gordon Moore",
+        "dateOfBirth": "1929-01-03",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
+        "occupations": [
+          "philanthropist",
+          "chemist",
+          "physicist",
+          "engineer",
+          "entrepreneur"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "Sequoia High School",
+          "San Jose State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
             "company": "University of California, Berkeley",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q241735",
+      "name": "Robert Noyce",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q241735",
+        "name": "Robert Noyce",
+        "dateOfBirth": "1927-12-12",
+        "birthPlace": "Burlington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
+        "occupations": [
+          "computer scientist",
+          "inventor",
+          "physicist",
+          "businessperson"
+        ],
+        "education": [
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
+        ],
+        "employers": [
+          {
+            "company": "Fairchild Semiconductor",
             "start": null,
             "end": null
           }
@@ -458,9 +346,9 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
+          "academic",
           "electrical engineer",
           "computer scientist"
         ],
@@ -527,20 +415,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
+          "Stony Brook University",
+          "Harvard Medical School",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
-          "Harvard University",
           "University of Pennsylvania",
-          "Stony Brook University"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           },
@@ -550,17 +438,17 @@
             "end": null
           },
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           },
           {
             "title": "chief executive officer",
@@ -569,10 +457,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -589,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -636,6 +524,118 @@
       }
     },
     {
+      "qid": "Q109751224",
+      "name": "Frank Yeary",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109751224",
+        "name": "Frank Yeary",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "board member",
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Berkeley"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109743613",
+      "name": "Alyssa Henry",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109743613",
+        "name": "Alyssa Henry",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "board member",
+          "businessperson"
+        ],
+        "education": [
+          "University of California, Los Angeles"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q83780224",
+      "name": "Omar Ishrak",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q83780224",
+        "name": "Omar Ishrak",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": "Dhaka",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Omar%20Ishrak%20at%20the%20World%20Economic%20Forum.jpg",
+        "occupations": [],
+        "education": [
+          "Saint Joseph Higher Secondary School",
+          "King's College London"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q80120949",
+      "name": "Greg Smith",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q80120949",
+        "name": "Greg Smith",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "chief financial officer",
+          "board member"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q64009348",
+      "name": "Tsu-Jae King Liu",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q64009348",
+        "name": "Tsu-Jae King Liu",
+        "dateOfBirth": "1956-05-08",
+        "birthPlace": "Ithaca",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tsu-Jae%20King%20Lui.png",
+        "occupations": [
+          "engineer"
+        ],
+        "education": [
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "University of California, Berkeley",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q432929",
       "name": "Andrew Grove",
       "role_at_company": "Founder",
@@ -644,25 +644,20 @@
         "qid": "Q432929",
         "name": "Andrew Grove",
         "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
+        "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
           "engineer",
-          "scientist",
           "professor",
+          "scientist",
           "writer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "City University of New York"
+          "City University of New York",
+          "University of California, Berkeley"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -672,6 +667,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -709,15 +709,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "physicist",
           "chemist",
+          "physicist",
           "engineer",
           "entrepreneur"
         ],
         "education": [
+          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
-          "University of California, Berkeley",
           "California Institute of Technology"
         ],
         "employers": [
@@ -744,8 +744,8 @@
         "occupations": [
           "computer scientist",
           "inventor",
-          "businessperson",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
           "Grinnell College",

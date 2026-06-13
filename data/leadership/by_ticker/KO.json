@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-09T01:03:30.645391Z",
+  "fetchedAt": "2026-06-13T02:49:39.838479Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -36,6 +36,52 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q114351258",
+      "name": "Chris Davis",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114351258",
+        "name": "Chris Davis",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of St Andrews"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2021-10-20",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q112035737",
+      "name": "David Weinberg",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q112035737",
+        "name": "David Weinberg",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Georgetown University Law Center",
+          "Harvard College"
+        ],
+        "employers": [],
+        "positions": []
       }
     },
     {
@@ -193,6 +239,29 @@
       }
     },
     {
+      "qid": "Q3030584",
+      "name": "Marc Bolland",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q3030584",
+        "name": "Marc Bolland",
+        "dateOfBirth": "1959-03-28",
+        "birthPlace": "Apeldoorn",
+        "image": null,
+        "occupations": [
+          "entrepreneur",
+          "merchant",
+          "businessperson"
+        ],
+        "education": [
+          "University of Groningen"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q587455",
       "name": "Barry Diller",
       "role_at_company": "Board Member",
@@ -204,8 +273,8 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "film producer",
           "entrepreneur",
+          "film producer",
           "business executive"
         ],
         "education": [
@@ -214,17 +283,17 @@
         ],
         "employers": [
           {
+            "company": "William Morris Agency",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Paramount Pictures",
             "start": null,
             "end": null
           },
           {
             "company": "American Broadcasting Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -280,9 +349,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
           "social worker",
-          "sociologist",
           "business executive",
-          "politician"
+          "politician",
+          "sociologist"
         ],
         "education": [
           "Spring Hill College",
@@ -290,21 +359,6 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
-            "start": null,
-            "end": null
-          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -334,6 +388,21 @@
             "company": "Toyota",
             "start": "2006-01-01",
             "end": null
+          },
+          {
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
+          },
+          {
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -350,29 +419,6 @@
             "end": "2001-01-20"
           }
         ]
-      }
-    },
-    {
-      "qid": "Q3030584",
-      "name": "Marc Bolland",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q3030584",
-        "name": "Marc Bolland",
-        "dateOfBirth": "1959-03-28",
-        "birthPlace": "Apeldoorn",
-        "image": null,
-        "occupations": [
-          "merchant",
-          "businessperson",
-          "entrepreneur"
-        ],
-        "education": [
-          "University of Groningen"
-        ],
-        "employers": [],
-        "positions": []
       }
     },
     {
@@ -413,52 +459,6 @@
         "education": [
           "Villanova University",
           "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q114351258",
-      "name": "Chris Davis",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114351258",
-        "name": "Chris Davis",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of St Andrews"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2021-10-20",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q112035737",
-      "name": "David Weinberg",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q112035737",
-        "name": "David Weinberg",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Georgetown University Law Center",
-          "Harvard College"
         ],
         "employers": [],
         "positions": []

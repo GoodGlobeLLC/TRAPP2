@@ -1,6 +1,6 @@
 {
   "ticker": "WFC",
-  "fetchedAt": "2026-06-09T01:24:51.344495Z",
+  "fetchedAt": "2026-06-13T02:49:39.864732Z",
   "people": [
     {
       "qid": "Q18386868",
@@ -14,52 +14,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
           "Stern School of Business"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q114448889",
-      "name": "Felicia Norwood",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114448889",
-        "name": "Felicia Norwood",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Valdosta State University",
-          "Yale Law School",
-          "University of Wisconsin\u2013Madison"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q114448713",
-      "name": "CeCe Morken",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114448713",
-        "name": "CeCe Morken",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "North Dakota State University"
         ],
         "employers": [],
         "positions": []
@@ -294,8 +254,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
@@ -359,6 +319,46 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q114448889",
+      "name": "Felicia Norwood",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114448889",
+        "name": "Felicia Norwood",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Yale Law School",
+          "University of Wisconsin\u2013Madison",
+          "Valdosta State University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114448713",
+      "name": "CeCe Morken",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114448713",
+        "name": "CeCe Morken",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "North Dakota State University"
+        ],
+        "employers": [],
+        "positions": []
       }
     }
   ]

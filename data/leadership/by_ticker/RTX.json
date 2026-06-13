@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-06-09T01:24:51.333077Z",
+  "fetchedAt": "2026-06-13T02:49:39.854607Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "civil servant"
         ],
         "education": [
-          "University of Oxford",
           "Georgetown University",
+          "University of Oxford",
           "Saddleback High School",
           "Lexington High School"
         ],
@@ -74,8 +74,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
           "military officer",
-          "naval air force",
-          "admiral"
+          "admiral",
+          "naval air force"
         ],
         "education": [
           "Fort Hunt High School",
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Miami"
@@ -228,8 +228,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Iowa"
@@ -388,17 +388,17 @@
         ],
         "employers": [
           {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }

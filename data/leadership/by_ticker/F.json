@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-06-09T01:40:32.413235Z",
+  "fetchedAt": "2026-06-13T02:49:39.828014Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -50,15 +50,15 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
-          "business executive",
+          "taekwondo athlete",
           "entrepreneur",
-          "taekwondo athlete"
+          "business executive"
         ],
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology",
           "Princeton University",
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program"
         ],
         "employers": [
@@ -80,147 +80,6 @@
             "company": null,
             "start": "1999-01-01",
             "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q2579585",
-      "name": "William Kennard",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q2579585",
-        "name": "William Kennard",
-        "dateOfBirth": "1957-01-19",
-        "birthPlace": "Los Angeles",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Kennard%20Official.png",
-        "occupations": [
-          "diplomat"
-        ],
-        "education": [
-          "Stanford University",
-          "Hollywood High School",
-          "Yale Law School"
-        ],
-        "employers": [
-          {
-            "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Chair of the Federal Communications Commission",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "United States Ambassador to the European Union",
-            "company": null,
-            "start": "2009-11-23",
-            "end": "2013-07-29"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q321698",
-      "name": "William Clay Ford",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q321698",
-        "name": "William Clay Ford",
-        "dateOfBirth": "1957-05-03",
-        "birthPlace": "Detroit",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
-        "occupations": [
-          "business executive",
-          "entrepreneur",
-          "taekwondo athlete"
-        ],
-        "education": [
-          "Hotchkiss School",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology",
-          "Princeton University",
-          "Sloan Fellows Program"
-        ],
-        "employers": [
-          {
-            "company": "Ford Motor Company",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "CEO of Ford Motor Company",
-            "company": null,
-            "start": "2001-10-30",
-            "end": "2006-09-05"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "1999-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q11607",
-      "name": "Jon Meade Huntsman Jr.",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q11607",
-        "name": "Jon Meade Huntsman Jr.",
-        "dateOfBirth": "1960-03-26",
-        "birthPlace": "Palo Alto",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
-        "occupations": [
-          "missionary",
-          "diplomat",
-          "politician",
-          "ambassador",
-          "governor"
-        ],
-        "education": [
-          "Highland High School",
-          "The Wharton School",
-          "National Taiwan Normal University",
-          "University of Utah"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States Ambassador to Singapore",
-            "company": null,
-            "start": "1992-08-11",
-            "end": "1993-06-15"
-          },
-          {
-            "title": "United States Ambassador to China",
-            "company": null,
-            "start": "2009-08-11",
-            "end": "2011-04-30"
-          },
-          {
-            "title": "Governor of Utah",
-            "company": null,
-            "start": "2005-01-03",
-            "end": "2009-08-11"
-          },
-          {
-            "title": "United States Ambassador to the Russian Federation",
-            "company": null,
-            "start": "2017-10-03",
-            "end": "2019-10-03"
           }
         ]
       }
@@ -466,8 +325,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Princeton University"
+          "Princeton University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -488,10 +347,10 @@
           "business executive"
         ],
         "education": [
+          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
-          "Harvard College",
           "University of Oxford",
           "Harvard University"
         ],
@@ -503,6 +362,147 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q2579585",
+      "name": "William Kennard",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q2579585",
+        "name": "William Kennard",
+        "dateOfBirth": "1957-01-19",
+        "birthPlace": "Los Angeles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Kennard%20Official.png",
+        "occupations": [
+          "diplomat"
+        ],
+        "education": [
+          "Hollywood High School",
+          "Yale Law School",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "Carlyle Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chair of the Federal Communications Commission",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "United States Ambassador to the European Union",
+            "company": null,
+            "start": "2009-11-23",
+            "end": "2013-07-29"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q321698",
+      "name": "William Clay Ford",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q321698",
+        "name": "William Clay Ford",
+        "dateOfBirth": "1957-05-03",
+        "birthPlace": "Detroit",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
+        "occupations": [
+          "taekwondo athlete",
+          "entrepreneur",
+          "business executive"
+        ],
+        "education": [
+          "Hotchkiss School",
+          "MIT Sloan School of Management",
+          "Princeton University",
+          "Massachusetts Institute of Technology",
+          "Sloan Fellows Program"
+        ],
+        "employers": [
+          {
+            "company": "Ford Motor Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "CEO of Ford Motor Company",
+            "company": null,
+            "start": "2001-10-30",
+            "end": "2006-09-05"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "1999-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q11607",
+      "name": "Jon Meade Huntsman Jr.",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q11607",
+        "name": "Jon Meade Huntsman Jr.",
+        "dateOfBirth": "1960-03-26",
+        "birthPlace": "Palo Alto",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
+        "occupations": [
+          "diplomat",
+          "missionary",
+          "governor",
+          "ambassador",
+          "politician"
+        ],
+        "education": [
+          "National Taiwan Normal University",
+          "University of Utah",
+          "Highland High School",
+          "The Wharton School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States Ambassador to Singapore",
+            "company": null,
+            "start": "1992-08-11",
+            "end": "1993-06-15"
+          },
+          {
+            "title": "United States Ambassador to China",
+            "company": null,
+            "start": "2009-08-11",
+            "end": "2011-04-30"
+          },
+          {
+            "title": "Governor of Utah",
+            "company": null,
+            "start": "2005-01-03",
+            "end": "2009-08-11"
+          },
+          {
+            "title": "United States Ambassador to the Russian Federation",
+            "company": null,
+            "start": "2017-10-03",
+            "end": "2019-10-03"
+          }
+        ]
       }
     },
     {

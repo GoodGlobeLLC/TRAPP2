@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-06-09T01:24:51.327543Z",
+  "fetchedAt": "2026-06-13T02:49:39.849889Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -25,17 +25,17 @@
         ],
         "employers": [
           {
-            "company": "Palo Alto Networks",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Google",
             "start": null,
             "end": null
           },
           {
             "company": "SoftBank Mobile",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Palo Alto Networks",
             "start": null,
             "end": null
           }
@@ -55,8 +55,8 @@
         "birthPlace": "Rehovot",
         "image": null,
         "occupations": [
-          "industrialist",
-          "entrepreneur"
+          "entrepreneur",
+          "industrialist"
         ],
         "education": [
           "Tel Aviv University"

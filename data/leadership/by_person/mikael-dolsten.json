@@ -5,13 +5,18 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "physician",
-    "business executive"
+    "business executive",
+    "physician"
   ],
   "education": [
     "Lund University"
   ],
   "employers": [
+    {
+      "company": "Wyeth",
+      "start": "2008-01-01",
+      "end": "2009-01-01"
+    },
     {
       "company": "Boehringer Ingelheim",
       "start": "2003-01-01",
@@ -21,11 +26,6 @@
       "company": "Pfizer",
       "start": "2009-01-01",
       "end": null
-    },
-    {
-      "company": "Wyeth",
-      "start": "2008-01-01",
-      "end": "2009-01-01"
     }
   ],
   "positions": [

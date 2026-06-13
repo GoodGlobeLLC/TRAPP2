@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-09T01:03:30.646396Z",
+  "fetchedAt": "2026-06-13T02:49:39.839363Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia Business School",
-          "HEC Paris"
+          "HEC Paris",
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": []
@@ -268,9 +268,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Yale University",
@@ -283,12 +283,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -319,52 +319,6 @@
             "title": "provost",
             "company": null,
             "start": "2023-03-20",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1603351",
-      "name": "William G. Kaelin",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1603351",
-        "name": "William G. Kaelin",
-        "dateOfBirth": "1957-11-23",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
-        "occupations": [
-          "oncologist",
-          "researcher",
-          "university teacher"
-        ],
-        "education": [
-          "Duke University"
-        ],
-        "employers": [
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
-            "company": "Dana\u2013Farber Cancer Institute",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-06-04",
             "end": null
           }
         ]
@@ -429,8 +383,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Law School",
           "Princeton University",
+          "Harvard Law School",
           "Harvard Business School"
         ],
         "employers": [
@@ -500,8 +454,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -578,8 +532,8 @@
         "image": null,
         "occupations": [
           "cardiologist",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Johns Hopkins School of Medicine",
@@ -626,9 +580,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "basketball player",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -645,6 +599,52 @@
             "title": "board of directors member",
             "company": null,
             "start": "2016-10-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1603351",
+      "name": "William G. Kaelin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1603351",
+        "name": "William G. Kaelin",
+        "dateOfBirth": "1957-11-23",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
+        "occupations": [
+          "oncologist",
+          "researcher",
+          "university teacher"
+        ],
+        "education": [
+          "Duke University"
+        ],
+        "employers": [
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": "1998-01-01",
+            "end": null
+          },
+          {
+            "company": "Dana\u2013Farber Cancer Institute",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-06-04",
             "end": null
           }
         ]

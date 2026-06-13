@@ -1,7 +1,57 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-06-09T01:03:30.652244Z",
+  "fetchedAt": "2026-06-13T02:49:39.844521Z",
   "people": [
+    {
+      "qid": "Q1289900",
+      "name": "Kenneth Frazier",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q1289900",
+        "name": "Kenneth Frazier",
+        "dateOfBirth": "1954-12-17",
+        "birthPlace": "Philadelphia",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
+        "occupations": [
+          "business executive",
+          "businessperson",
+          "lawyer"
+        ],
+        "education": [
+          "Northeast High School",
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
+        ],
+        "employers": [
+          {
+            "company": "Faegre Drinker",
+            "start": "1978-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Merck & Co.",
+            "start": "1992-01-01",
+            "end": "2022-11-30"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-01-01",
+            "end": "2021-06-30"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2009-05-27",
+            "end": "2022-05-25"
+          }
+        ]
+      }
+    },
     {
       "qid": "Q114706038",
       "name": "Rob Davis",
@@ -42,10 +92,179 @@
       }
     },
     {
+      "qid": "Q20011456",
+      "name": "Paul B. Rothman",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q20011456",
+        "name": "Paul B. Rothman",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
+        "occupations": [],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Yale University"
+        ],
+        "employers": [
+          {
+            "company": "Columbia University Vagelos College of Physicians and Surgeons",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Johns Hopkins School of Medicine",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "dean",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2015-09-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q7335804",
+      "name": "Risa Lavizzo-Mourey",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7335804",
+        "name": "Risa Lavizzo-Mourey",
+        "dateOfBirth": "1934-09-25",
+        "birthPlace": "Seattle",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
+        "occupations": [
+          "physician",
+          "administrator"
+        ],
+        "education": [
+          "Stony Brook University",
+          "Harvard Medical School",
+          "The Bush School",
+          "The Wharton School",
+          "University of Pennsylvania",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Robert Wood Johnson Foundation",
+            "start": "2001-04-01",
+            "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-02-21",
+            "end": "2026-03-02"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2003-01-01",
+            "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5301749",
+      "name": "Douglas M. Baker, Jr",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5301749",
+        "name": "Douglas M. Baker, Jr",
+        "dateOfBirth": "1958-12-05",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "College of the Holy Cross"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2022-05-24",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1662831",
+      "name": "Inge Thulin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1662831",
+        "name": "Inge Thulin",
+        "dateOfBirth": "1953-11-09",
+        "birthPlace": "Malm\u00f6",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "chief executive officer"
+        ],
+        "education": [
+          "University of Gothenburg"
+        ],
+        "employers": [
+          {
+            "company": "3M",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-03-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q1289900",
       "name": "Kenneth Frazier",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
+      "role_at_company": "Board Member",
+      "source_field": "board",
       "career": {
         "qid": "Q1289900",
         "name": "Kenneth Frazier",
@@ -53,15 +272,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
+          "businessperson",
           "lawyer"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -87,6 +306,88 @@
             "company": null,
             "start": "2009-05-27",
             "end": "2022-05-25"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q533750",
+      "name": "Patricia Russo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q533750",
+        "name": "Patricia Russo",
+        "dateOfBirth": "1952-06-12",
+        "birthPlace": "Trenton",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Russo.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Lawrence High School",
+          "Georgetown University"
+        ],
+        "employers": [
+          {
+            "company": "Alcatel-Lucent",
+            "start": "2006-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2008-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q466772",
+      "name": "Tom Glocer",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q466772",
+        "name": "Tom Glocer",
+        "dateOfBirth": "1959-10-08",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
+        "occupations": [
+          "manager",
+          "businessperson"
+        ],
+        "education": [
+          "Yale Law School",
+          "Columbia University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-11-27",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2001-01-01",
+            "end": "2012-01-01"
           }
         ]
       }
@@ -302,8 +603,8 @@
           "researcher"
         ],
         "education": [
-          "Harvard University",
-          "George Washington University Medical School"
+          "George Washington University Medical School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -347,307 +648,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q20011456",
-      "name": "Paul B. Rothman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q20011456",
-        "name": "Paul B. Rothman",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
-        "occupations": [],
-        "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [
-          {
-            "company": "Columbia University Vagelos College of Physicians and Surgeons",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johns Hopkins School of Medicine",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "dean",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2015-09-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q7335804",
-      "name": "Risa Lavizzo-Mourey",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7335804",
-        "name": "Risa Lavizzo-Mourey",
-        "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
-        "occupations": [
-          "administrator",
-          "physician"
-        ],
-        "education": [
-          "The Bush School",
-          "The Wharton School",
-          "Harvard Medical School",
-          "Harvard University",
-          "University of Pennsylvania",
-          "Stony Brook University"
-        ],
-        "employers": [
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Robert Wood Johnson Foundation",
-            "start": "2001-04-01",
-            "end": null
-          },
-          {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2003-01-01",
-            "end": "2017-04-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5301749",
-      "name": "Douglas M. Baker, Jr",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5301749",
-        "name": "Douglas M. Baker, Jr",
-        "dateOfBirth": "1958-12-05",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "College of the Holy Cross"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2022-05-24",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1662831",
-      "name": "Inge Thulin",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1662831",
-        "name": "Inge Thulin",
-        "dateOfBirth": "1953-11-09",
-        "birthPlace": "Malm\u00f6",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "chief executive officer"
-        ],
-        "education": [
-          "University of Gothenburg"
-        ],
-        "employers": [
-          {
-            "company": "3M",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-03-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1289900",
-      "name": "Kenneth Frazier",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1289900",
-        "name": "Kenneth Frazier",
-        "dateOfBirth": "1954-12-17",
-        "birthPlace": "Philadelphia",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
-        "occupations": [
-          "businessperson",
-          "business executive",
-          "lawyer"
-        ],
-        "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
-          "Northeast High School",
-          "Julia R. Masterman School"
-        ],
-        "employers": [
-          {
-            "company": "Faegre Drinker",
-            "start": "1978-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Merck & Co.",
-            "start": "1992-01-01",
-            "end": "2022-11-30"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2011-01-01",
-            "end": "2021-06-30"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2009-05-27",
-            "end": "2022-05-25"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q533750",
-      "name": "Patricia Russo",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q533750",
-        "name": "Patricia Russo",
-        "dateOfBirth": "1952-06-12",
-        "birthPlace": "Trenton",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Patricia%20Russo.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Lawrence High School",
-          "Georgetown University"
-        ],
-        "employers": [
-          {
-            "company": "Alcatel-Lucent",
-            "start": "2006-01-01",
-            "end": "2008-01-01"
-          },
-          {
-            "company": "IBM",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-01-01",
-            "end": "2008-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q466772",
-      "name": "Tom Glocer",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q466772",
-        "name": "Tom Glocer",
-        "dateOfBirth": "1959-10-08",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
-        "occupations": [
-          "manager",
-          "businessperson"
-        ],
-        "education": [
-          "Yale Law School",
-          "Columbia University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2007-11-27",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "2001-01-01",
-            "end": "2012-01-01"
-          }
-        ]
       }
     }
   ]

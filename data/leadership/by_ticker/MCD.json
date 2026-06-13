@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-06-09T01:03:30.648843Z",
+  "fetchedAt": "2026-06-13T02:49:39.841949Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -22,6 +22,11 @@
         ],
         "employers": [
           {
+            "company": "McDonald's",
+            "start": "2015-01-01",
+            "end": null
+          },
+          {
             "company": "Kraft Foods Inc.",
             "start": "2008-01-01",
             "end": "2012-01-01"
@@ -30,11 +35,6 @@
             "company": "Kraft Foods Group",
             "start": "2012-01-01",
             "end": "2015-01-01"
-          },
-          {
-            "company": "McDonald's",
-            "start": "2015-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -66,9 +66,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
         "occupations": [
           "restaurateur",
+          "businessperson",
           "salesperson",
           "entrepreneur",
-          "businessperson",
           "writer"
         ],
         "education": [
@@ -76,17 +76,17 @@
         ],
         "employers": [
           {
+            "company": "McDonald's",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Lily-Tulip Cup Company",
             "start": null,
             "end": null
           },
           {
             "company": "Prince Castle",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McDonald's",
             "start": null,
             "end": null
           }

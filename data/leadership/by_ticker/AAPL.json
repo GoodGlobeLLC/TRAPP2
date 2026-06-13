@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-09T01:40:32.389655Z",
+  "fetchedAt": "2026-06-13T02:49:39.803866Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,8 +14,8 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
           "presenter",
+          "manager",
           "chief executive officer",
           "computer scientist",
           "engineer",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -63,85 +63,12 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "molecular biologist"
         ],
         "education": [
           "University of California, San Francisco",
-          "Princeton University",
-          "University of Washington"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2011-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q709063",
-      "name": "Arthur D. Levinson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q709063",
-        "name": "Arthur D. Levinson",
-        "dateOfBirth": "1950-03-31",
-        "birthPlace": "Seattle",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "molecular biologist",
-          "biochemist"
-        ],
-        "education": [
-          "University of California, San Francisco",
-          "Princeton University",
-          "University of Washington"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2011-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q271117",
-      "name": "Andrea Jung",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q271117",
-        "name": "Andrea Jung",
-        "dateOfBirth": "1959-08-28",
-        "birthPlace": "Toronto",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
-        "occupations": [
-          "linguist",
-          "businessperson"
-        ],
-        "education": [
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -153,9 +80,9 @@
         ],
         "positions": [
           {
-            "title": "chief executive officer",
+            "title": "chairperson",
             "company": null,
-            "start": null,
+            "start": "2011-01-01",
             "end": null
           }
         ]
@@ -253,15 +180,15 @@
         "occupations": [
           "climate activist",
           "orator",
-          "journalist",
           "blogger",
           "environmentalist",
           "financier",
-          "farmer",
+          "journalist",
           "university teacher",
-          "writer",
+          "farmer",
+          "politician",
           "businessperson",
-          "politician"
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -329,14 +256,87 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q709063",
+      "name": "Arthur D. Levinson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q709063",
+        "name": "Arthur D. Levinson",
+        "dateOfBirth": "1950-03-31",
+        "birthPlace": "Seattle",
+        "image": null,
+        "occupations": [
+          "businessperson",
+          "biochemist",
+          "molecular biologist"
+        ],
+        "education": [
+          "University of California, San Francisco",
+          "University of Washington",
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2011-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q271117",
+      "name": "Andrea Jung",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q271117",
+        "name": "Andrea Jung",
+        "dateOfBirth": "1959-08-28",
+        "birthPlace": "Toronto",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
+        "occupations": [
+          "linguist",
+          "businessperson"
+        ],
+        "education": [
+          "Princeton University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -351,33 +351,28 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "engineer",
-          "teacher",
-          "actor",
           "programmer",
           "electronics technician",
           "inventor",
-          "entrepreneur",
           "computer scientist",
-          "businessperson"
+          "entrepreneur",
+          "engineer",
+          "businessperson",
+          "teacher",
+          "actor"
         ],
         "education": [
-          "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley",
           "University of Colorado",
-          "De Anza College"
+          "De Anza College",
+          "University of Colorado Boulder",
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
           {
             "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -388,6 +383,11 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -437,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
-          "technology entrepreneur",
-          "film producer",
-          "founder",
-          "financier",
           "general manager",
           "executive producer",
-          "inventor",
+          "designer",
+          "technology entrepreneur",
+          "founder",
+          "film producer",
+          "financier",
           "entrepreneur",
+          "inventor",
           "computer scientist"
         ],
         "education": [
