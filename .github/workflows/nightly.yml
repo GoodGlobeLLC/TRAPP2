@@ -7,8 +7,8 @@ name: Nightly Full Refresh
 # 00:30 UTC = 8:30 PM ET (EDT) / 7:30 PM ET (EST). Runs after close, before
 # any pre-market data appears.
 #
-# Full pipeline: quotes → 5-year history → FRED macro → regime → Markov
-# → ETF holdings → company facts → CEO tracker.
+# Market-data pipeline ONLY: quotes → 5-year history → FRED macro → regime
+# → Markov → ETF holdings. Wikidata steps moved to their own workflows.
 
 on:
   schedule:
@@ -63,64 +63,11 @@ jobs:
         # Each ETF is fetched independently; partial success commits what worked.
         run: python pipeline/fetch_etf_holdings.py || echo "ETF holdings step had errors but continuing"
 
-      - name: Fetch company facts (Wikidata)
-        # Pulls executives, board, products, countries, ISIN, HQ etc. from Wikidata.
-        # Free, no API key, CC0-licensed data. Rate-limited to 1 req/sec.
-        # Best-effort: individual ticker failures don't break the workflow.
-        # We diagnose tickers.txt presence first so the logs show whether the
-        # file is missing (using fallback list) or present (using full list).
-        run: |
-          echo "=== tickers.txt diagnostic ==="
-          if [ -f data/tickers.txt ]; then
-            echo "data/tickers.txt EXISTS — $(wc -l < data/tickers.txt) lines"
-            echo "First 10 non-comment lines:"
-            grep -v '^#' data/tickers.txt | grep -v '^$' | head -10
-          else
-            echo "data/tickers.txt MISSING — script will use built-in fallback (85 tickers)"
-          fi
-          echo "=== existing data/company/ contents ==="
-          ls -la data/company/ 2>/dev/null | head -20 || echo "(directory does not exist yet)"
-          echo "=== running fetch_company_facts.py ==="
-          python pipeline/fetch_company_facts.py || echo "Company facts step had errors but continuing"
-          echo "=== company files after run ==="
-          ls data/company/ | wc -l
-          ls data/company/ | head -20
-
-      - name: Commit company facts (partial progress)
-        # Commit company facts immediately so we don't lose progress if a later
-        # step times out or the runner gets killed. The CEO tracker step can
-        # take 30+ minutes and is the most likely to time out.
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data/company/
-          if git diff --staged --quiet; then
-            echo "No company-facts changes to commit"
-          else
-            git commit -m "Company facts refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            for i in 1 2 3; do
-              if git push; then break; fi
-              git fetch origin
-              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
-              if [ -f .git/MERGE_HEAD ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
-              sleep 4
-            done
-          fi
-
-      - name: Fetch CEO/leadership career history (Wikidata)
-        # Builds data/leadership/ database from people listed in data/company/*.json.
-        # For each person, pulls their employer history + positions held over time
-        # via Wikidata P108/P39. Cross-references which other tickers share board members.
-        # Slow step (~1s per query, ~2 queries per person) — runs only nightly.
-        run: |
-          echo "=== company files available to CEO tracker ==="
-          ls data/company/ | grep -v '^_' | wc -l
-          echo "tickers"
-          echo "=== running fetch_ceo_tracker.py ==="
-          python pipeline/fetch_ceo_tracker.py || echo "CEO tracker step had errors but continuing"
-          echo "=== leadership files after run ==="
-          ls -la data/leadership/by_ticker/ 2>/dev/null | wc -l || echo "no by_ticker dir"
-          ls -la data/leadership/by_person/ 2>/dev/null | wc -l || echo "no by_person dir"
+      # Company facts + CEO/leadership tracking are NOT here anymore — they were
+      # the timeout culprits (Wikidata, 30+ min). They run on their own clocks:
+      #   company-facts.yml  (monthly, already present)
+      #   leadership.yml     (weekly, added alongside this file)
+      # This nightly now finishes in well under the hour: market data only.
 
       - name: Commit & push
         run: |
