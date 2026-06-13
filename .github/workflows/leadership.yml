@@ -1,0 +1,49 @@
+# .github/workflows/leadership.yml  →  commit into TRAPP2
+#
+# CEO/leadership career history (Wikidata) on its OWN clock — this was the
+# 30+ minute step that pushed the nightly past its 60-minute timeout.
+# Leadership changes rarely; weekly is plenty. 120-minute budget of its own.
+name: Leadership History Refresh (Weekly)
+
+on:
+  schedule:
+    - cron: '0 5 * * 0'   # Sundays 05:00 UTC — quiet window, no nightly overlap
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trapp2-leadership
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install requirements
+        run: pip install -r requirements.txt
+
+      - name: Fetch CEO/leadership career history (Wikidata)
+        run: python pipeline/fetch_ceo_tracker.py || echo "CEO tracker had errors but continuing"
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/leadership/
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "Leadership refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3; do
+            git push && break
+            git fetch origin && git merge -X ours origin/main 2>/dev/null || true
+            sleep 4
+          done
