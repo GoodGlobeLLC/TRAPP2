@@ -1,4 +1,11 @@
 #!/usr/bin/env python3
+# ============================================================
+#  >>> DESTINATION: TRAPP2 repo  →  pipeline/fetch_data.py  <<<
+#  GoodGlobeLLC/TRAPP2/pipeline/fetch_data.py
+#
+#  Replace the existing pipeline/fetch_data.py in the TRAPP2 repo with
+#  THIS file. (One file per repo — do not mix them up; each is labeled.)
+# ============================================================
 """
 TRAPP2 — Quote + fundamentals fetcher.
 
@@ -50,8 +57,8 @@ COLUMNS = [
     # Financial metrics for Research grading + bot engine (camelCase to match app)
     "returnOnEquity", "returnOnAssets", "grossMargin", "operatingMargin",
     "profitMargin", "revenueGrowth", "earningsGrowth", "revenue", "ebitda",
-    "freeCashFlow", "netIncome", "priceToBook", "evToEbitda", "evToRevenue",
-    "totalDebt", "totalEquity", "totalAssets", "cash",
+    "freeCashFlow", "netIncome", "stockBasedComp", "priceToBook", "evToEbitda",
+    "evToRevenue", "totalDebt", "totalEquity", "totalAssets", "cash",
 ]
 
 
@@ -464,6 +471,7 @@ def fetch_quote(ticker, profile_cache):
         "ebitda": fmt_num(safe(info, "ebitda")),
         "freeCashFlow": fmt_num(safe(info, "freeCashflow")),
         "netIncome": fmt_num(safe(info, "netIncomeToCommon")),
+        "stockBasedComp": fmt_num(safe(info, "stockBasedCompensation")),
         "priceToBook": fmt_num(safe(info, "priceToBook")),
         "evToEbitda": fmt_num(safe(info, "enterpriseToEbitda")),
         "evToRevenue": fmt_num(safe(info, "enterpriseToRevenue")),
@@ -474,6 +482,41 @@ def fetch_quote(ticker, profile_cache):
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "profile_fetched_at": profile_fetched_at,
     }
+
+    # ---- Balance-sheet / cashflow fallback ----
+    # Foreign ADRs (e.g. TSM) often return EMPTY balance-sheet fields from
+    # yfinance .info, leaving totalEquity / totalAssets / totalDebt / SBC blank
+    # so Research metrics like ROTCE, Debt/Equity and SBC% can't compute. The
+    # financial STATEMENTS usually carry the numbers even when .info doesn't.
+    # Best-effort: fills only the gaps, never overwrites, never fails the row.
+    try:
+        _need_bs = (not row.get("totalEquity")) or (not row.get("totalAssets")) or (not row.get("totalDebt"))
+        if _need_bs:
+            _bs = t.balance_sheet
+            if _bs is not None and not _bs.empty:
+                _col = _bs.columns[0]
+                def _bsval(*names):
+                    for n in names:
+                        if n in _bs.index:
+                            v = _bs.loc[n, _col]
+                            if v == v and v is not None:
+                                return float(v)
+                    return None
+                if not row.get("totalEquity"):
+                    row["totalEquity"] = fmt_num(_bsval(
+                        "Stockholders Equity", "Total Equity Gross Minority Interest", "Common Stock Equity"))
+                if not row.get("totalAssets"):
+                    row["totalAssets"] = fmt_num(_bsval("Total Assets"))
+                if not row.get("totalDebt"):
+                    row["totalDebt"] = fmt_num(_bsval("Total Debt", "Long Term Debt"))
+        if not row.get("stockBasedComp"):
+            _cf = t.cashflow
+            if _cf is not None and not _cf.empty and "Stock Based Compensation" in _cf.index:
+                v = _cf.loc["Stock Based Compensation", _cf.columns[0]]
+                if v == v and v is not None:
+                    row["stockBasedComp"] = fmt_num(float(v))
+    except Exception as _e:
+        pass
 
     # Inject classifier-derived sector/industry/asset_class for non-equity
     # instruments (futures, FX, crypto, indices, mutual funds, private, options).
