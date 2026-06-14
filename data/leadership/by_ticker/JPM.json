@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-13T02:49:39.837164Z",
+  "fetchedAt": "2026-06-14T09:42:26.543139Z",
   "people": [
     {
       "qid": "Q922169",
@@ -24,16 +24,6 @@
         ],
         "employers": [
           {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
             "end": "2004-07-01"
@@ -42,6 +32,16 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
           },
           {
             "company": "Goldman Sachs",
@@ -285,15 +285,15 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Case Western Reserve University",
           "Georgetown University Law Center",
-          "Weatherhead School of Management",
           "Emory University",
-          "Georgetown University"
+          "Georgetown University",
+          "Weatherhead School of Management"
         ],
         "employers": [],
         "positions": [
@@ -414,6 +414,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -421,11 +426,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -510,16 +510,6 @@
         ],
         "employers": [
           {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
             "end": "2004-07-01"
@@ -528,6 +518,16 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
           },
           {
             "company": "Goldman Sachs",
@@ -557,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

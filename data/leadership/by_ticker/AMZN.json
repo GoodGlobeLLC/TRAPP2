@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-13T02:49:39.809605Z",
+  "fetchedAt": "2026-06-14T09:42:26.518498Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -334,11 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "executive",
           "dean",
-          "computer scientist",
-          "academic"
+          "university teacher",
+          "academic",
+          "computer scientist"
         ],
         "education": [
           "University of Michigan",
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -526,14 +526,14 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Johnson & Johnson",
             "start": null,
             "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Boston Consulting Group",
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",

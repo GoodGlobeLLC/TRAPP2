@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-13T02:49:39.838479Z",
+  "fetchedAt": "2026-06-14T09:42:26.544278Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -250,8 +250,8 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "entrepreneur",
           "merchant",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -273,9 +273,9 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "entrepreneur",
           "film producer",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -283,17 +283,17 @@
         ],
         "employers": [
           {
-            "company": "William Morris Agency",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Paramount Pictures",
             "start": null,
             "end": null
           },
           {
             "company": "American Broadcasting Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -313,8 +313,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "economist",
+          "banker",
           "businessperson"
         ],
         "education": [
@@ -349,16 +349,26 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
           "social worker",
-          "business executive",
+          "sociologist",
           "politician",
-          "sociologist"
+          "business executive"
         ],
         "education": [
+          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College",
-          "Xavier University of Louisiana"
+          "Edgewood College"
         ],
         "employers": [
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -380,16 +390,6 @@
             "end": null
           },
           {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
-          },
-          {
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
@@ -407,16 +407,16 @@
         ],
         "positions": [
           {
-            "title": "Director of the Office of Public Liaison",
-            "company": null,
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
             "title": "United States Secretary of Labor",
             "company": null,
             "start": "1997-05-01",
             "end": "2001-01-20"
+          },
+          {
+            "title": "Director of the Office of Public Liaison",
+            "company": null,
+            "start": "1993-01-20",
+            "end": "1997-02-07"
           }
         ]
       }

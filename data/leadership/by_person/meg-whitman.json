@@ -5,9 +5,9 @@
   "birthPlace": "Cold Spring Harbor",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
-    "politician",
     "entrepreneur",
-    "business executive"
+    "business executive",
+    "politician"
   ],
   "education": [
     "Cold Spring Harbor Jr./Sr. High School",
@@ -16,8 +16,23 @@
   ],
   "employers": [
     {
+      "company": "Bain & Company",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Procter & Gamble",
       "start": "1979-01-01",
+      "end": null
+    },
+    {
+      "company": "Quibi",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "The Walt Disney Company",
+      "start": null,
       "end": null
     },
     {
@@ -34,30 +49,9 @@
       "company": "Hasbro",
       "start": null,
       "end": null
-    },
-    {
-      "company": "Bain & Company",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Quibi",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "The Walt Disney Company",
-      "start": null,
-      "end": null
     }
   ],
   "positions": [
-    {
-      "title": "general manager",
-      "company": null,
-      "start": "1997-01-01",
-      "end": null
-    },
     {
       "title": "chief executive officer",
       "company": null,
@@ -83,21 +77,27 @@
       "end": "2008-01-01"
     },
     {
+      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
       "title": "vice president",
       "company": null,
       "start": null,
+      "end": null
+    },
+    {
+      "title": "general manager",
+      "company": null,
+      "start": "1997-01-01",
       "end": null
     },
     {
       "title": "vice president",
       "company": null,
       "start": "1989-01-01",
-      "end": null
-    },
-    {
-      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-      "company": null,
-      "start": null,
       "end": null
     }
   ],

@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-06-13T02:49:39.841426Z",
+  "fetchedAt": "2026-06-14T09:42:26.546888Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -23,6 +23,11 @@
         ],
         "employers": [
           {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -31,11 +36,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -164,6 +164,11 @@
         ],
         "employers": [
           {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -172,11 +177,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -286,8 +286,8 @@
           "teacher"
         ],
         "education": [
-          "Yale University",
-          "Stanford University"
+          "Stanford University",
+          "Yale University"
         ],
         "employers": [
           {
@@ -436,10 +436,10 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Law School",
           "Columbia University",
           "Marsha Stern Talmudical Academy",
-          "Columbia College"
+          "Columbia College",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
