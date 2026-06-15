@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-06-15T04:19:17.418977Z",
+  "fetchedAt": "2026-06-15T11:04:14.962517Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -234,14 +234,14 @@
         ],
         "employers": [
           {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
-          {
             "company": "Duke University",
             "start": "1999-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
           }
         ],
         "positions": []
@@ -456,6 +456,11 @@
         ],
         "employers": [
           {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -468,11 +473,6 @@
           {
             "company": "IBM Research",
             "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           }
         ],

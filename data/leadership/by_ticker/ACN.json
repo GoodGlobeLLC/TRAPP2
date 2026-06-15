@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-06-15T04:19:17.404790Z",
+  "fetchedAt": "2026-06-15T11:04:14.947706Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -270,11 +270,9 @@
         "education": [
           "Harvard University",
           "lyc\u00e9e du Parc",
+          "\u00c9cole alsacienne",
           "ESSEC Business School",
-          "Harvard Business School",
-          "Harvard University",
-          "lyc\u00e9e du Parc",
-          "\u00c9cole alsacienne"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -329,18 +327,6 @@
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
-            "start": "2016-02-19",
-            "end": "2023-02-13"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "2009-02-01",
-            "end": "2010-11-30"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
             "start": "2004-02-01",
             "end": "2005-10-01"
           },
@@ -349,6 +335,18 @@
             "company": null,
             "start": "2001-09-01",
             "end": "2004-02-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2016-02-19",
+            "end": "2023-02-13"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2009-02-01",
+            "end": "2010-11-30"
           },
           {
             "title": "director general",
@@ -465,16 +463,6 @@
         ],
         "employers": [
           {
-            "company": "Qualcomm",
-            "start": "2004-01-01",
-            "end": "2015-01-01"
-          },
-          {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -483,6 +471,16 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
+          },
+          {
+            "company": "Qualcomm",
+            "start": "2004-01-01",
+            "end": "2015-01-01"
+          },
+          {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -542,8 +540,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Chicago",
-          "DePaul University"
+          "DePaul University",
+          "University of Chicago"
         ],
         "employers": [
           {

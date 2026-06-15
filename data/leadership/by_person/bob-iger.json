@@ -5,12 +5,11 @@
   "birthPlace": "Oceanside",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Bob%20Iger%20%28cropped%29.jpg",
   "occupations": [
-    "television producer",
     "film producer",
     "business executive",
-    "businessperson",
     "television producer",
-    "entrepreneur"
+    "entrepreneur",
+    "businessperson"
   ],
   "education": [
     "The Center for Early Education",
@@ -20,6 +19,11 @@
   ],
   "employers": [
     {
+      "company": "American Broadcasting Company",
+      "start": "1974-01-01",
+      "end": "1999-02-25"
+    },
+    {
       "company": "The Walt Disney Company",
       "start": "2022-11-20",
       "end": "2026-12-31"
@@ -28,11 +32,6 @@
       "company": "The Walt Disney Company",
       "start": "1996-01-01",
       "end": "2021-12-31"
-    },
-    {
-      "company": "American Broadcasting Company",
-      "start": "1974-01-01",
-      "end": "1999-02-25"
     }
   ],
   "positions": [
