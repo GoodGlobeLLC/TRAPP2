@@ -5,7 +5,6 @@
   "birthPlace": "Barcelona",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
   "occupations": [
-    "chairperson",
     "chief executive officer",
     "chairperson",
     "businessperson"
@@ -18,6 +17,11 @@
   ],
   "employers": [
     {
+      "company": "Chupa Chups",
+      "start": null,
+      "end": "1996-01-01"
+    },
+    {
       "company": "PepsiCo",
       "start": "1996-01-01",
       "end": null
@@ -26,11 +30,6 @@
       "company": "SEAT",
       "start": null,
       "end": null
-    },
-    {
-      "company": "Chupa Chups",
-      "start": null,
-      "end": "1996-01-01"
     }
   ],
   "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-06-15T04:19:17.452440Z",
+  "fetchedAt": "2026-06-15T12:34:35.624374Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,9 +39,9 @@
           "civil servant"
         ],
         "education": [
+          "Georgetown University",
           "Saddleback High School",
           "Lexington High School",
-          "Georgetown University",
           "University of Oxford"
         ],
         "employers": [
@@ -149,8 +149,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "physician",
-          "astronaut"
+          "astronaut",
+          "physician"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",
@@ -388,17 +388,17 @@
         ],
         "employers": [
           {
-            "company": "United States Department of the Navy",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }

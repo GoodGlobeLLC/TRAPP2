@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-06-15T04:19:17.458444Z",
+  "fetchedAt": "2026-06-15T12:34:35.629699Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,37 +14,32 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
           "technology entrepreneur",
-          "dub actor",
-          "programmer",
           "financier",
           "investor",
-          "entrepreneur",
-          "civil servant",
+          "dub actor",
+          "programmer",
+          "engineer",
           "inventor",
           "politician",
-          "engineer"
+          "entrepreneur"
         ],
         "education": [
+          "Queen's University",
+          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
+          "University of Pennsylvania",
           "University of Pretoria",
-          "Stanford University",
-          "University of Pennsylvania"
+          "Stanford University"
         ],
         "employers": [
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -58,6 +53,11 @@
             "end": null
           },
           {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
+          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -68,8 +68,8 @@
             "end": "2019-01-01"
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -140,21 +140,6 @@
         ],
         "employers": [
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -170,14 +155,29 @@
             "end": "2017-04-01"
           },
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -223,9 +223,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -336,21 +336,6 @@
         ],
         "employers": [
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -366,14 +351,29 @@
             "end": "2017-04-01"
           },
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -524,37 +524,32 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
           "technology entrepreneur",
-          "dub actor",
-          "programmer",
           "financier",
           "investor",
-          "entrepreneur",
-          "civil servant",
+          "dub actor",
+          "programmer",
+          "engineer",
           "inventor",
           "politician",
-          "engineer"
+          "entrepreneur"
         ],
         "education": [
+          "Queen's University",
+          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
+          "University of Pennsylvania",
           "University of Pretoria",
-          "Stanford University",
-          "University of Pennsylvania"
+          "Stanford University"
         ],
         "employers": [
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -568,6 +563,11 @@
             "end": null
           },
           {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
+          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -578,8 +578,8 @@
             "end": "2019-01-01"
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -641,15 +641,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "businessperson",
           "actor"
         ],
         "education": [
+          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "South Shore High School"
         ],
         "employers": [
           {
