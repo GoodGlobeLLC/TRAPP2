@@ -1,0 +1,287 @@
+#!/usr/bin/env python3
+"""
+TRAPP2 Financial Statements Fetcher
+=====================================
+
+Pulls MULTI-YEAR income statement, balance sheet, and cash-flow data from Yahoo
+Finance (free, no API key, no rate limit) and writes one JSON file per ticker to
+data/financials/<TICKER>.json.
+
+WHY THIS EXISTS
+---------------
+The app previously fetched these statements live from FMP (Financial Modeling
+Prep) on every company-tab open. FMP's free tier exhausts quickly, so NVDA and
+other tickers would show BLANK financials once the quota ran out. By fetching
+from Yahoo once and committing the result to the repo, the app loads precise,
+consistent statements from raw.githubusercontent.com with no per-view API cost.
+
+Financial statements only change at earnings, so this script only needs to run
+each earnings season (or weekly is fine — it's cheap). The committed JSON is the
+durable, cross-device source of truth.
+
+OUTPUT SHAPE (per ticker) — matches what the app's financials renderer expects,
+which mirrors FMP's statement objects so the frontend needs no shape changes:
+
+    {
+      "ticker": "NVDA",
+      "updated": "2026-06-14T00:00:00Z",
+      "source": "yahoo",
+      "currency": "USD",
+      "income":   [ {calendarYear, date, revenue, costOfRevenue, grossProfit,
+                     operatingExpenses, operatingIncome, ebitda, netIncome,
+                     epsdiluted, eps}, ... up to 4 years ],
+      "balance":  [ {calendarYear, date, cashAndCashEquivalents,
+                     shortTermInvestments, totalCurrentAssets, totalAssets,
+                     totalDebt, totalLiabilities, totalStockholdersEquity,
+                     netDebt}, ... ],
+      "cashflow": [ {calendarYear, date, operatingCashFlow, capitalExpenditure,
+                     freeCashFlow, stockBasedCompensation, dividendsPaid}, ... ]
+    }
+
+USAGE
+-----
+    python pipeline/fetch_financials.py                 # all tickers in data/tickers.txt
+    python pipeline/fetch_financials.py NVDA AAPL MSFT  # specific tickers
+"""
+
+import json
+import os
+import sys
+import time
+from datetime import datetime, timezone
+from pathlib import Path
+
+try:
+    import yfinance as yf
+except ImportError:
+    print("yfinance not installed. Run: pip install yfinance", file=sys.stderr)
+    sys.exit(1)
+
+# ---- Paths ----
+HERE = Path(__file__).resolve().parent
+DATA = HERE.parent / "data"
+FIN_DIR = DATA / "financials"
+FIN_DIR.mkdir(parents=True, exist_ok=True)
+TICKERS_FILE = DATA / "tickers.txt"
+
+
+def log(msg: str) -> None:
+    print(msg, flush=True)
+
+
+def _num(v):
+    """Coerce a pandas/numpy cell to a clean float or None (NaN-safe)."""
+    try:
+        if v is None:
+            return None
+        f = float(v)
+        if f != f:  # NaN
+            return None
+        return f
+    except (TypeError, ValueError):
+        return None
+
+
+def _col_year(col) -> str:
+    """Statement columns are Timestamps; return the 4-digit year as a string."""
+    try:
+        return str(col.year)
+    except AttributeError:
+        s = str(col)
+        return s[:4] if len(s) >= 4 else s
+
+
+def _col_date(col) -> str:
+    try:
+        return col.strftime("%Y-%m-%d")
+    except AttributeError:
+        return str(col)[:10]
+
+
+def _row(df, *names):
+    """Return a {col: value} accessor for the first matching statement row name.
+
+    Yahoo's statement row labels vary; we try several aliases and return a
+    function that pulls that row's value for a given column.
+    """
+    if df is None or df.empty:
+        return lambda col: None
+    for n in names:
+        if n in df.index:
+            series = df.loc[n]
+            return lambda col, _s=series: _num(_s.get(col))
+    return lambda col: None
+
+
+def fetch_income(t) -> list:
+    """Multi-year income statement → list of FMP-shaped dicts (newest first)."""
+    try:
+        df = t.financials  # annual income statement
+    except Exception as e:
+        log(f"    income failed: {e}")
+        return []
+    if df is None or df.empty:
+        return []
+    revenue = _row(df, "Total Revenue", "Operating Revenue")
+    cost = _row(df, "Cost Of Revenue", "Cost of Revenue", "Reconciled Cost Of Revenue")
+    gross = _row(df, "Gross Profit")
+    opex = _row(df, "Operating Expense", "Total Operating Expenses")
+    opinc = _row(df, "Operating Income", "Total Operating Income As Reported")
+    ebitda = _row(df, "EBITDA", "Normalized EBITDA")
+    netinc = _row(df, "Net Income", "Net Income Common Stockholders",
+                  "Net Income From Continuing Operation Net Minority Interest")
+    eps_d = _row(df, "Diluted EPS")
+    eps_b = _row(df, "Basic EPS")
+    out = []
+    for col in df.columns:
+        out.append({
+            "calendarYear": _col_year(col),
+            "date": _col_date(col),
+            "revenue": revenue(col),
+            "costOfRevenue": cost(col),
+            "grossProfit": gross(col),
+            "operatingExpenses": opex(col),
+            "operatingIncome": opinc(col),
+            "ebitda": ebitda(col),
+            "netIncome": netinc(col),
+            "epsdiluted": eps_d(col),
+            "eps": eps_d(col) if eps_d(col) is not None else eps_b(col),
+        })
+    return out
+
+
+def fetch_balance(t) -> list:
+    try:
+        df = t.balance_sheet
+    except Exception as e:
+        log(f"    balance failed: {e}")
+        return []
+    if df is None or df.empty:
+        return []
+    cash = _row(df, "Cash And Cash Equivalents", "Cash Cash Equivalents And Short Term Investments")
+    sti = _row(df, "Other Short Term Investments", "Short Term Investments")
+    tca = _row(df, "Current Assets", "Total Current Assets")
+    ta = _row(df, "Total Assets")
+    debt = _row(df, "Total Debt", "Long Term Debt And Capital Lease Obligation")
+    tl = _row(df, "Total Liabilities Net Minority Interest", "Total Liabilities")
+    teq = _row(df, "Stockholders Equity", "Total Equity Gross Minority Interest", "Common Stock Equity")
+    netdebt = _row(df, "Net Debt")
+    out = []
+    for col in df.columns:
+        out.append({
+            "calendarYear": _col_year(col),
+            "date": _col_date(col),
+            "cashAndCashEquivalents": cash(col),
+            "shortTermInvestments": sti(col),
+            "totalCurrentAssets": tca(col),
+            "totalAssets": ta(col),
+            "totalDebt": debt(col),
+            "totalLiabilities": tl(col),
+            "totalStockholdersEquity": teq(col),
+            "netDebt": netdebt(col),
+        })
+    return out
+
+
+def fetch_cashflow(t) -> list:
+    try:
+        df = t.cashflow
+    except Exception as e:
+        log(f"    cashflow failed: {e}")
+        return []
+    if df is None or df.empty:
+        return []
+    ocf = _row(df, "Operating Cash Flow", "Cash Flow From Continuing Operating Activities")
+    capex = _row(df, "Capital Expenditure", "Purchase Of PPE")
+    fcf = _row(df, "Free Cash Flow")
+    sbc = _row(df, "Stock Based Compensation")
+    div = _row(df, "Cash Dividends Paid", "Common Stock Dividend Paid")
+    out = []
+    for col in df.columns:
+        ocf_v, capex_v = ocf(col), capex(col)
+        fcf_v = fcf(col)
+        # Derive FCF if Yahoo didn't provide it directly.
+        if fcf_v is None and ocf_v is not None and capex_v is not None:
+            fcf_v = ocf_v + capex_v  # capex is negative on the statement
+        out.append({
+            "calendarYear": _col_year(col),
+            "date": _col_date(col),
+            "operatingCashFlow": ocf_v,
+            "capitalExpenditure": capex_v,
+            "freeCashFlow": fcf_v,
+            "stockBasedCompensation": sbc(col),
+            "dividendsPaid": div(col),
+        })
+    return out
+
+
+def fetch_one(ticker: str) -> bool:
+    ticker = ticker.strip().upper()
+    if not ticker:
+        return False
+    try:
+        t = yf.Ticker(ticker)
+        income = fetch_income(t)
+        balance = fetch_balance(t)
+        cashflow = fetch_cashflow(t)
+        if not income and not balance and not cashflow:
+            log(f"  ⚠ {ticker}: no statement data (may be an ETF/FX/index)")
+            return False
+        # Currency, best-effort.
+        currency = "USD"
+        try:
+            fc = t.fast_info.get("currency") if hasattr(t, "fast_info") else None
+            if fc:
+                currency = str(fc)
+        except Exception:
+            pass
+        payload = {
+            "ticker": ticker,
+            "updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "source": "yahoo",
+            "currency": currency,
+            "income": income,
+            "balance": balance,
+            "cashflow": cashflow,
+        }
+        out_path = FIN_DIR / f"{ticker}.json"
+        out_path.write_text(json.dumps(payload, separators=(",", ":")))
+        log(f"  ✓ {ticker}: {len(income)}y income · {len(balance)}y balance · {len(cashflow)}y cashflow")
+        return True
+    except Exception as e:
+        log(f"  ✗ {ticker}: {e}")
+        return False
+
+
+def load_tickers() -> list:
+    if not TICKERS_FILE.exists():
+        log(f"No {TICKERS_FILE}; pass tickers as arguments instead.")
+        return []
+    out = []
+    for line in TICKERS_FILE.read_text().splitlines():
+        s = line.strip().upper()
+        if s and not s.startswith("#"):
+            out.append(s)
+    return out
+
+
+def main():
+    args = [a.upper() for a in sys.argv[1:]]
+    tickers = args if args else load_tickers()
+    if not tickers:
+        log("No tickers to process.")
+        return
+    log(f"Fetching financial statements for {len(tickers)} ticker(s)…")
+    ok = 0
+    for i, tk in enumerate(tickers, 1):
+        if fetch_one(tk):
+            ok += 1
+        # Gentle pacing so Yahoo doesn't throttle on large universes.
+        if i % 25 == 0:
+            log(f"  … {i}/{len(tickers)} ({ok} ok)")
+            time.sleep(1)
+    log(f"Done. {ok}/{len(tickers)} tickers have financial statements in data/financials/.")
+
+
+if __name__ == "__main__":
+    main()
