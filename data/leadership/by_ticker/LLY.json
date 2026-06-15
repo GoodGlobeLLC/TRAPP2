@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-15T04:19:17.436596Z",
+  "fetchedAt": "2026-06-15T11:07:20.035895Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia Business School",
-          "HEC Paris"
+          "HEC Paris",
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": []
@@ -80,9 +80,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard University",
           "Xavier University",
-          "St. Xavier High School"
+          "St. Xavier High School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -268,13 +268,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
-          "Yale University",
-          "Harvard University"
+          "Harvard University",
+          "Yale University"
         ],
         "employers": [
           {
@@ -283,12 +283,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -343,11 +343,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
-          },
-          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -356,6 +351,11 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -531,8 +531,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "cardiologist",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -580,8 +580,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "basketball player",
           "accountant",
+          "basketball player",
           "businessperson"
         ],
         "education": [
@@ -617,8 +617,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
           "oncologist",
-          "researcher",
-          "university teacher"
+          "university teacher",
+          "researcher"
         ],
         "education": [
           "Duke University"

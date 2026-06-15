@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-15T04:19:17.435750Z",
+  "fetchedAt": "2026-06-15T11:07:20.035217Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -200,10 +200,10 @@
           "pediatrician"
         ],
         "education": [
-          "Johns Hopkins University",
-          "Barnard College",
           "Perelman School of Medicine at the University of Pennsylvania",
           "Johns Hopkins Bloomberg School of Public Health",
+          "Johns Hopkins University",
+          "Barnard College",
           "University of Pennsylvania"
         ],
         "employers": [
@@ -250,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
+          "businessperson",
           "merchant",
-          "entrepreneur",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "University of Groningen"
@@ -313,9 +313,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "banker",
           "economist",
-          "banker"
+          "businessperson"
         ],
         "education": [
           "St Mary's School",
@@ -348,27 +348,17 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
+          "social worker",
           "business executive",
           "sociologist",
-          "politician",
-          "social worker"
+          "politician"
         ],
         "education": [
+          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College",
-          "Xavier University of Louisiana"
+          "Edgewood College"
         ],
         "employers": [
-          {
-            "company": "The Coca-Cola Company",
-            "start": "2001-01-01",
-            "end": "2006-01-01"
-          },
-          {
-            "company": "Entergy",
-            "start": null,
-            "end": null
-          },
           {
             "company": "MGM Resorts International",
             "start": null,
@@ -377,16 +367,6 @@
           {
             "company": "Sodexo",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
             "end": null
           },
           {
@@ -403,20 +383,40 @@
             "company": "Southern Regional Council",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
+          {
+            "company": "The Coca-Cola Company",
+            "start": "2001-01-01",
+            "end": "2006-01-01"
+          },
+          {
+            "company": "Entergy",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "Director of the Office of Public Liaison",
-            "company": null,
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
           {
             "title": "United States Secretary of Labor",
             "company": null,
             "start": "1997-05-01",
             "end": "2001-01-20"
+          },
+          {
+            "title": "Director of the Office of Public Liaison",
+            "company": null,
+            "start": "1993-01-20",
+            "end": "1997-02-07"
           }
         ]
       }

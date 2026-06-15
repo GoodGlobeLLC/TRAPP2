@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-06-15T04:19:17.438614Z",
+  "fetchedAt": "2026-06-15T11:07:20.037449Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -14,14 +14,19 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Passau",
           "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
           {
             "company": "Citigroup",
             "start": "1994-01-01",
@@ -31,11 +36,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -155,14 +155,19 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Passau",
           "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
           {
             "company": "Citigroup",
             "start": "1994-01-01",
@@ -172,11 +177,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -436,11 +436,10 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Law School",
           "Columbia University",
-          "Harvard Law School",
           "Marsha Stern Talmudical Academy",
-          "Columbia College"
+          "Columbia College",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [

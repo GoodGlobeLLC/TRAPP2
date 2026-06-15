@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-15T04:19:17.434486Z",
+  "fetchedAt": "2026-06-15T11:07:20.034105Z",
   "people": [
     {
       "qid": "Q922169",
@@ -165,9 +165,9 @@
           "engineer"
         ],
         "education": [
+          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute",
-          "Indiana University"
+          "Rensselaer Polytechnic Institute"
         ],
         "employers": [
           {
@@ -209,8 +209,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -289,10 +289,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -414,6 +414,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -421,11 +426,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -461,9 +461,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Colgate University",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "Colgate University"
         ],
         "employers": [
           {

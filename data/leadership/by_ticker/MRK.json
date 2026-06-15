@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-06-15T04:19:17.441649Z",
+  "fetchedAt": "2026-06-15T11:07:20.040685Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -19,10 +19,10 @@
           "businessperson"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -104,8 +104,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Yale University"
+          "Yale University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -144,19 +144,19 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Philadelphia",
+        "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
-          "Stony Brook University",
-          "University of Pennsylvania",
-          "The Bush School",
           "The Wharton School",
+          "University of Pennsylvania",
+          "Harvard University",
           "Harvard Medical School",
-          "Harvard University"
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
           {
@@ -165,13 +165,13 @@
             "end": null
           },
           {
-            "company": "Robert Wood Johnson Foundation",
-            "start": "2001-04-01",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "start": null,
             "end": null
           },
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
-            "start": null,
+            "company": "Robert Wood Johnson Foundation",
+            "start": "2001-04-01",
             "end": null
           }
         ],
@@ -183,16 +183,16 @@
             "end": null
           },
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2003-01-01",
-            "end": "2017-04-01"
-          },
-          {
             "title": "board member",
             "company": null,
             "start": "2014-02-21",
             "end": "2026-03-02"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2003-01-01",
+            "end": "2017-04-01"
           }
         ]
       }
@@ -237,8 +237,8 @@
         "birthPlace": "Malm\u00f6",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "University of Gothenburg"
@@ -277,10 +277,10 @@
           "businessperson"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -372,8 +372,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "Yale Law School"
+          "Yale Law School",
+          "Columbia University"
         ],
         "employers": [],
         "positions": [
@@ -405,8 +405,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Princeton University"
+          "Princeton University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -539,17 +539,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -632,8 +632,8 @@
           "biophysicist"
         ],
         "education": [
-          "California Institute of Technology",
-          "Pennsylvania State University"
+          "Pennsylvania State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-06-15T04:19:17.439471Z",
+  "fetchedAt": "2026-06-15T11:07:20.038151Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -160,6 +160,16 @@
         ],
         "employers": [
           {
+            "company": "Salesforce",
+            "start": "2010-02-01",
+            "end": "2018-04-01"
+          },
+          {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -173,16 +183,6 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
-          },
-          {
-            "company": "Salesforce",
-            "start": "2010-02-01",
-            "end": "2018-04-01"
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
           }
         ],
         "positions": []
@@ -313,18 +313,17 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20carmona.jpg",
         "occupations": [
-          "politician",
           "surgeon",
-          "politician",
           "paramedic",
-          "nurse"
+          "nurse",
+          "politician"
         ],
         "education": [
-          "City University of New York",
-          "University of Arizona",
           "DeWitt Clinton High School",
           "Bronx Community College",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "City University of New York",
+          "University of Arizona"
         ],
         "employers": [
           {

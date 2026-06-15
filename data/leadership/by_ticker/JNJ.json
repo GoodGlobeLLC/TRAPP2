@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-15T04:19:17.433737Z",
+  "fetchedAt": "2026-06-15T11:07:20.033425Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -59,8 +59,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -107,8 +107,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -154,16 +154,16 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "chief executive officer",
           "executive",
           "business manager",
           "lecturer",
-          "entrepreneur",
-          "merchant"
+          "chief executive officer",
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
+          "HEC Paris",
           "Sciences Po"
         ],
         "employers": [
@@ -211,10 +211,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -342,13 +342,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "cardiologist"
+          "cardiologist",
+          "university teacher"
         ],
         "education": [
+          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School",
-          "Harvard T.H. Chan School of Public Health"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -492,10 +492,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "University of Southern California",
           "USC Gould School of Law",
-          "Georgetown University Law Center"
+          "Georgetown University Law Center",
+          "Columbia University",
+          "University of Southern California"
         ],
         "employers": [],
         "positions": [
@@ -523,10 +523,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School"
+          "Columbia University"
         ],
         "employers": [
           {
@@ -569,8 +569,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "consultant",
-          "entrepreneur"
+          "entrepreneur",
+          "consultant"
         ],
         "education": [
           "Balliol College"
@@ -604,8 +604,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -723,13 +723,13 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
+          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School",
-          "Syracuse University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -767,10 +767,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
           "molecular biologist",
-          "biochemist",
+          "university teacher",
           "chemist",
-          "crystallographer",
-          "university teacher"
+          "biochemist",
+          "crystallographer"
         ],
         "education": [
           "Pomona College",
@@ -792,6 +792,11 @@
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
