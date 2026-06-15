@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-06-14T09:42:26.540283Z",
+  "fetchedAt": "2026-06-15T04:19:17.431519Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -43,8 +43,8 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "fighter pilot",
-          "businessperson"
+          "businessperson",
+          "fighter pilot"
         ],
         "education": [
           "Yale University"
@@ -196,9 +196,9 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
+          "businessperson",
           "chairman of the executive board",
           "business manager",
-          "businessperson",
           "bank teller"
         ],
         "education": [
@@ -229,8 +229,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -268,12 +268,12 @@
         ],
         "employers": [
           {
-            "company": "University of Michigan",
+            "company": "University of Pittsburgh",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Pittsburgh",
+            "company": "University of Michigan",
             "start": null,
             "end": null
           },

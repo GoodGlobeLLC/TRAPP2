@@ -5,20 +5,15 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "gastroenterologist",
     "university teacher",
-    "physician",
-    "gastroenterologist"
+    "physician"
   ],
   "education": [
     "Harvard College",
     "Harvard Medical School"
   ],
   "employers": [
-    {
-      "company": "Partners HealthCare Connected Health",
-      "start": "2005-01-01",
-      "end": "2008-01-01"
-    },
     {
       "company": "University of Texas Southwestern Medical Center",
       "start": "2008-09-01",
@@ -33,6 +28,11 @@
       "company": "Massachusetts General Hospital",
       "start": "1981-01-01",
       "end": "2005-01-01"
+    },
+    {
+      "company": "Partners HealthCare Connected Health",
+      "start": "2005-01-01",
+      "end": "2008-01-01"
     }
   ],
   "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-14T09:42:26.550367Z",
+  "fetchedAt": "2026-06-15T04:19:17.442398Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           }
         ],
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -103,9 +103,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
           "manager",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Syracuse University",
@@ -200,8 +200,8 @@
           "executive"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -273,9 +273,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
+          "politician",
           "entrepreneur",
-          "business executive",
-          "politician"
+          "business executive"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -305,13 +305,13 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "consultant",
           "podcaster",
           "financier",
-          "writer",
-          "entrepreneur",
+          "consultant",
           "investor",
-          "businessperson"
+          "entrepreneur",
+          "businessperson",
+          "writer"
         ],
         "education": [
           "The Putney School",
@@ -372,8 +372,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Johns Hopkins University",
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           }
         ],
@@ -443,11 +443,11 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "co-founder",
           "philanthropist",
+          "co-founder",
           "art collector",
-          "film producer",
           "programmer",
+          "film producer",
           "musician",
           "television producer",
           "investor",

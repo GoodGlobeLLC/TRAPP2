@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-14T09:42:26.542407Z",
+  "fetchedAt": "2026-06-15T04:19:17.433737Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -154,17 +154,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
+          "chief executive officer",
           "executive",
           "business manager",
-          "chief executive officer",
-          "merchant",
-          "entrepreneur"
+          "lecturer",
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
+          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
-          "Sciences Po",
-          "HEC Paris"
+          "Sciences Po"
         ],
         "employers": [
           {
@@ -207,14 +207,14 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -342,8 +342,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
           "Radcliffe College",
@@ -453,10 +453,10 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology",
           "Harvard University"
         ],
@@ -492,10 +492,10 @@
           "businessperson"
         ],
         "education": [
-          "USC Gould School of Law",
-          "Georgetown University Law Center",
           "Columbia University",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Gould School of Law",
+          "Georgetown University Law Center"
         ],
         "employers": [],
         "positions": [
@@ -523,10 +523,10 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -604,8 +604,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -643,7 +643,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -727,9 +727,9 @@
           "businessperson"
         ],
         "education": [
-          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Syracuse University"
         ],
         "employers": [
           {
@@ -766,11 +766,11 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "crystallographer",
-          "chemist",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "chemist",
+          "crystallographer",
+          "university teacher"
         ],
         "education": [
           "Pomona College",
@@ -779,13 +779,13 @@
         ],
         "employers": [
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "University of California, San Francisco",
+            "start": null,
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {

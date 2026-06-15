@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-14T09:42:26.543139Z",
+  "fetchedAt": "2026-06-15T04:19:17.434486Z",
   "people": [
     {
       "qid": "Q922169",
@@ -24,16 +24,6 @@
         ],
         "employers": [
           {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
-          },
-          {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
             "end": null
@@ -42,6 +32,16 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           },
           {
             "company": "Goldman Sachs",
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1994-01-01",
+            "end": "2019-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -285,14 +285,14 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -510,16 +510,6 @@
         ],
         "employers": [
           {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
-          },
-          {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
             "end": null
@@ -528,6 +518,16 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
           },
           {
             "company": "Goldman Sachs",

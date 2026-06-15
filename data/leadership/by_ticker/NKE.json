@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-14T09:42:26.551868Z",
+  "fetchedAt": "2026-06-15T04:19:17.444048Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "venture capitalist",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "University of Montana"
@@ -137,8 +137,8 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film director",
           "film producer",
+          "film director",
           "rapper",
           "animator"
         ],
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "St Catherine's College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "St Catherine's College"
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -248,9 +248,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
+          "writer",
           "businessperson",
-          "writer"
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
@@ -285,8 +285,8 @@
         ],
         "education": [
           "Dartmouth College",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -310,30 +310,30 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
+          "engineer",
           "presenter",
+          "manager",
           "chief executive officer",
           "computer scientist",
-          "engineer",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
           {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -359,9 +359,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
+          "writer",
           "businessperson",
-          "writer"
+          "entrepreneur"
         ],
         "education": [
           "Oregon State University",
