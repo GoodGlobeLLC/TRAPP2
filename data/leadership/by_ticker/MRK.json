@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-06-14T09:42:26.549642Z",
+  "fetchedAt": "2026-06-15T03:27:19.258170Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -14,15 +14,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "business executive",
           "businessperson",
+          "business executive",
           "lawyer"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
@@ -104,8 +104,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Yale University"
         ],
         "employers": [
           {
@@ -144,23 +144,23 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
-          "Harvard Medical School",
-          "The Bush School",
-          "The Wharton School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Medical School",
+          "The Wharton School",
+          "The Bush School"
         ],
         "employers": [
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           },
@@ -170,17 +170,17 @@
             "end": null
           },
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           },
           {
             "title": "chief executive officer",
@@ -189,10 +189,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           }
         ]
       }
@@ -272,15 +272,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "business executive",
           "businessperson",
+          "business executive",
           "lawyer"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
@@ -368,12 +368,12 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Columbia University"
+          "Columbia University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": [
@@ -405,8 +405,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard University"
+          "Harvard University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -632,8 +632,8 @@
           "biophysicist"
         ],
         "education": [
-          "Pennsylvania State University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "Pennsylvania State University"
         ],
         "employers": [
           {
