@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-14T09:42:26.542407Z",
+  "fetchedAt": "2026-06-15T03:27:19.246837Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -59,8 +59,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -107,8 +107,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -154,17 +154,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
+          "merchant",
           "executive",
           "business manager",
           "chief executive officer",
-          "merchant",
+          "lecturer",
           "entrepreneur"
         ],
         "education": [
+          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
-          "Sciences Po",
-          "HEC Paris"
+          "Sciences Po"
         ],
         "employers": [
           {
@@ -207,15 +207,15 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
+          "Weatherhead School of Management",
           "Case Western Reserve University",
           "Georgetown University Law Center",
           "Emory University",
-          "Georgetown University",
-          "Weatherhead School of Management"
+          "Georgetown University"
         ],
         "employers": [],
         "positions": [
@@ -342,8 +342,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
           "Radcliffe College",
@@ -523,10 +523,10 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -604,8 +604,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -643,7 +643,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -766,11 +766,11 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "crystallographer",
-          "chemist",
           "molecular biologist",
-          "biochemist"
+          "crystallographer",
+          "biochemist",
+          "chemist",
+          "university teacher"
         ],
         "education": [
           "Pomona College",
@@ -779,12 +779,17 @@
         ],
         "employers": [
           {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "University of California, Berkeley",
             "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
+            "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
           },
@@ -792,11 +797,6 @@
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
