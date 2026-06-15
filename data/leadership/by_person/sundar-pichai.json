@@ -5,9 +5,9 @@
   "birthPlace": "Madurai",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundar%20Pichai%20-%202023%20%28cropped%29.jpg",
   "occupations": [
-    "executive",
     "chief executive officer",
-    "computer scientist"
+    "computer scientist",
+    "executive"
   ],
   "education": [
     "Stanford University",
@@ -17,13 +17,13 @@
   ],
   "employers": [
     {
-      "company": "Alphabet Inc.",
-      "start": "2019-01-01",
+      "company": "Google",
+      "start": "2004-01-01",
       "end": null
     },
     {
-      "company": "Google",
-      "start": "2004-01-01",
+      "company": "Alphabet Inc.",
+      "start": "2019-01-01",
       "end": null
     }
   ],

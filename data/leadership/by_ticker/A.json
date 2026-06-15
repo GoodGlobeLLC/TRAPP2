@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-15T04:19:17.401376Z",
+  "fetchedAt": "2026-06-15T11:04:14.944168Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -53,8 +53,8 @@
         "image": null,
         "occupations": [
           "gastroenterologist",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Harvard College",
@@ -104,21 +104,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
           "scientist",
+          "physician",
           "oncologist"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
-          {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          },
           {
             "company": "American Cancer Society",
             "start": "2007-01-01",
@@ -128,6 +123,11 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
-          "Harvard Business School",
           "University of London",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School",
+          "Imperial College London"
         ],
         "employers": [],
         "positions": [
@@ -416,8 +416,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -465,18 +465,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
-          {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
           {
             "company": "Boehringer Ingelheim",
             "start": "2003-01-01",
@@ -486,6 +481,11 @@
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "fetchedAt": "2026-06-15T04:19:17.407263Z",
+  "fetchedAt": "2026-06-15T11:04:14.950593Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -23,6 +23,11 @@
         ],
         "employers": [
           {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -35,11 +40,6 @@
           {
             "company": "IBM Research",
             "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           }
         ],
@@ -274,6 +274,11 @@
         ],
         "employers": [
           {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -286,11 +291,6 @@
           {
             "company": "IBM Research",
             "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           }
         ],

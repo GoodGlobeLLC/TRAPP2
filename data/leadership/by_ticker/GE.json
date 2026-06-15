@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-15T04:19:17.427797Z",
+  "fetchedAt": "2026-06-15T11:04:14.971827Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Wellesley College"
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Tepper School of Business",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "Haas School of Business",
           "University of California, Berkeley",
+          "Haas School of Business",
           "Stanford University"
         ],
         "employers": [],
@@ -282,27 +282,15 @@
           "politician"
         ],
         "education": [
-          "University of Edinburgh",
           "Yale College",
           "St John's College",
+          "University of Edinburgh",
           "Trumbull College",
-          "Abington Senior High School",
-          "Yale College",
-          "St John's College"
+          "Abington Senior High School"
         ],
         "employers": [
           {
             "company": "Fermilab",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "MIT Center for International Studies",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Brookhaven National Laboratory",
             "start": null,
             "end": null
           },
@@ -313,6 +301,16 @@
           },
           {
             "company": "United States Department of Defense",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "MIT Center for International Studies",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Brookhaven National Laboratory",
             "start": null,
             "end": null
           }
@@ -367,8 +365,8 @@
           "business executive"
         ],
         "education": [
-          "University of Paris",
-          "University of Paris 1 Pantheon-Sorbonne"
+          "University of Paris 1 Pantheon-Sorbonne",
+          "University of Paris"
         ],
         "employers": [],
         "positions": [
@@ -409,16 +407,16 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
-          "University of Pennsylvania",
-          "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
-          "Harvard University"
+          "University of Pennsylvania",
+          "Harvard University",
+          "The Bush School",
+          "Stony Brook University"
         ],
         "employers": [
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           },
@@ -428,17 +426,17 @@
             "end": null
           },
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           },
           {
             "title": "chief executive officer",
@@ -447,10 +445,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           }
         ]
       }
