@@ -447,9 +447,9 @@
           "researcher"
         ],
         "education": [
-          "Pritzker School of Medicine",
           "University of California, San Francisco",
-          "Northwestern University"
+          "Northwestern University",
+          "Pritzker School of Medicine"
         ],
         "employers": [],
         "positions": [
@@ -517,13 +517,13 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           },
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           }
         ],

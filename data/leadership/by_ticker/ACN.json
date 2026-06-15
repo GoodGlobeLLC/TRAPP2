@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -268,6 +268,8 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
+          "lyc\u00e9e du Parc",
           "ESSEC Business School",
           "Harvard Business School",
           "Harvard University",
@@ -468,6 +470,11 @@
             "end": "2015-01-01"
           },
           {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
+          },
+          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -476,11 +483,6 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
-          },
-          {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
           }
         ],
         "positions": [

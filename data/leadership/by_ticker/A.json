@@ -115,6 +115,11 @@
         ],
         "employers": [
           {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
+          },
+          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -123,11 +128,6 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
           }
         ],
         "positions": [
