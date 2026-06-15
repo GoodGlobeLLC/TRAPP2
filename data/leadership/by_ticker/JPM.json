@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-15T11:07:20.034105Z",
+  "fetchedAt": "2026-06-15T23:56:59.061523Z",
   "people": [
     {
       "qid": "Q922169",
@@ -24,12 +24,7 @@
         ],
         "employers": [
           {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
@@ -44,7 +39,12 @@
             "end": "1985-01-01"
           },
           {
-            "company": "Goldman Sachs",
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -165,20 +165,20 @@
           "engineer"
         ],
         "education": [
-          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute"
+          "Rensselaer Polytechnic Institute",
+          "Indiana University"
         ],
         "employers": [
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
           {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -289,10 +289,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -405,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
@@ -461,9 +461,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Harvard University",
+          "Colgate University",
           "Harvard Business School",
-          "Colgate University"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -510,12 +510,7 @@
         ],
         "employers": [
           {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
@@ -530,7 +525,12 @@
             "end": "1985-01-01"
           },
           {
-            "company": "Goldman Sachs",
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
+          "businessperson",
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",
