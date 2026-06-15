@@ -35,9 +35,12 @@ jobs:
           python-version: '3.12'
           cache: 'pip'
 
-      - name: Install requirements
-        run: pip install -r requirements.txt
-
+      - name: Install core requirements (must succeed)
+        run: pip install requests pandas fredapi "yfinance>=0.2.50,<0.3"
+ 
+      - name: Install etf-scraper (optional — non-fatal if it breaks)
+        run: pip install "etf-scraper>=0.1.1" || echo "etf-scraper unavailable; ETF holdings step will be skipped"
+      
       - name: Fetch quotes + fundamentals
         run: python pipeline/fetch_data.py
 
