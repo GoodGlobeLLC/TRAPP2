@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-14T09:42:26.518498Z",
+  "fetchedAt": "2026-06-15T03:48:57.073154Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -57,21 +57,16 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
           "Questrom School of Business",
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
           "university teacher",
           "academic",
+          "executive",
+          "dean",
           "computer scientist"
         ],
         "education": [
@@ -366,14 +366,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
+          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University",
-          "Cornell University"
+          "Colorado State University"
         ],
         "employers": [
           {
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -455,21 +455,16 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -484,6 +479,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -526,14 +526,24 @@
         ],
         "employers": [
           {
-            "company": "Johnson & Johnson",
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
           },
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -543,16 +553,6 @@
           {
             "company": "ABB Group",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
             "end": null
           }
         ],
@@ -586,21 +586,16 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,6 +610,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

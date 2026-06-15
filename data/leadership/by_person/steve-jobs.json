@@ -5,15 +5,15 @@
   "birthPlace": "San Francisco",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
-    "technology entrepreneur",
-    "designer",
-    "founder",
-    "financier",
-    "film producer",
     "general manager",
     "executive producer",
-    "computer scientist",
+    "designer",
+    "technology entrepreneur",
+    "founder",
+    "film producer",
+    "financier",
     "inventor",
+    "computer scientist",
     "entrepreneur"
   ],
   "education": [
@@ -23,17 +23,17 @@
   ],
   "employers": [
     {
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "NeXT",
       "start": null,
       "end": null
     },
     {
       "company": "Pixar",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },

@@ -10,23 +10,13 @@
     "university teacher"
   ],
   "education": [
-    "Yale College",
-    "St John's College",
     "University of Edinburgh",
     "Trumbull College",
-    "Abington Senior High School"
+    "Abington Senior High School",
+    "Yale College",
+    "St John's College"
   ],
   "employers": [
-    {
-      "company": "Harvard University",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "United States Department of Defense",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Fermilab",
       "start": null,
@@ -39,6 +29,16 @@
     },
     {
       "company": "Brookhaven National Laboratory",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Harvard University",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "United States Department of Defense",
       "start": null,
       "end": null
     }

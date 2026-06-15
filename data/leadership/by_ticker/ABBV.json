@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-06-14T09:42:26.513774Z",
+  "fetchedAt": "2026-06-15T03:48:57.068143Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -447,9 +447,9 @@
           "researcher"
         ],
         "education": [
-          "Pritzker School of Medicine",
           "University of California, San Francisco",
-          "Northwestern University"
+          "Northwestern University",
+          "Pritzker School of Medicine"
         ],
         "employers": [],
         "positions": [
@@ -508,22 +508,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
+          "nephrologist",
           "researcher",
-          "nephrologist"
+          "academic"
         ],
         "education": [
           "Yale School of Medicine"
         ],
         "employers": [
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           },
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           }
         ],

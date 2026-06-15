@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-06-14T09:42:26.529039Z",
+  "fetchedAt": "2026-06-15T03:48:57.083591Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -234,14 +234,14 @@
         ],
         "employers": [
           {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "University of Colorado Boulder",
             "start": "1985-01-01",
             "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
           }
         ],
         "positions": []
