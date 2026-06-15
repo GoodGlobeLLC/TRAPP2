@@ -66,25 +66,25 @@
       }
     },
     "commodity": {
-      "raw": 0.08811125245780604,
+      "raw": 0.05940950589601981,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "copper_60d_return": 0.0785,
-        "oil_60d_return": -0.1433,
-        "gold_oil_ratio": 49.939,
-        "gold_oil_zscore": -0.845,
+        "copper_60d_return": 0.08,
+        "oil_60d_return": -0.1226,
+        "gold_oil_ratio": 54.376,
+        "gold_oil_zscore": -0.482,
         "n_components": 3
       }
     },
     "crypto": {
-      "raw": -0.6719878220845917,
+      "raw": -0.608857311675778,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "btc_30d_return": -0.1864,
-        "btc_pct_from_50dma": -0.1325,
-        "eth_30d_return": -0.2461,
+        "btc_30d_return": -0.1626,
+        "btc_pct_from_50dma": -0.1149,
+        "eth_30d_return": -0.2127,
         "n_components": 3
       }
     }
