@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-15T11:07:20.035217Z",
+  "fetchedAt": "2026-06-15T23:56:59.062887Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -200,23 +200,13 @@
           "pediatrician"
         ],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health",
           "Johns Hopkins University",
           "Barnard College",
+          "Perelman School of Medicine at the University of Pennsylvania",
+          "Johns Hopkins Bloomberg School of Public Health",
           "University of Pennsylvania"
         ],
         "employers": [
-          {
-            "company": "CARE International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Children's National Hospital",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Gates Foundation",
             "start": null,
@@ -224,6 +214,16 @@
           },
           {
             "company": "United States Centers for Disease Control and Prevention",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "CARE International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Children's National Hospital",
             "start": null,
             "end": null
           }
@@ -250,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "businessperson",
           "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Groningen"
@@ -313,8 +313,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "economist",
+          "banker",
           "businessperson"
         ],
         "education": [
@@ -350,15 +350,25 @@
         "occupations": [
           "social worker",
           "business executive",
-          "sociologist",
-          "politician"
+          "politician",
+          "sociologist"
         ],
         "education": [
-          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College"
+          "Edgewood College",
+          "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "The Coca-Cola Company",
+            "start": "2001-01-01",
+            "end": "2006-01-01"
+          },
+          {
+            "company": "Entergy",
+            "start": null,
+            "end": null
+          },
           {
             "company": "MGM Resorts International",
             "start": null,
@@ -393,30 +403,20 @@
             "company": "Toyota",
             "start": "2006-01-01",
             "end": null
-          },
-          {
-            "company": "The Coca-Cola Company",
-            "start": "2001-01-01",
-            "end": "2006-01-01"
-          },
-          {
-            "company": "Entergy",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "United States Secretary of Labor",
-            "company": null,
-            "start": "1997-05-01",
-            "end": "2001-01-20"
-          },
           {
             "title": "Director of the Office of Public Liaison",
             "company": null,
             "start": "1993-01-20",
             "end": "1997-02-07"
+          },
+          {
+            "title": "United States Secretary of Labor",
+            "company": null,
+            "start": "1997-05-01",
+            "end": "2001-01-20"
           }
         ]
       }

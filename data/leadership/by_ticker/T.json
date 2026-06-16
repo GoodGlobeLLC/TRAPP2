@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-06-15T12:34:35.627680Z",
+  "fetchedAt": "2026-06-16T00:05:19.042099Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -114,8 +114,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "musician",
-          "artist"
+          "artist",
+          "musician"
         ],
         "education": [
           "Trulaske College of Business",
@@ -140,10 +140,10 @@
           "manager"
         ],
         "education": [
+          "Harvard University",
           "Harvard Business School",
           "Collegiate School",
-          "Allen-Stevenson School",
-          "Harvard University"
+          "Allen-Stevenson School"
         ],
         "employers": [],
         "positions": []
@@ -188,32 +188,12 @@
           "lawyer"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Harvard Law School",
+          "Brown University",
           "James B. Dudley High School",
-          "Brown University"
+          "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "Revlon",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Washington Gas",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
-          },
           {
             "company": "Monsanto",
             "start": null,
@@ -233,6 +213,26 @@
             "company": "Marriott International",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -266,9 +266,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {

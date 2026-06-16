@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-15T11:07:20.041327Z",
+  "fetchedAt": "2026-06-15T23:56:59.070379Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -16,10 +16,10 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "entrepreneur",
           "chief executive officer",
-          "computer scientist",
-          "engineer"
+          "entrepreneur",
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -103,9 +103,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
           "manager",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -166,17 +166,17 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -200,8 +200,8 @@
           "executive"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -278,9 +278,9 @@
           "business executive"
         ],
         "education": [
-          "Stanford Law School",
           "Stanford Graduate School of Business",
-          "Harvard College"
+          "Harvard College",
+          "Stanford Law School"
         ],
         "employers": [],
         "positions": [
@@ -305,18 +305,18 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
+          "consultant",
           "podcaster",
           "financier",
-          "consultant",
           "investor",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
+          "Stanford University",
           "The Putney School",
-          "Wolfson College",
-          "Stanford University"
+          "Wolfson College"
         ],
         "employers": [
           {
@@ -397,10 +397,10 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "entrepreneur",
           "chief executive officer",
-          "computer scientist",
-          "engineer"
+          "entrepreneur",
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -443,20 +443,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "co-founder",
-          "film producer",
           "art collector",
           "philanthropist",
-          "investor",
+          "film producer",
+          "co-founder",
           "inventor",
           "programmer",
-          "businessperson",
-          "musician",
           "television producer",
+          "musician",
           "record producer",
+          "investor",
           "computer scientist",
           "entrepreneur",
-          "composer"
+          "composer",
+          "businessperson"
         ],
         "education": [
           "Washington State University",
