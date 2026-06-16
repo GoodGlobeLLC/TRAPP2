@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-15T11:04:14.963962Z",
+  "fetchedAt": "2026-06-16T00:12:30.017789Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -90,8 +90,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard Law School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -197,15 +197,20 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemist",
           "chemical engineer",
+          "chemist",
           "academic administrator"
         ],
         "education": [
-          "University of Southern California",
-          "Princeton University"
+          "Princeton University",
+          "University of Southern California"
         ],
         "employers": [
+          {
+            "company": "Imperial College London",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Massachusetts Institute of Technology",
             "start": null,
@@ -213,11 +218,6 @@
           },
           {
             "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
             "start": null,
             "end": null
           }
@@ -355,8 +355,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "military flight engineer",
-          "engineer"
+          "engineer",
+          "military flight engineer"
         ],
         "education": [
           "Bronx High School of Science",
@@ -456,10 +456,10 @@
           "ambassador"
         ],
         "education": [
-          "Highland High School",
-          "The Wharton School",
           "National Taiwan Normal University",
-          "University of Utah"
+          "University of Utah",
+          "Highland High School",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": [
