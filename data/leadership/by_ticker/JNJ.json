@@ -158,12 +158,12 @@
           "executive",
           "business manager",
           "chief executive officer",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
-          "Lyc\u00e9e Louis-le-Grand",
           "HEC Paris",
+          "Lyc\u00e9e Louis-le-Grand",
           "Sciences Po"
         ],
         "employers": [
@@ -211,10 +211,10 @@
           "politician"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -492,10 +492,10 @@
           "businessperson"
         ],
         "education": [
-          "USC Gould School of Law",
-          "Georgetown University Law Center",
           "Columbia University",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Gould School of Law",
+          "Georgetown University Law Center"
         ],
         "employers": [],
         "positions": [
@@ -789,14 +789,14 @@
             "end": null
           },
           {
-            "company": "Yale University",
-            "start": "1994-01-01",
-            "end": "2002-01-01"
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Yale University",
+            "start": "1994-01-01",
+            "end": "2002-01-01"
           }
         ],
         "positions": [
