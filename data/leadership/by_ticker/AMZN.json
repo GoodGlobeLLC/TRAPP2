@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-15T11:04:14.951358Z",
+  "fetchedAt": "2026-06-16T00:44:52.057854Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard University",
-          "Scarsdale High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -57,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard University",
-          "Scarsdale High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -294,15 +294,15 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "soldier",
           "spy",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
-          "Boston University",
-          "United States Military Academy",
           "Questrom School of Business",
           "Naval Postgraduate School",
+          "Boston University",
+          "United States Military Academy",
           "Westhill Senior High School"
         ],
         "employers": [
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -455,8 +455,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -526,11 +526,6 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
@@ -539,6 +534,11 @@
             "company": "ABB Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Johnson & Johnson",
@@ -586,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [

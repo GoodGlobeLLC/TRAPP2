@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-06-15T11:04:14.946476Z",
+  "fetchedAt": "2026-06-16T00:44:52.052671Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -14,8 +14,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%20Airbnb.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Niskayuna High School",
@@ -163,9 +163,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
+          "businessperson",
           "computer scientist",
-          "business executive",
-          "businessperson"
+          "business executive"
         ],
         "education": [
           "Boston Latin Academy",
@@ -266,6 +266,11 @@
         ],
         "employers": [
           {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
+          },
+          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -276,16 +281,6 @@
             "end": "1996-01-01"
           },
           {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
-          },
-          {
-            "company": "Apple Inc.",
-            "start": "2014-05-01",
-            "end": "2019-05-01"
-          },
-          {
             "company": "Warnaco Group",
             "start": null,
             "end": null
@@ -294,6 +289,11 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "2014-05-01",
+            "end": "2019-05-01"
           }
         ],
         "positions": [
@@ -419,9 +419,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
+          "businessperson",
           "computer scientist",
-          "business executive",
-          "businessperson"
+          "business executive"
         ],
         "education": [
           "Boston Latin Academy",
@@ -456,8 +456,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%20Airbnb.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Niskayuna High School",

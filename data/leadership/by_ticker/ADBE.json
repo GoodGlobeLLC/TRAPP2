@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-06-15T11:04:14.948415Z",
+  "fetchedAt": "2026-06-16T00:44:52.054604Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -452,15 +452,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "computer scientist",
           "software developer",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
           "Carnegie Mellon University"
         ],
         "employers": [
+          {
+            "company": "John Carroll University",
+            "start": "1963-01-01",
+            "end": "1968-01-01"
+          },
           {
             "company": "PARC",
             "start": "1972-01-01",
@@ -470,11 +475,6 @@
             "company": "Adobe",
             "start": null,
             "end": null
-          },
-          {
-            "company": "John Carroll University",
-            "start": "1963-01-01",
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -499,10 +499,10 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "mathematician",
-          "computer scientist",
-          "engineer",
           "entrepreneur",
+          "computer scientist",
+          "mathematician",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -510,11 +510,6 @@
           "University of Utah"
         ],
         "employers": [
-          {
-            "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Adobe",
             "start": null,
@@ -524,6 +519,11 @@
             "company": "PARC",
             "start": "1978-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

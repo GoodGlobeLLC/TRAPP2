@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-06-15T11:07:20.036425Z",
+  "fetchedAt": "2026-06-16T00:44:52.092582Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -169,8 +169,8 @@
           "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -213,9 +213,9 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
           "Georgia Tech",
           "University of West Florida",
+          "United States Naval Academy",
           "Harvard University"
         ],
         "employers": [],
@@ -238,10 +238,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -262,11 +262,11 @@
           "military officer"
         ],
         "education": [
-          "Georgetown University",
-          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy"
+          "The Fletcher School of Law and Diplomacy",
+          "Georgetown University",
+          "Tufts University"
         ],
         "employers": [],
         "positions": [
@@ -313,6 +313,16 @@
         ],
         "employers": [
           {
+            "company": "United States District Court for the Southern District of New York",
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Lockheed Martin",
+            "start": "2017-12-01",
+            "end": null
+          },
+          {
             "company": "U.S. Steel",
             "start": "2020-04-01",
             "end": null
@@ -341,16 +351,6 @@
             "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
             "start": "1984-11-01",
             "end": "1989-01-01"
-          },
-          {
-            "company": "United States District Court for the Southern District of New York",
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Lockheed Martin",
-            "start": "2017-12-01",
-            "end": null
           }
         ],
         "positions": [
@@ -387,8 +387,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "priest",
-          "military officer"
+          "military officer",
+          "priest"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -410,14 +410,14 @@
         "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "manager",
+          "military officer",
           "businessperson",
-          "military officer"
+          "manager"
         ],
         "education": [
+          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science",
-          "Mankato West High School"
+          "London School of Economics and Political Science"
         ],
         "employers": [
           {

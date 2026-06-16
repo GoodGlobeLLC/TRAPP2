@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-15T11:07:20.034105Z",
+  "fetchedAt": "2026-06-16T00:44:52.089162Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,10 +19,15 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -42,11 +47,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -285,8 +285,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Case Western Reserve University",
@@ -405,19 +405,14 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -426,6 +421,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -457,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Harvard University",
+          "Colgate University",
           "Harvard Business School",
-          "Colgate University"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -505,10 +505,15 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -528,11 +533,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

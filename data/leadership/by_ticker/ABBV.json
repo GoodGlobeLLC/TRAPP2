@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-06-15T11:04:14.945861Z",
+  "fetchedAt": "2026-06-16T00:44:52.052017Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -138,8 +138,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Kellogg School of Management",
@@ -509,21 +509,21 @@
         "image": null,
         "occupations": [
           "researcher",
-          "nephrologist",
-          "academic"
+          "academic",
+          "nephrologist"
         ],
         "education": [
           "Yale School of Medicine"
         ],
         "employers": [
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           },
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           }
         ],

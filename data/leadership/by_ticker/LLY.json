@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-15T11:07:20.035895Z",
+  "fetchedAt": "2026-06-16T00:44:52.091872Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -81,8 +81,8 @@
         ],
         "education": [
           "Xavier University",
-          "St. Xavier High School",
-          "Harvard University"
+          "Harvard University",
+          "St. Xavier High School"
         ],
         "employers": [],
         "positions": []
@@ -268,13 +268,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
-          "Harvard University",
-          "Yale University"
+          "Yale University",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -343,6 +343,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -351,11 +356,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -383,9 +383,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -532,8 +532,8 @@
         "image": null,
         "occupations": [
           "cardiologist",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Johns Hopkins School of Medicine",
@@ -580,8 +580,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
           "basketball player",
+          "accountant",
           "businessperson"
         ],
         "education": [
@@ -616,9 +616,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
+          "researcher",
           "oncologist",
-          "university teacher",
-          "researcher"
+          "university teacher"
         ],
         "education": [
           "Duke University"

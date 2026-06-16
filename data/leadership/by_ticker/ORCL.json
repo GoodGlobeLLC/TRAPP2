@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-15T12:34:35.618862Z",
+  "fetchedAt": "2026-06-16T00:44:52.103521Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,15 +15,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
+          "businessperson",
           "actor"
         ],
         "education": [
-          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School"
+          "South Shore High School",
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
+          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda",
-          "Stanford University"
+          "Maharaja Sayajirao University of Baroda"
         ],
         "employers": [
           {
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -268,6 +268,11 @@
             "end": null
           },
           {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
+          },
+          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -276,11 +281,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -305,8 +305,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "academic",
+          "university teacher",
           "businessperson",
           "economist",
           "writer"
@@ -315,11 +315,6 @@
           "University of California, Berkeley"
         ],
         "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Yale University",
             "start": null,
@@ -332,6 +327,11 @@
           },
           {
             "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -356,10 +356,10 @@
           "banker"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -657,15 +657,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
+          "businessperson",
           "actor"
         ],
         "education": [
-          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School"
+          "South Shore High School",
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -720,15 +720,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
+          "businessperson",
           "actor"
         ],
         "education": [
-          "University of Illinois Urbana-Champaign",
           "University of Chicago",
-          "South Shore High School"
+          "South Shore High School",
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
