@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-15T11:07:20.033425Z",
+  "fetchedAt": "2026-06-15T23:56:59.060726Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -158,12 +158,12 @@
           "business manager",
           "lecturer",
           "chief executive officer",
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
-          "Lyc\u00e9e Louis-le-Grand",
           "HEC Paris",
+          "Lyc\u00e9e Louis-le-Grand",
           "Sciences Po"
         ],
         "employers": [
@@ -211,10 +211,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -346,9 +346,9 @@
           "university teacher"
         ],
         "education": [
-          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Harvard T.H. Chan School of Public Health"
         ],
         "employers": [
           {
@@ -492,10 +492,10 @@
           "businessperson"
         ],
         "education": [
-          "USC Gould School of Law",
-          "Georgetown University Law Center",
           "Columbia University",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Gould School of Law",
+          "Georgetown University Law Center"
         ],
         "employers": [],
         "positions": [
@@ -523,9 +523,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
+          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -569,8 +569,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "consultant"
+          "consultant",
+          "entrepreneur"
         ],
         "education": [
           "Balliol College"
@@ -723,8 +723,8 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Syracuse University",
@@ -767,10 +767,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
           "molecular biologist",
-          "university teacher",
-          "chemist",
+          "crystallographer",
           "biochemist",
-          "crystallographer"
+          "chemist",
+          "university teacher"
         ],
         "education": [
           "Pomona College",
@@ -789,14 +789,14 @@
             "end": null
           },
           {
-            "company": "Yale University",
-            "start": "1994-01-01",
-            "end": "2002-01-01"
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Yale University",
+            "start": "1994-01-01",
+            "end": "2002-01-01"
           }
         ],
         "positions": [

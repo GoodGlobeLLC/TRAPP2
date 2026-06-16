@@ -2,7 +2,7 @@
   "qid": "Q1159888",
   "name": "Daniel Akerson",
   "dateOfBirth": "1948-10-21",
-  "birthPlace": "Oakland",
+  "birthPlace": "California",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
   "occupations": [
     "manager",
@@ -10,11 +10,16 @@
     "military officer"
   ],
   "education": [
+    "Mankato West High School",
     "United States Naval Academy",
-    "London School of Economics and Political Science",
-    "Mankato West High School"
+    "London School of Economics and Political Science"
   ],
   "employers": [
+    {
+      "company": "Carlyle Group",
+      "start": null,
+      "end": null
+    },
     {
       "company": "General Motors",
       "start": null,
@@ -22,11 +27,6 @@
     },
     {
       "company": "American Express",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Carlyle Group",
       "start": null,
       "end": null
     }
