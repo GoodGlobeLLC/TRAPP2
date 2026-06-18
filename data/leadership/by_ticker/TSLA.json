@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-06-16T00:44:52.118743Z",
+  "fetchedAt": "2026-06-18T02:50:29.364970Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,16 +14,16 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
-          "inventor",
-          "technology entrepreneur",
-          "dub actor",
           "programmer",
+          "dub actor",
           "financier",
           "investor",
+          "technology entrepreneur",
+          "civil servant",
+          "inventor",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
@@ -53,11 +53,6 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
-          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -66,6 +61,11 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
           },
           {
             "company": "Tesla",
@@ -140,11 +140,6 @@
         ],
         "employers": [
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Toyota Australia",
             "start": "1989-01-01",
             "end": "1996-01-01"
@@ -173,6 +168,11 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -336,11 +336,6 @@
         ],
         "employers": [
           {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Toyota Australia",
             "start": "1989-01-01",
             "end": "1996-01-01"
@@ -369,6 +364,11 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -457,8 +457,8 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
-          "environmentalist",
           "restaurateur",
+          "environmentalist",
           "entrepreneur"
         ],
         "education": [
@@ -488,8 +488,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
           "chief technology officer",
-          "businessperson",
-          "inventor"
+          "inventor",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -524,16 +524,16 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
-          "inventor",
-          "technology entrepreneur",
-          "dub actor",
           "programmer",
+          "dub actor",
           "financier",
           "investor",
+          "technology entrepreneur",
+          "civil servant",
+          "inventor",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
@@ -563,11 +563,6 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
-          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -576,6 +571,11 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
           },
           {
             "company": "Tesla",
@@ -641,8 +641,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "actor"
         ],
@@ -703,8 +703,8 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "publisher",
           "karateka",
+          "publisher",
           "businessperson"
         ],
         "education": [
