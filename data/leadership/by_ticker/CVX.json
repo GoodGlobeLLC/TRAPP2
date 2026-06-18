@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-16T00:44:52.072422Z",
+  "fetchedAt": "2026-06-18T03:00:54.040439Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University",
-          "University of Michigan Law School"
+          "Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -90,8 +90,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -153,8 +153,8 @@
         "education": [
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -197,20 +197,15 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemical engineer",
           "chemist",
+          "chemical engineer",
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
-          {
-            "company": "Imperial College London",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Massachusetts Institute of Technology",
             "start": null,
@@ -218,6 +213,11 @@
           },
           {
             "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Imperial College London",
             "start": null,
             "end": null
           }
@@ -393,24 +393,24 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
           "economist",
-          "writer"
+          "author"
         ],
         "education": [
+          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "John F. Kennedy School of Government",
           "University of Oxford",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           },
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -449,11 +449,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
-          "politician",
+          "ambassador",
+          "missionary",
           "governor",
-          "ambassador"
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-16T00:44:52.081334Z",
+  "fetchedAt": "2026-06-18T03:00:54.047277Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -257,9 +257,9 @@
           "businessperson"
         ],
         "education": [
+          "Haas School of Business",
           "University of California, Berkeley",
-          "Stanford University",
-          "Haas School of Business"
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -277,23 +277,18 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "university teacher",
+          "politician",
           "physicist",
-          "politician"
+          "university teacher"
         ],
         "education": [
+          "University of Edinburgh",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
           "Trumbull College",
           "Abington Senior High School"
         ],
         "employers": [
-          {
-            "company": "Fermilab",
-            "start": null,
-            "end": null
-          },
           {
             "company": "MIT Center for International Studies",
             "start": null,
@@ -311,6 +306,11 @@
           },
           {
             "company": "United States Department of Defense",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Fermilab",
             "start": null,
             "end": null
           }
@@ -361,12 +361,12 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
-          "University of Paris 1 Pantheon-Sorbonne",
-          "University of Paris"
+          "University of Paris",
+          "University of Paris 1 Pantheon-Sorbonne"
         ],
         "employers": [],
         "positions": [
@@ -407,12 +407,12 @@
           "physician"
         ],
         "education": [
+          "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University",
           "Stony Brook University",
-          "The Bush School"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -488,10 +488,10 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film producer",
-          "film director",
           "mathematician",
+          "film producer",
           "inventor",
+          "film director",
           "entrepreneur",
           "engineer",
           "physicist",

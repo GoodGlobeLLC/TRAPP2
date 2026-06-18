@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-06-16T00:44:52.059702Z",
+  "fetchedAt": "2026-06-18T03:00:54.030823Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -37,17 +37,17 @@
             "end": "2005-01-01"
           },
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -271,8 +271,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -333,17 +333,17 @@
             "end": "2005-01-01"
           },
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }

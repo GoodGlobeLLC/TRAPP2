@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-16T00:44:52.050039Z",
+  "fetchedAt": "2026-06-18T03:00:54.022660Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "gastroenterologist",
           "university teacher",
-          "physician"
+          "physician",
+          "gastroenterologist"
         ],
         "education": [
           "Harvard College",
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
+          "scientist",
           "physician"
         ],
         "education": [
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
           "University of London",
-          "Harvard Business School",
-          "Harvard University"
+          "Imperial College London",
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -259,11 +259,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +272,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -422,6 +422,11 @@
         "education": [],
         "employers": [
           {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
+          },
+          {
             "company": "Cisco",
             "start": "2007-10-01",
             "end": "2014-06-01"
@@ -430,11 +435,6 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
-          },
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -514,8 +514,8 @@
           "biologist"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [

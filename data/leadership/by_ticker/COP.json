@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-06-16T00:44:52.068033Z",
+  "fetchedAt": "2026-06-18T03:00:54.037481Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -26,27 +26,6 @@
       }
     },
     {
-      "qid": "Q23761615",
-      "name": "Robert Niblock",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q23761615",
-        "name": "Robert Niblock",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "University of North Carolina at Charlotte"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q7384237",
       "name": "Ryan Lance",
       "role_at_company": "Board Member",
@@ -70,29 +49,6 @@
       }
     },
     {
-      "qid": "Q6261653",
-      "name": "John V. Faraci",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6261653",
-        "name": "John V. Faraci",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "University of Michigan",
-          "Denison University",
-          "Ross School of Business"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q6208064",
       "name": "Jody Freeman",
       "role_at_company": "Board Member",
@@ -104,12 +60,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jody%20Freeman%20at%20Metcalf%20Institute.jpg",
         "occupations": [
-          "lawyer",
-          "jurist"
+          "jurist",
+          "lawyer"
         ],
         "education": [
-          "University of Toronto",
           "Harvard Law School",
+          "University of Toronto",
           "Stanford University"
         ],
         "employers": [
@@ -140,29 +96,6 @@
       }
     },
     {
-      "qid": "Q5075882",
-      "name": "Charles Bunch",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5075882",
-        "name": "Charles Bunch",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Georgetown University",
-          "Harvard Business School",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q522205",
       "name": "William H. McRaven",
       "role_at_company": "Board Member",
@@ -174,8 +107,8 @@
         "birthPlace": "Pinehurst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ADM%20William%20H.%20McRaven%202012.jpg",
         "occupations": [
-          "admiral",
-          "military officer"
+          "military officer",
+          "admiral"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -354,8 +287,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "Stanford University"
+          "Stanford University",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []

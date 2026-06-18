@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-06-16T00:44:52.068496Z",
+  "fetchedAt": "2026-06-18T03:00:54.037817Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -50,9 +50,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Harvard University",
           "Perelman School of Medicine at the University of Pennsylvania",
-          "The Wharton School",
-          "Harvard University"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -268,25 +268,6 @@
             "end": null
           }
         ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6669610",
-      "name": "Lon R. Greenberg",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6669610",
-        "name": "Lon R. Greenberg",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [],
-        "employers": [],
         "positions": []
       }
     },
