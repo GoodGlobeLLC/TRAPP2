@@ -130,10 +130,21 @@ def is_fresh(ticker, max_age_days):
 
 
 def fetch_one(ticker, years):
-    """Return a list of {date, close, volume} dicts (ascending) or None."""
+    """Return a list of {date, close, volume} dicts (ascending) or None.
+
+    Uses an explicit start..end window that ENDS YESTERDAY (UTC), never today.
+    This is deliberate: today's bar is the live/intraday price, which the quote
+    and nightly pipelines own. Backfilling only settled history (through
+    yesterday) means this job can never overwrite the current live price on a
+    chart — it only fills in the older daily bars.
+    """
     try:
+        today = datetime.now(timezone.utc).date()
+        end = today                      # yfinance 'end' is EXCLUSIVE, so end=today => last bar = yesterday
+        start = end - timedelta(days=int(years * 365.25) + 5)
         t = yf.Ticker(ticker)
-        df = t.history(period=f"{years}y", interval="1d", auto_adjust=False)
+        df = t.history(start=start.isoformat(), end=end.isoformat(),
+                       interval="1d", auto_adjust=False)
     except Exception as e:
         log(f"  ✗ {ticker}: {e}")
         return None
@@ -210,8 +221,28 @@ def main():
             failed.append(tic)
             continue
         out_path = HISTORY_DIR / f"{tic}.json"
-        out_path.write_text(json.dumps(bars, separators=(",", ":")))
-        spans[tic] = {"first": bars[0]["date"], "last": bars[-1]["date"], "rows": len(bars)}
+        # MERGE with whatever is already stored so we never DROP bars we don't
+        # re-fetch — in particular, if the live/nightly pipeline already wrote
+        # today's bar (newer than our yesterday end), keep it. Union by date,
+        # newest write wins per date, ascending order preserved.
+        existing = []
+        if out_path.exists():
+            try:
+                prev = json.loads(out_path.read_text())
+                if isinstance(prev, list):
+                    existing = prev
+            except Exception:
+                existing = []
+        by_date = {}
+        for b in existing:
+            d = b.get("date")
+            if d:
+                by_date[d] = b
+        for b in bars:          # our freshly-fetched settled history overwrites same-date entries
+            by_date[b["date"]] = b
+        merged = [by_date[d] for d in sorted(by_date.keys())]
+        out_path.write_text(json.dumps(merged, separators=(",", ":")))
+        spans[tic] = {"first": merged[0]["date"], "last": merged[-1]["date"], "rows": len(merged)}
         successful.append(tic)
         if i % 20 == 0:
             log(f"  … {i}/{len(tickers)} · {len(successful)} fetched · "
