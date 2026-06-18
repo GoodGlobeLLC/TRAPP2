@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-06-18T03:34:08.190659Z",
+  "fetchedAt": "2026-06-18T05:50:10.213141Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,20 +14,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
+          "computer scientist",
           "programmer",
+          "patron of the arts",
           "philanthropist",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer"
         ],
         "education": [
-          "Phillips Exeter Academy",
-          "Harvard University",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
-          "New York Medical College"
+          "New York Medical College",
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -132,8 +132,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -165,6 +165,11 @@
         ],
         "employers": [
           {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -186,11 +191,6 @@
           },
           {
             "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -282,8 +282,8 @@
         "birthPlace": "Acton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Drew%20Houston.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -360,20 +360,20 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "manager",
           "chess player",
-          "entrepreneur",
-          "investor",
-          "computer scientist",
+          "manager",
+          "technology entrepreneur",
           "financier",
           "banker",
+          "investor",
+          "computer scientist",
+          "entrepreneur",
           "author"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -410,24 +410,18 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "economist",
           "businessperson",
           "entrepreneur",
+          "economist",
           "computer scientist"
         ],
         "education": [
+          "North Miami Beach High School",
           "Harvard Business School",
-          "Harvard College",
-          "North Miami Beach High School"
+          "Harvard College"
         ],
         "employers": [],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "vice president",
             "company": null,
@@ -461,6 +455,12 @@
           {
             "title": "board member",
             "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
             "start": "2012-01-01",
             "end": null
           },
@@ -485,13 +485,13 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "blogger",
           "programmer",
+          "blogger",
           "software engineer",
-          "computer scientist",
           "investor",
           "inventor",
           "entrepreneur",
+          "computer scientist",
           "engineer"
         ],
         "education": [
@@ -532,20 +532,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
+          "computer scientist",
           "programmer",
+          "patron of the arts",
           "philanthropist",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer"
         ],
         "education": [
-          "Phillips Exeter Academy",
-          "Harvard University",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
-          "New York Medical College"
+          "New York Medical College",
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -604,20 +604,20 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
+          "computer scientist",
           "programmer",
+          "patron of the arts",
           "philanthropist",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer"
         ],
         "education": [
-          "Phillips Exeter Academy",
-          "Harvard University",
           "Mercy University",
           "Johns Hopkins Center for Talented Youth",
           "Ardsley High School",
-          "New York Medical College"
+          "New York Medical College",
+          "Phillips Exeter Academy",
+          "Harvard University"
         ],
         "employers": [
           {

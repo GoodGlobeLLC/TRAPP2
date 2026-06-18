@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-06-18T03:34:08.181005Z",
+  "fetchedAt": "2026-06-18T05:50:10.204158Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -89,8 +89,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -196,9 +196,9 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "bank teller",
           "chairman of the executive board",
           "business manager",
+          "bank teller",
           "businessperson"
         ],
         "education": [
@@ -259,8 +259,8 @@
         "birthPlace": "Stamford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20E.%20Pollack%20in%202017.jpg",
         "occupations": [
-          "university president",
-          "computer scientist"
+          "computer scientist",
+          "university president"
         ],
         "education": [
           "University of Pennsylvania",
@@ -268,12 +268,12 @@
         ],
         "employers": [
           {
-            "company": "University of Pittsburgh",
+            "company": "University of Michigan",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Michigan",
+            "company": "University of Pittsburgh",
             "start": null,
             "end": null
           },
@@ -333,9 +333,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -417,8 +417,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [],
@@ -552,8 +552,8 @@
         "birthPlace": "Darwin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
           "Darwin High School",
@@ -610,9 +610,9 @@
         "birthPlace": "Campbell",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20J%20Watson%20Sr.jpg",
         "occupations": [
+          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "chief executive officer"
+          "computer scientist"
         ],
         "education": [
           "Columbia University"

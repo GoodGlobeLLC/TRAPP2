@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-18T03:34:08.176927Z",
+  "fetchedAt": "2026-06-18T05:50:10.200536Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Tepper School of Business",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "University of California, Berkeley",
+          "Stanford University",
           "Haas School of Business"
         ],
         "employers": [],
@@ -277,14 +277,14 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "physicist",
           "university teacher",
-          "politician",
-          "physicist"
+          "politician"
         ],
         "education": [
-          "University of Edinburgh",
           "Yale College",
           "St John's College",
+          "University of Edinburgh",
           "Trumbull College",
           "Abington Senior High School"
         ],
@@ -295,22 +295,22 @@
             "end": null
           },
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "MIT Center for International Studies",
             "start": null,
             "end": null
           },
           {
             "company": "Brookhaven National Laboratory",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
             "start": null,
             "end": null
           }
@@ -335,16 +335,16 @@
             "end": "2011-10-05"
           },
           {
-            "title": "United States Secretary of Defense",
-            "company": null,
-            "start": "2015-02-17",
-            "end": "2017-01-19"
-          },
-          {
             "title": "Assistant Secretary of Defense for Global Strategic Affairs",
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
+          },
+          {
+            "title": "United States Secretary of Defense",
+            "company": null,
+            "start": "2015-02-17",
+            "end": "2017-01-19"
           }
         ]
       }
@@ -361,12 +361,12 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "University of Paris",
-          "University of Paris 1 Pantheon-Sorbonne"
+          "University of Paris 1 Pantheon-Sorbonne",
+          "University of Paris"
         ],
         "employers": [],
         "positions": [
@@ -407,12 +407,12 @@
           "administrator"
         ],
         "education": [
-          "The Bush School",
-          "The Wharton School",
+          "Stony Brook University",
+          "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University",
-          "Stony Brook University",
-          "Harvard Medical School"
+          "The Bush School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
           "Suffield Academy",
-          "The Wharton School"
+          "The Wharton School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -488,10 +488,10 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "mathematician",
+          "film director",
           "film producer",
           "inventor",
-          "film director",
+          "mathematician",
           "entrepreneur",
           "physicist",
           "engineer",

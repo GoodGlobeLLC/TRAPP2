@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-18T03:34:08.185626Z",
+  "fetchedAt": "2026-06-18T05:50:10.208427Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -250,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "businessperson",
           "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of Groningen"
@@ -274,12 +274,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -313,8 +313,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
           "banker",
+          "economist",
           "businessperson"
         ],
         "education": [
@@ -348,22 +348,17 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "sociologist",
-          "business executive",
           "social worker",
+          "business executive",
+          "sociologist",
           "politician"
         ],
         "education": [
+          "Spring Hill College",
           "Edgewood College",
-          "Xavier University of Louisiana",
-          "Spring Hill College"
+          "Xavier University of Louisiana"
         ],
         "employers": [
-          {
-            "company": "Southern Regional Council",
-            "start": null,
-            "end": null
-          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -403,6 +398,11 @@
             "company": "United States Women's Bureau",
             "start": "1977-04-04",
             "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

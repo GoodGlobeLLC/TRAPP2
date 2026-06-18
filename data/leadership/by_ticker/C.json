@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-06-18T03:34:08.162336Z",
+  "fetchedAt": "2026-06-18T05:50:10.184744Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -256,18 +256,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -330,8 +330,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Lee%20pg736.jpg",
         "occupations": [
           "film actor",
-          "television actor",
           "voice actor",
+          "television actor",
           "actor"
         ],
         "education": [

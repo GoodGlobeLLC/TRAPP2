@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-18T03:34:08.148393Z",
+  "fetchedAt": "2026-06-18T05:50:10.172633Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "gastroenterologist",
           "university teacher",
-          "physician",
-          "gastroenterologist"
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [
@@ -157,9 +157,9 @@
         ],
         "education": [
           "University of London",
+          "Harvard Business School",
           "Imperial College London",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -416,8 +416,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
@@ -510,12 +510,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [

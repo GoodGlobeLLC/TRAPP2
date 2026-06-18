@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-18T03:34:08.168856Z",
+  "fetchedAt": "2026-06-18T05:50:10.193190Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -112,9 +112,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Georgia Tech",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -197,8 +197,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemist",
           "chemical engineer",
+          "chemist",
           "academic administrator"
         ],
         "education": [
@@ -206,11 +206,6 @@
           "Princeton University"
         ],
         "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Massachusetts Institute of Technology",
             "start": null,
@@ -222,7 +217,7 @@
             "end": null
           },
           {
-            "company": "Imperial College London",
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -274,8 +269,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "University of Colorado",
@@ -401,21 +396,21 @@
           "author"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
+          "John F. Kennedy School of Government",
           "University of Oxford",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -454,16 +449,17 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "missionary",
           "diplomat",
+          "politician",
           "governor",
-          "ambassador",
-          "politician"
+          "ambassador"
         ],
         "education": [
-          "Highland High School",
-          "The Wharton School",
           "National Taiwan Normal University",
-          "University of Utah"
+          "University of Utah",
+          "Highland High School",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": [

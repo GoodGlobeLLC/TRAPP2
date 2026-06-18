@@ -5,10 +5,9 @@
   "birthPlace": "California",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
   "occupations": [
+    "electrical engineer",
     "university teacher",
     "electrotechnician",
-    "academic",
-    "electrical engineer",
     "computer scientist",
     "academic"
   ],
@@ -18,23 +17,18 @@
   ],
   "employers": [
     {
-      "company": "Princeton University",
-      "start": "2020-01-01",
-      "end": null
-    },
-    {
       "company": "California Institute of Technology",
       "start": null,
       "end": null
     },
     {
-      "company": "Princeton University",
-      "start": "2020-01-01",
+      "company": "Stanford University",
+      "start": null,
       "end": null
     },
     {
-      "company": "Stanford University",
-      "start": null,
+      "company": "Princeton University",
+      "start": "2020-01-01",
       "end": null
     }
   ],

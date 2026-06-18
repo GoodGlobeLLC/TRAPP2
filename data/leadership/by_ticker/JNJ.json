@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-18T03:34:08.183403Z",
+  "fetchedAt": "2026-06-18T05:50:10.206442Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -58,9 +58,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -106,9 +106,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -163,8 +163,8 @@
         ],
         "education": [
           "HEC Paris",
-          "Sciences Po",
-          "Lyc\u00e9e Louis-le-Grand"
+          "Lyc\u00e9e Louis-le-Grand",
+          "Sciences Po"
         ],
         "employers": [
           {
@@ -207,8 +207,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Case Western Reserve University",
@@ -342,13 +342,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "cardiologist"
+          "cardiologist",
+          "university teacher"
         ],
         "education": [
-          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Harvard T.H. Chan School of Public Health"
         ],
         "employers": [
           {
@@ -382,9 +382,9 @@
           "physician"
         ],
         "education": [
-          "George Washington University Medical School",
           "George Washington University",
-          "United States Military Academy"
+          "United States Military Academy",
+          "George Washington University Medical School"
         ],
         "employers": [],
         "positions": [
@@ -453,11 +453,11 @@
           "physician"
         ],
         "education": [
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology",
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
           "Harvard University"
         ],
         "employers": [],
@@ -569,8 +569,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "consultant",
-          "entrepreneur"
+          "entrepreneur",
+          "consultant"
         ],
         "education": [
           "Balliol College"
@@ -690,8 +690,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "university teacher"
+          "university teacher",
+          "business executive"
         ],
         "education": [],
         "employers": [],
@@ -768,8 +768,8 @@
         "occupations": [
           "molecular biologist",
           "crystallographer",
-          "chemist",
           "biochemist",
+          "chemist",
           "university teacher"
         ],
         "education": [
@@ -779,17 +779,12 @@
         ],
         "employers": [
           {
-            "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of California, Berkeley",
             "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           },
@@ -797,6 +792,11 @@
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

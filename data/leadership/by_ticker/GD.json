@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-06-18T03:34:08.176351Z",
+  "fetchedAt": "2026-06-18T05:50:10.199965Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -23,6 +23,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -30,11 +35,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -251,8 +251,8 @@
         ],
         "education": [
           "Duke University",
-          "Booth School of Business",
-          "University of Chicago"
+          "University of Chicago",
+          "Booth School of Business"
         ],
         "employers": [],
         "positions": []
@@ -270,8 +270,8 @@
         "birthPlace": "Ipswich",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Sir%20Peter%20Wall%20in%20No%201%20uniform.jpg",
         "occupations": [
-          "military personnel",
-          "engineer"
+          "engineer",
+          "military personnel"
         ],
         "education": [
           "Whitgift School",
@@ -333,6 +333,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -340,11 +345,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -376,9 +376,9 @@
         "birthPlace": "Pullman",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mattis%20official%20photo.jpg",
         "occupations": [
-          "army officer",
+          "military officer",
           "politician",
-          "military officer"
+          "army officer"
         ],
         "education": [
           "Richland High School",

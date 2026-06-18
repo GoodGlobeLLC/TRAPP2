@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-06-18T03:34:08.210578Z",
+  "fetchedAt": "2026-06-18T05:50:10.230914Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,29 +14,34 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
+          "financier",
+          "investor",
           "programmer",
           "dub actor",
           "technology entrepreneur",
-          "financier",
-          "investor",
-          "engineer",
-          "entrepreneur",
+          "politician",
+          "civil servant",
           "inventor",
-          "politician"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pennsylvania",
           "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
           {
             "company": "SolarCity",
             "start": null,
@@ -48,13 +53,8 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -63,13 +63,13 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -155,11 +155,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -178,6 +173,11 @@
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -223,9 +223,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -351,11 +351,6 @@
             "end": "2013-01-01"
           },
           {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -374,6 +369,11 @@
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           }
         ],
         "positions": [
@@ -457,8 +457,8 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
-          "restaurateur",
           "environmentalist",
+          "restaurateur",
           "entrepreneur"
         ],
         "education": [
@@ -487,9 +487,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "businessperson",
           "chief technology officer",
-          "inventor"
+          "inventor",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -524,29 +524,34 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
+          "financier",
+          "investor",
           "programmer",
           "dub actor",
           "technology entrepreneur",
-          "financier",
-          "investor",
-          "engineer",
-          "entrepreneur",
+          "politician",
+          "civil servant",
           "inventor",
-          "politician"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pennsylvania",
           "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
+          },
           {
             "company": "SolarCity",
             "start": null,
@@ -558,13 +563,8 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -573,13 +573,13 @@
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
@@ -640,9 +640,9 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
           "businessperson",
+          "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],
@@ -704,8 +704,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
           "karateka",
-          "businessperson",
-          "publisher"
+          "publisher",
+          "businessperson"
         ],
         "education": [
           "Horace Mann School",
@@ -740,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

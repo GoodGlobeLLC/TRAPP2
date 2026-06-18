@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-06-18T03:34:08.200548Z",
+  "fetchedAt": "2026-06-18T05:50:10.222133Z",
   "people": [
     {
       "qid": "Q16204157",
@@ -36,14 +36,14 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "manager",
           "chess player",
-          "entrepreneur",
-          "investor",
-          "computer scientist",
+          "manager",
+          "technology entrepreneur",
           "financier",
           "banker",
+          "investor",
+          "computer scientist",
+          "entrepreneur",
           "author"
         ],
         "education": [
@@ -108,20 +108,15 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
+          "venture capitalist",
           "angel investor",
-          "businessperson",
-          "venture capitalist"
+          "businessperson"
         ],
         "education": [
           "Mission San Jose High School",
           "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
-          },
           {
             "company": "Addepar",
             "start": "2009-01-01",
@@ -146,6 +141,11 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -182,14 +182,14 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "manager",
           "chess player",
-          "entrepreneur",
-          "investor",
-          "computer scientist",
+          "manager",
+          "technology entrepreneur",
           "financier",
           "banker",
+          "investor",
+          "computer scientist",
+          "entrepreneur",
           "author"
         ],
         "education": [

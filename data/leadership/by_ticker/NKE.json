@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-18T03:34:08.194487Z",
+  "fetchedAt": "2026-06-18T05:50:10.216607Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "venture capitalist"
+          "venture capitalist",
+          "businessperson"
         ],
         "education": [
           "University of Montana"
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -284,8 +284,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Dartmouth College",
+          "Stanford University",
           "Stanford Graduate School of Business"
         ],
         "employers": [
@@ -310,12 +310,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
           "presenter",
+          "engineer",
           "computer scientist",
-          "chief executive officer",
+          "manager",
           "businessperson",
-          "engineer"
+          "chief executive officer"
         ],
         "education": [
           "Auburn University",

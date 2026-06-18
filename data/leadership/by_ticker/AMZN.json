@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-18T03:34:08.155475Z",
+  "fetchedAt": "2026-06-18T05:50:10.179033Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -55,10 +55,10 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "business oligarch",
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -67,11 +67,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -294,8 +294,8 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "spy",
           "soldier",
+          "spy",
           "intelligence officer"
         ],
         "education": [
@@ -334,11 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "university teacher",
           "executive",
           "dean",
-          "academic",
           "computer scientist",
-          "university teacher"
+          "academic"
         ],
         "education": [
           "University of Michigan",
@@ -453,10 +453,10 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "business oligarch",
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -465,11 +465,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -484,6 +479,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -531,17 +531,17 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
           {
             "company": "ABB Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -584,10 +584,10 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "business oligarch",
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -596,11 +596,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,6 +610,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

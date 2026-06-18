@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-18T03:34:08.149552Z",
+  "fetchedAt": "2026-06-18T05:50:10.173560Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,12 +14,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
           "presenter",
+          "engineer",
           "computer scientist",
-          "chief executive officer",
+          "manager",
           "businessperson",
-          "engineer"
+          "chief executive officer"
         ],
         "education": [
           "Auburn University",
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
-          "Princeton University",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
           "climate activist",
-          "blogger",
-          "environmentalist",
-          "financier",
+          "orator",
           "journalist",
           "university teacher",
+          "environmentalist",
+          "financier",
+          "blogger",
           "farmer",
+          "author",
           "businessperson",
-          "politician",
-          "author"
+          "politician"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -244,12 +244,6 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -286,14 +280,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
-          "Princeton University",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -361,29 +355,24 @@
         "occupations": [
           "programmer",
           "electronics technician",
+          "entrepreneur",
           "inventor",
           "businessperson",
-          "entrepreneur",
           "computer scientist",
           "engineer",
-          "actor",
-          "teacher"
+          "teacher",
+          "actor"
         ],
         "education": [
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
           {
             "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -394,6 +383,11 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -443,11 +437,11 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "designer",
           "film producer",
-          "founder",
+          "designer",
+          "technology entrepreneur",
           "financier",
+          "founder",
           "general manager",
           "executive producer",
           "entrepreneur",
@@ -471,12 +465,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-18T03:34:08.182080Z",
+  "fetchedAt": "2026-06-18T05:50:10.205216Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,10 +14,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "businessperson",
-          "engineer",
           "chemist",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -54,9 +54,9 @@
           "engineer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -156,10 +156,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
+          "scientist",
           "engineer",
           "professor",
-          "engineer",
-          "scientist",
           "author"
         ],
         "education": [
@@ -167,11 +166,6 @@
           "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -181,6 +175,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -264,13 +263,13 @@
           "philanthropist",
           "chemist",
           "physicist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
+          "University of California, Berkeley",
           "California Institute of Technology"
         ],
         "employers": [
@@ -295,14 +294,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
+          "businessperson",
           "inventor",
           "physicist",
-          "computer scientist",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
         ],
         "employers": [
           {
@@ -347,10 +346,9 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "electrical engineer",
           "university teacher",
           "electrotechnician",
-          "academic",
-          "electrical engineer",
           "computer scientist",
           "academic"
         ],
@@ -360,23 +358,18 @@
         ],
         "employers": [
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
-            "end": null
-          },
-          {
             "company": "California Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           }
         ],
@@ -426,12 +419,12 @@
           "administrator"
         ],
         "education": [
-          "The Wharton School",
+          "Stony Brook University",
           "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University",
-          "Stony Brook University",
-          "The Bush School"
+          "The Bush School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -488,9 +481,9 @@
           "engineer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -522,9 +515,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Strongsville High School",
-          "University of Cincinnati"
+          "University of Cincinnati",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -542,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -564,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -606,8 +599,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "board member"
         ],
         "education": [],
@@ -655,10 +648,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
+          "scientist",
           "engineer",
           "professor",
-          "engineer",
-          "scientist",
           "author"
         ],
         "education": [
@@ -666,11 +658,6 @@
           "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -680,6 +667,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -719,13 +711,13 @@
           "philanthropist",
           "chemist",
           "physicist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
+          "University of California, Berkeley",
           "California Institute of Technology"
         ],
         "employers": [
@@ -750,14 +742,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
+          "businessperson",
           "inventor",
           "physicist",
-          "computer scientist",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
         ],
         "employers": [
           {

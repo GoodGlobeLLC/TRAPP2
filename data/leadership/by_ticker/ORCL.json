@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-18T03:34:08.197039Z",
+  "fetchedAt": "2026-06-18T05:50:10.218958Z",
   "people": [
     {
       "qid": "Q92759",
@@ -14,9 +14,9 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
           "businessperson",
+          "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
-          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda"
+          "Maharaja Sayajirao University of Baroda",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -220,9 +220,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
           "Georgia Tech",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -356,10 +356,10 @@
           "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -532,8 +532,8 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "university teacher",
           "Oberleutnant",
+          "university teacher",
           "political scientist",
           "jurist",
           "lawyer",
@@ -546,12 +546,12 @@
         ],
         "employers": [
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           },
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           }
@@ -612,6 +612,12 @@
             "end": "1993-01-03"
           },
           {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -628,12 +634,6 @@
             "company": null,
             "start": "2009-02-13",
             "end": "2011-06-30"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
@@ -656,9 +656,9 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
           "businessperson",
+          "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],
@@ -719,9 +719,9 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "aircraft pilot",
           "businessperson",
+          "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],

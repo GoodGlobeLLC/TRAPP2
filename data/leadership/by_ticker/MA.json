@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-06-18T03:34:08.188586Z",
+  "fetchedAt": "2026-06-18T05:50:10.211258Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -36,6 +31,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -116,9 +116,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Business School",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -164,11 +164,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -177,6 +172,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -286,8 +286,8 @@
           "teacher"
         ],
         "education": [
-          "Stanford University",
-          "Yale University"
+          "Yale University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -357,8 +357,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "California State University, Fullerton"
@@ -437,9 +437,9 @@
         ],
         "education": [
           "Harvard Law School",
+          "Columbia University",
           "Marsha Stern Talmudical Academy",
-          "Columbia College",
-          "Columbia University"
+          "Columbia College"
         ],
         "employers": [],
         "positions": [

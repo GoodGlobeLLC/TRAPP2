@@ -7,8 +7,8 @@
   "occupations": [
     "molecular biologist",
     "crystallographer",
-    "chemist",
     "biochemist",
+    "chemist",
     "university teacher"
   ],
   "education": [
@@ -18,17 +18,12 @@
   ],
   "employers": [
     {
-      "company": "University of California, San Francisco",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "University of California, Berkeley",
       "start": "2002-01-01",
       "end": null
     },
     {
-      "company": "Howard Hughes Medical Institute",
+      "company": "University of California, San Francisco",
       "start": null,
       "end": null
     },
@@ -36,6 +31,11 @@
       "company": "Yale University",
       "start": "1994-01-01",
       "end": "2002-01-01"
+    },
+    {
+      "company": "Howard Hughes Medical Institute",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [

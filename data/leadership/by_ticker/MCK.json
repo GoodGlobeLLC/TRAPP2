@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-06-18T03:34:08.189503Z",
+  "fetchedAt": "2026-06-18T05:50:10.212117Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -165,6 +165,11 @@
             "end": "2018-04-01"
           },
           {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -178,11 +183,6 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
           }
         ],
         "positions": []
@@ -313,10 +313,10 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20carmona.jpg",
         "occupations": [
-          "politician",
           "surgeon",
+          "paramedic",
           "nurse",
-          "paramedic"
+          "politician"
         ],
         "education": [
           "DeWitt Clinton High School",
