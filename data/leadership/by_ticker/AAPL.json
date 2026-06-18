@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -244,6 +244,12 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -445,8 +451,8 @@
           "general manager",
           "executive producer",
           "entrepreneur",
-          "inventor",
-          "computer scientist"
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -465,12 +471,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
