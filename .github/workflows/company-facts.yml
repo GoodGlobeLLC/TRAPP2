@@ -1,3 +1,16 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/company-facts.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/company-facts.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/company-facts.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Cron REMOVED (now triggered only by full-refresh.yml, which only
+#    fires it on the 1st of the month). workflow_dispatch kept.
+# ============================================================
+
 name: Company Facts Refresh (Monthly)
 
 # Runs company facts fetch (Wikidata) on the 1st of every month at 02:00 UTC
@@ -14,8 +27,6 @@ name: Company Facts Refresh (Monthly)
 # A-M / N-Z like leadership-history.yml is.
 
 on:
-  schedule:
-    - cron: '0 2 1 * *'  # 1st of every month, 02:00 UTC
   workflow_dispatch:
 
 concurrency:
