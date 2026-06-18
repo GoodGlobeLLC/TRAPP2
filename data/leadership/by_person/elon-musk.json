@@ -5,16 +5,16 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "civil servant",
-    "inventor",
-    "technology entrepreneur",
-    "dub actor",
     "programmer",
+    "dub actor",
     "financier",
     "investor",
+    "technology entrepreneur",
+    "civil servant",
+    "inventor",
     "entrepreneur",
-    "engineer",
-    "politician"
+    "politician",
+    "engineer"
   ],
   "education": [
     "Smith School of Business",
@@ -44,11 +44,6 @@
       "end": null
     },
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
-      "end": null
-    },
-    {
       "company": "SolarCity",
       "start": null,
       "end": null
@@ -57,6 +52,11 @@
       "company": "OpenAI",
       "start": "2015-12-11",
       "end": "2019-01-01"
+    },
+    {
+      "company": "PayPal",
+      "start": "1998-12-01",
+      "end": null
     },
     {
       "company": "Tesla",

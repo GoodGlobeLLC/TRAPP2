@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-06-16T00:44:52.117704Z",
+  "fetchedAt": "2026-06-18T02:50:29.364030Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -37,8 +37,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "director"
+          "director",
+          "businessperson"
         ],
         "education": [
           "Northwestern University",
@@ -210,34 +210,6 @@
       }
     },
     {
-      "qid": "Q7860044",
-      "name": "Tyler Jacks",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7860044",
-        "name": "Tyler Jacks",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "biologist"
-        ],
-        "education": [
-          "University of California, San Francisco",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q6990415",
       "name": "Nelson Chai",
       "role_at_company": "Board Member",
@@ -252,9 +224,9 @@
           "investment banker"
         ],
         "education": [
-          "The Wharton School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -278,11 +250,11 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DeboraSpar03.JPG",
         "occupations": [
-          "writer"
+          "author"
         ],
         "education": [
-          "Georgetown University Law Center",
           "Walsh School of Foreign Service",
+          "Georgetown University Law Center",
           "Harvard University"
         ],
         "employers": [
