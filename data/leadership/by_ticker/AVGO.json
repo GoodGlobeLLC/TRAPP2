@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-06-18T03:34:08.157163Z",
+  "fetchedAt": "2026-06-18T05:11:17.696590Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -74,8 +74,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "university teacher"
         ],
         "education": [
@@ -126,16 +126,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Accenture",
-            "start": "2001-06-19",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "Oracle Corporation",
-            "start": "2004-07-01",
-            "end": "2005-03-01"
-          },
-          {
             "company": "Dell EMC",
             "start": "2008-02-01",
             "end": "2016-01-01"
@@ -144,6 +134,16 @@
             "company": "BearingPoint",
             "start": "2005-03-01",
             "end": "2007-12-01"
+          },
+          {
+            "company": "Accenture",
+            "start": "2001-06-19",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "2004-07-01",
+            "end": "2005-03-01"
           }
         ],
         "positions": [
@@ -442,8 +442,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "university teacher"
         ],
         "education": [

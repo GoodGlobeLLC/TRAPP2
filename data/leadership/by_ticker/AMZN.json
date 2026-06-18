@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-18T03:34:08.155475Z",
+  "fetchedAt": "2026-06-18T05:11:17.694930Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -55,23 +55,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "business oligarch",
           "entrepreneur",
+          "computer scientist",
           "programmer",
           "commercial astronaut",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -334,11 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
           "academic",
+          "university teacher",
           "computer scientist",
-          "university teacher"
+          "executive",
+          "dean"
         ],
         "education": [
           "University of Michigan",
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -453,23 +453,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "business oligarch",
           "entrepreneur",
+          "computer scientist",
           "programmer",
           "commercial astronaut",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -484,6 +479,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -519,21 +519,21 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
+          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
+          "Madras Christian College"
         ],
         "employers": [
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -546,13 +546,13 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -584,23 +584,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "business oligarch",
           "entrepreneur",
+          "computer scientist",
           "programmer",
           "commercial astronaut",
-          "computer scientist"
+          "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,6 +610,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

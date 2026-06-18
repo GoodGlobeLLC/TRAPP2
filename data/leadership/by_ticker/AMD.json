@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "fetchedAt": "2026-06-18T03:34:08.154709Z",
+  "fetchedAt": "2026-06-18T05:11:17.694154Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -14,24 +14,14 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "electrical engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "IBM Research",
-            "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -40,6 +30,16 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           }
         ],
@@ -265,24 +265,14 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "electrical engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "IBM Research",
-            "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -291,6 +281,16 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           }
         ],

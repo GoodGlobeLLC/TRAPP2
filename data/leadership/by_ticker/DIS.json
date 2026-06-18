@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-06-18T03:34:08.170316Z",
+  "fetchedAt": "2026-06-18T05:11:17.708909Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -135,8 +135,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -189,11 +189,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "entrepreneur",
+          "businessperson",
           "film producer",
           "business executive",
-          "businessperson"
+          "television producer"
         ],
         "education": [
           "The Center for Early Education",
@@ -203,11 +203,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1996-01-01",
-            "end": "2021-12-31"
-          },
-          {
             "company": "American Broadcasting Company",
             "start": "1974-01-01",
             "end": "1999-02-25"
@@ -216,6 +211,11 @@
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1996-01-01",
+            "end": "2021-12-31"
           }
         ],
         "positions": [
@@ -264,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "businessperson",
-          "animator"
+          "animator",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -292,8 +292,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -312,8 +312,8 @@
         "birthPlace": "Rexburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "film producer"
+          "film producer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -351,22 +351,21 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "producer",
-          "film actor",
-          "draftsperson",
-          "caricaturist",
-          "manufacturer",
-          "designer",
+          "television presenter",
+          "comics artist",
           "film producer",
+          "film actor",
+          "designer",
+          "manufacturer",
+          "caricaturist",
           "film director",
+          "producer",
+          "illustrator",
+          "draftsperson",
           "director",
           "voice actor",
           "painter",
-          "television presenter",
-          "comics artist",
-          "illustrator",
           "animator",
-          "illustrator",
           "inventor",
           "author",
           "actor"
@@ -392,13 +391,13 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -448,12 +447,11 @@
           "politician"
         ],
         "education": [
-          "Harvard Law School",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
-          "University of Oxford",
           "The Branson School",
+          "University of Oxford",
           "Princeton University"
         ],
         "employers": [],
@@ -488,10 +486,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -607,13 +605,13 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -638,15 +636,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "businessperson",
-          "chief financial officer"
+          "chief financial officer",
+          "banker"
         ],
         "education": [
+          "University of Pennsylvania Carey Law School",
           "The Wharton School",
           "Harvard Law School",
-          "Brookline High School",
-          "University of Pennsylvania Carey Law School"
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -661,6 +659,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -684,18 +694,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -761,8 +759,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",
@@ -829,8 +827,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -849,22 +847,21 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "producer",
-          "film actor",
-          "draftsperson",
-          "caricaturist",
-          "manufacturer",
-          "designer",
+          "television presenter",
+          "comics artist",
           "film producer",
+          "film actor",
+          "designer",
+          "manufacturer",
+          "caricaturist",
           "film director",
+          "producer",
+          "illustrator",
+          "draftsperson",
           "director",
           "voice actor",
           "painter",
-          "television presenter",
-          "comics artist",
-          "illustrator",
           "animator",
-          "illustrator",
           "inventor",
           "author",
           "actor"

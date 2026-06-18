@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-06-18T03:34:08.177580Z",
+  "fetchedAt": "2026-06-18T05:11:17.716281Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -117,6 +117,7 @@
           "businessperson"
         ],
         "education": [
+          "University of Toronto",
           "University of California, Berkeley",
           "Harvard Business School",
           "Harvard University"
@@ -248,8 +249,8 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
+          "lawyer",
           "chief executive officer"
         ],
         "education": [
@@ -275,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -363,8 +364,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -380,6 +381,11 @@
           },
           {
             "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -400,11 +406,6 @@
           },
           {
             "company": "Quibi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }
@@ -497,8 +498,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
           "businessperson",
-          "executive",
-          "entrepreneur"
+          "entrepreneur",
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -544,10 +545,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -591,12 +592,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "chief executive officer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Stanford University"
         ],
         "employers": [
           {

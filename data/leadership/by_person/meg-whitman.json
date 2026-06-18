@@ -5,8 +5,8 @@
   "birthPlace": "Cold Spring Harbor",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
-    "politician",
     "entrepreneur",
+    "politician",
     "business executive"
   ],
   "education": [
@@ -22,6 +22,11 @@
     },
     {
       "company": "Bain & Company",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     },
@@ -42,11 +47,6 @@
     },
     {
       "company": "Quibi",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     }

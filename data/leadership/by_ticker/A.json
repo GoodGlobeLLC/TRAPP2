@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-18T03:34:08.148393Z",
+  "fetchedAt": "2026-06-18T05:11:17.687899Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "gastroenterologist",
           "university teacher",
-          "physician",
-          "gastroenterologist"
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -115,11 +115,6 @@
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -128,6 +123,11 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "University of London",
           "Imperial College London",
-          "Harvard University",
-          "Harvard Business School"
+          "University of London",
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -465,8 +465,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
@@ -510,12 +510,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [
