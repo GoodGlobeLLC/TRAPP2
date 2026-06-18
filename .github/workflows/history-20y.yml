@@ -7,11 +7,14 @@
 #  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/history-20y.yml
 #
 #  WHAT CHANGED IN THIS FILE:
-#    Cron REMOVED (now triggered only by full-refresh.yml). ALSO:
-#    conflict-recovery + manifest commit scoped to data/history/ +
-#    manifest ONLY (was blanket data/ which could revert
-#    leadership/master/signals on overlap). workflow_dispatch +
-#    years/force inputs kept.
+#    Now runs DAILY (cron 07:00 UTC) as an INCREMENTAL top-up: it fetches
+#    20 years ago through YESTERDAY and appends the newly-settled bar,
+#    skipping any ticker already current (--max-age-days 1). The first run
+#    does the full 20-year backfill; every run after is fast. ALSO:
+#    conflict-recovery + manifest commit are scoped to data/history/ +
+#    manifest ONLY (never blanket data/, so it can't revert leadership/
+#    master/signals on overlap). NOT triggered by full-refresh.yml — it
+#    self-schedules daily.
 # ============================================================
 
 name: Refresh 20-Year History (Batched)
@@ -31,6 +34,12 @@ name: Refresh 20-Year History (Batched)
 # so steady-state cost is low; the expensive pass is the first backfill.
 
 on:
+  schedule:
+    # DAILY. Runs after the US close + nightly so yesterday's bar is settled.
+    # The job is incremental: tickers already ending yesterday are skipped
+    # instantly (see --max-age-days below), so after the first full backfill each
+    # daily run is cheap — it only appends the newly-settled day per ticker.
+    - cron: '0 7 * * *'        # 07:00 UTC daily
   workflow_dispatch:
     inputs:
       years:
@@ -82,7 +91,13 @@ jobs:
           YEARS="${{ github.event.inputs.years || '20' }}"
           FORCE=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE="--force"; fi
-          python pipeline/fetch_history.py --batch ${{ matrix.batch }} --of 4 --years "$YEARS" $FORCE
+          # --max-age-days 1: on a DAILY run, skip a ticker only if its stored
+          # history already ends within 1 day of today (i.e. it already has
+          # yesterday's bar); otherwise fetch and append the newly-settled day.
+          # This makes the daily run a fast incremental top-up after the first
+          # full 20-year backfill. (A manual run with force=true ignores this and
+          # refetches everything.)
+          python pipeline/fetch_history.py --batch ${{ matrix.batch }} --of 4 --years "$YEARS" --max-age-days 1 $FORCE
 
       - name: Commit & push (OURS-wins, retry)
         run: |
