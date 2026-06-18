@@ -128,7 +128,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A data/history_manifest.json data/history_manifest.b*.json
+          # Stage everything under data/ — the merged manifest AND the fragment
+          # deletions (merge_manifest.py removes the .b*.json files after folding
+          # them in). Using `-A data/` instead of a literal glob means an absent
+          # fragment can never crash `git add` with "pathspec did not match"
+          # (the bug that was failing this step at exit 128).
+          git add -A data/
           if git diff --staged --quiet; then
             echo "No manifest changes"
             exit 0
