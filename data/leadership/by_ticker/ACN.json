@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-06-16T00:44:52.053943Z",
+  "fetchedAt": "2026-06-18T03:34:08.151942Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -270,9 +270,9 @@
         "education": [
           "ESSEC Business School",
           "Harvard Business School",
+          "\u00c9cole alsacienne",
           "Harvard University",
-          "lyc\u00e9e du Parc",
-          "\u00c9cole alsacienne"
+          "lyc\u00e9e du Parc"
         ],
         "employers": [
           {
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
+          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur",
-          "University of California, Berkeley"
+          "Indian Institute of Technology Kharagpur"
         ],
         "employers": [
           {
@@ -455,13 +455,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "University of Bradford"
         ],
         "employers": [
+          {
+            "company": "Qualcomm",
+            "start": "2004-01-01",
+            "end": "2015-01-01"
+          },
           {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
@@ -471,11 +476,6 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
-          },
-          {
-            "company": "Qualcomm",
-            "start": "2004-01-01",
-            "end": "2015-01-01"
           },
           {
             "company": "Skyworks Solutions",

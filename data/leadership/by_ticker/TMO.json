@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-06-16T00:44:52.117704Z",
+  "fetchedAt": "2026-06-18T03:34:08.209652Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -210,34 +210,6 @@
       }
     },
     {
-      "qid": "Q7860044",
-      "name": "Tyler Jacks",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7860044",
-        "name": "Tyler Jacks",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "biologist"
-        ],
-        "education": [
-          "University of California, San Francisco",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q6990415",
       "name": "Nelson Chai",
       "role_at_company": "Board Member",
@@ -252,8 +224,8 @@
           "investment banker"
         ],
         "education": [
-          "The Wharton School",
           "Harvard Business School",
+          "The Wharton School",
           "Harvard University"
         ],
         "employers": [
@@ -278,12 +250,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DeboraSpar03.JPG",
         "occupations": [
-          "writer"
+          "author"
         ],
         "education": [
-          "Georgetown University Law Center",
+          "Harvard University",
           "Walsh School of Foreign Service",
-          "Harvard University"
+          "Georgetown University Law Center"
         ],
         "employers": [
           {

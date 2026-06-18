@@ -5,9 +5,9 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "economist",
     "health economist",
-    "crossword creator",
-    "economist"
+    "crossword creator"
   ],
   "education": [
     "Yale University",
@@ -30,14 +30,14 @@
       "end": "2007-01-01"
     },
     {
-      "company": "Dartmouth College",
-      "start": "1998-01-01",
-      "end": "2005-01-01"
-    },
-    {
       "company": "University of Chicago",
       "start": "2017-01-01",
       "end": null
+    },
+    {
+      "company": "Dartmouth College",
+      "start": "1998-01-01",
+      "end": "2005-01-01"
     },
     {
       "company": "Harvard University",

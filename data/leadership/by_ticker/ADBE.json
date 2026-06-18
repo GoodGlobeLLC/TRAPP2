@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-06-16T00:44:52.054604Z",
+  "fetchedAt": "2026-06-18T03:34:08.152540Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -297,8 +297,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "electronic engineer",
-          "businessperson"
+          "businessperson",
+          "electronic engineer"
         ],
         "education": [],
         "employers": [
@@ -451,21 +451,16 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
+          "computer scientist",
           "university teacher",
-          "software developer",
           "entrepreneur",
-          "computer scientist"
+          "software developer"
         ],
         "education": [
           "Xavier University",
           "Carnegie Mellon University"
         ],
         "employers": [
-          {
-            "company": "John Carroll University",
-            "start": "1963-01-01",
-            "end": "1968-01-01"
-          },
           {
             "company": "PARC",
             "start": "1972-01-01",
@@ -475,6 +470,11 @@
             "company": "Adobe",
             "start": null,
             "end": null
+          },
+          {
+            "company": "John Carroll University",
+            "start": "1963-01-01",
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "mathematician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Olympus High School",

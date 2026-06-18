@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-06-16T00:44:52.092582Z",
+  "fetchedAt": "2026-06-18T03:34:08.187208Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -238,10 +238,10 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -313,16 +313,6 @@
         ],
         "employers": [
           {
-            "company": "United States District Court for the Southern District of New York",
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Lockheed Martin",
-            "start": "2017-12-01",
-            "end": null
-          },
-          {
             "company": "U.S. Steel",
             "start": "2020-04-01",
             "end": null
@@ -351,6 +341,16 @@
             "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
             "start": "1984-11-01",
             "end": "1989-01-01"
+          },
+          {
+            "company": "United States District Court for the Southern District of New York",
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Lockheed Martin",
+            "start": "2017-12-01",
+            "end": null
           }
         ],
         "positions": [
@@ -387,8 +387,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "military officer",
-          "priest"
+          "priest",
+          "military officer"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -407,12 +407,12 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "California",
+        "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
+          "manager",
           "military officer",
-          "businessperson",
-          "manager"
+          "businessperson"
         ],
         "education": [
           "Mankato West High School",
@@ -421,17 +421,17 @@
         ],
         "employers": [
           {
-            "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Motors",
             "start": null,
             "end": null
           },
           {
             "company": "American Express",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

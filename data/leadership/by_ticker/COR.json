@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-06-16T00:44:52.068496Z",
+  "fetchedAt": "2026-06-18T03:34:08.165854Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -50,8 +50,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
           "The Wharton School",
+          "Perelman School of Medicine at the University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [],
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -268,25 +268,6 @@
             "end": null
           }
         ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6669610",
-      "name": "Lon R. Greenberg",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6669610",
-        "name": "Lon R. Greenberg",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [],
-        "employers": [],
         "positions": []
       }
     },

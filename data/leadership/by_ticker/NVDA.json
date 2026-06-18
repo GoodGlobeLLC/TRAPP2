@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-06-16T00:44:52.102308Z",
+  "fetchedAt": "2026-06-18T03:34:08.195941Z",
   "people": [
     {
       "qid": "Q305177",
@@ -14,15 +14,15 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "founder",
-          "tech VIP",
           "manager",
           "electrical engineer",
+          "founder",
+          "tech VIP",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Oneida Baptist Institute",
@@ -288,8 +288,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Merton College",
           "Stanford University",
+          "Merton College",
           "Princeton University",
           "Princeton School of Public and International Affairs"
         ],
@@ -345,14 +345,14 @@
         "birthPlace": "Toledo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20O.%20Dabiri%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "university teacher",
           "biophysicist",
           "military flight engineer",
-          "engineer",
-          "university teacher"
+          "engineer"
         ],
         "education": [
-          "California Institute of Technology",
-          "Princeton University"
+          "Princeton University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -388,8 +388,8 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Persis%20Drell%20at%20Stanford%203-4-09%201.JPG",
         "occupations": [
-          "university teacher",
-          "physicist"
+          "physicist",
+          "university teacher"
         ],
         "education": [
           "University of California, Berkeley",
@@ -407,11 +407,6 @@
             "end": "2007-01-01"
           },
           {
-            "company": "Stanford University School of Engineering",
-            "start": "2014-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "Cornell University",
             "start": null,
             "end": null
@@ -425,6 +420,11 @@
             "company": "Stanford University",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Stanford University School of Engineering",
+            "start": "2014-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -449,15 +449,15 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "founder",
-          "tech VIP",
           "manager",
           "electrical engineer",
+          "founder",
+          "tech VIP",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Oneida Baptist Institute",
@@ -481,15 +481,15 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "founder",
-          "tech VIP",
           "manager",
           "electrical engineer",
+          "founder",
+          "tech VIP",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Oneida Baptist Institute",

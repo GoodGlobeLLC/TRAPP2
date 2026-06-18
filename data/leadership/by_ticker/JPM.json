@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-16T00:44:52.089162Z",
+  "fetchedAt": "2026-06-18T03:34:08.184160Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,10 +19,20 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
+          },
           {
             "company": "Goldman Sachs",
             "start": null,
@@ -37,16 +47,6 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
@@ -208,9 +208,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -289,10 +289,10 @@
           "politician"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -505,10 +505,20 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
+          },
           {
             "company": "Goldman Sachs",
             "start": null,
@@ -523,16 +533,6 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
+          "entrepreneur",
           "computer scientist",
-          "businessperson",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

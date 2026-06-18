@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-16T00:44:52.098727Z",
+  "fetchedAt": "2026-06-18T03:34:08.192745Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -110,6 +110,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -128,11 +133,6 @@
             "company": "Procter & Gamble",
             "start": "1994-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
           }
         ],
         "positions": [
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Syracuse University",
@@ -166,17 +166,17 @@
         ],
         "employers": [
           {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -200,8 +200,8 @@
           "executive"
         ],
         "education": [
-          "University of Oxford",
-          "St Swithun's School"
+          "St Swithun's School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -274,8 +274,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
           "entrepreneur",
-          "politician",
-          "business executive"
+          "business executive",
+          "politician"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -311,12 +311,12 @@
           "investor",
           "businessperson",
           "entrepreneur",
-          "writer"
+          "author"
         ],
         "education": [
-          "Stanford University",
           "The Putney School",
-          "Wolfson College"
+          "Wolfson College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -372,8 +372,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Scharf%20in%202020.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Johns Hopkins University",
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -445,16 +445,16 @@
         "occupations": [
           "film producer",
           "co-founder",
-          "art collector",
           "philanthropist",
+          "art collector",
           "programmer",
-          "television producer",
           "musician",
-          "inventor",
-          "record producer",
+          "television producer",
           "investor",
-          "entrepreneur",
+          "record producer",
+          "inventor",
           "computer scientist",
+          "entrepreneur",
           "businessperson",
           "composer"
         ],

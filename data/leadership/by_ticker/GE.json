@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-16T00:44:52.081334Z",
+  "fetchedAt": "2026-06-18T03:34:08.176927Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Stanford University",
+          "University of California, Berkeley",
           "Haas School of Business"
         ],
         "employers": [],
@@ -278,8 +278,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
           "university teacher",
-          "physicist",
-          "politician"
+          "politician",
+          "physicist"
         ],
         "education": [
           "Yale College",
@@ -295,22 +295,22 @@
             "end": null
           },
           {
-            "company": "MIT Center for International Studies",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Brookhaven National Laboratory",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
             "company": "United States Department of Defense",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "MIT Center for International Studies",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Brookhaven National Laboratory",
             "start": null,
             "end": null
           }
@@ -335,16 +335,16 @@
             "end": "2011-10-05"
           },
           {
-            "title": "Assistant Secretary of Defense for Global Strategic Affairs",
-            "company": null,
-            "start": "1993-06-30",
-            "end": "1996-09-14"
-          },
-          {
             "title": "United States Secretary of Defense",
             "company": null,
             "start": "2015-02-17",
             "end": "2017-01-19"
+          },
+          {
+            "title": "Assistant Secretary of Defense for Global Strategic Affairs",
+            "company": null,
+            "start": "1993-06-30",
+            "end": "1996-09-14"
           }
         ]
       }
@@ -365,8 +365,8 @@
           "business executive"
         ],
         "education": [
-          "University of Paris 1 Pantheon-Sorbonne",
-          "University of Paris"
+          "University of Paris",
+          "University of Paris 1 Pantheon-Sorbonne"
         ],
         "employers": [],
         "positions": [
@@ -403,8 +403,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "The Wharton School",
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
+          "Cornell University",
           "Suffield Academy",
-          "The Wharton School",
-          "Cornell University"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -493,8 +493,8 @@
           "mathematician",
           "inventor",
           "entrepreneur",
-          "engineer",
           "physicist",
+          "engineer",
           "screenwriter"
         ],
         "education": [

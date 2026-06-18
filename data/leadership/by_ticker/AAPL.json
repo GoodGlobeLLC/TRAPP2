@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-16T00:44:52.051340Z",
+  "fetchedAt": "2026-06-18T03:34:08.149552Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,19 +14,19 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
+          "presenter",
           "computer scientist",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
           "orator",
+          "climate activist",
           "blogger",
-          "university teacher",
           "environmentalist",
           "financier",
           "journalist",
+          "university teacher",
           "farmer",
-          "politician",
           "businessperson",
-          "writer"
+          "politician",
+          "author"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -216,6 +216,12 @@
             "company": null,
             "start": "1983-01-03",
             "end": "1985-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           },
           {
             "title": "Vice President of the United States",
@@ -250,20 +256,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
           },
           {
-            "title": "United States senator",
+            "title": "United States representative",
             "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -280,14 +280,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -353,26 +353,31 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "inventor",
           "programmer",
           "electronics technician",
-          "entrepreneur",
-          "engineer",
+          "inventor",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
+          "engineer",
           "actor",
           "teacher"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
             "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -383,11 +388,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -407,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
           "computer scientist",
-          "writer"
+          "engineer",
+          "author"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,8 +437,8 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
           "technology entrepreneur",
+          "designer",
           "film producer",
           "founder",
           "financier",

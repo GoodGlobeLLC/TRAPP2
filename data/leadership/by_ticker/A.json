@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-16T00:44:52.050039Z",
+  "fetchedAt": "2026-06-18T03:34:08.148393Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
+          "scientist",
           "physician"
         ],
         "education": [
@@ -115,6 +115,11 @@
         ],
         "employers": [
           {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
+          },
+          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -123,11 +128,6 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -259,11 +259,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +272,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -465,13 +465,18 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "business executive"
+          "business executive",
+          "physician"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
+          },
           {
             "company": "Boehringer Ingelheim",
             "start": "2003-01-01",
@@ -481,11 +486,6 @@
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
-          },
-          {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
           }
         ],
         "positions": [
