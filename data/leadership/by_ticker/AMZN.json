@@ -62,9 +62,9 @@
           "computer scientist"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
           {
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -460,9 +460,9 @@
           "computer scientist"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
           {
@@ -519,12 +519,17 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
+          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
+          "Madras Christian College"
         ],
         "employers": [
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
@@ -551,8 +556,8 @@
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -591,9 +596,9 @@
           "computer scientist"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
           {

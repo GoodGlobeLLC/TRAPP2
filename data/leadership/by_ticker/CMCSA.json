@@ -14,8 +14,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Roberts%20Comcast.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Germantown Academy",
@@ -101,6 +101,11 @@
         ],
         "employers": [
           {
+            "company": "Bright House Networks",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Advance Publications",
             "start": null,
             "end": null
@@ -112,11 +117,6 @@
           },
           {
             "company": "Syracuse University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bright House Networks",
             "start": null,
             "end": null
           }
@@ -288,8 +288,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Roberts%20Comcast.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Germantown Academy",
