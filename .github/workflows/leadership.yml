@@ -1,3 +1,16 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/leadership.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/leadership.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/leadership.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Cron REMOVED (now triggered only by full-refresh.yml).
+#    workflow_dispatch kept.
+# ============================================================
+
 # .github/workflows/leadership.yml  →  commit into TRAPP2
 #
 # CEO/leadership career history (Wikidata) on its OWN clock — this was the
@@ -6,8 +19,6 @@
 name: Leadership History Refresh (Weekly)
 
 on:
-  schedule:
-    - cron: '0 5 * * 0'   # Sundays 05:00 UTC — quiet window, no nightly overlap
   workflow_dispatch:
 
 permissions:
