@@ -1,3 +1,19 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/history-20y.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/history-20y.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/history-20y.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Cron REMOVED (now triggered only by full-refresh.yml). ALSO:
+#    conflict-recovery + manifest commit scoped to data/history/ +
+#    manifest ONLY (was blanket data/ which could revert
+#    leadership/master/signals on overlap). workflow_dispatch +
+#    years/force inputs kept.
+# ============================================================
+
 name: Refresh 20-Year History (Batched)
 
 # Fetches up to 20 years of daily price history for the whole ticker universe,
@@ -15,8 +31,6 @@ name: Refresh 20-Year History (Batched)
 # so steady-state cost is low; the expensive pass is the first backfill.
 
 on:
-  schedule:
-    - cron: '0 6 * * 0'        # Sundays 06:00 UTC
   workflow_dispatch:
     inputs:
       years:
@@ -93,10 +107,16 @@ jobs:
             fi
             echo "Batch ${{ matrix.batch }}: push attempt $i failed — merging remote (OURS wins)"
             git fetch origin
+            # Merge the remote in, but resolve conflicts ONLY within the history
+            # files — never touch other data/ files (leadership, master.csv,
+            # signals, etc.). This is the key fix: a blanket `checkout --ours --
+            # data/` could revert another workflow's fresh data. We scope strictly
+            # to data/history/ and the manifest so history-20y can only ever write
+            # its OWN files.
             git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
             if [ -f .git/MERGE_HEAD ]; then
-              git checkout --ours -- data/ 2>/dev/null || true
-              git add -A data/ 2>/dev/null || true
+              git checkout --ours -- data/history/ data/history_manifest.json data/history_manifest.b*.json 2>/dev/null || true
+              git add -- data/history/ data/history_manifest.json data/history_manifest.b*.json 2>/dev/null || true
               git commit --no-edit 2>/dev/null || true
             fi
             sleep 5
@@ -128,12 +148,18 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Stage everything under data/ — the merged manifest AND the fragment
-          # deletions (merge_manifest.py removes the .b*.json files after folding
-          # them in). Using `-A data/` instead of a literal glob means an absent
-          # fragment can never crash `git add` with "pathspec did not match"
-          # (the bug that was failing this step at exit 128).
-          git add -A data/
+          # Stage ONLY the history manifest + any fragment deletions
+          # merge_manifest.py made — never blanket-stage data/, so this job can't
+          # accidentally commit (and then OURS-overwrite) another workflow's
+          # files. `git add -A <paths>` includes deletions for those paths; the
+          # `|| true` means an absent fragment can't crash the step (the old
+          # bare-glob `did not match` exit-128 bug stays fixed).
+          git add -A data/history_manifest.json 2>/dev/null || true
+          git add -A data/history/ 2>/dev/null || true
+          # stage fragment deletions explicitly (if any remain)
+          for frag in data/history_manifest.b*.json; do
+            [ -e "$frag" ] || git rm --cached --ignore-unmatch "$frag" 2>/dev/null || true
+          done
           if git diff --staged --quiet; then
             echo "No manifest changes"
             exit 0
@@ -143,5 +169,11 @@ jobs:
             if git push; then echo "Pushed on attempt $i"; break; fi
             git fetch origin
             git merge -X ours origin/${{ github.ref_name }} 2>/dev/null || true
+            # keep conflict resolution scoped to history files only
+            if [ -f .git/MERGE_HEAD ]; then
+              git checkout --ours -- data/history/ data/history_manifest.json 2>/dev/null || true
+              git add -- data/history/ data/history_manifest.json 2>/dev/null || true
+              git commit --no-edit 2>/dev/null || true
+            fi
             sleep 4
           done
