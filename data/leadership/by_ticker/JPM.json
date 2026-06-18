@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-16T00:44:52.089162Z",
+  "fetchedAt": "2026-06-18T02:42:22.828174Z",
   "people": [
     {
       "qid": "Q922169",
@@ -24,11 +24,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
             "end": null
@@ -47,6 +42,11 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -165,9 +165,9 @@
           "engineer"
         ],
         "education": [
+          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute",
-          "Indiana University"
+          "Rensselaer Polytechnic Institute"
         ],
         "employers": [
           {
@@ -289,10 +289,10 @@
           "politician"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -414,6 +414,11 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -421,11 +426,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -457,12 +457,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -510,11 +510,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
             "end": null
@@ -533,6 +528,11 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -557,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
