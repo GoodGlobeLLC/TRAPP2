@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-06-16T00:44:52.097889Z",
+  "fetchedAt": "2026-06-18T02:42:22.835936Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -14,7 +14,6 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
           "businessperson",
           "lawyer"
@@ -157,13 +156,14 @@
           "University of Pennsylvania",
           "Harvard University",
           "Stony Brook University",
-          "University of Pennsylvania",
-          "The Bush School",
-          "The Wharton School",
-          "Harvard Medical School",
-          "Harvard University"
+          "The Bush School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -173,14 +173,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -192,12 +193,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -231,41 +226,6 @@
       }
     },
     {
-      "qid": "Q1662831",
-      "name": "Inge Thulin",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1662831",
-        "name": "Inge Thulin",
-        "dateOfBirth": "1953-11-09",
-        "birthPlace": "Malm\u00f6",
-        "image": null,
-        "occupations": [
-          "chief executive officer",
-          "businessperson"
-        ],
-        "education": [
-          "University of Gothenburg"
-        ],
-        "employers": [
-          {
-            "company": "3M",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-03-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q1289900",
       "name": "Kenneth Frazier",
       "role_at_company": "Board Member",
@@ -277,7 +237,6 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
           "businessperson",
           "lawyer"
@@ -374,12 +333,12 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Columbia University"
+          "Columbia University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": [
@@ -545,17 +504,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -638,8 +597,8 @@
           "biophysicist"
         ],
         "education": [
-          "California Institute of Technology",
-          "Pennsylvania State University"
+          "Pennsylvania State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-16T00:44:52.090807Z",
+  "fetchedAt": "2026-06-18T02:42:22.829452Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -200,10 +200,10 @@
           "pediatrician"
         ],
         "education": [
-          "Johns Hopkins University",
-          "Barnard College",
           "Perelman School of Medicine at the University of Pennsylvania",
           "Johns Hopkins Bloomberg School of Public Health",
+          "Johns Hopkins University",
+          "Barnard College",
           "University of Pennsylvania"
         ],
         "employers": [
@@ -313,9 +313,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "economist",
-          "banker"
+          "banker",
+          "businessperson"
         ],
         "education": [
           "St Mary's School",
@@ -348,10 +348,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "social worker",
           "sociologist",
-          "politician",
-          "business executive"
+          "social worker",
+          "business executive",
+          "politician"
         ],
         "education": [
           "Spring Hill College",
@@ -380,6 +380,16 @@
             "end": null
           },
           {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
+          {
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
@@ -392,16 +402,6 @@
           {
             "company": "Southern Regional Council",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
             "end": null
           }
         ],

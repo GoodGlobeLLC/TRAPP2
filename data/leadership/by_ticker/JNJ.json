@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-16T00:44:52.088345Z",
+  "fetchedAt": "2026-06-18T02:42:22.827407Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Valencia",
+        "birthPlace": "Spain",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -154,17 +154,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
           "executive",
           "business manager",
+          "lecturer",
+          "merchant",
           "chief executive officer",
-          "entrepreneur",
-          "merchant"
+          "entrepreneur"
         ],
         "education": [
           "HEC Paris",
-          "Lyc\u00e9e Louis-le-Grand",
-          "Sciences Po"
+          "Sciences Po",
+          "Lyc\u00e9e Louis-le-Grand"
         ],
         "employers": [
           {
@@ -211,10 +211,10 @@
           "politician"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -342,8 +342,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
           "Radcliffe College",
@@ -455,9 +455,9 @@
         "education": [
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
+          "Massachusetts Institute of Technology",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Massachusetts Institute of Technology",
           "Harvard University"
         ],
         "employers": [],
@@ -492,10 +492,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "University of Southern California",
           "USC Gould School of Law",
-          "Georgetown University Law Center"
+          "Georgetown University Law Center",
+          "Columbia University",
+          "University of Southern California"
         ],
         "employers": [],
         "positions": [
@@ -643,7 +643,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Valencia",
+        "birthPlace": "Spain",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -768,9 +768,9 @@
         "occupations": [
           "molecular biologist",
           "crystallographer",
-          "biochemist",
           "chemist",
-          "university teacher"
+          "university teacher",
+          "biochemist"
         ],
         "education": [
           "Pomona College",
