@@ -1,3 +1,16 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/financials-refresh.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/financials-refresh.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/financials-refresh.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Cron REMOVED (now triggered only by full-refresh.yml).
+#    workflow_dispatch + tickers input kept.
+# ============================================================
+
 name: Refresh Financial Statements
 
 # Multi-year income / balance / cash-flow statements only change at earnings, so
@@ -6,8 +19,6 @@ name: Refresh Financial Statements
 # by the app's company tab — no FMP quota involved.
 
 on:
-  schedule:
-    - cron: '0 7 * * 1'   # Mondays 07:00 UTC
   workflow_dispatch:
     inputs:
       tickers:
