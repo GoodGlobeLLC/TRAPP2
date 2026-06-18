@@ -21,8 +21,10 @@
 #    • leadership-historyN-Z.yml   (weekly)
 #    • leadership.yml              (weekly)
 #    • financials-refresh.yml      (weekly)
-#    • history-20y.yml             (weekly, 20-year price history)
 #    • company-facts.yml           (monthly — only fired on the 1st-of-month run)
+#
+#  (history-20y.yml is NOT here — it runs on its OWN daily schedule now, doing an
+#  incremental top-up to yesterday's bar.)
 #
 #  WHAT IT DELIBERATELY DOES NOT TOUCH (these keep their own schedules — they run
 #  far too often to orchestrate from here, and they're time-of-day sensitive):
@@ -42,8 +44,7 @@
 #  20-year history last (it's the longest). company-facts only dispatches when
 #  the run lands on the 1st of the month.
 #
-#  You can also run it any time from the Actions tab ("Run workflow"), and choose
-#  to include or skip the heavy 20-year history backfill.
+#  You can also run it any time from the Actions tab ("Run workflow").
 # ============================================================
 
 name: Full Refresh (weekly orchestrator)
@@ -54,10 +55,6 @@ on:
     - cron: '0 6 * * 0'
   workflow_dispatch:
     inputs:
-      include_history:
-        description: 'Also run the 20-year history backfill (slow)'
-        type: boolean
-        default: true
       include_leadership:
         description: 'Run the leadership refreshes (A-G, H-M, N-Z, + index)'
         type: boolean
@@ -83,13 +80,11 @@ jobs:
       - name: Dispatch periodic refreshes (staggered)
         env:
           GH_TOKEN: ${{ github.token }}
-          INC_HIST: ${{ github.event.inputs.include_history }}
           INC_LEAD: ${{ github.event.inputs.include_leadership }}
         run: |
           set -e
           REF="${GITHUB_REF_NAME:-main}"
           # On the scheduled run the inputs are empty → default to "true".
-          INC_HIST="${INC_HIST:-true}"
           INC_LEAD="${INC_LEAD:-true}"
 
           # Helper: dispatch a workflow by its filename, tolerating the space in
@@ -129,14 +124,9 @@ jobs:
             echo "Not the 1st (day=$DOM) → skipping monthly company-facts."
           fi
 
-          # ---- Group 4: 20-year history LAST (longest job). ----
-          if [ "$INC_HIST" = "true" ]; then
-            echo "→ dispatching 20-year history backfill"
-            gh workflow run "history-20y.yml" --ref "$REF" \
-              -f force=false || echo "   (could not dispatch history-20y.yml)"
-          else
-            echo "Skipping 20-year history (input said false)."
-          fi
+          # NOTE: history-20y.yml is NOT dispatched here — it runs on its OWN
+          # daily schedule (incremental top-up to yesterday's bar). The weekly
+          # orchestrator deliberately leaves it alone so it isn't double-run.
 
           echo ""
           echo "All periodic refreshes dispatched. Each runs as its own workflow;"
