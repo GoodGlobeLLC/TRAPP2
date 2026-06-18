@@ -1,3 +1,17 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/leadership-historyA-G.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/leadership-historyA-G.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/leadership-historyA-G.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Cron REMOVED (now triggered only by full-refresh.yml).
+#    Conflict-recovery scoped to data/leadership/ only (was blanket data/
+#    — could revert other files on overlap). workflow_dispatch kept.
+# ============================================================
+
 name: Leadership History Refresh A-G (Weekly)
 
 # Runs CEO/leadership career history fetch (Wikidata) for tickers starting
@@ -14,8 +28,6 @@ name: Leadership History Refresh A-G (Weekly)
 # workflow finish independently if the other fails.
 
 on:
-  schedule:
-    - cron: '0 4 ? * MON'  # Every Monday 04:00 UTC
   workflow_dispatch:
 
 concurrency:
@@ -76,8 +88,8 @@ jobs:
               git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
               # Belt-and-suspenders: if a merge is mid-flight, force-resolve to ours.
               if [ -d .git/rebase-merge ] || [ -f .git/MERGE_HEAD ]; then
-                git checkout --ours -- data/ 2>/dev/null || true
-                git add -A data/ 2>/dev/null || true
+                git checkout --ours -- data/leadership/ 2>/dev/null || true
+                git add -A data/leadership/ 2>/dev/null || true
                 git commit --no-edit 2>/dev/null || true
               fi
               sleep 5
