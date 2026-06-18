@@ -1,3 +1,17 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/quotes.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/quotes.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/quotes.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Concurrency group changed to `trapp2-quote-push` (shared with
+#    intraday.yml in THIS repo) so the two quote workflows serialize
+#    instead of racing.
+# ============================================================
+
 name: Live Quotes (Intraday)
 
 # Strategy: GitHub Actions schedules are queued, not fired-at-time. Observed
@@ -27,7 +41,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: trapp2-quotes
+  group: trapp2-quote-push
   cancel-in-progress: false   # don't kill a run mid-fetch
 
 jobs:
