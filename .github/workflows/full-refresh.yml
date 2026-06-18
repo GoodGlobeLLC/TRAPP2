@@ -1,0 +1,143 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> FILE PATH:   .github/workflows/full-refresh.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/full-refresh.yml
+#
+#  Create/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/full-refresh.yml
+#  (This is a NEW file — there's no existing one to overwrite.)
+# ============================================================
+#
+#  FULL REFRESH ORCHESTRATOR (weekly)
+#
+#  One scheduled workflow that triggers all the PERIODIC (weekly/monthly) data
+#  refreshes in this repo, in a sensible order with gaps between them so they
+#  don't collide. This means you don't have to maintain a separate cron on each
+#  of those workflows or hand-stagger their times — this file owns the timing.
+#
+#  WHAT IT TRIGGERS (the slow / weekly / monthly jobs):
+#    • leadership-historyA-G.yml   (weekly)
+#    • leadership-history H-M.yml  (weekly)
+#    • leadership-historyN-Z.yml   (weekly)
+#    • leadership.yml              (weekly)
+#    • financials-refresh.yml      (weekly)
+#    • history-20y.yml             (weekly, 20-year price history)
+#    • company-facts.yml           (monthly — only fired on the 1st-of-month run)
+#
+#  WHAT IT DELIBERATELY DOES NOT TOUCH (these keep their own schedules — they run
+#  far too often to orchestrate from here, and they're time-of-day sensitive):
+#    • intraday.yml / quotes.yml   (intraday, every 15-20 min, market hours)
+#    • nightly.yml                 (daily, 00:30 UTC, after close)
+#    • midday.yml                  (daily, 15:30 UTC)
+#
+#  HOW IT WORKS:
+#    It uses the GitHub CLI (`gh workflow run`) to dispatch each child workflow by
+#    filename. Each child still runs as its own independent workflow (its own
+#    logs, its own concurrency group, its own commit/push), so nothing about how
+#    they write data changes — this only replaces WHEN they're kicked off. Between
+#    groups it sleeps so two data-writing jobs aren't pushing at the same instant.
+#
+#  TIMING: runs Sundays 06:00 UTC. Leadership group goes first (per-letter, each
+#  waits for the prior to finish via --ref + a poll), then financials, then the
+#  20-year history last (it's the longest). company-facts only dispatches when
+#  the run lands on the 1st of the month.
+#
+#  You can also run it any time from the Actions tab ("Run workflow"), and choose
+#  to include or skip the heavy 20-year history backfill.
+# ============================================================
+
+name: Full Refresh (weekly orchestrator)
+
+on:
+  schedule:
+    # Sundays 06:00 UTC. (Daily/intraday/nightly are NOT here — they self-schedule.)
+    - cron: '0 6 * * 0'
+  workflow_dispatch:
+    inputs:
+      include_history:
+        description: 'Also run the 20-year history backfill (slow)'
+        type: boolean
+        default: true
+      include_leadership:
+        description: 'Run the leadership refreshes (A-G, H-M, N-Z, + index)'
+        type: boolean
+        default: true
+
+# Only one orchestrator at a time.
+concurrency:
+  group: trapp2-full-refresh
+  cancel-in-progress: false
+
+permissions:
+  actions: write      # needed to dispatch other workflows
+  contents: read
+
+jobs:
+  orchestrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30   # this job only DISPATCHES + waits briefly; children run on their own
+    steps:
+      - name: Checkout (for the gh CLI to resolve workflow files)
+        uses: actions/checkout@v4
+
+      - name: Dispatch periodic refreshes (staggered)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          INC_HIST: ${{ github.event.inputs.include_history }}
+          INC_LEAD: ${{ github.event.inputs.include_leadership }}
+        run: |
+          set -e
+          REF="${GITHUB_REF_NAME:-main}"
+          # On the scheduled run the inputs are empty → default to "true".
+          INC_HIST="${INC_HIST:-true}"
+          INC_LEAD="${INC_LEAD:-true}"
+
+          # Helper: dispatch a workflow by its filename, tolerating the space in
+          # the H-M filename. Non-fatal if a workflow is missing.
+          fire () {
+            local wf="$1"
+            echo "→ dispatching: $wf"
+            gh workflow run "$wf" --ref "$REF" || echo "   (could not dispatch '$wf' — skipping)"
+          }
+
+          # ---- Group 1: leadership (each is internally merge-safe; we still
+          #      space them so their pushes don't pile up). ----
+          if [ "$INC_LEAD" = "true" ]; then
+            fire "leadership-historyA-G.yml"
+            sleep 90
+            fire "leadership-history H-M.yml"
+            sleep 90
+            fire "leadership-historyN-Z.yml"
+            sleep 90
+            fire "leadership.yml"
+            sleep 60
+          else
+            echo "Skipping leadership group (input said false)."
+          fi
+
+          # ---- Group 2: financials (weekly). ----
+          fire "financials-refresh.yml"
+          sleep 60
+
+          # ---- Group 3: company-facts — ONLY on the 1st of the month. ----
+          DOM="$(date -u +%d)"
+          if [ "$DOM" = "01" ]; then
+            echo "First of the month → refreshing company facts."
+            fire "company-facts.yml"
+            sleep 60
+          else
+            echo "Not the 1st (day=$DOM) → skipping monthly company-facts."
+          fi
+
+          # ---- Group 4: 20-year history LAST (longest job). ----
+          if [ "$INC_HIST" = "true" ]; then
+            echo "→ dispatching 20-year history backfill"
+            gh workflow run "history-20y.yml" --ref "$REF" \
+              -f force=false || echo "   (could not dispatch history-20y.yml)"
+          else
+            echo "Skipping 20-year history (input said false)."
+          fi
+
+          echo ""
+          echo "All periodic refreshes dispatched. Each runs as its own workflow;"
+          echo "watch them in the Actions tab. Daily/intraday/nightly are unaffected."
