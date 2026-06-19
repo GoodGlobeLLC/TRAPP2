@@ -113,14 +113,10 @@ def _row(df, *names):
     return lambda col: None
 
 
-def fetch_income(t) -> list:
-    """Multi-year income statement → list of FMP-shaped dicts (newest first)."""
-    try:
-        df = t.financials  # annual income statement
-    except Exception as e:
-        log(f"    income failed: {e}")
-        return []
-    if df is None or df.empty:
+def fetch_income(df) -> list:
+    """Income statement df → list of FMP-shaped dicts (newest first).
+    Works for BOTH annual (t.financials) and quarterly (t.quarterly_financials)."""
+    if df is None or getattr(df, "empty", True):
         return []
     revenue = _row(df, "Total Revenue", "Operating Revenue")
     cost = _row(df, "Cost Of Revenue", "Cost of Revenue", "Reconciled Cost Of Revenue")
@@ -150,13 +146,8 @@ def fetch_income(t) -> list:
     return out
 
 
-def fetch_balance(t) -> list:
-    try:
-        df = t.balance_sheet
-    except Exception as e:
-        log(f"    balance failed: {e}")
-        return []
-    if df is None or df.empty:
+def fetch_balance(df) -> list:
+    if df is None or getattr(df, "empty", True):
         return []
     cash = _row(df, "Cash And Cash Equivalents", "Cash Cash Equivalents And Short Term Investments")
     sti = _row(df, "Other Short Term Investments", "Short Term Investments")
@@ -183,13 +174,8 @@ def fetch_balance(t) -> list:
     return out
 
 
-def fetch_cashflow(t) -> list:
-    try:
-        df = t.cashflow
-    except Exception as e:
-        log(f"    cashflow failed: {e}")
-        return []
-    if df is None or df.empty:
+def fetch_cashflow(df) -> list:
+    if df is None or getattr(df, "empty", True):
         return []
     ocf = _row(df, "Operating Cash Flow", "Cash Flow From Continuing Operating Activities")
     capex = _row(df, "Capital Expenditure", "Purchase Of PPE")
@@ -221,10 +207,29 @@ def fetch_one(ticker: str) -> bool:
         return False
     try:
         t = yf.Ticker(ticker)
-        income = fetch_income(t)
-        balance = fetch_balance(t)
-        cashflow = fetch_cashflow(t)
-        if not income and not balance and not cashflow:
+        # ---- Annual ----
+        def _safe(attr):
+            try: return getattr(t, attr)
+            except Exception: return None
+        income = fetch_income(_safe("financials"))
+        balance = fetch_balance(_safe("balance_sheet"))
+        cashflow = fetch_cashflow(_safe("cashflow"))
+        # ---- Quarterly (the part that was missing) ----
+        income_q = fetch_income(_safe("quarterly_financials"))
+        balance_q = fetch_balance(_safe("quarterly_balance_sheet"))
+        cashflow_q = fetch_cashflow(_safe("quarterly_cashflow"))
+        # Tag quarterly rows with a readable "Q# YYYY" period from their date.
+        def _tag_q(rows):
+            for r in rows:
+                d = r.get("date") or ""
+                try:
+                    mo = int(d[5:7]); yr = d[:4]
+                    r["period"] = f"Q{(mo - 1) // 3 + 1} {yr}"
+                except Exception:
+                    r["period"] = "Q"
+            return rows
+        income_q = _tag_q(income_q); balance_q = _tag_q(balance_q); cashflow_q = _tag_q(cashflow_q)
+        if not income and not balance and not cashflow and not income_q and not balance_q and not cashflow_q:
             log(f"  ⚠ {ticker}: no statement data (may be an ETF/FX/index)")
             return False
         # Currency, best-effort.
@@ -243,10 +248,16 @@ def fetch_one(ticker: str) -> bool:
             "income": income,
             "balance": balance,
             "cashflow": cashflow,
+            # Quarterly statements (newest first). Same shape as the annual
+            # arrays, plus a "period" label like "Q3 2025".
+            "incomeQuarterly": income_q,
+            "balanceQuarterly": balance_q,
+            "cashflowQuarterly": cashflow_q,
         }
         out_path = FIN_DIR / f"{ticker}.json"
         out_path.write_text(json.dumps(payload, separators=(",", ":")))
-        log(f"  ✓ {ticker}: {len(income)}y income · {len(balance)}y balance · {len(cashflow)}y cashflow")
+        log(f"  ✓ {ticker}: {len(income)}y/{len(income_q)}q income · "
+            f"{len(balance)}y/{len(balance_q)}q balance · {len(cashflow)}y/{len(cashflow_q)}q cashflow")
         return True
     except Exception as e:
         log(f"  ✗ {ticker}: {e}")
