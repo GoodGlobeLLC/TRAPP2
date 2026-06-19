@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-18T05:50:10.206442Z",
+  "fetchedAt": "2026-06-19T06:18:40.474885Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -154,17 +154,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
+          "lecturer",
           "executive",
           "business manager",
-          "lecturer",
           "chief executive officer",
           "merchant",
           "entrepreneur"
         ],
         "education": [
           "HEC Paris",
-          "Lyc\u00e9e Louis-le-Grand",
-          "Sciences Po"
+          "Sciences Po",
+          "Lyc\u00e9e Louis-le-Grand"
         ],
         "employers": [
           {
@@ -207,8 +207,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Case Western Reserve University",
@@ -346,9 +346,9 @@
           "university teacher"
         ],
         "education": [
+          "Harvard T.H. Chan School of Public Health",
           "Radcliffe College",
-          "Harvard Medical School",
-          "Harvard T.H. Chan School of Public Health"
+          "Harvard Medical School"
         ],
         "employers": [
           {
@@ -455,9 +455,9 @@
         "education": [
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
-          "Massachusetts Institute of Technology",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
+          "Massachusetts Institute of Technology",
           "Harvard University"
         ],
         "employers": [],
@@ -525,8 +525,8 @@
         "education": [
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Columbia University"
         ],
         "employers": [
           {
@@ -569,8 +569,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "consultant"
+          "consultant",
+          "entrepreneur"
         ],
         "education": [
           "Balliol College"
@@ -643,7 +643,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -690,8 +690,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "business executive"
+          "business executive",
+          "university teacher"
         ],
         "education": [],
         "employers": [],
@@ -769,8 +769,8 @@
           "molecular biologist",
           "crystallographer",
           "biochemist",
-          "chemist",
-          "university teacher"
+          "university teacher",
+          "chemist"
         ],
         "education": [
           "Pomona College",
@@ -779,12 +779,17 @@
         ],
         "employers": [
           {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "University of California, Berkeley",
             "start": "2002-01-01",
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
+            "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
           },
@@ -792,11 +797,6 @@
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

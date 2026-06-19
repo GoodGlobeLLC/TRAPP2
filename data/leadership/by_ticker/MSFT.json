@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-18T05:50:10.214969Z",
+  "fetchedAt": "2026-06-19T06:18:40.484306Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -16,8 +16,8 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
           "engineer"
         ],
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           }
         ],
@@ -103,9 +103,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -125,14 +125,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -161,10 +161,15 @@
           "entrepreneur"
         ],
         "education": [
-          "Syracuse University",
-          "University of Chicago"
+          "University of Chicago",
+          "Syracuse University"
         ],
         "employers": [
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "General Electric",
             "start": null,
@@ -172,11 +177,6 @@
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -196,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -274,8 +274,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
           "politician",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -308,15 +308,15 @@
           "consultant",
           "podcaster",
           "financier",
+          "businessperson",
           "investor",
           "entrepreneur",
-          "businessperson",
-          "author"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "The Putney School",
-          "Wolfson College",
-          "Stanford University"
+          "Wolfson College"
         ],
         "employers": [
           {
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Princeton University"
+          "Princeton University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -397,8 +397,8 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "computer scientist",
           "engineer"
         ],
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           },
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           }
         ],
@@ -443,24 +443,24 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "philanthropist",
-          "film producer",
           "co-founder",
           "art collector",
-          "programmer",
-          "television producer",
-          "musician",
+          "philanthropist",
           "investor",
-          "record producer",
+          "film producer",
           "inventor",
-          "computer scientist",
+          "programmer",
+          "musician",
+          "record producer",
+          "television producer",
           "entrepreneur",
-          "composer",
-          "businessperson"
+          "computer scientist",
+          "businessperson",
+          "composer"
         ],
         "education": [
-          "Lakeside School",
           "Washington State University",
+          "Lakeside School",
           "Harvard University"
         ],
         "employers": [

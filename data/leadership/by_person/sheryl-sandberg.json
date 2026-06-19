@@ -5,18 +5,24 @@
   "birthPlace": "Washington, D.C.",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
   "occupations": [
-    "businessperson",
-    "entrepreneur",
     "economist",
-    "computer scientist"
+    "entrepreneur",
+    "computer scientist",
+    "businessperson"
   ],
   "education": [
+    "Harvard College",
     "North Miami Beach High School",
-    "Harvard Business School",
-    "Harvard College"
+    "Harvard Business School"
   ],
   "employers": [],
   "positions": [
+    {
+      "title": "board member",
+      "company": null,
+      "start": null,
+      "end": null
+    },
     {
       "title": "vice president",
       "company": null,
@@ -46,12 +52,6 @@
       "company": null,
       "start": "2008-03-01",
       "end": "2022-09-01"
-    },
-    {
-      "title": "board member",
-      "company": null,
-      "start": null,
-      "end": null
     },
     {
       "title": "board member",

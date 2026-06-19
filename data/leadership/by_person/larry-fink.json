@@ -7,8 +7,8 @@
   "occupations": [
     "manager",
     "economist",
-    "politician",
-    "financier"
+    "financier",
+    "politician"
   ],
   "education": [
     "University of California, Los Angeles",
@@ -16,13 +16,13 @@
   ],
   "employers": [
     {
-      "company": "First Boston",
-      "start": null,
+      "company": "BlackRock",
+      "start": "1988-01-01",
       "end": null
     },
     {
-      "company": "BlackRock",
-      "start": "1988-01-01",
+      "company": "First Boston",
+      "start": null,
       "end": null
     }
   ],

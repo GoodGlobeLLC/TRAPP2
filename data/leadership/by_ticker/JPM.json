@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-18T05:50:10.207192Z",
+  "fetchedAt": "2026-06-19T06:18:40.475650Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,10 +19,15 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -40,11 +45,6 @@
           },
           {
             "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -285,8 +285,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Case Western Reserve University",
@@ -505,10 +505,15 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -526,11 +531,6 @@
           },
           {
             "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -558,8 +558,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
           "computer scientist",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

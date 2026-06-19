@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-18T05:50:10.172633Z",
+  "fetchedAt": "2026-06-19T06:18:40.439067Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -104,14 +104,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
+          "scientist",
           "physician"
         ],
         "education": [
-          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
+          "Pritzker School of Medicine",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -156,9 +156,9 @@
           "chairperson"
         ],
         "education": [
-          "University of London",
-          "Harvard Business School",
           "Imperial College London",
+          "Harvard Business School",
+          "University of London",
           "Harvard University"
         ],
         "employers": [],
@@ -416,8 +416,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -514,8 +514,8 @@
           "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [

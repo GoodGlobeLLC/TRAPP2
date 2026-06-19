@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-18T05:50:10.218958Z",
+  "fetchedAt": "2026-06-19T06:18:40.488737Z",
   "people": [
     {
       "qid": "Q92759",
@@ -14,11 +14,10 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "actor"
         ],
         "education": [
@@ -151,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
+          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda",
-          "Stanford University"
+          "Maharaja Sayajirao University of Baroda"
         ],
         "employers": [
           {
@@ -199,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -264,6 +263,16 @@
         ],
         "employers": [
           {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -272,16 +281,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -309,15 +308,15 @@
           "academic",
           "university teacher",
           "economist",
-          "author",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "University of California, Berkeley",
             "start": null,
             "end": null
           },
@@ -332,7 +331,7 @@
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -352,8 +351,8 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
           "businessperson",
+          "chief financial officer",
           "banker"
         ],
         "education": [
@@ -533,10 +532,10 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "Oberleutnant",
-          "university teacher",
-          "political scientist",
           "jurist",
+          "university teacher",
+          "Oberleutnant",
+          "political scientist",
           "lawyer",
           "politician"
         ],
@@ -609,24 +608,6 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1993-01-05",
-            "end": "1993-01-22"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
           },
@@ -647,6 +628,18 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1993-01-05",
+            "end": "1993-01-22"
           }
         ]
       }
@@ -663,11 +656,10 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "actor"
         ],
         "education": [
@@ -727,11 +719,10 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "businessperson",
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "actor"
         ],
         "education": [

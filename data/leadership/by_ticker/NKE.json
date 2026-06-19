@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-18T05:50:10.216607Z",
+  "fetchedAt": "2026-06-19T06:18:40.486259Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "venture capitalist",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "University of Montana"
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -250,7 +250,7 @@
           "philanthropist",
           "entrepreneur",
           "businessperson",
-          "author"
+          "writer"
         ],
         "education": [
           "Oregon State University",
@@ -311,11 +311,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "engineer",
-          "computer scientist",
           "manager",
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -361,7 +361,7 @@
           "philanthropist",
           "entrepreneur",
           "businessperson",
-          "author"
+          "writer"
         ],
         "education": [
           "Oregon State University",

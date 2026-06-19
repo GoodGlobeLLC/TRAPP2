@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-18T05:50:10.173560Z",
+  "fetchedAt": "2026-06-19T06:18:40.440455Z",
   "people": [
     {
       "qid": "Q265852",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "engineer",
-          "computer scientist",
           "manager",
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -67,10 +67,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -179,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
           "orator",
-          "journalist",
-          "university teacher",
+          "blogger",
           "environmentalist",
           "financier",
-          "blogger",
+          "journalist",
           "farmer",
-          "author",
+          "university teacher",
+          "politician",
           "businessperson",
-          "politician"
+          "writer",
+          "climate activist"
         ],
         "education": [
-          "Vanderbilt University Divinity School",
-          "St. Albans School",
           "Defense Information School",
           "Harvard College",
-          "Vanderbilt University"
+          "Vanderbilt University",
+          "Vanderbilt University Divinity School",
+          "St. Albans School"
         ],
         "employers": [
           {
@@ -206,12 +205,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
           {
             "title": "United States representative",
             "company": null,
@@ -229,6 +222,12 @@
             "company": null,
             "start": "1993-01-20",
             "end": "2001-01-20"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "board member",
@@ -286,10 +285,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -320,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -355,14 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
           "programmer",
           "electronics technician",
-          "entrepreneur",
           "inventor",
-          "businessperson",
+          "entrepreneur",
           "computer scientist",
           "engineer",
+          "businessperson",
           "teacher",
           "actor"
         ],
@@ -410,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
+          "writer",
           "computer scientist",
-          "engineer",
-          "author"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "High School of Art and Design"
@@ -440,16 +437,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "film producer",
-          "designer",
-          "technology entrepreneur",
           "financier",
+          "designer",
+          "film producer",
           "founder",
+          "technology entrepreneur",
           "general manager",
           "executive producer",
-          "founder",
-          "film producer",
-          "financier",
           "entrepreneur",
           "inventor",
           "computer scientist"
@@ -461,12 +455,12 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

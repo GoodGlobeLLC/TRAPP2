@@ -1,28 +1,7 @@
 {
   "ticker": "MDB",
-  "fetchedAt": "2026-06-18T05:50:10.212619Z",
+  "fetchedAt": "2026-06-19T06:18:40.481699Z",
   "people": [
-    {
-      "qid": "Q18351457",
-      "name": "Dev Ittycheria",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q18351457",
-        "name": "Dev Ittycheria",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Rutgers University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
     {
       "qid": "Q125516191",
       "name": "Peter Thomas Killalea",
@@ -56,27 +35,6 @@
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q18351457",
-      "name": "Dev Ittycheria",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q18351457",
-        "name": "Dev Ittycheria",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Rutgers University"
-        ],
-        "employers": [],
-        "positions": []
       }
     },
     {
@@ -114,8 +72,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",

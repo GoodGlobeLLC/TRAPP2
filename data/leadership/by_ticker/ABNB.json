@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-06-18T05:50:10.174708Z",
+  "fetchedAt": "2026-06-19T06:18:40.441681Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -163,9 +163,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "business executive",
-          "businessperson",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Boston Latin Academy",
@@ -231,8 +231,8 @@
           "chief financial officer"
         ],
         "education": [
-          "Stanford University",
           "Stuyvesant High School",
+          "Stanford University",
           "Harvard University"
         ],
         "employers": [],
@@ -281,6 +281,11 @@
             "end": "2014-04-01"
           },
           {
+            "company": "Apple Inc.",
+            "start": "2014-05-01",
+            "end": "2019-05-01"
+          },
+          {
             "company": "Warnaco Group",
             "start": null,
             "end": null
@@ -289,11 +294,6 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
-          },
-          {
-            "company": "Apple Inc.",
-            "start": "2014-05-01",
-            "end": "2019-05-01"
           }
         ],
         "positions": [
@@ -324,8 +324,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Bowdoin College",
@@ -419,9 +419,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "business executive",
-          "businessperson",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Boston Latin Academy",

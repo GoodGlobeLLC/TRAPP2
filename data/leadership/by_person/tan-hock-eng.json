@@ -8,12 +8,17 @@
     "business executive"
   ],
   "education": [
-    "Harvard Business School",
-    "Massachusetts Institute of Technology"
+    "Massachusetts Institute of Technology",
+    "Harvard Business School"
   ],
   "employers": [
     {
-      "company": "General Motors",
+      "company": "Commodore International",
+      "start": "1992-01-01",
+      "end": "1994-01-01"
+    },
+    {
+      "company": "PepsiCo",
       "start": null,
       "end": null
     },
@@ -33,12 +38,7 @@
       "end": "2005-01-01"
     },
     {
-      "company": "Commodore International",
-      "start": "1992-01-01",
-      "end": "1994-01-01"
-    },
-    {
-      "company": "PepsiCo",
+      "company": "General Motors",
       "start": null,
       "end": null
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-06-18T05:50:10.191798Z",
+  "fetchedAt": "2026-06-19T06:18:40.458310Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,18 +52,13 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
-          "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University",
+          "University of Wisconsin\u2013Madison"
         ],
         "employers": [
-          {
-            "company": "Cisco",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Stratus Technologies",
             "start": null,
@@ -76,6 +71,11 @@
           },
           {
             "company": "Honeywell",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -104,10 +104,10 @@
           "computer scientist"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
+          "Duke University",
+          "West Virginia University",
           "West Virginia University College of Law"
         ],
         "employers": [

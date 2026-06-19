@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-18T05:50:10.208427Z",
+  "fetchedAt": "2026-06-19T06:18:40.477069Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -163,29 +163,6 @@
       }
     },
     {
-      "qid": "Q6761171",
-      "name": "Maria Elena Lagomasino",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6761171",
-        "name": "Maria Elena Lagomasino",
-        "dateOfBirth": "1950-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Manhattanville University",
-          "Gabelli School of Business",
-          "Fordham University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q5703847",
       "name": "Helene D. Gayle",
       "role_at_company": "Board Member",
@@ -200,11 +177,11 @@
           "pediatrician"
         ],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health",
           "Johns Hopkins University",
           "Barnard College",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Perelman School of Medicine at the University of Pennsylvania",
+          "Johns Hopkins Bloomberg School of Public Health"
         ],
         "employers": [
           {
@@ -250,8 +227,8 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "merchant",
           "entrepreneur",
+          "merchant",
           "businessperson"
         ],
         "education": [
@@ -274,12 +251,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -313,9 +290,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
+          "businessperson",
           "economist",
-          "businessperson"
+          "banker"
         ],
         "education": [
           "St Mary's School",
@@ -348,10 +325,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "social worker",
-          "business executive",
+          "politician",
           "sociologist",
-          "politician"
+          "social worker",
+          "business executive"
         ],
         "education": [
           "Spring Hill College",
@@ -359,6 +336,16 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -377,16 +364,6 @@
           {
             "company": "Sodexo",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
             "end": null
           },
           {
