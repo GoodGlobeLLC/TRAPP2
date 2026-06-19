@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-06-18T05:50:10.217949Z",
+  "fetchedAt": "2026-06-19T05:33:21.686102Z",
   "people": [
     {
       "qid": "Q305177",
@@ -75,10 +75,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
-          "Harvard Business School",
           "Harvard University",
           "University of Southern California",
-          "USC Viterbi School of Engineering"
+          "USC Viterbi School of Engineering",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -290,8 +290,8 @@
         "education": [
           "Merton College",
           "Stanford University",
-          "Princeton School of Public and International Affairs",
-          "Princeton University"
+          "Princeton University",
+          "Princeton School of Public and International Affairs"
         ],
         "employers": [],
         "positions": [
@@ -397,6 +397,16 @@
         ],
         "employers": [
           {
+            "company": "SLAC National Accelerator Laboratory",
+            "start": "2007-01-01",
+            "end": "2012-01-01"
+          },
+          {
+            "company": "SLAC National Accelerator Laboratory",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
+          },
+          {
             "company": "Stanford University",
             "start": "2002-01-01",
             "end": null
@@ -405,6 +415,16 @@
             "company": "Stanford University",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stanford University School of Engineering",
+            "start": "2014-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
