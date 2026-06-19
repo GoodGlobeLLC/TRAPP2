@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-06-18T05:50:10.180672Z",
+  "fetchedAt": "2026-06-19T05:39:39.049864Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -21,11 +21,6 @@
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -48,6 +43,11 @@
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [],
         "employers": [],
@@ -271,8 +271,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -318,11 +318,6 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -344,6 +339,11 @@
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }

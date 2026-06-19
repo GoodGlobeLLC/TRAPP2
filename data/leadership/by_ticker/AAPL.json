@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-18T05:50:10.173560Z",
+  "fetchedAt": "2026-06-19T05:39:39.041348Z",
   "people": [
     {
       "qid": "Q265852",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
+          "manager",
+          "chief executive officer",
           "engineer",
           "computer scientist",
-          "manager",
-          "businessperson",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -63,14 +63,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of Washington",
-          "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -179,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "orator",
           "journalist",
           "university teacher",
-          "environmentalist",
-          "financier",
           "blogger",
+          "climate activist",
           "farmer",
-          "author",
+          "orator",
           "businessperson",
-          "politician"
+          "politician",
+          "writer",
+          "environmentalist",
+          "financier"
         ],
         "education": [
-          "Vanderbilt University Divinity School",
           "St. Albans School",
           "Defense Information School",
           "Harvard College",
-          "Vanderbilt University"
+          "Vanderbilt University",
+          "Vanderbilt University Divinity School"
         ],
         "employers": [
           {
@@ -206,24 +205,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
-          },
           {
             "title": "Vice President of the United States",
             "company": null,
@@ -245,6 +226,30 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -253,12 +258,6 @@
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-02"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
@@ -282,14 +281,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of Washington",
-          "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -320,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -358,11 +356,10 @@
           "computer scientist",
           "programmer",
           "electronics technician",
-          "entrepreneur",
           "inventor",
-          "businessperson",
-          "computer scientist",
+          "entrepreneur",
           "engineer",
+          "businessperson",
           "teacher",
           "actor"
         ],
@@ -375,17 +372,17 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -410,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
           "engineer",
-          "author"
+          "computer scientist",
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "High School of Art and Design"
@@ -440,19 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "film producer",
           "designer",
           "technology entrepreneur",
-          "financier",
-          "founder",
-          "general manager",
-          "executive producer",
           "founder",
           "film producer",
           "financier",
-          "entrepreneur",
+          "general manager",
+          "executive producer",
           "inventor",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Homestead High School",

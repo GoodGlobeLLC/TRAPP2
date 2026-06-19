@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-06-18T05:50:10.201192Z",
+  "fetchedAt": "2026-06-19T05:39:39.065306Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
+          "University of Toronto",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -145,8 +145,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -249,9 +249,9 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
+          "chief executive officer",
           "business executive",
-          "lawyer",
-          "chief executive officer"
+          "lawyer"
         ],
         "education": [
           "Union College",
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -364,9 +364,9 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
+          "business executive",
           "entrepreneur",
-          "politician",
-          "business executive"
+          "politician"
         ],
         "education": [
           "Cold Spring Harbor Jr./Sr. High School",
@@ -381,11 +381,6 @@
           },
           {
             "company": "Bain & Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -405,12 +400,12 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
+            "company": "Quibi",
             "start": null,
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }

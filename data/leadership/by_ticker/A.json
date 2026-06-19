@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-18T05:50:10.172633Z",
+  "fetchedAt": "2026-06-19T05:39:39.040152Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,8 +52,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "gastroenterologist",
           "university teacher",
+          "gastroenterologist",
           "physician"
         ],
         "education": [
@@ -104,9 +104,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
-          "physician"
+          "physician",
+          "scientist"
         ],
         "education": [
           "University of Chicago",
@@ -152,13 +152,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "chairperson"
+          "chairperson",
+          "investor"
         ],
         "education": [
+          "Imperial College London",
           "University of London",
           "Harvard Business School",
-          "Imperial College London",
           "Harvard University"
         ],
         "employers": [],
@@ -473,11 +473,6 @@
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Boehringer Ingelheim",
             "start": "2003-01-01",
             "end": "2008-01-01"
@@ -486,6 +481,11 @@
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
