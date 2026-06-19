@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -305,6 +305,7 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
+          "writer",
           "academic",
           "university teacher",
           "economist",
@@ -326,12 +327,17 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
             "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -537,6 +543,7 @@
           "Oberleutnant",
           "political scientist",
           "lawyer",
+          "jurist",
           "politician"
         ],
         "education": [
@@ -546,12 +553,12 @@
         ],
         "employers": [
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           },
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           }
@@ -574,6 +581,18 @@
             "company": null,
             "start": "2011-07-01",
             "end": "2013-02-27"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1993-01-05",
+            "end": "1993-01-22"
           },
           {
             "title": "United States representative",

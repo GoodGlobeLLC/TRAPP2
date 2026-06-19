@@ -63,8 +63,8 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -244,6 +244,30 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -252,12 +276,6 @@
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-02"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
@@ -281,8 +299,8 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -372,17 +390,17 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -446,7 +464,8 @@
           "executive producer",
           "entrepreneur",
           "inventor",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Homestead High School",

@@ -17,6 +17,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -25,11 +30,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
@@ -180,16 +180,6 @@
         ],
         "employers": [
           {
-            "company": "Oracle Corporation",
-            "start": "2000-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "company": "Infor Global Solutions",
-            "start": "2010-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Imperva",
             "start": "2020-01-01",
             "end": null
@@ -198,6 +188,16 @@
             "company": "Arthur Andersen",
             "start": "1995-01-01",
             "end": "2000-01-01"
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "2000-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "company": "Infor Global Solutions",
+            "start": "2010-01-01",
+            "end": "2019-01-01"
           }
         ],
         "positions": [
@@ -244,11 +244,6 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
             "company": "Procter & Gamble",
             "start": "1994-01-01",
             "end": "2013-01-01"
@@ -288,6 +283,11 @@
         ],
         "employers": [
           {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -296,11 +296,6 @@
             "company": "SEAT",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -597,6 +592,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -605,11 +605,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
