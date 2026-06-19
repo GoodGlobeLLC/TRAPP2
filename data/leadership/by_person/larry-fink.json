@@ -6,9 +6,9 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Fink%20with%20Valdis%20Dombrovskis%20%28cropped%29.jpg",
   "occupations": [
     "manager",
-    "economist",
+    "financier",
     "politician",
-    "financier"
+    "economist"
   ],
   "education": [
     "University of California, Los Angeles",
@@ -16,13 +16,13 @@
   ],
   "employers": [
     {
-      "company": "First Boston",
-      "start": null,
+      "company": "BlackRock",
+      "start": "1988-01-01",
       "end": null
     },
     {
-      "company": "BlackRock",
-      "start": "1988-01-01",
+      "company": "First Boston",
+      "start": null,
       "end": null
     }
   ],
