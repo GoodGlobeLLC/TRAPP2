@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-19T06:18:40.488737Z",
+  "fetchedAt": "2026-06-20T06:59:16.402953Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
           "businessperson",
-          "computer scientist",
           "actor"
         ],
         "education": [
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
-          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda"
+          "Maharaja Sayajirao University of Baroda",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -263,14 +263,14 @@
         ],
         "employers": [
           {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
           },
           {
             "company": "Adobe",
@@ -305,39 +305,33 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "writer",
           "academic",
-          "university teacher",
+          "writer",
           "economist",
-          "businessperson",
-          "writer"
+          "university teacher",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
           {
-            "company": "University of California, Berkeley",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Yale University",
             "start": null,
             "end": null
           },
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of California, Berkeley",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -357,15 +351,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "banker"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -538,12 +532,11 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "jurist",
           "university teacher",
           "Oberleutnant",
           "political scientist",
-          "lawyer",
           "jurist",
+          "lawyer",
           "politician"
         ],
         "education": [
@@ -619,12 +612,6 @@
             "end": "1993-01-03"
           },
           {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -643,22 +630,16 @@
             "end": "2011-06-30"
           },
           {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1993-01-05",
-            "end": "1993-01-22"
           }
         ]
       }
@@ -676,9 +657,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
           "businessperson",
-          "computer scientist",
           "actor"
         ],
         "education": [
@@ -739,9 +720,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
+          "computer scientist",
           "entrepreneur",
           "businessperson",
-          "computer scientist",
           "actor"
         ],
         "education": [
