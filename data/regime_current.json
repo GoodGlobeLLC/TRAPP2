@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "regime": "neutral",
   "confidence": 0.981,
   "scores": {
@@ -100,5 +100,93 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-19T22:54:25+00:00"
+  "computed_at": "2026-06-20T06:33:52+00:00",
+  "transitions": {
+    "1_step": {
+      "expansion": 0.1333,
+      "risk_on_melt_up": 0.0667,
+      "inflation_shock": 0.0667,
+      "recession_fear": 0.0667,
+      "risk_off": 0.0667,
+      "neutral": 0.6
+    },
+    "5_step": {
+      "expansion": 0.3328,
+      "risk_on_melt_up": 0.0968,
+      "inflation_shock": 0.0968,
+      "recession_fear": 0.0968,
+      "risk_off": 0.0968,
+      "neutral": 0.28
+    },
+    "20_step": {
+      "expansion": 0.3624,
+      "risk_on_melt_up": 0.0941,
+      "inflation_shock": 0.0941,
+      "recession_fear": 0.0941,
+      "risk_off": 0.0941,
+      "neutral": 0.2613
+    }
+  },
+  "stationary": {
+    "expansion": 0.3624,
+    "risk_on_melt_up": 0.0941,
+    "inflation_shock": 0.0941,
+    "recession_fear": 0.0941,
+    "risk_off": 0.0941,
+    "neutral": 0.2613
+  },
+  "expected_persistence_days": 2.5,
+  "transition_matrix": [
+    [
+      0.7308,
+      0.0385,
+      0.0385,
+      0.0385,
+      0.0385,
+      0.1154
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1333,
+      0.0667,
+      0.0667,
+      0.0667,
+      0.0667,
+      0.6
+    ]
+  ],
+  "transition_observation_count": 29,
+  "transition_warning": "Only 29 transitions observed \u2014 need \u226560 for high confidence",
+  "transitions_computed_at": "2026-06-20T06:33:52+00:00"
 }
