@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-06-19T06:18:40.503879Z",
+  "fetchedAt": "2026-06-20T07:43:46.202831Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,11 +17,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -30,6 +25,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
@@ -60,8 +60,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20F.%20Kelly%20Jr.%20at%20the%202023%20US-Canada%20Summit%20%2852806435722%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -140,8 +140,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20F.%20Kelly%20Jr.%20at%20the%202023%20US-Canada%20Summit%20%2852806435722%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -180,16 +180,6 @@
         ],
         "employers": [
           {
-            "company": "Imperva",
-            "start": "2020-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1995-01-01",
-            "end": "2000-01-01"
-          },
-          {
             "company": "Oracle Corporation",
             "start": "2000-01-01",
             "end": "2010-01-01"
@@ -198,6 +188,16 @@
             "company": "Infor Global Solutions",
             "start": "2010-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Imperva",
+            "start": "2020-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1995-01-01",
+            "end": "2000-01-01"
           }
         ],
         "positions": [
@@ -229,6 +229,16 @@
         "education": [],
         "employers": [
           {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -242,11 +252,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -465,6 +470,11 @@
             "end": "2018-05-01"
           },
           {
+            "company": "Nestl\u00e9",
+            "start": "1984-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1982-01-01",
             "end": "1984-01-01"
@@ -473,11 +483,6 @@
             "company": "Procter & Gamble",
             "start": "1975-01-01",
             "end": "1982-01-01"
-          },
-          {
-            "company": "Nestl\u00e9",
-            "start": "1984-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -592,11 +597,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -605,6 +605,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [

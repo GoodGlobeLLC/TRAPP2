@@ -9,11 +9,21 @@
     "politician"
   ],
   "education": [
-    "Columbia Law School",
     "Roy C. Ketcham High School",
-    "Morehouse College"
+    "Morehouse College",
+    "Columbia Law School"
   ],
   "employers": [
+    {
+      "company": "United States District Court for the Southern District of New York",
+      "start": "1989-01-01",
+      "end": "1992-01-01"
+    },
+    {
+      "company": "Lockheed Martin",
+      "start": "2017-12-01",
+      "end": null
+    },
     {
       "company": "U.S. Steel",
       "start": "2020-04-01",
@@ -43,25 +53,9 @@
       "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
       "start": "1984-11-01",
       "end": "1989-01-01"
-    },
-    {
-      "company": "United States District Court for the Southern District of New York",
-      "start": "1989-01-01",
-      "end": "1992-01-01"
-    },
-    {
-      "company": "Lockheed Martin",
-      "start": "2017-12-01",
-      "end": null
     }
   ],
   "positions": [
-    {
-      "title": "General Counsel of the Department of Defense",
-      "company": null,
-      "start": "2009-02-10",
-      "end": "2012-12-31"
-    },
     {
       "title": "General Counsel of the Air Force",
       "company": null,
@@ -73,6 +67,12 @@
       "company": null,
       "start": "2013-12-23",
       "end": "2017-01-20"
+    },
+    {
+      "title": "General Counsel of the Department of Defense",
+      "company": null,
+      "start": "2009-02-10",
+      "end": "2012-12-31"
     }
   ],
   "currentTickers": [

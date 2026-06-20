@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-06-19T06:18:40.491975Z",
+  "fetchedAt": "2026-06-20T07:43:46.190834Z",
   "people": [
     {
       "qid": "Q16204157",
@@ -36,12 +36,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
-          "technology entrepreneur",
-          "manager",
           "investor",
+          "technology entrepreneur",
           "financier",
           "banker",
+          "chess player",
+          "manager",
           "entrepreneur",
           "computer scientist",
           "writer"
@@ -118,6 +118,11 @@
         ],
         "employers": [
           {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
+          },
+          {
             "company": "Addepar",
             "start": "2009-01-01",
             "end": "2013-01-01"
@@ -141,11 +146,6 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -182,12 +182,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
-          "technology entrepreneur",
-          "manager",
           "investor",
+          "technology entrepreneur",
           "financier",
           "banker",
+          "chess player",
+          "manager",
           "entrepreneur",
           "computer scientist",
           "writer"

@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-06-19T06:18:40.498667Z",
+  "fetchedAt": "2026-06-20T07:43:46.197689Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -23,12 +23,12 @@
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }
@@ -118,9 +118,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -162,26 +162,16 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Harvard Law School",
           "James B. Dudley High School",
-          "Brown University"
+          "Brown University",
+          "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
-          },
           {
             "company": "BET",
             "start": null,
@@ -189,6 +179,16 @@
           },
           {
             "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Monsanto",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kodak",
             "start": null,
             "end": null
           },
@@ -201,6 +201,16 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -321,12 +331,12 @@
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }

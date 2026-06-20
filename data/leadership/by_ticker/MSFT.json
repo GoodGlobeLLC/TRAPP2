@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-19T06:18:40.484306Z",
+  "fetchedAt": "2026-06-20T07:43:46.183590Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -17,9 +17,9 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -110,6 +110,16 @@
         "education": [],
         "employers": [
           {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -123,16 +133,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -157,19 +157,14 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
-          "University of Chicago",
-          "Syracuse University"
+          "Syracuse University",
+          "University of Chicago"
         ],
         "employers": [
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
           {
             "company": "General Electric",
             "start": null,
@@ -177,6 +172,11 @@
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -196,8 +196,8 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
           "University of Oxford",
@@ -273,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -305,18 +305,18 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "consultant",
           "podcaster",
           "financier",
-          "businessperson",
+          "consultant",
           "investor",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "The Putney School",
-          "Wolfson College"
+          "Wolfson College",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -398,9 +398,9 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -444,17 +444,17 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
           "co-founder",
-          "art collector",
           "philanthropist",
-          "investor",
-          "film producer",
-          "inventor",
           "programmer",
-          "musician",
-          "record producer",
           "television producer",
-          "entrepreneur",
+          "art collector",
+          "film producer",
+          "musician",
+          "investor",
+          "record producer",
+          "inventor",
           "computer scientist",
+          "entrepreneur",
           "businessperson",
           "composer"
         ],

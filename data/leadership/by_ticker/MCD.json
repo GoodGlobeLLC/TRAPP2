@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-06-19T06:18:40.480742Z",
+  "fetchedAt": "2026-06-20T07:43:46.180413Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -65,16 +65,21 @@
         "birthPlace": "Oak Park",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
         "occupations": [
-          "restaurateur",
           "salesperson",
-          "entrepreneur",
+          "restaurateur",
+          "writer",
           "businessperson",
-          "writer"
+          "entrepreneur"
         ],
         "education": [
           "Oak Park and River Forest High School"
         ],
         "employers": [
+          {
+            "company": "McDonald's",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Lily-Tulip Cup Company",
             "start": null,
@@ -82,11 +87,6 @@
           },
           {
             "company": "Prince Castle",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McDonald's",
             "start": null,
             "end": null
           }

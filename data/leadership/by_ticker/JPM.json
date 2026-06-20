@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-19T06:18:40.475650Z",
+  "fetchedAt": "2026-06-20T07:43:46.175770Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,12 +19,22 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
           {
             "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
@@ -37,16 +47,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1994-01-01",
+            "end": "2019-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -289,10 +289,10 @@
           "politician"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -405,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -505,12 +505,22 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
           {
             "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
@@ -523,16 +533,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -557,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [

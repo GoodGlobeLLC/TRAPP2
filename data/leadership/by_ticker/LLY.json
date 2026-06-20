@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-19T06:18:40.478012Z",
+  "fetchedAt": "2026-06-20T07:43:46.177852Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "HEC Paris",
-          "Columbia Business School"
+          "Columbia Business School",
+          "HEC Paris"
         ],
         "employers": [],
         "positions": []
@@ -80,8 +80,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard University",
           "Xavier University",
+          "Harvard University",
           "St. Xavier High School"
         ],
         "employers": [],
@@ -343,19 +343,14 @@
         ],
         "employers": [
           {
-            "company": "Cisco",
-            "start": "2009-09-01",
-            "end": "2019-07-01"
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           },
           {
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -383,9 +378,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -454,8 +449,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",

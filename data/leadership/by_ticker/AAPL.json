@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-19T06:18:40.440455Z",
+  "fetchedAt": "2026-06-20T07:43:46.143133Z",
   "people": [
     {
       "qid": "Q265852",
@@ -22,11 +22,11 @@
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -62,9 +62,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "biochemist",
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
-          "blogger",
+          "climate activist",
           "environmentalist",
           "financier",
+          "blogger",
+          "orator",
           "journalist",
-          "farmer",
           "university teacher",
-          "politician",
+          "farmer",
           "businessperson",
-          "writer",
-          "climate activist"
+          "politician",
+          "writer"
         ],
         "education": [
-          "Defense Information School",
           "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School"
+          "St. Albans School",
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -205,6 +205,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
           {
             "title": "United States representative",
             "company": null,
@@ -224,12 +230,6 @@
             "end": "2001-01-20"
           },
           {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
             "title": "board member",
             "company": null,
             "start": null,
@@ -244,30 +244,6 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -276,6 +252,12 @@
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-02"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
@@ -298,9 +280,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "biochemist",
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -371,13 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "computer scientist",
+          "businessperson",
           "programmer",
           "electronics technician",
           "inventor",
-          "entrepreneur",
-          "computer scientist",
           "engineer",
-          "businessperson",
+          "entrepreneur",
           "teacher",
           "actor"
         ],
@@ -390,17 +372,17 @@
         ],
         "employers": [
           {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -425,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "writer",
-          "computer scientist",
           "entrepreneur",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -455,17 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "financier",
-          "designer",
-          "film producer",
           "founder",
+          "designer",
           "technology entrepreneur",
+          "film producer",
+          "financier",
           "general manager",
           "executive producer",
-          "entrepreneur",
           "inventor",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -474,22 +455,22 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "NeXT",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

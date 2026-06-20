@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-06-19T06:18:40.443509Z",
+  "fetchedAt": "2026-06-20T07:43:46.146130Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Temple University Beasley School of Law",
-          "Harvard University"
+          "Harvard University",
+          "Temple University Beasley School of Law"
         ],
         "employers": [
           {
@@ -452,9 +452,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "computer scientist",
+          "entrepreneur",
           "software developer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
@@ -499,17 +499,22 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "mathematician",
           "businessperson",
-          "engineer"
+          "mathematician",
+          "computer scientist"
         ],
         "education": [
           "Olympus High School",
           "University of Utah"
         ],
         "employers": [
+          {
+            "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Adobe",
             "start": null,
@@ -519,11 +524,6 @@
             "company": "PARC",
             "start": "1978-01-01",
             "end": "1982-01-01"
-          },
-          {
-            "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

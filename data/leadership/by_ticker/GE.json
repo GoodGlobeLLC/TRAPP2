@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-19T06:18:40.468198Z",
+  "fetchedAt": "2026-06-20T07:43:46.169028Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Tepper School of Business",
@@ -257,9 +257,9 @@
           "businessperson"
         ],
         "education": [
+          "Haas School of Business",
           "University of California, Berkeley",
-          "Stanford University",
-          "Haas School of Business"
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -277,9 +277,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "university teacher",
           "politician",
-          "physicist",
-          "university teacher"
+          "physicist"
         ],
         "education": [
           "Yale College",
@@ -290,17 +290,17 @@
         ],
         "employers": [
           {
+            "company": "Fermilab",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "MIT Center for International Studies",
             "start": null,
             "end": null
           },
           {
             "company": "Brookhaven National Laboratory",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Fermilab",
             "start": null,
             "end": null
           },
@@ -407,14 +407,19 @@
           "physician"
         ],
         "education": [
-          "Stony Brook University",
-          "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -424,14 +429,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -443,12 +449,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -488,13 +488,13 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film producer",
           "film director",
-          "mathematician",
+          "film producer",
           "inventor",
+          "mathematician",
           "entrepreneur",
-          "engineer",
           "physicist",
+          "engineer",
           "screenwriter"
         ],
         "education": [

@@ -5,10 +5,10 @@
   "birthPlace": "Mobile",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
   "occupations": [
-    "politician",
-    "sociologist",
+    "business executive",
     "social worker",
-    "business executive"
+    "sociologist",
+    "politician"
   ],
   "education": [
     "Spring Hill College",
@@ -16,16 +16,6 @@
     "Xavier University of Louisiana"
   ],
   "employers": [
-    {
-      "company": "Cummins",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Toyota",
-      "start": "2006-01-01",
-      "end": null
-    },
     {
       "company": "The Coca-Cola Company",
       "start": "2001-01-01",
@@ -44,6 +34,16 @@
     {
       "company": "Sodexo",
       "start": null,
+      "end": null
+    },
+    {
+      "company": "Cummins",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Toyota",
+      "start": "2006-01-01",
       "end": null
     },
     {

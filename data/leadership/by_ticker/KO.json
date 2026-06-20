@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-19T06:18:40.477069Z",
+  "fetchedAt": "2026-06-20T07:43:46.177026Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -177,11 +177,11 @@
           "pediatrician"
         ],
         "education": [
+          "Perelman School of Medicine at the University of Pennsylvania",
+          "Johns Hopkins Bloomberg School of Public Health",
           "Johns Hopkins University",
           "Barnard College",
-          "University of Pennsylvania",
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health"
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -227,8 +227,8 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "entrepreneur",
           "merchant",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
@@ -260,17 +260,17 @@
         ],
         "employers": [
           {
+            "company": "William Morris Agency",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Paramount Pictures",
             "start": null,
             "end": null
           },
           {
             "company": "American Broadcasting Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -291,8 +291,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
           "businessperson",
-          "economist",
-          "banker"
+          "banker",
+          "economist"
         ],
         "education": [
           "St Mary's School",
@@ -325,10 +325,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "politician",
-          "sociologist",
+          "business executive",
           "social worker",
-          "business executive"
+          "sociologist",
+          "politician"
         ],
         "education": [
           "Spring Hill College",
@@ -336,16 +336,6 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
-          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -364,6 +354,16 @@
           {
             "company": "Sodexo",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
             "end": null
           },
           {
