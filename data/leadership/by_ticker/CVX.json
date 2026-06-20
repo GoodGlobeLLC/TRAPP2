@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University",
-          "University of Michigan Law School"
+          "Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -206,6 +206,11 @@
           "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Imperial College London",
             "start": null,
@@ -396,6 +401,7 @@
           "writer"
         ],
         "education": [
+          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",

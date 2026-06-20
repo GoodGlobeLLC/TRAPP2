@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [
@@ -462,6 +462,11 @@
         ],
         "employers": [
           {
+            "company": "John Carroll University",
+            "start": "1963-01-01",
+            "end": "1968-01-01"
+          },
+          {
             "company": "PARC",
             "start": "1972-01-01",
             "end": "1982-01-01"
@@ -470,11 +475,6 @@
             "company": "Adobe",
             "start": null,
             "end": null
-          },
-          {
-            "company": "John Carroll University",
-            "start": "1963-01-01",
-            "end": "1968-01-01"
           }
         ],
         "positions": [

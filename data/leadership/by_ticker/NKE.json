@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film director",
           "film producer",
           "rapper",
-          "animator"
+          "animator",
+          "film director"
         ],
         "education": [
           "Jesuit High School",
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -253,11 +253,11 @@
           "writer"
         ],
         "education": [
-          "Charles H. Lundquist College of Business",
-          "Cleveland High School",
           "Oregon State University",
           "University of Oregon",
-          "Stanford University"
+          "Stanford University",
+          "Charles H. Lundquist College of Business",
+          "Cleveland High School"
         ],
         "employers": [
           {
@@ -284,6 +284,7 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford Graduate School of Business",
           "Dartmouth College",
           "Stanford Graduate School of Business",
           "Stanford University"
@@ -311,9 +312,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
+          "computer scientist",
           "manager",
           "chief executive officer",
-          "computer scientist",
           "engineer",
           "businessperson"
         ],
@@ -326,14 +327,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -364,11 +365,11 @@
           "writer"
         ],
         "education": [
-          "Charles H. Lundquist College of Business",
-          "Cleveland High School",
           "Oregon State University",
           "University of Oregon",
-          "Stanford University"
+          "Stanford University",
+          "Charles H. Lundquist College of Business",
+          "Cleveland High School"
         ],
         "employers": [
           {
