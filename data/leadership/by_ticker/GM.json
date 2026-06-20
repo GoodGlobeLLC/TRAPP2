@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-06-19T06:18:40.468928Z",
+  "fetchedAt": "2026-06-20T07:04:40.332137Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -118,9 +118,9 @@
         ],
         "education": [
           "University of Toronto",
-          "Harvard University",
+          "University of California, Berkeley",
           "Harvard Business School",
-          "University of California, Berkeley"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -249,9 +249,9 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "chief executive officer",
           "business executive",
-          "lawyer"
+          "lawyer",
+          "chief executive officer"
         ],
         "education": [
           "Union College",
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": []
@@ -364,7 +364,6 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "business executive",
           "entrepreneur",
           "business executive",
           "politician"
@@ -376,16 +375,6 @@
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Hasbro",
             "start": null,
             "end": null
@@ -396,17 +385,27 @@
             "end": null
           },
           {
+            "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
+            "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -499,8 +498,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
           "entrepreneur",
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -546,10 +545,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {

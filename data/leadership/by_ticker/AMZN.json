@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-19T06:18:40.446412Z",
+  "fetchedAt": "2026-06-20T07:04:40.312045Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -23,13 +23,13 @@
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -57,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -67,11 +67,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -125,13 +125,13 @@
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
           "Questrom School of Business",
@@ -455,8 +455,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -465,11 +465,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -484,6 +479,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -517,7 +517,6 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Indian Institute of Management Calcutta",
           "University of Madras",
           "Yale School of Management",
@@ -587,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
@@ -597,11 +596,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -616,6 +610,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-06-19T06:18:40.443509Z",
+  "fetchedAt": "2026-06-20T07:04:40.309247Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [
@@ -452,15 +452,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "computer scientist",
+          "entrepreneur",
           "software developer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
           "Carnegie Mellon University"
         ],
         "employers": [
+          {
+            "company": "John Carroll University",
+            "start": "1963-01-01",
+            "end": "1968-01-01"
+          },
           {
             "company": "PARC",
             "start": "1972-01-01",
@@ -470,11 +475,6 @@
             "company": "Adobe",
             "start": null,
             "end": null
-          },
-          {
-            "company": "John Carroll University",
-            "start": "1963-01-01",
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -502,8 +502,8 @@
           "entrepreneur",
           "computer scientist",
           "mathematician",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Olympus High School",

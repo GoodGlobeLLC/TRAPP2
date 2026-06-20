@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-19T06:18:40.468198Z",
+  "fetchedAt": "2026-06-20T07:04:40.331507Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Colgate University",
@@ -258,8 +258,8 @@
         ],
         "education": [
           "University of California, Berkeley",
-          "Stanford University",
-          "Haas School of Business"
+          "Haas School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -277,9 +277,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "politician",
+          "university teacher",
           "physicist",
-          "university teacher"
+          "politician"
         ],
         "education": [
           "Yale College",
@@ -290,17 +290,17 @@
         ],
         "employers": [
           {
+            "company": "Fermilab",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "MIT Center for International Studies",
             "start": null,
             "end": null
           },
           {
             "company": "Brookhaven National Laboratory",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Fermilab",
             "start": null,
             "end": null
           },
@@ -335,16 +335,16 @@
             "end": "2011-10-05"
           },
           {
-            "title": "United States Secretary of Defense",
-            "company": null,
-            "start": "2015-02-17",
-            "end": "2017-01-19"
-          },
-          {
             "title": "Assistant Secretary of Defense for Global Strategic Affairs",
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
+          },
+          {
+            "title": "United States Secretary of Defense",
+            "company": null,
+            "start": "2015-02-17",
+            "end": "2017-01-19"
           }
         ]
       }
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
+          "Cornell University",
           "Suffield Academy",
-          "The Wharton School",
-          "Cornell University"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -489,13 +489,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
           "film producer",
+          "engineer",
+          "inventor",
           "film director",
           "mathematician",
-          "inventor",
+          "screenwriter",
           "entrepreneur",
-          "engineer",
-          "physicist",
-          "screenwriter"
+          "physicist"
         ],
         "education": [
           "Cooper Union"

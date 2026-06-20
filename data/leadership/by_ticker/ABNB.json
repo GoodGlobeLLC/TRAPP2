@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-06-19T06:18:40.441681Z",
+  "fetchedAt": "2026-06-20T07:04:40.307499Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -84,9 +84,9 @@
           "business executive"
         ],
         "education": [
+          "Keble College",
           "University of Zimbabwe",
-          "University of Oxford",
-          "Keble College"
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -163,9 +163,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Boston Latin Academy",
@@ -231,8 +231,8 @@
           "chief financial officer"
         ],
         "education": [
-          "Stuyvesant High School",
           "Stanford University",
+          "Stuyvesant High School",
           "Harvard University"
         ],
         "employers": [],
@@ -266,6 +266,11 @@
         ],
         "employers": [
           {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
+          },
+          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -276,16 +281,6 @@
             "end": "1996-01-01"
           },
           {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
-          },
-          {
-            "company": "Apple Inc.",
-            "start": "2014-05-01",
-            "end": "2019-05-01"
-          },
-          {
             "company": "Warnaco Group",
             "start": null,
             "end": null
@@ -294,6 +289,11 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "2014-05-01",
+            "end": "2019-05-01"
           }
         ],
         "positions": [
@@ -324,8 +324,8 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Bowdoin College",
@@ -419,9 +419,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Boston Latin Academy",
