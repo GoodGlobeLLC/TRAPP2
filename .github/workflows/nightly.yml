@@ -1,14 +1,18 @@
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2  (.github/workflows/nightly.yml — REPLACE)
 name: Nightly Full Refresh
 
-# Pushed 4 hours earlier from 04:30 UTC to 00:30 UTC to compensate for
-# GitHub Actions queue latency. With typical queue lag the actual run lands
-# in the 4-6 AM UTC window, which is still well after US market close.
+# TRAPP2 is the US-EQUITIES repo. This nightly does EQUITIES data only:
+#   quotes + fundamentals → 5-year price history.
 #
-# 00:30 UTC = 8:30 PM ET (EDT) / 7:30 PM ET (EST). Runs after close, before
-# any pre-market data appears.
+# The macro/FRED pull, signal stack, regime classification, Markov transitions,
+# and ETF holdings have been REMOVED from here — those belong to the FX/global
+# repo (TRAPP2-1), which already runs the full macro → signals → regime →
+# transitions chain in its own nightly. Keeping them here was redundant work and
+# caused two repos to publish competing regime_current.json snapshots (the
+# "regime flips between refreshes" race). The app reads macro + regime from
+# TRAPP2-1 now, so this repo no longer needs to produce them.
 #
-# Market-data pipeline ONLY: quotes → 5-year history → FRED macro → regime
-# → Markov → ETF holdings. Wikidata steps moved to their own workflows.
+# 00:30 UTC = 8:30 PM ET (EDT). Runs after US close, before pre-market data.
 
 on:
   schedule:
@@ -16,7 +20,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: trapp2-regime
+  group: trapp2-equities-nightly
   cancel-in-progress: false
 
 jobs:
@@ -36,41 +40,22 @@ jobs:
           cache: 'pip'
 
       - name: Install core requirements (must succeed)
-        run: pip install requests pandas fredapi "yfinance>=0.2.50,<0.3"
- 
-      - name: Install etf-scraper (optional — non-fatal if it breaks)
-        run: pip install "etf-scraper>=0.1.1" || echo "etf-scraper unavailable; ETF holdings step will be skipped"
-      
+        run: pip install requests pandas "yfinance>=0.2.50,<0.3"
+
       - name: Fetch quotes + fundamentals
         run: python pipeline/fetch_data.py
 
       - name: Fetch 5-year price history
         run: python pipeline/fetch_history.py
 
-      - name: Fetch FRED macro series
-        env:
-          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: python pipeline/fetch_macro.py
-
-      - name: Compute signals
-        run: python pipeline/compute_signals.py
-
-      - name: Classify regime + append snapshot
-        run: python pipeline/classify_regime.py
-
-      - name: Compute Markov transitions
-        run: python pipeline/compute_transitions.py
-
-      - name: Fetch ETF holdings (issuer-direct CSV downloads)
-        # Best-effort: never fail the workflow if an issuer changes their URL.
-        # Each ETF is fetched independently; partial success commits what worked.
-        run: python pipeline/fetch_etf_holdings.py || echo "ETF holdings step had errors but continuing"
-
-      # Company facts + CEO/leadership tracking are NOT here anymore — they were
-      # the timeout culprits (Wikidata, 30+ min). They run on their own clocks:
-      #   company-facts.yml  (monthly, already present)
-      #   leadership.yml     (weekly, added alongside this file)
-      # This nightly now finishes in well under the hour: market data only.
+      # NOTE (removed — now in TRAPP2-1, the FX/global repo):
+      #   - Fetch FRED macro series      (pipeline/fetch_macro.py)
+      #   - Compute signals              (pipeline/compute_signals.py)
+      #   - Classify regime + snapshot   (pipeline/classify_regime.py)
+      #   - Compute Markov transitions   (pipeline/compute_transitions.py)
+      #   - Fetch ETF holdings           (pipeline/fetch_etf_holdings.py)
+      # Company facts + leadership run on their own clocks (company-facts.yml,
+      # leadership*.yml). This nightly is now purely equities market data.
 
       - name: Commit & push
         run: |
@@ -80,7 +65,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No nightly changes to commit"
           else
-            git commit -m "Nightly refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "Nightly equities refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             # Generated data — on conflict with a parallel run, OURS wins. Never
             # hand-rebase JSON (git can't auto-merge it; that was the exit-128 cause).
             for i in 1 2 3 4 5; do
