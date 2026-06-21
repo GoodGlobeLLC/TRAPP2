@@ -1,0 +1,75 @@
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2  (.github/workflows/options.yml — NEW FILE)
+name: Options Chains
+
+# Pulls live options chains + computes Greeks for the main tickers, writing
+# data/options/<TICKER>.json (+ a manifest). Expired contracts are dropped on
+# each run, so the app only ever sees live options. The bot keeps whatever it
+# traded in its own data, independent of these files.
+#
+# Options data moves fast and is only meaningful during/after market hours, so
+# this runs a few times each trading day plus a post-close snapshot. Adjust the
+# universe via data/options_universe.txt (a curated list of liquid names) — you
+# do NOT want all ~260 tickers here; many have no/illiquid options and it wastes
+# the run. Start with the 30-60 most liquid (mega-caps + high-volume ETFs).
+
+on:
+  schedule:
+    # Weekdays: 10:00, 13:00, 15:45 ET (14:00, 17:00, 19:45 UTC during EDT).
+    - cron: '0 14 * * 1-5'
+    - cron: '0 17 * * 1-5'
+    - cron: '45 19 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: trapp2-options
+  cancel-in-progress: false
+
+jobs:
+  options:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install requirements
+        run: pip install "yfinance>=0.2.50,<0.3" pandas
+
+      - name: Fetch options chains + Greeks
+        env:
+          MAX_EXPIRIES: '4'      # nearest 4 expiries (this + next few Fridays/monthlies)
+          STRIKE_PCT: '0.25'     # ± 25% strikes around spot (near the money)
+          TIME_BUDGET_SEC: '2400'
+        run: python pipeline/fetch_options.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/options/
+          if git diff --staged --quiet; then
+            echo "No options changes to commit"
+            exit 0
+          fi
+          git commit -m "Options chains $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Generated JSON — OURS wins on a race with a parallel run.
+          for i in 1 2 3 4 5; do
+            if git push; then echo "pushed on attempt $i"; break; fi
+            echo "push $i failed — merging remote OURS"
+            git fetch origin
+            git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+            if [ -f .git/MERGE_HEAD ]; then
+              git checkout --ours -- data/options/ 2>/dev/null || true
+              git add -A data/options/ 2>/dev/null || true
+              git commit --no-edit 2>/dev/null || true
+            fi
+            sleep 4
+          done
