@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-06-20T07:43:46.154654Z",
+  "fetchedAt": "2026-06-21T05:24:27.083672Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -261,13 +261,13 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -330,8 +330,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Lee%20pg736.jpg",
         "occupations": [
           "television actor",
-          "film actor",
           "voice actor",
+          "film actor",
           "actor"
         ],
         "education": [

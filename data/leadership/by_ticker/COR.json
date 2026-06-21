@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-06-20T07:43:46.158764Z",
+  "fetchedAt": "2026-06-21T05:24:27.085924Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "oncologist",
-          "physician"
+          "physician",
+          "oncologist"
         ],
         "education": [
           "Manchester University",
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
-            "company": "University of New Mexico",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

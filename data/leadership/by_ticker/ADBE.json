@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-06-20T07:43:46.146130Z",
+  "fetchedAt": "2026-06-21T05:24:27.077742Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Temple University Beasley School of Law"
+          "Temple University Beasley School of Law",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -462,11 +462,6 @@
         ],
         "employers": [
           {
-            "company": "John Carroll University",
-            "start": "1963-01-01",
-            "end": "1968-01-01"
-          },
-          {
             "company": "PARC",
             "start": "1972-01-01",
             "end": "1982-01-01"
@@ -475,6 +470,11 @@
             "company": "Adobe",
             "start": null,
             "end": null
+          },
+          {
+            "company": "John Carroll University",
+            "start": "1963-01-01",
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -499,22 +499,17 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
-          "businessperson",
+          "computer scientist",
           "mathematician",
-          "computer scientist"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Olympus High School",
           "University of Utah"
         ],
         "employers": [
-          {
-            "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Adobe",
             "start": null,
@@ -524,6 +519,11 @@
             "company": "PARC",
             "start": "1978-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

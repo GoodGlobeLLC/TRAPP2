@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-20T07:43:46.143133Z",
+  "fetchedAt": "2026-06-21T05:24:27.075199Z",
   "people": [
     {
       "qid": "Q265852",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
+          "orator",
           "environmentalist",
           "financier",
           "blogger",
-          "orator",
           "journalist",
           "university teacher",
           "farmer",
-          "businessperson",
           "politician",
-          "writer"
+          "businessperson",
+          "writer",
+          "climate activist"
         ],
         "education": [
-          "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College"
         ],
         "employers": [
           {
@@ -205,12 +205,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
           {
             "title": "United States representative",
             "company": null,
@@ -228,6 +222,12 @@
             "company": null,
             "start": "1993-01-20",
             "end": "2001-01-20"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "board member",
@@ -264,12 +264,6 @@
             "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
           }
         ]
       }
@@ -286,14 +280,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -324,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -359,13 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson",
           "programmer",
           "electronics technician",
           "inventor",
-          "engineer",
           "entrepreneur",
+          "computer scientist",
+          "engineer",
+          "businessperson",
           "teacher",
           "actor"
         ],
@@ -413,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
-          "engineer",
-          "writer"
+          "entrepreneur",
+          "writer",
+          "engineer"
         ],
         "education": [
           "High School of Art and Design"
@@ -444,15 +438,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "founder",
-          "designer",
-          "technology entrepreneur",
           "film producer",
+          "designer",
           "financier",
+          "technology entrepreneur",
           "general manager",
           "executive producer",
-          "inventor",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -461,22 +455,22 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
           {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
             "start": null,
             "end": null
           }

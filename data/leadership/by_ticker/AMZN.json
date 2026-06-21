@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-20T07:43:46.148794Z",
+  "fetchedAt": "2026-06-21T05:24:27.079623Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -57,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "business oligarch"
         ],
         "education": [
@@ -67,6 +67,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -299,10 +299,10 @@
           "soldier"
         ],
         "education": [
-          "Questrom School of Business",
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Questrom School of Business",
+          "Naval Postgraduate School",
           "Westhill Senior High School"
         ],
         "employers": [
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
           "university teacher",
           "academic",
+          "executive",
+          "dean",
           "computer scientist"
         ],
         "education": [
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Horace Mann School",
@@ -455,8 +455,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "business oligarch"
         ],
         "education": [
@@ -465,6 +465,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -546,13 +546,13 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -586,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "business oligarch"
         ],
         "education": [
@@ -596,6 +596,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

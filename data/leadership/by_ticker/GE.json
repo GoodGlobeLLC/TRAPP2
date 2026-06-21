@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-20T07:43:46.169028Z",
+  "fetchedAt": "2026-06-21T05:24:27.092738Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -257,9 +257,9 @@
           "businessperson"
         ],
         "education": [
-          "Haas School of Business",
           "University of California, Berkeley",
-          "Stanford University"
+          "Stanford University",
+          "Haas School of Business"
         ],
         "employers": [],
         "positions": []
@@ -277,18 +277,23 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "physicist",
           "university teacher",
-          "politician",
-          "physicist"
+          "politician"
         ],
         "education": [
+          "Trumbull College",
+          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
-          "Trumbull College",
-          "Abington Senior High School"
+          "University of Edinburgh"
         ],
         "employers": [
+          {
+            "company": "United States Department of Defense",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Fermilab",
             "start": null,
@@ -308,20 +313,9 @@
             "company": "Harvard University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "United States Department of Defense",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
@@ -339,6 +333,12 @@
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
+          },
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "United States Secretary of Defense",
@@ -400,26 +400,21 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "administrator",
           "physician"
         ],
         "education": [
+          "The Bush School",
           "The Wharton School",
+          "Stony Brook University",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University",
-          "Stony Brook University",
-          "The Bush School"
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -429,15 +424,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -449,6 +443,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
           "Suffield Academy",
-          "The Wharton School"
+          "The Wharton School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -490,8 +490,8 @@
         "occupations": [
           "film director",
           "film producer",
-          "inventor",
           "mathematician",
+          "inventor",
           "entrepreneur",
           "physicist",
           "engineer",
