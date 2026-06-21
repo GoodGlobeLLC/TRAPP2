@@ -22,6 +22,16 @@
         ],
         "employers": [
           {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -206,8 +216,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -271,8 +281,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -317,6 +327,16 @@
           "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",

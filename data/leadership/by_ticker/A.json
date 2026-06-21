@@ -104,14 +104,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
+          "scientist",
           "physician"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
           {
@@ -416,8 +416,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -468,11 +468,6 @@
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Boehringer Ingelheim",
             "start": "2003-01-01",
             "end": "2008-01-01"
@@ -481,6 +476,11 @@
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
@@ -505,8 +505,8 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "biologist",
-          "business executive"
+          "business executive",
+          "biologist"
         ],
         "education": [
           "University of Massachusetts",

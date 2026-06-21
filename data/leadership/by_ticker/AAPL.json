@@ -62,9 +62,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "Princeton University",
@@ -191,11 +191,11 @@
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -280,9 +280,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "Princeton University",
@@ -318,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -367,8 +367,8 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -407,6 +407,7 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur",
           "computer scientist",
           "engineer",

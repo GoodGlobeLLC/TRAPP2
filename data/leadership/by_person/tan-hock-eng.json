@@ -13,6 +13,16 @@
   ],
   "employers": [
     {
+      "company": "Commodore International",
+      "start": "1992-01-01",
+      "end": "1994-01-01"
+    },
+    {
+      "company": "PepsiCo",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Broadcom",
       "start": "2006-03-01",
       "end": null
@@ -53,7 +63,6 @@
   ],
   "currentTickers": [
     "AVGO",
-    "AVGO",
-    "META"
+    "AVGO"
   ]
 }
