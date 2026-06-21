@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-21T06:02:28.992362Z",
+  "fetchedAt": "2026-06-21T10:15:00.565439Z",
   "people": [
     {
       "qid": "Q92759",
@@ -14,12 +14,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "aircraft pilot",
-          "entrepreneur",
-          "computer scientist",
           "businessperson",
-          "actor",
-          "entrepreneur"
+          "entrepreneur",
+          "aircraft pilot",
+          "computer scientist",
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -151,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
+          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda",
-          "Stanford University"
+          "Maharaja Sayajirao University of Baroda"
         ],
         "employers": [
           {
@@ -199,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "University of California, Santa Barbara"
+          "University of California, Santa Barbara",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": []
@@ -264,14 +263,14 @@
         ],
         "employers": [
           {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
           },
           {
             "company": "Adobe",
@@ -282,16 +281,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -316,11 +305,11 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
           "academic",
           "university teacher",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "economist",
+          "writer"
         ],
         "education": [
           "University of California, Berkeley"
@@ -362,15 +351,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "banker",
           "chief financial officer",
-          "banker"
+          "businessperson"
         ],
         "education": [
-          "Harvard Law School",
           "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -385,18 +374,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -420,6 +397,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -544,10 +533,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
           "university teacher",
-          "lawyer",
           "Oberleutnant",
-          "jurist",
           "political scientist",
+          "jurist",
+          "lawyer",
           "politician"
         ],
         "education": [
@@ -667,12 +656,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "aircraft pilot",
-          "entrepreneur",
-          "computer scientist",
           "businessperson",
-          "actor",
-          "entrepreneur"
+          "entrepreneur",
+          "aircraft pilot",
+          "computer scientist",
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -731,12 +719,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "aircraft pilot",
-          "entrepreneur",
-          "computer scientist",
           "businessperson",
-          "actor",
-          "entrepreneur"
+          "entrepreneur",
+          "aircraft pilot",
+          "computer scientist",
+          "actor"
         ],
         "education": [
           "University of Chicago",
