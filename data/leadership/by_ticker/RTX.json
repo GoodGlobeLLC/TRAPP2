@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-06-21T06:02:28.998857Z",
+  "fetchedAt": "2026-06-21T10:15:00.572974Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,9 +39,9 @@
           "civil servant"
         ],
         "education": [
+          "Georgetown University",
           "Saddleback High School",
           "Lexington High School",
-          "Georgetown University",
           "University of Oxford"
         ],
         "employers": [
@@ -73,9 +73,9 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
+          "admiral",
           "military officer",
-          "naval air force",
-          "admiral"
+          "naval air force"
         ],
         "education": [
           "Fort Hunt High School",
@@ -187,8 +187,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -381,12 +381,17 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
         "occupations": [],
         "education": [
-          "University of Illinois System",
-          "University of Southern California",
           "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies"
+          "Paul H. Nitze School of Advanced International Studies",
+          "University of Illinois System",
+          "University of Southern California"
         ],
         "employers": [
+          {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": null,
@@ -394,11 +399,6 @@
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }

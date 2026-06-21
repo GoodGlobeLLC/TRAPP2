@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-06-21T06:02:28.991325Z",
+  "fetchedAt": "2026-06-21T10:15:00.563347Z",
   "people": [
     {
       "qid": "Q305177",
@@ -14,21 +14,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
+          "tech VIP",
           "founder",
           "manager",
           "electrical engineer",
-          "tech VIP",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer",
+          "computer scientist",
           "engineer",
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University"
+          "Oregon State University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -75,10 +75,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
-          "USC Viterbi School of Engineering",
           "Harvard University",
           "University of Southern California",
-          "Harvard Business School"
+          "Harvard Business School",
+          "USC Viterbi School of Engineering"
         ],
         "employers": [],
         "positions": [
@@ -289,9 +289,9 @@
         "occupations": [],
         "education": [
           "Merton College",
-          "Stanford University",
+          "Princeton School of Public and International Affairs",
           "Princeton University",
-          "Princeton School of Public and International Affairs"
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -388,14 +388,19 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Persis%20Drell%20at%20Stanford%203-4-09%201.JPG",
         "occupations": [
-          "physicist",
-          "university teacher"
+          "university teacher",
+          "physicist"
         ],
         "education": [
           "University of California, Berkeley",
           "Wellesley College"
         ],
         "employers": [
+          {
+            "company": "Stanford University School of Engineering",
+            "start": "2014-01-01",
+            "end": "2017-01-01"
+          },
           {
             "company": "SLAC National Accelerator Laboratory",
             "start": "2007-01-01",
@@ -405,11 +410,6 @@
             "company": "SLAC National Accelerator Laboratory",
             "start": "2005-01-01",
             "end": "2007-01-01"
-          },
-          {
-            "company": "Stanford University School of Engineering",
-            "start": "2014-01-01",
-            "end": "2017-01-01"
           },
           {
             "company": "Cornell University",
@@ -449,21 +449,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
+          "tech VIP",
           "founder",
           "manager",
           "electrical engineer",
-          "tech VIP",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer",
+          "computer scientist",
           "engineer",
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University"
+          "Oregon State University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -481,21 +481,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
+          "tech VIP",
           "founder",
           "manager",
           "electrical engineer",
-          "tech VIP",
           "entrepreneur",
-          "computer scientist",
           "chief executive officer",
+          "computer scientist",
           "engineer",
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University"
+          "Oregon State University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
