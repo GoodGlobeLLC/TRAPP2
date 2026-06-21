@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -277,16 +277,17 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "physicist",
           "university teacher",
           "physicist",
           "politician"
         ],
         "education": [
+          "Trumbull College",
+          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
-          "Trumbull College",
-          "Abington Senior High School"
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -317,12 +318,6 @@
         ],
         "positions": [
           {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
             "start": "2011-10-06",
@@ -339,6 +334,12 @@
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
+          },
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "United States Secretary of Defense",
@@ -400,7 +401,7 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "physician",

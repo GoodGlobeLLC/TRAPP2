@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "business executive"
+          "business executive",
+          "chief executive officer"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -142,9 +142,9 @@
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -166,32 +166,10 @@
           "lawyer"
         ],
         "education": [
-          "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
           "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Revlon",
             "start": null,
@@ -211,20 +189,40 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Monsanto",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kodak",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-01-01",
-            "end": "2018-01-01"
-          },
           {
             "title": "board of directors member",
             "company": null,
             "start": "2020-01-01",
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2018-01-01"
           }
         ]
       }
@@ -244,9 +242,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -322,8 +320,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "business executive"
+          "business executive",
+          "chief executive officer"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -418,8 +416,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
           "Stanford University"

@@ -94,11 +94,6 @@
         ],
         "employers": [
           {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
-          },
-          {
             "company": "Yahoo",
             "start": "2012-07-16",
             "end": "2017-06-01"
@@ -107,6 +102,11 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
+          },
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
           }
         ],
         "positions": [
@@ -283,8 +283,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
