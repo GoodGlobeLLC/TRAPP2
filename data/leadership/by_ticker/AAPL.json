@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-21T10:58:05.203160Z",
+  "fetchedAt": "2026-06-21T18:52:09.157733Z",
   "people": [
     {
       "qid": "Q265852",
@@ -18,8 +18,8 @@
           "manager",
           "chief executive officer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
           "climate activist",
-          "university teacher",
+          "orator",
           "blogger",
-          "journalist",
           "environmentalist",
           "financier",
+          "journalist",
+          "university teacher",
           "farmer",
-          "businessperson",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -280,14 +280,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -318,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -353,13 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "inventor",
           "programmer",
           "electronics technician",
-          "entrepreneur",
           "computer scientist",
+          "inventor",
           "businessperson",
           "engineer",
+          "entrepreneur",
           "teacher",
           "actor"
         ],
@@ -367,8 +367,8 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -382,12 +382,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -407,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur",
-          "writer",
           "computer scientist",
-          "engineer"
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "designer",
-          "founder",
+          "technology entrepreneur",
           "film producer",
+          "founder",
           "financier",
-          "inventor",
-          "entrepreneur",
           "general manager",
           "executive producer",
+          "entrepreneur",
+          "inventor",
           "computer scientist"
         ],
         "education": [
@@ -460,17 +460,17 @@
             "end": null
           },
           {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }

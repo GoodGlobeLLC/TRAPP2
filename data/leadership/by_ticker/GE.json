@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-21T10:58:05.226543Z",
+  "fetchedAt": "2026-06-21T18:52:09.180966Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -258,8 +258,8 @@
         ],
         "education": [
           "University of California, Berkeley",
-          "Haas School of Business",
-          "Stanford University"
+          "Stanford University",
+          "Haas School of Business"
         ],
         "employers": [],
         "positions": []
@@ -277,28 +277,18 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "politician",
           "physicist",
-          "university teacher",
-          "politician"
+          "university teacher"
         ],
         "education": [
-          "University of Edinburgh",
           "Yale College",
           "St John's College",
+          "University of Edinburgh",
           "Trumbull College",
           "Abington Senior High School"
         ],
         "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Fermilab",
             "start": null,
@@ -311,6 +301,16 @@
           },
           {
             "company": "Brookhaven National Laboratory",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
             "start": null,
             "end": null
           }
@@ -361,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -488,13 +488,13 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "mathematician",
           "film director",
           "film producer",
+          "mathematician",
           "inventor",
+          "engineer",
           "entrepreneur",
           "physicist",
-          "engineer",
           "screenwriter"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-21T10:58:05.219996Z",
+  "fetchedAt": "2026-06-21T18:52:09.174299Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University",
-          "University of Michigan Law School"
+          "Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -112,9 +112,9 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Georgia Tech"
         ],
         "employers": [
           {
@@ -197,8 +197,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemical engineer",
           "chemist",
+          "chemical engineer",
           "academic administrator"
         ],
         "education": [
@@ -207,7 +207,7 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
@@ -217,7 +217,7 @@
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -355,8 +355,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "military flight engineer",
-          "engineer"
+          "engineer",
+          "military flight engineer"
         ],
         "education": [
           "University of Pittsburgh",
@@ -392,25 +392,25 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "writer",
-          "economist"
+          "economist",
+          "writer"
         ],
         "education": [
           "Kogod School of Business",
           "St Antony's College",
           "American University",
           "John F. Kennedy School of Government",
-          "Harvard University",
-          "University of Oxford"
+          "University of Oxford",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -449,11 +449,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "governor",
-          "ambassador",
           "missionary",
           "diplomat",
-          "politician"
+          "politician",
+          "governor",
+          "ambassador"
         ],
         "education": [
           "National Taiwan Normal University",

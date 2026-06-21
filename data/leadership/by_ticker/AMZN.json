@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-21T10:58:05.208400Z",
+  "fetchedAt": "2026-06-21T18:52:09.163219Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
+          "entrepreneur",
           "business oligarch",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -294,15 +294,15 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "spy",
           "soldier",
+          "spy",
           "intelligence officer"
         ],
         "education": [
-          "Questrom School of Business",
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Questrom School of Business",
+          "Naval Postgraduate School",
           "Westhill Senior High School"
         ],
         "employers": [
@@ -334,11 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
           "university teacher",
+          "computer scientist",
           "academic",
-          "computer scientist"
+          "executive",
+          "dean"
         ],
         "education": [
           "University of Michigan",
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
+          "entrepreneur",
           "business oligarch",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -546,13 +546,13 @@
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           }
         ],
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
+          "entrepreneur",
           "business oligarch",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",

@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-06-21T10:58:05.209988Z",
+  "fetchedAt": "2026-06-21T18:52:09.164701Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -22,6 +22,16 @@
         ],
         "employers": [
           {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -38,16 +48,6 @@
           },
           {
             "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -74,8 +74,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "entrepreneur",
+          "university teacher",
           "computer scientist"
         ],
         "education": [
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -271,8 +271,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -318,6 +318,16 @@
         ],
         "employers": [
           {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -334,16 +344,6 @@
           },
           {
             "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -442,8 +442,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "entrepreneur",
+          "university teacher",
           "computer scientist"
         ],
         "education": [
