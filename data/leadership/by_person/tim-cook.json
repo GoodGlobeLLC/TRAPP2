@@ -13,22 +13,22 @@
     "businessperson"
   ],
   "education": [
-    "Auburn University",
-    "Duke University",
     "Rostrevor College",
     "Robertsdale High School",
-    "Fuqua School of Business"
+    "Fuqua School of Business",
+    "Auburn University",
+    "Duke University"
   ],
   "employers": [
-    {
-      "company": "IBM",
-      "start": "1982-01-01",
-      "end": "1994-01-01"
-    },
     {
       "company": "Apple Inc.",
       "start": "1998-01-01",
       "end": null
+    },
+    {
+      "company": "IBM",
+      "start": "1982-01-01",
+      "end": "1994-01-01"
     }
   ],
   "positions": [
@@ -40,7 +40,6 @@
     }
   ],
   "currentTickers": [
-    "AAPL",
     "NKE"
   ]
 }
