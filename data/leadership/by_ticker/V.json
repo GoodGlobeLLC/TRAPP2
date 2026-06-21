@@ -222,9 +222,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -288,11 +288,6 @@
         ],
         "employers": [
           {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
-          },
-          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -301,6 +296,11 @@
             "company": "SEAT",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -451,9 +451,9 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
-          "merchant",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "merchant"
         ],
         "education": [
           "Boston College"
