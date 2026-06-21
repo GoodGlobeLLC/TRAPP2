@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-21T10:58:05.234437Z",
+  "fetchedAt": "2026-06-21T19:31:26.228721Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia Business School",
-          "HEC Paris"
+          "HEC Paris",
+          "Columbia Business School"
         ],
         "employers": [],
         "positions": []
@@ -283,12 +283,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -378,9 +378,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
+          "Harvard Business School",
           "Harvard Law School",
-          "Harvard Business School"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -620,11 +620,6 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
             "end": null
@@ -632,6 +627,11 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
             "end": null
           }
         ],

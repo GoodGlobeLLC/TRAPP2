@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-06-21T10:58:05.251949Z",
+  "fetchedAt": "2026-06-21T19:31:26.250065Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -23,12 +23,12 @@
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }
@@ -118,10 +118,10 @@
           "manager"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Collegiate School",
-          "Allen-Stevenson School"
+          "Allen-Stevenson School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -167,31 +167,11 @@
         ],
         "education": [
           "Harvard Law School",
-          "James B. Dudley High School",
           "Brown University",
+          "James B. Dudley High School",
           "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
-          },
           {
             "company": "BET",
             "start": null,
@@ -203,12 +183,12 @@
             "end": null
           },
           {
-            "company": "Revlon",
+            "company": "Monsanto",
             "start": null,
             "end": null
           },
           {
-            "company": "Washington Gas",
+            "company": "Kodak",
             "start": null,
             "end": null
           },
@@ -351,12 +331,12 @@
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }

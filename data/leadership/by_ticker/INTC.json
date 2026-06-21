@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-21T10:58:05.230748Z",
+  "fetchedAt": "2026-06-21T19:31:26.224385Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
           "engineer",
+          "chemist",
           "entrepreneur",
-          "businessperson",
-          "chemist"
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -54,9 +54,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -162,15 +162,10 @@
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -180,6 +175,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -267,10 +267,10 @@
           "entrepreneur"
         ],
         "education": [
+          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
-          "California Institute of Technology",
-          "University of California, Berkeley"
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -294,10 +294,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
           "computer scientist",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
           "Grinnell College",
@@ -347,21 +347,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
           "academic",
+          "computer scientist",
           "university teacher",
           "electrotechnician",
-          "electrical engineer",
-          "computer scientist"
+          "electrical engineer"
         ],
         "education": [
           "University of California, Berkeley",
           "University of California, Berkeley College of Engineering"
         ],
         "employers": [
-          {
-            "company": "Princeton University",
-            "start": "2020-01-01",
-            "end": null
-          },
           {
             "company": "California Institute of Technology",
             "start": null,
@@ -370,6 +365,11 @@
           {
             "company": "Stanford University",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           }
         ],
@@ -415,8 +415,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
@@ -481,9 +481,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -599,8 +599,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "board member"
         ],
         "education": [],
@@ -654,15 +654,10 @@
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
-          },
           {
             "company": "Intel",
             "start": "1968-01-01",
@@ -672,6 +667,11 @@
             "company": "Stanford University",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -715,10 +715,10 @@
           "entrepreneur"
         ],
         "education": [
+          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
-          "California Institute of Technology",
-          "University of California, Berkeley"
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -742,10 +742,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
           "computer scientist",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
           "Grinnell College",

@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-21T10:58:05.202083Z",
+  "fetchedAt": "2026-06-21T19:31:26.190604Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "physician",
           "gastroenterologist",
-          "university teacher",
-          "physician"
+          "university teacher"
         ],
         "education": [
           "Harvard College",
@@ -115,11 +115,6 @@
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -128,6 +123,11 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "University of London",
-          "Harvard University",
           "Imperial College London",
-          "Harvard Business School"
+          "University of London",
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -259,11 +259,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +272,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -422,14 +422,14 @@
         "education": [],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "2016-11-01",
-            "end": null
-          },
-          {
             "company": "SAP",
             "start": "2016-10-01",
             "end": "2019-10-01"
+          },
+          {
+            "company": "Microsoft",
+            "start": "2016-11-01",
+            "end": null
           }
         ],
         "positions": [
@@ -460,8 +460,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
@@ -509,8 +509,8 @@
           "business executive"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [

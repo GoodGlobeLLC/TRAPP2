@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-21T10:58:05.241067Z",
+  "fetchedAt": "2026-06-21T19:31:26.236455Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "venture capitalist"
+          "venture capitalist",
+          "businessperson"
         ],
         "education": [
           "University of Montana"
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -253,9 +253,9 @@
           "writer"
         ],
         "education": [
+          "Stanford University",
           "Oregon State University",
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School"
         ],
@@ -284,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford Graduate School of Business",
           "Dartmouth College",
-          "Stanford University"
+          "Stanford University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -310,30 +310,30 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
+          "chief executive officer",
           "presenter",
           "manager",
-          "chief executive officer",
+          "engineer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
           {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -364,9 +364,9 @@
           "writer"
         ],
         "education": [
+          "Stanford University",
           "Oregon State University",
           "University of Oregon",
-          "Stanford University",
           "Charles H. Lundquist College of Business",
           "Cleveland High School"
         ],

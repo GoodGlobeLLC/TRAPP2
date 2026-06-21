@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-21T10:58:05.219996Z",
+  "fetchedAt": "2026-06-21T19:31:26.211398Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -151,10 +151,10 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University",
-          "Harvard Business School"
+          "Columbia University"
         ],
         "employers": [
           {
@@ -207,17 +207,17 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Imperial College London",
             "start": null,
             "end": null
           },
           {
             "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -355,14 +355,14 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "military flight engineer",
-          "engineer"
+          "engineer",
+          "military flight engineer"
         ],
         "education": [
-          "University of Pittsburgh",
-          "University of Southern California",
           "Bronx High School of Science",
           "Franklin & Marshall College",
+          "University of Pittsburgh",
+          "University of Southern California",
           "USC Viterbi School of Engineering"
         ],
         "employers": [
@@ -396,12 +396,12 @@
           "economist"
         ],
         "education": [
+          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "John F. Kennedy School of Government",
-          "Harvard University",
-          "University of Oxford"
+          "University of Oxford",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -449,11 +449,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "governor",
-          "ambassador",
           "missionary",
           "diplomat",
-          "politician"
+          "ambassador",
+          "politician",
+          "governor"
         ],
         "education": [
           "National Taiwan Normal University",

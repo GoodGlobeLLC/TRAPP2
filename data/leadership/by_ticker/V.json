@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-06-21T10:58:05.256617Z",
+  "fetchedAt": "2026-06-21T19:31:26.255595Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -229,6 +229,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -242,11 +247,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -276,8 +276,8 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "chairperson",
           "chief executive officer",
+          "chairperson",
           "businessperson"
         ],
         "education": [
@@ -288,6 +288,11 @@
         ],
         "employers": [
           {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -296,11 +301,6 @@
             "company": "SEAT",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -451,8 +451,8 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
+          "chief executive officer",
           "merchant"
         ],
         "education": [

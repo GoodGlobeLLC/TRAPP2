@@ -12,15 +12,10 @@
     "writer"
   ],
   "education": [
-    "City University of New York",
-    "University of California, Berkeley"
+    "University of California, Berkeley",
+    "City University of New York"
   ],
   "employers": [
-    {
-      "company": "Fairchild Semiconductor",
-      "start": null,
-      "end": "1968-01-01"
-    },
     {
       "company": "Intel",
       "start": "1968-01-01",
@@ -30,6 +25,11 @@
       "company": "Stanford University",
       "start": null,
       "end": null
+    },
+    {
+      "company": "Fairchild Semiconductor",
+      "start": null,
+      "end": "1968-01-01"
     }
   ],
   "positions": [

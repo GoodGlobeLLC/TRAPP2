@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-21T10:58:05.203160Z",
+  "fetchedAt": "2026-06-21T19:31:26.191679Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,12 +14,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
+          "chief executive officer",
           "presenter",
           "manager",
-          "chief executive officer",
+          "engineer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -68,8 +68,8 @@
         ],
         "education": [
           "Princeton University",
-          "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -178,16 +178,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
           "climate activist",
-          "university teacher",
-          "blogger",
           "journalist",
           "environmentalist",
           "financier",
+          "orator",
+          "blogger",
+          "university teacher",
           "farmer",
-          "businessperson",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -256,14 +256,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -286,8 +286,8 @@
         ],
         "education": [
           "Princeton University",
-          "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -353,13 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "inventor",
           "programmer",
           "electronics technician",
+          "inventor",
           "entrepreneur",
           "computer scientist",
-          "businessperson",
           "engineer",
+          "businessperson",
           "teacher",
           "actor"
         ],
@@ -382,12 +382,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -408,9 +408,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "computer scientist",
-          "engineer"
+          "engineer",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,16 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "designer",
-          "founder",
           "film producer",
+          "technology entrepreneur",
+          "founder",
           "financier",
-          "inventor",
-          "entrepreneur",
           "general manager",
           "executive producer",
-          "computer scientist"
+          "entrepreneur",
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -460,17 +460,17 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Pixar",
             "start": null,
             "end": null
           },
           {
             "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

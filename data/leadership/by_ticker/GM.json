@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-06-21T10:58:05.227116Z",
+  "fetchedAt": "2026-06-21T19:31:26.220018Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
+          "University of Toronto",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -249,9 +249,9 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
+          "chief executive officer",
           "business executive",
-          "lawyer",
-          "chief executive officer"
+          "lawyer"
         ],
         "education": [
           "Union College",
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": []
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -364,8 +364,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -374,16 +374,6 @@
           "Princeton University"
         ],
         "employers": [
-          {
-            "company": "Hasbro",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bain & Company",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -395,17 +385,27 @@
             "end": null
           },
           {
+            "company": "Hasbro",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
             "end": null
           },
           {
             "company": "Quibi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }
@@ -444,7 +444,7 @@
           {
             "title": "vice president",
             "company": null,
-            "start": null,
+            "start": "1989-01-01",
             "end": null
           },
           {
@@ -456,7 +456,7 @@
           {
             "title": "vice president",
             "company": null,
-            "start": "1989-01-01",
+            "start": null,
             "end": null
           }
         ]
@@ -497,9 +497,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "businessperson",
+          "executive",
           "entrepreneur",
-          "executive"
+          "businessperson"
         ],
         "education": [
           "Grosse Ile High School"
@@ -545,10 +545,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -591,8 +591,8 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "chief executive officer",
           "entrepreneur",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [

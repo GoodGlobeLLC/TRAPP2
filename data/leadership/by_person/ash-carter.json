@@ -5,8 +5,8 @@
   "birthPlace": "Philadelphia",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
   "occupations": [
-    "physicist",
     "university teacher",
+    "physicist",
     "politician"
   ],
   "education": [
@@ -17,6 +17,16 @@
     "Abington Senior High School"
   ],
   "employers": [
+    {
+      "company": "MIT Center for International Studies",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Brookhaven National Laboratory",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Harvard University",
       "start": null,
@@ -29,16 +39,6 @@
     },
     {
       "company": "Fermilab",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "MIT Center for International Studies",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Brookhaven National Laboratory",
       "start": null,
       "end": null
     }

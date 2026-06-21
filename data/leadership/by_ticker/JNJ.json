@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-21T10:58:05.231847Z",
+  "fetchedAt": "2026-06-21T19:31:26.225658Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -154,17 +154,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
+          "chief executive officer",
           "executive",
           "business manager",
-          "chief executive officer",
+          "lecturer",
           "merchant",
           "entrepreneur"
         ],
         "education": [
           "Sciences Po",
-          "HEC Paris",
-          "Lyc\u00e9e Louis-le-Grand"
+          "Lyc\u00e9e Louis-le-Grand",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -453,10 +453,10 @@
           "physician"
         ],
         "education": [
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
           "Massachusetts Institute of Technology",
           "Harvard University"
         ],
@@ -523,10 +523,10 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University",
-          "Harvard Business School"
+          "Columbia University"
         ],
         "employers": [
           {
@@ -604,8 +604,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -690,8 +690,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "business executive"
+          "business executive",
+          "university teacher"
         ],
         "education": [],
         "employers": [],
@@ -723,8 +723,8 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Syracuse University",
@@ -766,11 +766,11 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "molecular biologist",
-          "biochemist",
+          "chemist",
           "crystallographer",
+          "molecular biologist",
           "university teacher",
-          "chemist"
+          "biochemist"
         ],
         "education": [
           "Pomona College",
@@ -789,14 +789,14 @@
             "end": null
           },
           {
-            "company": "Yale University",
-            "start": "1994-01-01",
-            "end": "2002-01-01"
-          },
-          {
             "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Yale University",
+            "start": "1994-01-01",
+            "end": "2002-01-01"
           }
         ],
         "positions": [

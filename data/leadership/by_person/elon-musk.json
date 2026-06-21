@@ -5,15 +5,15 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "dub actor",
     "technology entrepreneur",
+    "dub actor",
     "programmer",
-    "civil servant",
     "financier",
     "investor",
+    "civil servant",
+    "engineer",
     "entrepreneur",
     "inventor",
-    "engineer",
     "politician"
   ],
   "education": [
@@ -24,8 +24,8 @@
     "University of Pretoria",
     "Queen's University",
     "The Wharton School",
-    "University of Pennsylvania",
-    "Stanford University"
+    "Stanford University",
+    "University of Pennsylvania"
   ],
   "employers": [
     {
@@ -39,6 +39,16 @@
       "end": null
     },
     {
+      "company": "Tesla",
+      "start": "2004-04-23",
+      "end": null
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
+    },
+    {
       "company": "SolarCity",
       "start": null,
       "end": null
@@ -49,23 +59,8 @@
       "end": "2019-01-01"
     },
     {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
-      "end": null
-    },
-    {
       "company": "PayPal",
       "start": "1998-12-01",
-      "end": null
-    },
-    {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
-      "end": null
-    },
-    {
-      "company": "Tesla",
-      "start": "2004-04-23",
       "end": null
     },
     {

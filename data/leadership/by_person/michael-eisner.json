@@ -5,9 +5,9 @@
   "birthPlace": "New York City",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
   "occupations": [
-    "businessperson",
+    "chief executive officer",
     "entrepreneur",
-    "chief executive officer"
+    "businessperson"
   ],
   "education": [
     "Lawrenceville School",
@@ -17,11 +17,6 @@
   ],
   "employers": [
     {
-      "company": "The Walt Disney Company",
-      "start": "1984-01-01",
-      "end": "2005-01-01"
-    },
-    {
       "company": "Paramount Pictures",
       "start": "1976-01-01",
       "end": "1984-01-01"
@@ -30,6 +25,11 @@
       "company": "American Broadcasting Company",
       "start": "1966-01-01",
       "end": "1976-01-01"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "start": "1984-01-01",
+      "end": "2005-01-01"
     }
   ],
   "positions": [
