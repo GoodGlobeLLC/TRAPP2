@@ -7,9 +7,12 @@
 #  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/quotes.yml
 #
 #  WHAT CHANGED IN THIS FILE:
-#    Concurrency group changed to `trapp2-quote-push` (shared with
-#    intraday.yml in THIS repo) so the two quote workflows serialize
-#    instead of racing.
+#    De-conflicted with intraday.yml. quotes.yml now ONLY runs the pre-market
+#    warmup window (07:00-12:40 UTC); intraday.yml owns market hours (13:00+ UTC)
+#    since it also recomputes signals + regime. Previously BOTH ran fetch_data.py
+#    over 13:00-21:00 UTC — redundant double-fetches + commit churn on master.json
+#    (serialized by the shared concurrency group, but still wasteful). Now their
+#    windows don't overlap, so neither overwrites the other's work.
 # ============================================================
 
 name: Live Quotes (Intraday)
@@ -36,8 +39,9 @@ on:
     # These early runs absorb GitHub Actions queue lag so first real market
     # refresh lands at or near the 9:30 ET bell.
     - cron: '0,20,40 7-12 * * 1-5'
-    # Active session: 13:00-21:00 UTC = 9 AM-5 PM ET (EDT)
-    - cron: '0,20,40 13-21 * * 1-5'
+    # NOTE: the active session (13:00-22:00 UTC) is owned by intraday.yml, which
+    # runs fetch_data.py AND recomputes signals + regime. quotes.yml intentionally
+    # stops at 12:40 UTC so the two never overlap on master.json.
   workflow_dispatch:
 
 concurrency:
