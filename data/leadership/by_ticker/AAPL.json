@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-20T07:43:46.143133Z",
+  "fetchedAt": "2026-06-21T06:02:28.946240Z",
   "people": [
     {
       "qid": "Q265852",
@@ -15,18 +15,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
+          "computer scientist",
           "manager",
           "chief executive officer",
-          "computer scientist",
           "engineer",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -104,9 +104,9 @@
           "businessperson"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College"
+          "Wellesley College",
+          "Booth School of Business"
         ],
         "employers": [
           {
@@ -179,23 +179,23 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
+          "orator",
+          "blogger",
           "environmentalist",
           "financier",
-          "blogger",
-          "orator",
           "journalist",
           "university teacher",
           "farmer",
-          "businessperson",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -230,12 +230,6 @@
             "end": "2001-01-20"
           },
           {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "United States senator",
             "company": null,
             "start": "1985-01-03",
@@ -266,10 +260,10 @@
             "end": "1979-01-03"
           },
           {
-            "title": "United States representative",
+            "title": "board member",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -286,14 +280,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -324,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -359,26 +353,31 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson",
           "programmer",
           "electronics technician",
           "inventor",
-          "engineer",
+          "computer scientist",
           "entrepreneur",
+          "businessperson",
+          "engineer",
           "teacher",
           "actor"
         ],
         "education": [
+          "Homestead High School",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
           "University of California, Berkeley"
         ],
         "employers": [
           {
             "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -389,11 +388,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -415,8 +409,8 @@
         "occupations": [
           "entrepreneur",
           "computer scientist",
-          "engineer",
-          "writer"
+          "writer",
+          "engineer"
         ],
         "education": [
           "High School of Art and Design"
@@ -443,16 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "founder",
           "designer",
+          "founder",
           "technology entrepreneur",
-          "film producer",
           "financier",
+          "entrepreneur",
+          "film producer",
           "general manager",
           "executive producer",
-          "inventor",
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -466,12 +460,12 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },

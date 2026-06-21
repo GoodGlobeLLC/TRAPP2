@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-20T07:43:46.173789Z",
+  "fetchedAt": "2026-06-21T06:02:28.977872Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -54,9 +54,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -261,16 +261,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
-          "engineer",
+          "chemist",
           "physicist",
-          "chemist"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
+          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
-          "California Institute of Technology",
-          "University of California, Berkeley"
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -294,14 +294,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
+          "physicist",
           "computer scientist",
-          "physicist"
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -346,11 +346,11 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
           "computer scientist",
-          "electrical engineer"
+          "electrical engineer",
+          "academic"
         ],
         "education": [
           "University of California, Berkeley",
@@ -363,13 +363,13 @@
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           }
         ],
@@ -415,23 +415,18 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
-          "The Wharton School",
-          "Harvard Medical School",
-          "University of Pennsylvania",
-          "Harvard University",
           "Stony Brook University",
-          "The Bush School"
+          "Harvard Medical School",
+          "The Bush School",
+          "The Wharton School",
+          "University of Pennsylvania",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -441,15 +436,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -461,6 +455,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -481,9 +481,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -709,16 +709,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
-          "engineer",
+          "chemist",
           "physicist",
-          "chemist"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
+          "University of California, Berkeley",
           "Sequoia High School",
           "San Jose State University",
-          "California Institute of Technology",
-          "University of California, Berkeley"
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -742,14 +742,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
+          "physicist",
           "computer scientist",
-          "physicist"
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-06-20T07:43:46.183590Z",
+  "fetchedAt": "2026-06-21T06:02:28.988104Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -17,9 +17,9 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -103,22 +103,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
           "manager",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -133,6 +123,16 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
           "Syracuse University",
@@ -166,17 +166,17 @@
         ],
         "employers": [
           {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -273,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
+          "entrepreneur",
           "business executive"
         ],
         "education": [
@@ -398,9 +398,9 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -445,16 +445,16 @@
         "occupations": [
           "co-founder",
           "philanthropist",
-          "programmer",
-          "television producer",
           "art collector",
           "film producer",
+          "programmer",
+          "television producer",
           "musician",
           "investor",
-          "record producer",
           "inventor",
-          "computer scientist",
+          "record producer",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "composer"
         ],

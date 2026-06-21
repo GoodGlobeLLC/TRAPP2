@@ -5,10 +5,10 @@
   "birthPlace": "Mobile",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
   "occupations": [
-    "business executive",
     "social worker",
-    "sociologist",
-    "politician"
+    "business executive",
+    "politician",
+    "sociologist"
   ],
   "education": [
     "Spring Hill College",
@@ -37,16 +37,6 @@
       "end": null
     },
     {
-      "company": "Cummins",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Toyota",
-      "start": "2006-01-01",
-      "end": null
-    },
-    {
       "company": "Office of Public Liaison",
       "start": "1993-01-20",
       "end": "1997-02-07"
@@ -59,6 +49,16 @@
     {
       "company": "Southern Regional Council",
       "start": null,
+      "end": null
+    },
+    {
+      "company": "Cummins",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Toyota",
+      "start": "2006-01-01",
       "end": null
     }
   ],

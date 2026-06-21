@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-06-20T07:43:46.146130Z",
+  "fetchedAt": "2026-06-21T06:02:28.949248Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Temple University Beasley School of Law"
+          "Temple University Beasley School of Law",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -452,9 +452,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
+          "computer scientist",
           "entrepreneur",
-          "software developer",
-          "computer scientist"
+          "software developer"
         ],
         "education": [
           "Xavier University",
@@ -499,22 +499,17 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "mathematician",
-          "computer scientist"
+          "engineer"
         ],
         "education": [
           "Olympus High School",
           "University of Utah"
         ],
         "employers": [
-          {
-            "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Adobe",
             "start": null,
@@ -524,6 +519,11 @@
             "company": "PARC",
             "start": "1978-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

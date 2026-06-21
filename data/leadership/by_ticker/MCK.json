@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-06-20T07:43:46.180750Z",
+  "fetchedAt": "2026-06-21T06:02:28.985106Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -160,11 +160,6 @@
         ],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "2003-06-01",
-            "end": "2009-09-01"
-          },
-          {
             "company": "Salesforce",
             "start": "2010-02-01",
             "end": "2018-04-01"
@@ -173,6 +168,11 @@
             "company": "Bell Labs",
             "start": "1980-01-01",
             "end": "1991-01-01"
+          },
+          {
+            "company": "Microsoft",
+            "start": "2003-06-01",
+            "end": "2009-09-01"
           }
         ],
         "positions": []
@@ -305,8 +305,8 @@
         "occupations": [
           "surgeon",
           "paramedic",
-          "nurse",
-          "politician"
+          "politician",
+          "nurse"
         ],
         "education": [
           "DeWitt Clinton High School",

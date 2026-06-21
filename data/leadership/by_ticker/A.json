@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-20T07:43:46.142136Z",
+  "fetchedAt": "2026-06-21T06:02:28.945237Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -62,6 +62,11 @@
         ],
         "employers": [
           {
+            "company": "Partners HealthCare Connected Health",
+            "start": "2005-01-01",
+            "end": "2008-01-01"
+          },
+          {
             "company": "University of Texas Southwestern Medical Center",
             "start": "2008-09-01",
             "end": null
@@ -75,11 +80,6 @@
             "company": "Massachusetts General Hospital",
             "start": "1981-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Partners HealthCare Connected Health",
-            "start": "2005-01-01",
-            "end": "2008-01-01"
           }
         ],
         "positions": [
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "scientist",
           "oncologist",
+          "scientist",
           "physician"
         ],
         "education": [
@@ -156,8 +156,8 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
           "University of London",
+          "Imperial College London",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -259,11 +259,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +272,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -422,11 +422,6 @@
         "education": [],
         "employers": [
           {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
-          {
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
@@ -473,11 +468,6 @@
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Boehringer Ingelheim",
             "start": "2003-01-01",
             "end": "2008-01-01"
@@ -486,6 +476,11 @@
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [

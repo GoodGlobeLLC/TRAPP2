@@ -1,5 +1,37 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-06-20T07:43:46.192952Z",
-  "people": []
+  "fetchedAt": "2026-06-21T06:02:28.998025Z",
+  "people": [
+    {
+      "qid": "Q20117554",
+      "name": "David Baszucki",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q20117554",
+        "name": "David Baszucki",
+        "dateOfBirth": "1963-01-20",
+        "birthPlace": "Winnipeg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Baszucki%20and%20Jan%20Ellison%2C%20RDC%202025%20%28cropped%202%29.png",
+        "occupations": [
+          "programmer",
+          "entrepreneur",
+          "engineer"
+        ],
+        "education": [
+          "Stanford University",
+          "Eden Prairie High School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2003-12-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
 }
