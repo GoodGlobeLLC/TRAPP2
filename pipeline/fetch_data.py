@@ -59,6 +59,9 @@ COLUMNS = [
     "profitMargin", "revenueGrowth", "earningsGrowth", "revenue", "ebitda",
     "freeCashFlow", "netIncome", "stockBasedComp", "priceToBook", "evToEbitda",
     "evToRevenue", "totalDebt", "totalEquity", "totalAssets", "cash",
+    # NEW — expense ratio (fund fee) + extra grading ratios
+    "expenseRatio", "currentRatio", "quickRatio", "debtToEquity", "payoutRatio",
+    "pegRatio", "heldPctInsiders", "heldPctInstitutions", "shortPctFloat",
 ]
 
 
@@ -479,6 +482,24 @@ def fetch_quote(ticker, profile_cache):
         "totalEquity": fmt_num(safe(info, "totalStockholderEquity")),
         "totalAssets": fmt_num(safe(info, "totalAssets")),
         "cash": fmt_num(safe(info, "totalCash")),
+        # ---- NEW: expense ratio (ETFs/funds) + extra ratios for grading ----
+        # Expense ratio is an ANNUAL fund fee (decimal, 0.0095 = 0.95%/yr). yfinance
+        # exposes it under a few keys depending on the security; take whichever is
+        # present. The app factors it into holding/trading cost AND the grade.
+        "expenseRatio": fmt_num(
+            safe(info, "annualReportExpenseRatio")
+            or safe(info, "netExpenseRatio")
+            or safe(info, "expenseRatio")
+            or safe(info, "fundExpenseRatio")
+        ),
+        "currentRatio": fmt_num(safe(info, "currentRatio")),
+        "quickRatio": fmt_num(safe(info, "quickRatio")),
+        "debtToEquity": fmt_num(safe(info, "debtToEquity")),
+        "payoutRatio": fmt_num(safe(info, "payoutRatio")),
+        "pegRatio": fmt_num(safe(info, "trailingPegRatio") or safe(info, "pegRatio")),
+        "heldPctInsiders": fmt_num(safe(info, "heldPercentInsiders")),
+        "heldPctInstitutions": fmt_num(safe(info, "heldPercentInstitutions")),
+        "shortPctFloat": fmt_num(safe(info, "shortPercentOfFloat")),
         "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "profile_fetched_at": profile_fetched_at,
     }
