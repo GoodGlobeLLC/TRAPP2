@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-20T07:43:46.185247Z",
+  "fetchedAt": "2026-06-21T05:20:22.501203Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
+          "film director",
           "film producer",
           "rapper",
-          "animator",
-          "film director"
+          "animator"
         ],
         "education": [
           "Jesuit High School",
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -284,10 +284,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford Graduate School of Business",
+          "Stanford University",
           "Dartmouth College",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -319,22 +318,22 @@
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
