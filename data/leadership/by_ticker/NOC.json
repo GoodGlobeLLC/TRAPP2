@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-06-21T10:58:05.241468Z",
+  "fetchedAt": "2026-06-21T18:45:23.558992Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -156,9 +156,9 @@
           "business executive"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -179,9 +179,9 @@
           "businessperson"
         ],
         "education": [
+          "Simmons University",
           "Harvard Business School",
-          "Harvard University",
-          "Simmons University"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -343,9 +343,9 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
           "The Wharton School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Cornell University"
+          "Cornell University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": []
@@ -433,17 +433,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
