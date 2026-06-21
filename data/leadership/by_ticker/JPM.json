@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-06-21T06:02:28.979974Z",
+  "fetchedAt": "2026-06-21T10:58:05.232572Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,17 +17,12 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Tufts University",
+          "Harvard University",
           "Browning School"
         ],
         "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -47,6 +42,11 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -176,14 +176,14 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Alto Pharmacy",
-            "start": "2022-09-01",
-            "end": null
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
+          },
+          {
+            "company": "Alto Pharmacy",
+            "start": "2022-09-01",
+            "end": null
           }
         ],
         "positions": [
@@ -285,8 +285,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "politician",
-          "entrepreneur"
+          "entrepreneur",
+          "politician"
         ],
         "education": [
           "Case Western Reserve University",
@@ -457,12 +457,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
+          "Colgate University",
           "Harvard University"
         ],
         "employers": [
@@ -503,17 +503,12 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
           "Tufts University",
+          "Harvard University",
           "Browning School"
         ],
         "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
           {
             "company": "JPMorgan Chase",
             "start": "2004-07-01",
@@ -533,6 +528,11 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

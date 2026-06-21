@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-06-21T06:02:29.003124Z",
+  "fetchedAt": "2026-06-21T10:58:05.251949Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -23,12 +23,12 @@
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -118,10 +118,10 @@
           "manager"
         ],
         "education": [
-          "Collegiate School",
-          "Allen-Stevenson School",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "Collegiate School",
+          "Allen-Stevenson School"
         ],
         "employers": [],
         "positions": []
@@ -142,9 +142,9 @@
           "financier"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -166,20 +166,12 @@
           "lawyer"
         ],
         "education": [
+          "Harvard Law School",
           "James B. Dudley High School",
+          "Brown University",
           "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "Revlon",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Washington Gas",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Ad Council",
             "start": null,
@@ -189,6 +181,16 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Monsanto",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kodak",
+            "start": null,
+            "end": null
           },
           {
             "company": "BET",
@@ -201,28 +203,28 @@
             "end": null
           },
           {
-            "company": "Monsanto",
+            "company": "Revlon",
             "start": null,
             "end": null
           },
           {
-            "company": "Kodak",
+            "company": "Washington Gas",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-01-01",
-            "end": null
-          },
-          {
             "title": "chief executive officer",
             "company": null,
             "start": "2006-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-01-01",
+            "end": null
           }
         ]
       }
@@ -242,9 +244,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -282,8 +284,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
-          "Princeton University"
+          "Princeton University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -329,12 +331,12 @@
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -416,8 +418,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "entrepreneur",
-          "film producer"
+          "film producer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University"

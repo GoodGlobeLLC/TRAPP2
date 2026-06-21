@@ -8,17 +8,12 @@
     "banker"
   ],
   "education": [
-    "Harvard University",
     "Harvard Business School",
     "Tufts University",
+    "Harvard University",
     "Browning School"
   ],
   "employers": [
-    {
-      "company": "Goldman Sachs",
-      "start": null,
-      "end": null
-    },
     {
       "company": "JPMorgan Chase",
       "start": "2004-07-01",
@@ -38,6 +33,11 @@
       "company": "American Express",
       "start": "1982-01-01",
       "end": "1985-01-01"
+    },
+    {
+      "company": "Goldman Sachs",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [

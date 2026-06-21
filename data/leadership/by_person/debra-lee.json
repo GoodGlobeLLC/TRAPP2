@@ -9,20 +9,12 @@
     "lawyer"
   ],
   "education": [
+    "Harvard Law School",
     "James B. Dudley High School",
+    "Brown University",
     "John F. Kennedy School of Government"
   ],
   "employers": [
-    {
-      "company": "Revlon",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Washington Gas",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Ad Council",
       "start": null,
@@ -32,6 +24,16 @@
       "company": "BET Media Group",
       "start": "1986-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "company": "Monsanto",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Kodak",
+      "start": null,
+      "end": null
     },
     {
       "company": "BET",
@@ -44,28 +46,28 @@
       "end": null
     },
     {
-      "company": "Monsanto",
+      "company": "Revlon",
       "start": null,
       "end": null
     },
     {
-      "company": "Kodak",
+      "company": "Washington Gas",
       "start": null,
       "end": null
     }
   ],
   "positions": [
     {
-      "title": "board of directors member",
-      "company": null,
-      "start": "2020-01-01",
-      "end": null
-    },
-    {
       "title": "chief executive officer",
       "company": null,
       "start": "2006-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2020-01-01",
+      "end": null
     }
   ],
   "currentTickers": [

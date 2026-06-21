@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-21T06:02:28.965236Z",
+  "fetchedAt": "2026-06-21T10:58:05.219996Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -151,9 +151,9 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
+          "Columbia University",
           "Harvard Business School"
         ],
         "employers": [
@@ -197,15 +197,20 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemist",
           "chemical engineer",
+          "chemist",
           "academic administrator"
         ],
         "education": [
-          "Princeton University",
-          "University of Southern California"
+          "University of Southern California",
+          "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Imperial College London",
             "start": null,
@@ -213,11 +218,6 @@
           },
           {
             "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -355,14 +355,14 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
-          "Bronx High School of Science",
-          "Franklin & Marshall College",
           "University of Pittsburgh",
           "University of Southern California",
+          "Bronx High School of Science",
+          "Franklin & Marshall College",
           "USC Viterbi School of Engineering"
         ],
         "employers": [
@@ -392,16 +392,16 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "economist",
-          "writer"
+          "writer",
+          "economist"
         ],
         "education": [
           "Kogod School of Business",
           "St Antony's College",
           "American University",
           "John F. Kennedy School of Government",
-          "University of Oxford",
-          "Harvard University"
+          "Harvard University",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -449,10 +449,10 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "governor",
+          "ambassador",
           "missionary",
           "diplomat",
-          "ambassador",
-          "governor",
           "politician"
         ],
         "education": [

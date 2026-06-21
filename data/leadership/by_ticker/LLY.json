@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-21T06:02:28.982170Z",
+  "fetchedAt": "2026-06-21T10:58:05.234437Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "HEC Paris",
-          "Columbia Business School"
+          "Columbia Business School",
+          "HEC Paris"
         ],
         "employers": [],
         "positions": []
@@ -268,9 +268,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Yale University",
@@ -343,14 +343,14 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
-          },
-          {
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -526,9 +526,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
+          "cardiologist",
           "university teacher",
-          "cardiologist"
+          "physician"
         ],
         "education": [
           "Johns Hopkins School of Medicine",
@@ -620,6 +620,11 @@
         ],
         "employers": [
           {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
             "end": null
@@ -627,11 +632,6 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
             "end": null
           }
         ],
