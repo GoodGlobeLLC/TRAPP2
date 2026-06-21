@@ -1,16 +1,16 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "regime": "neutral",
   "confidence": 0.981,
   "scores": {
     "macro": 0.733,
-    "liquidity": 0.581,
+    "liquidity": 0.083,
     "volatility": 0.046,
     "valuation": -0.318,
     "trend": 0.924,
-    "breadth": -0.455,
-    "commodity": 0.031,
-    "crypto": -0.634
+    "breadth": -0.091,
+    "commodity": -0.021,
+    "crypto": -0.625
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4406,
-    "risk_on_melt_up": 0.051,
-    "inflation_shock": 0.0168,
-    "recession_fear": 0.0016,
-    "risk_off": 0.0345,
-    "neutral": 0.4555
+    "expansion": 0.3871,
+    "risk_on_melt_up": 0.0533,
+    "inflation_shock": 0.0239,
+    "recession_fear": 0.0022,
+    "risk_off": 0.045,
+    "neutral": 0.4885
   },
   "drivers": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "signal": "crypto",
-      "score": -0.634,
+      "score": -0.625,
       "confidence": 1.0,
-      "weight": 0.634,
+      "weight": 0.625,
       "direction": "bearish"
     }
   ],
@@ -63,7 +63,7 @@
       "t10y2y": 0.27,
       "hy_spread": 2.63,
       "hy_spread_z": -1.28,
-      "hyg_minus_lqd_1m": NaN
+      "hyg_minus_lqd_1m": -0.0099
     },
     "volatility": {
       "vix_level": 18.44,
@@ -82,23 +82,23 @@
       "pct_above_200dma": 0.0848
     },
     "breadth": {
-      "pct_sectors_above_50dma": 0.273,
-      "n_above": 3,
+      "pct_sectors_above_50dma": 0.455,
+      "n_above": 5,
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0444,
-      "oil_60d_return": -0.0865,
-      "gold_oil_ratio": 55.145,
-      "gold_oil_zscore": -0.431,
+      "copper_60d_return": 0.0499,
+      "oil_60d_return": -0.1459,
+      "gold_oil_ratio": 54.519,
+      "gold_oil_zscore": -0.488,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.1805,
-      "btc_pct_from_50dma": -0.1377,
-      "eth_30d_return": -0.1898,
+      "btc_30d_return": -0.1797,
+      "btc_pct_from_50dma": -0.1258,
+      "eth_30d_return": -0.1956,
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-20T06:38:11+00:00"
+  "computed_at": "2026-06-21T05:00:12+00:00"
 }
