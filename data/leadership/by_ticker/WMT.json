@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-06-21T10:58:05.259230Z",
+  "fetchedAt": "2026-06-21T18:45:23.578428Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -14,8 +14,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Columbia Law School",
@@ -84,20 +84,15 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
+          "engineer",
           "computer scientist",
-          "business executive",
-          "engineer"
+          "business executive"
         ],
         "education": [
           "Stanford University",
           "Wausau West High School"
         ],
         "employers": [
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
-          },
           {
             "company": "Yahoo",
             "start": "2012-07-16",
@@ -107,6 +102,11 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
+          },
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
           }
         ],
         "positions": [
@@ -259,8 +259,8 @@
         "birthPlace": "Jonesboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Doug%20McMillon%20Profile%20Photo.png",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Sam M. Walton College of Business",
@@ -283,8 +283,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -310,10 +310,10 @@
           "military officer"
         ],
         "education": [
-          "Miami Coral Park High School",
-          "University of Virginia Darden School of Business",
           "United States Naval Academy",
-          "University of Virginia"
+          "University of Virginia",
+          "Miami Coral Park High School",
+          "University of Virginia Darden School of Business"
         ],
         "employers": [
           {

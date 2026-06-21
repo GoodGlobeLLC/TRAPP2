@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-06-21T10:58:05.243211Z",
+  "fetchedAt": "2026-06-21T18:45:23.562014Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -263,11 +263,6 @@
         ],
         "employers": [
           {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Mattel",
             "start": "1980-01-01",
             "end": "1983-01-01"
@@ -281,6 +276,11 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -316,22 +316,22 @@
         ],
         "employers": [
           {
-            "company": "Yale University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Yale University",
             "start": null,
             "end": null
           },
           {
             "company": "University of California, Berkeley",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -351,15 +351,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
+          "chief financial officer",
           "businessperson",
-          "chief financial officer"
+          "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -374,6 +374,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -397,18 +409,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -467,9 +467,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Chicago",
           "Booth School of Business",
-          "Ohio Wesleyan University"
+          "Ohio Wesleyan University",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []
@@ -532,10 +532,10 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "university teacher",
           "Oberleutnant",
-          "political scientist",
+          "university teacher",
           "jurist",
+          "political scientist",
           "lawyer",
           "politician"
         ],
@@ -594,28 +594,16 @@
             "end": "1987-01-03"
           },
           {
-            "title": "United States representative",
+            "title": "White House Chief of Staff",
             "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-03"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
@@ -634,6 +622,18 @@
             "company": null,
             "start": "2009-02-13",
             "end": "2011-06-30"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           },
           {
             "title": "United States representative",
@@ -657,9 +657,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -720,9 +720,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
