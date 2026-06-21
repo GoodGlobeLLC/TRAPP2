@@ -45,8 +45,12 @@ jobs:
       - name: Fetch quotes + fundamentals
         run: python pipeline/fetch_data.py
 
-      - name: Fetch 5-year price history
-        run: python pipeline/fetch_history.py
+      - name: Top up price history (incremental — appends latest settled day only)
+        # History backfill (full 20 years) is owned by history-20y.yml, which runs
+        # daily in 4 batches. Here we only append the newest settled day to tickers
+        # already current, so nightly stays fast and never triggers a full refetch.
+        # --max-age-days 1 = skip any ticker whose history already ends yesterday.
+        run: python pipeline/fetch_history.py --max-age-days 1
 
       # NOTE (removed — now in TRAPP2-1, the FX/global repo):
       #   - Fetch FRED macro series      (pipeline/fetch_macro.py)
