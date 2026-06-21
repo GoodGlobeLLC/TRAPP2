@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-21T06:02:28.972928Z",
+  "fetchedAt": "2026-06-21T10:23:55.090941Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -257,9 +257,9 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "University of California, Berkeley",
-          "Haas School of Business"
+          "Haas School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -279,15 +279,14 @@
         "occupations": [
           "physicist",
           "university teacher",
-          "physicist",
           "politician"
         ],
         "education": [
-          "Trumbull College",
-          "Abington Senior High School",
+          "University of Edinburgh",
           "Yale College",
           "St John's College",
-          "University of Edinburgh"
+          "Trumbull College",
+          "Abington Senior High School"
         ],
         "employers": [
           {
@@ -318,6 +317,12 @@
         ],
         "positions": [
           {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
             "start": "2011-10-06",
@@ -334,12 +339,6 @@
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
-          },
-          {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
           },
           {
             "title": "United States Secretary of Defense",
@@ -362,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -401,17 +400,17 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Philadelphia",
+        "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
           "Stony Brook University",
-          "Harvard Medical School",
           "The Bush School",
           "The Wharton School",
+          "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University"
         ],
@@ -489,9 +488,9 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film producer",
           "mathematician",
           "film director",
+          "film producer",
           "inventor",
           "entrepreneur",
           "physicist",

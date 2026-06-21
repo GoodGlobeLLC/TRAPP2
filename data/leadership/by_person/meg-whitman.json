@@ -5,8 +5,8 @@
   "birthPlace": "Cold Spring Harbor",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
-    "entrepreneur",
     "politician",
+    "entrepreneur",
     "business executive"
   ],
   "education": [
@@ -26,22 +26,22 @@
       "end": null
     },
     {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
-      "end": null
-    },
-    {
-      "company": "Quibi",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
     },
     {
       "company": "DreamWorks",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
+      "end": null
+    },
+    {
+      "company": "Quibi",
       "start": null,
       "end": null
     },
@@ -85,7 +85,7 @@
     {
       "title": "vice president",
       "company": null,
-      "start": "1989-01-01",
+      "start": null,
       "end": null
     },
     {
@@ -97,7 +97,7 @@
     {
       "title": "vice president",
       "company": null,
-      "start": null,
+      "start": "1989-01-01",
       "end": null
     }
   ],
