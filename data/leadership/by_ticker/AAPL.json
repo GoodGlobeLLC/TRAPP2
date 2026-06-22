@@ -62,9 +62,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
+          "businessperson",
           "biochemist",
-          "businessperson"
+          "molecular biologist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -187,15 +187,15 @@
           "farmer",
           "university teacher",
           "politician",
-          "businessperson",
-          "writer"
+          "writer",
+          "businessperson"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -280,9 +280,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
+          "businessperson",
           "biochemist",
-          "businessperson"
+          "molecular biologist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -318,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -367,8 +367,8 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
           {
@@ -460,17 +460,17 @@
             "end": null
           },
           {
-            "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
             "start": null,
             "end": null
           }

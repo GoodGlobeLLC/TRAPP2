@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -402,6 +402,21 @@
           {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
+            "end": null
+          },
+          {
+            "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
+            "start": null,
             "end": null
           },
           {
