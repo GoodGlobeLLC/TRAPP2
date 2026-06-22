@@ -27,7 +27,7 @@ concurrency:
 jobs:
   options:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 55
     permissions:
       contents: write
     steps:
@@ -45,9 +45,15 @@ jobs:
 
       - name: Fetch options chains + Greeks
         env:
-          MAX_EXPIRIES: '4'      # nearest 4 expiries (this + next few Fridays/monthlies)
-          STRIKE_PCT: '0.25'     # ± 25% strikes around spot (near the money)
-          TIME_BUDGET_SEC: '2400'
+          # Expiry LADDER (near weeklies + monthlies + LEAPS) instead of nearest-N.
+          MAX_EXPIRIES: '10'        # total cap per ticker across the whole ladder
+          NEAR_COUNT: '3'           # nearest weeklies always included
+          NEAR_MAX_DTE: '45'        # "near" window
+          MONTHLY_MAX_DTE: '120'    # monthlies out to ~4 months
+          LEAP_MIN_DTE: '180'       # LEAPS = 6 months+
+          LEAP_COUNT: '3'           # how many long-dated expiries to include (e.g. 6mo/1yr/2yr)
+          STRIKE_PCT: '0.25'        # ± 25% strikes around spot (near the money)
+          TIME_BUDGET_SEC: '3000'   # more expiries → a bit more budget (still < timeout)
         run: python pipeline/fetch_options.py
 
       - name: Commit & push
