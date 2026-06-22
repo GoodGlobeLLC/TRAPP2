@@ -51,7 +51,19 @@ except ImportError:
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data")
 OPTIONS_DIR = os.path.join(DATA_DIR, "options")
 
-MAX_EXPIRIES = int(os.environ.get("MAX_EXPIRIES", "4"))
+# Expiry ladder: instead of just "nearest N", we pick a SPREAD of expiries across
+# the term structure so the app/bot can trade short-dated, monthly, AND LEAPS.
+#   • NEAR weeklies:   the next few expiries (≤ NEAR_MAX_DTE days)
+#   • MONTHLIES:       standard monthly expiries out to MONTHLY_MAX_DTE days
+#   • LEAPS:           the longest-dated expiries (≥ LEAP_MIN_DTE days), incl. the
+#                      furthest available (often 1-2 years out)
+# MAX_EXPIRIES caps the TOTAL pulled per ticker so the job stays within budget.
+MAX_EXPIRIES     = int(os.environ.get("MAX_EXPIRIES", "10"))      # total cap per ticker
+NEAR_COUNT       = int(os.environ.get("NEAR_COUNT", "3"))         # nearest weeklies to always include
+NEAR_MAX_DTE     = int(os.environ.get("NEAR_MAX_DTE", "45"))      # "near" window
+MONTHLY_MAX_DTE  = int(os.environ.get("MONTHLY_MAX_DTE", "120"))  # monthlies out to ~4 months
+LEAP_MIN_DTE     = int(os.environ.get("LEAP_MIN_DTE", "180"))     # LEAPS = 6 months+
+LEAP_COUNT       = int(os.environ.get("LEAP_COUNT", "3"))         # how many long-dated expiries to include
 STRIKE_PCT = float(os.environ.get("STRIKE_PCT", "0.25"))
 TIME_BUDGET_SEC = int(os.environ.get("TIME_BUDGET_SEC", "2400"))
 MIN_OI = 1  # skip totally illiquid contracts (open interest 0 AND volume 0)
@@ -142,6 +154,82 @@ def _safe(v, default=None):
         return default
 
 
+def _third_friday(d):
+    """True if date d (datetime.date) is the third Friday of its month — the
+    standard 'monthly' option expiry."""
+    return d.weekday() == 4 and 15 <= d.day <= 21
+
+
+def _select_expiries(all_exps, today):
+    """From every available expiry, pick a spread across the term structure:
+    nearest weeklies + monthlies + LEAPS. Returns an ordered, de-duplicated list
+    of expiry strings, capped at MAX_EXPIRIES. Falls back gracefully when a name
+    has few expiries (e.g. only weeklies)."""
+    dated = []
+    for e in all_exps:
+        try:
+            d = datetime.date.fromisoformat(e)
+        except Exception:
+            continue
+        dte = (d - today).days
+        if dte < 0:
+            continue
+        dated.append((e, d, dte))
+    if not dated:
+        return []
+    dated.sort(key=lambda x: x[2])
+
+    picked = []
+
+    # (a) Nearest weeklies — always include the front few for short-dated trades.
+    for e, d, dte in dated:
+        if dte <= NEAR_MAX_DTE and len(picked) < NEAR_COUNT:
+            picked.append(e)
+
+    # (b) Monthlies (third-Friday) out to MONTHLY_MAX_DTE — the liquid sweet spot.
+    for e, d, dte in dated:
+        if e in picked:
+            continue
+        if _third_friday(d) and NEAR_MAX_DTE < dte <= MONTHLY_MAX_DTE:
+            picked.append(e)
+
+    # (c) Bridge: if no monthly landed in the 45-120d window (some names lack
+    #     standard monthlies), grab the nearest expiry in that band anyway.
+    if not any((NEAR_MAX_DTE < (datetime.date.fromisoformat(e) - today).days <= MONTHLY_MAX_DTE) for e in picked):
+        for e, d, dte in dated:
+            if NEAR_MAX_DTE < dte <= MONTHLY_MAX_DTE and e not in picked:
+                picked.append(e); break
+
+    # (d) LEAPS — the longest-dated expiries (6 months+). Prefer third-Friday
+    #     monthlies (true LEAPS), then fall back to the furthest available.
+    leaps = [(e, d, dte) for (e, d, dte) in dated if dte >= LEAP_MIN_DTE]
+    leap_monthlies = [t for t in leaps if _third_friday(t[1])]
+    leap_pool = leap_monthlies if leap_monthlies else leaps
+    # Spread them out: take evenly across the long end (e.g. ~6mo, ~1yr, ~2yr).
+    if leap_pool:
+        idxs = set()
+        n = len(leap_pool)
+        for k in range(min(LEAP_COUNT, n)):
+            idxs.add(round(k * (n - 1) / max(LEAP_COUNT - 1, 1)))
+        for i in sorted(idxs):
+            e = leap_pool[i][0]
+            if e not in picked:
+                picked.append(e)
+
+    # Always include the single furthest-dated expiry (true long LEAP) if room.
+    furthest = dated[-1][0]
+    if furthest not in picked:
+        picked.append(furthest)
+
+    # De-dupe, keep chronological order, cap at MAX_EXPIRIES.
+    seen = set()
+    ordered = []
+    for e, d, dte in dated:
+        if e in picked and e not in seen:
+            seen.add(e); ordered.append(e)
+    return ordered[:MAX_EXPIRIES]
+
+
 def _row(opt_type, rec, S, T, r):
     strike = _safe(rec.get("strike"))
     if strike is None or strike <= 0:
@@ -208,8 +296,9 @@ def fetch_ticker(ticker, r):
     if not expiries:
         return None
     today = datetime.date.today()
+    chosen = _select_expiries(expiries, today)
     out_expiries = []
-    for exp in expiries[:MAX_EXPIRIES]:
+    for exp in chosen:
         try:
             dte = (datetime.date.fromisoformat(exp) - today).days
         except Exception:
@@ -242,8 +331,12 @@ def fetch_ticker(ticker, r):
         if calls or puts:
             calls.sort(key=lambda x: x["strike"])
             puts.sort(key=lambda x: x["strike"])
+            _bucket = ("near" if dte <= NEAR_MAX_DTE
+                       else "monthly" if dte <= MONTHLY_MAX_DTE
+                       else "leap")
             out_expiries.append({
                 "expiry": exp, "dte": dte, "isFriday": _is_friday(exp),
+                "bucket": _bucket, "isLeap": dte >= LEAP_MIN_DTE,
                 "calls": calls, "puts": puts,
             })
     if not out_expiries:
@@ -264,7 +357,7 @@ def main():
         return 0
     r = _risk_free_rate()
     os.makedirs(OPTIONS_DIR, exist_ok=True)
-    print(f"Fetching options for {len(universe)} tickers · r={r:.3f} · ≤{MAX_EXPIRIES} expiries · ±{STRIKE_PCT*100:.0f}% strikes")
+    print(f"Fetching options for {len(universe)} tickers · r={r:.3f} · ≤{MAX_EXPIRIES} expiries (near+monthly+LEAPS) · ±{STRIKE_PCT*100:.0f}% strikes")
     start = time.time()
     written = 0
     skipped = 0
