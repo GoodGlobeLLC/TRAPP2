@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-06-21T19:31:26.232694Z",
+  "fetchedAt": "2026-06-22T03:51:34.164556Z",
   "people": [
     {
       "qid": "Q36215",
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -132,8 +132,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -165,21 +165,6 @@
         ],
         "employers": [
           {
-            "company": "Broadcom",
-            "start": "2006-03-01",
-            "end": null
-          },
-          {
-            "company": "Union Carbide",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Integrated Circuit Systems",
-            "start": "1994-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
@@ -193,6 +178,21 @@
             "company": "General Motors",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Broadcom",
+            "start": "2006-03-01",
+            "end": null
+          },
+          {
+            "company": "Union Carbide",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Integrated Circuit Systems",
+            "start": "1994-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -286,8 +286,8 @@
           "computer scientist"
         ],
         "education": [
-          "Acton-Boxborough Regional High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Acton-Boxborough Regional High School"
         ],
         "employers": [],
         "positions": [
@@ -360,20 +360,20 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "technology entrepreneur",
           "manager",
+          "chess player",
           "financier",
           "banker",
-          "computer scientist",
           "investor",
           "entrepreneur",
+          "computer scientist",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -411,9 +411,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "businessperson",
+          "computer scientist",
           "entrepreneur",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Harvard College",
@@ -486,8 +486,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
           "blogger",
-          "programmer",
           "software engineer",
+          "programmer",
           "investor",
           "inventor",
           "entrepreneur",

@@ -10,11 +10,16 @@
     "military officer"
   ],
   "education": [
-    "Mankato West High School",
     "United States Naval Academy",
-    "London School of Economics and Political Science"
+    "London School of Economics and Political Science",
+    "Mankato West High School"
   ],
   "employers": [
+    {
+      "company": "General Motors",
+      "start": null,
+      "end": null
+    },
     {
       "company": "American Express",
       "start": null,
@@ -24,22 +29,17 @@
       "company": "Carlyle Group",
       "start": null,
       "end": null
-    },
-    {
-      "company": "General Motors",
-      "start": null,
-      "end": null
     }
   ],
   "positions": [
     {
-      "title": "chief executive officer",
+      "title": "chairperson",
       "company": null,
       "start": null,
       "end": null
     },
     {
-      "title": "chairperson",
+      "title": "chief executive officer",
       "company": null,
       "start": null,
       "end": null

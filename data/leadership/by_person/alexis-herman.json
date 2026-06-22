@@ -6,16 +6,36 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
   "occupations": [
     "social worker",
-    "business executive",
     "sociologist",
+    "business executive",
     "politician"
   ],
   "education": [
+    "Xavier University of Louisiana",
     "Spring Hill College",
-    "Edgewood College",
-    "Xavier University of Louisiana"
+    "Edgewood College"
   ],
   "employers": [
+    {
+      "company": "United States Women's Bureau",
+      "start": "1977-04-04",
+      "end": "1981-01-20"
+    },
+    {
+      "company": "Southern Regional Council",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Cummins",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Toyota",
+      "start": "2006-01-01",
+      "end": null
+    },
     {
       "company": "The Coca-Cola Company",
       "start": "2001-01-01",
@@ -40,40 +60,20 @@
       "company": "Office of Public Liaison",
       "start": "1993-01-20",
       "end": "1997-02-07"
-    },
-    {
-      "company": "United States Women's Bureau",
-      "start": "1977-04-04",
-      "end": "1981-01-20"
-    },
-    {
-      "company": "Southern Regional Council",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Cummins",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Toyota",
-      "start": "2006-01-01",
-      "end": null
     }
   ],
   "positions": [
-    {
-      "title": "Director of the Office of Public Liaison",
-      "company": null,
-      "start": "1993-01-20",
-      "end": "1997-02-07"
-    },
     {
       "title": "United States Secretary of Labor",
       "company": null,
       "start": "1997-05-01",
       "end": "2001-01-20"
+    },
+    {
+      "title": "Director of the Office of Public Liaison",
+      "company": null,
+      "start": "1993-01-20",
+      "end": "1997-02-07"
     }
   ],
   "currentTickers": [

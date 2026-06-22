@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-21T19:31:26.228721Z",
+  "fetchedAt": "2026-06-22T03:51:34.160626Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -268,9 +268,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -343,14 +343,14 @@
         ],
         "employers": [
           {
-            "company": "Intel",
-            "start": "2019-09-01",
-            "end": "2023-02-01"
-          },
-          {
             "company": "Goldman Sachs",
             "start": "2023-02-01",
             "end": null
+          },
+          {
+            "company": "Intel",
+            "start": "2019-09-01",
+            "end": "2023-02-01"
           }
         ],
         "positions": [
@@ -378,8 +378,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard Law School",
+          "Harvard Business School",
           "Princeton University"
         ],
         "employers": [
@@ -526,9 +526,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
           "university teacher",
-          "physician"
+          "physician",
+          "cardiologist"
         ],
         "education": [
           "Johns Hopkins School of Medicine",
@@ -576,8 +576,8 @@
         "image": null,
         "occupations": [
           "basketball player",
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"
@@ -611,9 +611,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "oncologist",
+          "university teacher",
           "researcher",
-          "university teacher"
+          "oncologist"
         ],
         "education": [
           "Duke University"

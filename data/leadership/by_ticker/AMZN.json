@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-21T19:31:26.197669Z",
+  "fetchedAt": "2026-06-22T03:51:34.130294Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -57,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -67,11 +67,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -294,8 +294,8 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "soldier",
           "spy",
+          "soldier",
           "intelligence officer"
         ],
         "education": [
@@ -341,8 +341,8 @@
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -366,14 +366,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
+          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University",
-          "Cornell University"
+          "Colorado State University"
         ],
         "employers": [
           {
@@ -455,8 +455,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -465,11 +465,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -484,6 +479,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -531,8 +531,8 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
@@ -546,13 +546,13 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -586,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -596,11 +596,6 @@
           "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,6 +610,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

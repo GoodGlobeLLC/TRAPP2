@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-06-21T19:31:26.227822Z",
+  "fetchedAt": "2026-06-22T03:51:34.159736Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -185,22 +185,22 @@
         ],
         "employers": [
           {
-            "company": "Gates Foundation",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Centers for Disease Control and Prevention",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "CARE International",
             "start": null,
             "end": null
           },
           {
             "company": "Children's National Hospital",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Centers for Disease Control and Prevention",
             "start": null,
             "end": null
           }
@@ -227,9 +227,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "merchant",
           "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "merchant"
         ],
         "education": [
           "University of Groningen"
@@ -326,16 +326,36 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
           "social worker",
-          "business executive",
           "sociologist",
+          "business executive",
           "politician"
         ],
         "education": [
+          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College",
-          "Xavier University of Louisiana"
+          "Edgewood College"
         ],
         "employers": [
+          {
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -360,40 +380,20 @@
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "Director of the Office of Public Liaison",
-            "company": null,
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
           {
             "title": "United States Secretary of Labor",
             "company": null,
             "start": "1997-05-01",
             "end": "2001-01-20"
+          },
+          {
+            "title": "Director of the Office of Public Liaison",
+            "company": null,
+            "start": "1993-01-20",
+            "end": "1997-02-07"
           }
         ]
       }

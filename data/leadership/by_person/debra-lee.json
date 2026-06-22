@@ -9,10 +9,10 @@
     "lawyer"
   ],
   "education": [
-    "Harvard Law School",
-    "Brown University",
     "James B. Dudley High School",
-    "John F. Kennedy School of Government"
+    "Brown University",
+    "John F. Kennedy School of Government",
+    "Harvard Law School"
   ],
   "employers": [
     {
@@ -32,6 +32,16 @@
     },
     {
       "company": "Kodak",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Revlon",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Washington Gas",
       "start": null,
       "end": null
     },

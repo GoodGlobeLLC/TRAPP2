@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-21T19:31:26.224385Z",
+  "fetchedAt": "2026-06-22T03:51:34.156175Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,9 +14,9 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "engineer",
           "chemist",
           "entrepreneur",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -54,9 +54,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -156,8 +156,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
-          "engineer",
           "professor",
+          "engineer",
           "scientist",
           "writer"
         ],
@@ -167,6 +167,11 @@
         ],
         "employers": [
           {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
@@ -175,11 +180,6 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -263,8 +263,8 @@
           "philanthropist",
           "chemist",
           "physicist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "University of California, Berkeley",
@@ -347,9 +347,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
           "academic",
-          "computer scientist",
           "university teacher",
           "electrotechnician",
+          "computer scientist",
           "electrical engineer"
         ],
         "education": [
@@ -415,16 +415,16 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
           "Stony Brook University",
           "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
-          "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -481,9 +481,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University"
+          "Santa Clara University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -648,8 +648,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
-          "engineer",
           "professor",
+          "engineer",
           "scientist",
           "writer"
         ],
@@ -659,6 +659,11 @@
         ],
         "employers": [
           {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
@@ -667,11 +672,6 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -711,8 +711,8 @@
           "philanthropist",
           "chemist",
           "physicist",
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "University of California, Berkeley",

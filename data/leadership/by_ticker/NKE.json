@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-21T19:31:26.236455Z",
+  "fetchedAt": "2026-06-22T03:51:34.168243Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "venture capitalist",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "University of Montana"
@@ -137,10 +137,10 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
-          "film director",
           "rapper",
           "animator",
-          "film producer"
+          "film producer",
+          "film director"
         ],
         "education": [
           "Jesuit High School",
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -253,11 +253,11 @@
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -310,11 +310,11 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
           "presenter",
           "manager",
-          "engineer",
+          "chief executive officer",
           "computer scientist",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -326,14 +326,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -364,11 +364,11 @@
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Stanford University"
         ],
         "employers": [
           {

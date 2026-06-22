@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-21T19:31:26.219365Z",
+  "fetchedAt": "2026-06-22T03:51:34.151203Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Colgate University",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Stanford University",
+          "University of California, Berkeley",
           "Haas School of Business"
         ],
         "employers": [],
@@ -278,15 +278,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
           "university teacher",
-          "physicist",
-          "politician"
+          "politician",
+          "physicist"
         ],
         "education": [
+          "Trumbull College",
+          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
-          "Trumbull College",
-          "Abington Senior High School"
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -317,12 +317,6 @@
         ],
         "positions": [
           {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
             "start": "2011-10-06",
@@ -339,6 +333,12 @@
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
+          },
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "United States Secretary of Defense",
@@ -365,8 +365,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Paris",
-          "University of Paris 1 Pantheon-Sorbonne"
+          "University of Paris 1 Pantheon-Sorbonne",
+          "University of Paris"
         ],
         "employers": [],
         "positions": [
@@ -403,16 +403,16 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
           "Stony Brook University",
           "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
-          "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
           "Suffield Academy",
-          "The Wharton School"
+          "The Wharton School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -488,14 +488,14 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film director",
           "inventor",
-          "mathematician",
           "film producer",
-          "physicist",
-          "screenwriter",
+          "mathematician",
+          "film director",
           "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "screenwriter",
+          "physicist"
         ],
         "education": [
           "Cooper Union"

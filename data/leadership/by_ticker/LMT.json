@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-06-21T19:31:26.229361Z",
+  "fetchedAt": "2026-06-22T03:51:34.161262Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -169,8 +169,8 @@
           "businessperson"
         ],
         "education": [
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -307,9 +307,9 @@
           "politician"
         ],
         "education": [
+          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College",
-          "Columbia Law School"
+          "Morehouse College"
         ],
         "employers": [
           {
@@ -355,6 +355,12 @@
         ],
         "positions": [
           {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
+          },
+          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -365,12 +371,6 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
           }
         ]
       }
@@ -415,11 +415,16 @@
           "military officer"
         ],
         "education": [
-          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Mankato West High School"
         ],
         "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
           {
             "company": "American Express",
             "start": null,
@@ -429,22 +434,17 @@
             "company": "Carlyle Group",
             "start": null,
             "end": null
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
           {
-            "title": "chief executive officer",
+            "title": "chairperson",
             "company": null,
             "start": null,
             "end": null
           },
           {
-            "title": "chairperson",
+            "title": "chief executive officer",
             "company": null,
             "start": null,
             "end": null

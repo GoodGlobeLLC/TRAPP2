@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-06-21T19:31:26.212841Z",
+  "fetchedAt": "2026-06-22T03:51:34.144723Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -134,9 +134,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
+          "businessperson",
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -264,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "businessperson",
-          "animator"
+          "animator",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -292,8 +292,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -312,8 +312,8 @@
         "birthPlace": "Rexburg",
         "image": null,
         "occupations": [
-          "film producer",
-          "businessperson"
+          "businessperson",
+          "film producer"
         ],
         "education": [],
         "employers": [],
@@ -353,21 +353,21 @@
         "occupations": [
           "producer",
           "draftsperson",
+          "film director",
+          "designer",
+          "caricaturist",
+          "film actor",
           "manufacturer",
           "director",
-          "designer",
-          "film actor",
-          "caricaturist",
+          "film producer",
           "television presenter",
           "comics artist",
-          "film producer",
-          "film director",
-          "painter",
           "voice actor",
-          "writer",
-          "inventor",
           "illustrator",
+          "painter",
           "animator",
+          "inventor",
+          "writer",
           "actor"
         ],
         "education": [
@@ -449,10 +449,10 @@
         "education": [
           "Princeton School of Public and International Affairs",
           "St Antony's College",
+          "Princeton University",
           "Harvard Law School",
-          "The Branson School",
           "University of Oxford",
-          "Princeton University"
+          "The Branson School"
         ],
         "employers": [],
         "positions": [
@@ -486,10 +486,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -618,10 +618,10 @@
           "banker"
         ],
         "education": [
+          "University of Pennsylvania Carey Law School",
           "The Wharton School",
           "Harvard Law School",
-          "Brookline High School",
-          "University of Pennsylvania Carey Law School"
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -636,6 +636,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -659,18 +671,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -707,8 +707,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford University"
@@ -736,8 +736,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",
@@ -804,8 +804,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -826,21 +826,21 @@
         "occupations": [
           "producer",
           "draftsperson",
+          "film director",
+          "designer",
+          "caricaturist",
+          "film actor",
           "manufacturer",
           "director",
-          "designer",
-          "film actor",
-          "caricaturist",
+          "film producer",
           "television presenter",
           "comics artist",
-          "film producer",
-          "film director",
-          "painter",
           "voice actor",
-          "writer",
-          "inventor",
           "illustrator",
+          "painter",
           "animator",
+          "inventor",
+          "writer",
           "actor"
         ],
         "education": [

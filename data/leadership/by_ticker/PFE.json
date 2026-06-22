@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-06-21T19:31:26.240737Z",
+  "fetchedAt": "2026-06-22T03:51:34.172531Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -71,9 +71,9 @@
         "occupations": [
           "molecular geneticist",
           "biochemist",
-          "physician",
           "researcher",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Stanford University"
@@ -114,8 +114,8 @@
         ],
         "education": [
           "Occidental College",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -171,16 +171,6 @@
         ],
         "employers": [
           {
-            "company": "Bristol-Myers Squibb",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Gates Foundation",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Genentech",
             "start": null,
             "end": null
@@ -192,6 +182,16 @@
           },
           {
             "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
             "start": null,
             "end": null
           }
@@ -243,9 +243,9 @@
           "immunologist"
         ],
         "education": [
+          "Washington University in St.\u00a0Louis",
           "Princeton University",
           "Columbia University",
-          "Washington University in St.\u00a0Louis",
           "Washington University School of Medicine"
         ],
         "employers": [
@@ -275,8 +275,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -314,8 +314,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
+          "physiologist",
           "university teacher"
         ],
         "education": [
@@ -510,8 +510,8 @@
         "birthPlace": "Ludwigsburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-06-21T19:31:26.221311Z",
+  "fetchedAt": "2026-06-22T03:51:34.153153Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -52,23 +52,23 @@
         "occupations": [
           "academic",
           "investment banker",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
-          "University of Oxford",
           "Harvard Law School",
+          "University of Oxford",
           "Harvard Business School",
           "King's College, Lagos"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           },
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
+          "director",
           "computer scientist",
-          "businessperson",
-          "director"
+          "businessperson"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -397,13 +397,13 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "historian"
+          "historian",
+          "university teacher"
         ],
         "education": [
+          "University of Pennsylvania",
           "Bryn Mawr College",
           "Concord Academy",
-          "University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [
