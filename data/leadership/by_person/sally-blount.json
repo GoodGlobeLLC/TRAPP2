@@ -8,10 +8,15 @@
     "academic"
   ],
   "education": [
-    "Princeton School of Public and International Affairs",
-    "Princeton University"
+    "Princeton University",
+    "Princeton School of Public and International Affairs"
   ],
   "employers": [
+    {
+      "company": "Northwestern University",
+      "start": null,
+      "end": null
+    },
     {
       "company": "University of Chicago",
       "start": null,
@@ -19,11 +24,6 @@
     },
     {
       "company": "New York University",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "University of Chicago",
       "start": null,
       "end": null
     }

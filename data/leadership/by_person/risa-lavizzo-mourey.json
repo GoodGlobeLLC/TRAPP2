@@ -2,21 +2,26 @@
   "qid": "Q7335804",
   "name": "Risa Lavizzo-Mourey",
   "dateOfBirth": "1934-09-25",
-  "birthPlace": "Seattle",
+  "birthPlace": "Philadelphia",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
   "occupations": [
-    "physician",
-    "administrator"
+    "administrator",
+    "physician"
   ],
   "education": [
-    "Stony Brook University",
+    "Harvard Medical School",
     "The Bush School",
     "The Wharton School",
-    "Harvard Medical School",
+    "Harvard University",
     "University of Pennsylvania",
-    "Harvard University"
+    "Stony Brook University"
   ],
   "employers": [
+    {
+      "company": "United States Department of Health and Human Services",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Perelman School of Medicine at the University of Pennsylvania",
       "start": null,
@@ -26,14 +31,15 @@
       "company": "Robert Wood Johnson Foundation",
       "start": "2001-04-01",
       "end": null
-    },
-    {
-      "company": "United States Department of Health and Human Services",
-      "start": null,
-      "end": null
     }
   ],
   "positions": [
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2020-05-26",
+      "end": null
+    },
     {
       "title": "board member",
       "company": null,
@@ -45,12 +51,6 @@
       "company": null,
       "start": "2003-01-01",
       "end": "2017-04-01"
-    },
-    {
-      "title": "board of directors member",
-      "company": null,
-      "start": "2020-05-26",
-      "end": null
     }
   ],
   "currentTickers": [

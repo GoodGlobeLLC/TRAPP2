@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-06-21T19:31:26.194110Z",
+  "fetchedAt": "2026-06-22T03:07:35.049332Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -270,9 +270,9 @@
         "education": [
           "ESSEC Business School",
           "Harvard Business School",
+          "\u00c9cole alsacienne",
           "Harvard University",
-          "lyc\u00e9e du Parc",
-          "\u00c9cole alsacienne"
+          "lyc\u00e9e du Parc"
         ],
         "employers": [
           {
@@ -291,6 +291,11 @@
             "end": "2001-01-01"
           },
           {
+            "company": "Groupe TF1",
+            "start": "2016-01-01",
+            "end": "2023-01-01"
+          },
+          {
             "company": "Accor",
             "start": "1983-01-01",
             "end": "1995-01-01"
@@ -304,11 +309,6 @@
             "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
             "start": "1981-01-01",
             "end": "1983-01-01"
-          },
-          {
-            "company": "Groupe TF1",
-            "start": "2016-01-01",
-            "end": "2023-01-01"
           }
         ],
         "positions": [
@@ -412,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "University of Bradford"
@@ -468,11 +468,6 @@
             "end": "2015-01-01"
           },
           {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -481,6 +476,11 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
+          },
+          {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
           }
         ],
         "positions": [

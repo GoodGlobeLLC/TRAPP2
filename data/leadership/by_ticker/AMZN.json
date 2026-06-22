@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-21T19:31:26.197669Z",
+  "fetchedAt": "2026-06-22T03:07:35.052680Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -68,11 +68,6 @@
         ],
         "employers": [
           {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -86,6 +81,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -299,10 +299,10 @@
           "intelligence officer"
         ],
         "education": [
-          "Boston University",
-          "United States Military Academy",
           "Questrom School of Business",
           "Naval Postgraduate School",
+          "Boston University",
+          "United States Military Academy",
           "Westhill Senior High School"
         ],
         "employers": [
@@ -334,15 +334,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
           "university teacher",
           "executive",
           "dean",
+          "academic",
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -466,11 +466,6 @@
         ],
         "employers": [
           {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -484,6 +479,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -519,10 +519,10 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
-          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
           {
@@ -597,11 +597,6 @@
         ],
         "employers": [
           {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
             "end": "1994-01-01"
@@ -615,6 +610,11 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

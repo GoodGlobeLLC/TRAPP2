@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-06-21T19:31:26.211398Z",
+  "fetchedAt": "2026-06-22T03:07:35.064389Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -112,9 +112,9 @@
           "businessperson"
         ],
         "education": [
+          "Georgia Tech",
           "Harvard Business School",
-          "Harvard University",
-          "Georgia Tech"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -151,9 +151,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
+          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -197,27 +197,27 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemist",
           "chemical engineer",
+          "chemist",
           "academic administrator"
         ],
         "education": [
-          "University of Southern California",
-          "Princeton University"
+          "Princeton University",
+          "University of Southern California"
         ],
         "employers": [
           {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Imperial College London",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -396,10 +396,10 @@
           "writer"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
+          "John F. Kennedy School of Government",
           "University of Oxford",
           "Harvard University"
         ],
@@ -452,8 +452,8 @@
           "missionary",
           "diplomat",
           "ambassador",
-          "politician",
-          "governor"
+          "governor",
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

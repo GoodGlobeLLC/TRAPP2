@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-21T19:31:26.190604Z",
+  "fetchedAt": "2026-06-22T03:07:35.045893Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
           "gastroenterologist",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -104,14 +104,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [
-          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
+          "Pritzker School of Medicine",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -259,6 +259,11 @@
         "education": [],
         "employers": [
           {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -272,11 +277,6 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
-          },
-          {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -460,8 +460,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "business executive"
+          "business executive",
+          "physician"
         ],
         "education": [
           "Lund University"
@@ -505,12 +505,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [

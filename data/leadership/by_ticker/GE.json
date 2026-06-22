@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-21T19:31:26.219365Z",
+  "fetchedAt": "2026-06-22T03:07:35.071550Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Colgate University",
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",
@@ -277,16 +277,16 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "politician",
           "university teacher",
-          "physicist",
-          "politician"
+          "physicist"
         ],
         "education": [
+          "Trumbull College",
+          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
-          "Trumbull College",
-          "Abington Senior High School"
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -317,12 +317,6 @@
         ],
         "positions": [
           {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
             "start": "2011-10-06",
@@ -339,6 +333,12 @@
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
+          },
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "United States Secretary of Defense",
@@ -365,8 +365,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Paris",
-          "University of Paris 1 Pantheon-Sorbonne"
+          "University of Paris 1 Pantheon-Sorbonne",
+          "University of Paris"
         ],
         "employers": [],
         "positions": [
@@ -400,21 +400,26 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Seattle",
+        "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
-          "Stony Brook University",
+          "Harvard Medical School",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
+          "Harvard University",
           "University of Pennsylvania",
-          "Harvard University"
+          "Stony Brook University"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -424,14 +429,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -443,12 +449,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -489,13 +489,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
           "film director",
+          "film producer",
           "inventor",
           "mathematician",
-          "film producer",
-          "physicist",
-          "screenwriter",
+          "entrepreneur",
           "engineer",
-          "entrepreneur"
+          "physicist",
+          "screenwriter"
         ],
         "education": [
           "Cooper Union"
