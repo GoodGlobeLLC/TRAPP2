@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-06-21T19:31:26.242354Z",
+  "fetchedAt": "2026-06-22T03:01:17.382191Z",
   "people": [
     {
       "qid": "Q16204157",
@@ -14,8 +14,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -37,20 +37,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "chess player",
+          "investor",
           "technology entrepreneur",
           "manager",
           "financier",
           "banker",
           "computer scientist",
-          "investor",
           "entrepreneur",
-          "computer scientist",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -87,8 +86,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -119,6 +118,11 @@
         ],
         "employers": [
           {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
+          },
+          {
             "company": "Addepar",
             "start": "2009-01-01",
             "end": "2013-01-01"
@@ -142,11 +146,6 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -184,20 +183,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "chess player",
+          "investor",
           "technology entrepreneur",
           "manager",
           "financier",
           "banker",
           "computer scientist",
-          "investor",
           "entrepreneur",
-          "computer scientist",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
