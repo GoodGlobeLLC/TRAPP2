@@ -1,45 +1,31 @@
 # ============================================================
-#  >>> DESTINATION: GoodGlobeLLC/TRAPP2
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2-1  (and TRAPP2, TRAPP2-2, TRAPP2-3)
 #  >>> FILE PATH:   .github/workflows/history-20y.yml
-#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2/.github/workflows/history-20y.yml
 #
-#  Edit/paste directly on GitHub here:
-#  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/history-20y.yml
+#  WHY THIS REPLACES THE BATCHED VERSION
+#  -------------------------------------
+#  The old workflow ran 4 parallel batches that pushed to the same repo. On a
+#  push conflict each batch did `git merge -X ours` + `git checkout --ours --
+#  data/history/`, which made THAT batch's view of the whole history/ folder win
+#  — silently reverting the files the other batches had just pushed but that this
+#  batch never had locally. That's why files dropped out, why it looked random,
+#  and why re-running "eventually" filled them in (different batches won the race
+#  each time).
 #
-#  WHAT CHANGED IN THIS FILE:
-#    Now runs DAILY (cron 07:00 UTC) as an INCREMENTAL top-up: it fetches
-#    20 years ago through YESTERDAY and appends the newly-settled bar,
-#    skipping any ticker already current (--max-age-days 1). The first run
-#    does the full 20-year backfill; every run after is fast. ALSO:
-#    conflict-recovery + manifest commit are scoped to data/history/ +
-#    manifest ONLY (never blanket data/, so it can't revert leadership/
-#    master/signals on overlap). NOT triggered by full-refresh.yml — it
-#    self-schedules daily.
+#  This version runs ONE sequential job over the WHOLE universe and commits once.
+#  No parallel push, no race, every ticker in a single commit. The fetcher skips
+#  tickers already current (--max-age-days 1), so after the first full backfill
+#  each daily run is cheap. It also PRUNES orphan history files (tickers removed
+#  from tickers.txt) on every full pass, so stale equities can't keep feeding the
+#  app. The commit/push is scoped to data/history/ + the manifest ONLY, so it can
+#  never revert another workflow's master/leadership/signals files.
 # ============================================================
 
-name: Refresh 20-Year History (Batched)
-
-# Fetches up to 20 years of daily price history for the whole ticker universe,
-# split into 4 parallel batches so no single run hits Yahoo rate limits, runs for
-# hours, or produces one giant commit. Each batch fetches a stripe of the tickers
-# (batch i handles ticker indices i, i+4, i+8, …), writes only its own per-ticker
-# files, and MERGES the shared manifest so batches never clobber each other.
-#
-# The full 20y backfill is heavy, so this runs WEEKLY (history doesn't change
-# retroactively — only the latest day is new). The nightly workflow's lighter
-# 5-day-tail top-up keeps recent data current between full refreshes. Trigger by
-# hand for the initial backfill or after adding many tickers.
-#
-# Note: skip-if-fresh means a weekly run mostly no-ops on tickers already current,
-# so steady-state cost is low; the expensive pass is the first backfill.
+name: Refresh 20-Year History (Single Pass)
 
 on:
   schedule:
-    # DAILY. Runs after the US close + nightly so yesterday's bar is settled.
-    # The job is incremental: tickers already ending yesterday are skipped
-    # instantly (see --max-age-days below), so after the first full backfill each
-    # daily run is cheap — it only appends the newly-settled day per ticker.
-    - cron: '0 7 * * *'        # 07:00 UTC daily
+    - cron: '0 7 * * *'        # 07:00 UTC daily — after US close + nightly settle
   workflow_dispatch:
     inputs:
       years:
@@ -51,12 +37,16 @@ on:
         type: boolean
         required: false
         default: false
+      prune:
+        description: 'Delete orphan history files no longer in tickers.txt'
+        type: boolean
+        required: false
+        default: true
 
 permissions:
   contents: write
 
-# Allow the batches to run; do NOT cancel in-progress (a long backfill shouldn't
-# be killed by the next schedule).
+# Never run two history passes at once, and don't cancel a long backfill.
 concurrency:
   group: history-20y
   cancel-in-progress: false
@@ -64,15 +54,10 @@ concurrency:
 jobs:
   fetch-history:
     runs-on: ubuntu-latest
-    timeout-minutes: 330      # 5.5h ceiling for a heavy backfill stripe
-    strategy:
-      # IMPORTANT: max-parallel limits concurrent pushes to the same repo. 4 is
-      # fine with the OURS-wins safe-push below. fail-fast off so one bad stripe
-      # doesn't abort the others.
-      fail-fast: false
-      max-parallel: 4
-      matrix:
-        batch: [0, 1, 2, 3]
+    # A full 20-year backfill of ~340 tickers fits comfortably; the ceiling is
+    # generous so the first big run can't be killed. Daily incremental runs take
+    # only a few minutes because fresh tickers are skipped.
+    timeout-minutes: 350
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -86,109 +71,47 @@ jobs:
       - name: Install requirements
         run: pip install yfinance
 
-      - name: Fetch history (batch ${{ matrix.batch }} of 4)
+      - name: Fetch ALL history in one pass
         run: |
           YEARS="${{ github.event.inputs.years || '20' }}"
           FORCE=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE="--force"; fi
-          # --max-age-days 1: on a DAILY run, skip a ticker only if its stored
-          # history already ends within 1 day of today (i.e. it already has
-          # yesterday's bar); otherwise fetch and append the newly-settled day.
-          # This makes the daily run a fast incremental top-up after the first
-          # full 20-year backfill. (A manual run with force=true ignores this and
-          # refetches everything.)
-          python pipeline/fetch_history.py --batch ${{ matrix.batch }} --of 4 --years "$YEARS" --max-age-days 1 $FORCE
+          PRUNE=""
+          # default prune ON; only disable if the user explicitly set prune=false
+          if [ "${{ github.event.inputs.prune }}" = "false" ]; then PRUNE="--no-prune"; fi
+          # --of 1 = single pass over the WHOLE universe (no batch race).
+          # --max-age-days 1 = skip tickers already ending yesterday (fast daily
+          # top-up after the first backfill). force=true ignores freshness.
+          python pipeline/fetch_history.py --of 1 --years "$YEARS" --max-age-days 1 $PRUNE $FORCE
 
-      - name: Commit & push (OURS-wins, retry)
+      - name: Commit & push (history scope only, retry)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage history files + the manifest INCLUDING deletions (orphan prune).
+          # Scoped to these paths ONLY so this job can never touch master/
+          # leadership/signals and can't revert another workflow.
           git add -A data/history/ data/history_manifest.json
           if git diff --staged --quiet; then
-            echo "Batch ${{ matrix.batch }}: no history changes to commit"
+            echo "No history changes to commit"
             exit 0
           fi
-          git commit -m "20y history batch ${{ matrix.batch }}/4 $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
-          # Parallel batches push to the same repo. On conflict, OURS wins for the
-          # data files (generated JSON can't be hand-merged). The manifest merge
-          # is handled in Python (each batch reads+merges before writing), but if
-          # two batches race on the manifest file itself, last-writer's content
-          # still contains its own tickers; a subsequent run reconciles. Retry a
-          # few times to ride out concurrent pushes.
+          git commit -m "20y history (single pass) $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+          # Single job, but another workflow (nightly/quotes) may have pushed
+          # meanwhile. Retry with a history-scoped OURS resolution so our freshly
+          # fetched bars + prune win for history files, and nothing else is touched.
           for i in 1 2 3 4 5 6; do
             if git push; then
-              echo "Batch ${{ matrix.batch }}: push succeeded on attempt $i"
+              echo "Pushed on attempt $i"
               break
             fi
-            echo "Batch ${{ matrix.batch }}: push attempt $i failed — merging remote (OURS wins)"
+            echo "Push attempt $i failed — merging remote (history scope OURS)"
             git fetch origin
-            # Merge the remote in, but resolve conflicts ONLY within the history
-            # files — never touch other data/ files (leadership, master.csv,
-            # signals, etc.). This is the key fix: a blanket `checkout --ours --
-            # data/` could revert another workflow's fresh data. We scope strictly
-            # to data/history/ and the manifest so history-20y can only ever write
-            # its OWN files.
-            git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
+            git merge -X ours origin/${{ github.ref_name }} 2>/dev/null || true
             if [ -f .git/MERGE_HEAD ]; then
-              git checkout --ours -- data/history/ data/history_manifest.json data/history_manifest.b*.json 2>/dev/null || true
-              git add -- data/history/ data/history_manifest.json data/history_manifest.b*.json 2>/dev/null || true
+              git checkout --ours -- data/history/ data/history_manifest.json 2>/dev/null || true
+              git add -A data/history/ data/history_manifest.json 2>/dev/null || true
               git commit --no-edit 2>/dev/null || true
             fi
             sleep 5
-          done
-
-  # After all batches finish, combine their fragments into the authoritative
-  # manifest. Runs once, sequentially, so there's no manifest race here.
-  merge-manifest:
-    needs: fetch-history
-    if: always()        # run even if one batch failed — merge whatever succeeded
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Pull latest (batches just pushed)
-        run: git pull --no-rebase -X ours origin ${{ github.ref_name }} || true
-
-      - name: Merge manifest fragments
-        run: python pipeline/merge_manifest.py
-
-      - name: Commit & push merged manifest
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Stage ONLY the history manifest + any fragment deletions
-          # merge_manifest.py made — never blanket-stage data/, so this job can't
-          # accidentally commit (and then OURS-overwrite) another workflow's
-          # files. `git add -A <paths>` includes deletions for those paths; the
-          # `|| true` means an absent fragment can't crash the step (the old
-          # bare-glob `did not match` exit-128 bug stays fixed).
-          git add -A data/history_manifest.json 2>/dev/null || true
-          git add -A data/history/ 2>/dev/null || true
-          # stage fragment deletions explicitly (if any remain)
-          for frag in data/history_manifest.b*.json; do
-            [ -e "$frag" ] || git rm --cached --ignore-unmatch "$frag" 2>/dev/null || true
-          done
-          if git diff --staged --quiet; then
-            echo "No manifest changes"
-            exit 0
-          fi
-          git commit -m "Merge 20y history manifest $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
-          for i in 1 2 3 4 5; do
-            if git push; then echo "Pushed on attempt $i"; break; fi
-            git fetch origin
-            git merge -X ours origin/${{ github.ref_name }} 2>/dev/null || true
-            # keep conflict resolution scoped to history files only
-            if [ -f .git/MERGE_HEAD ]; then
-              git checkout --ours -- data/history/ data/history_manifest.json 2>/dev/null || true
-              git add -- data/history/ data/history_manifest.json 2>/dev/null || true
-              git commit --no-edit 2>/dev/null || true
-            fi
-            sleep 4
           done
