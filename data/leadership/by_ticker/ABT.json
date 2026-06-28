@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-06-22T03:51:34.126186Z",
+  "fetchedAt": "2026-06-28T09:21:18.774988Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -239,9 +239,9 @@
           "researcher"
         ],
         "education": [
+          "Pritzker School of Medicine",
           "University of California, San Francisco",
-          "Northwestern University",
-          "Pritzker School of Medicine"
+          "Northwestern University"
         ],
         "employers": [],
         "positions": [
@@ -360,9 +360,9 @@
           "business executive"
         ],
         "education": [
+          "University of Southern California",
           "University of Wisconsin\u2013Stevens Point",
-          "University of Minnesota",
-          "University of Southern California"
+          "University of Minnesota"
         ],
         "employers": [
           {
@@ -413,13 +413,13 @@
           "military officer"
         ],
         "education": [
-          "Hampton High School",
-          "Embry\u2013Riddle Aeronautical University",
           "National Defense University",
           "Virginia Military Institute",
           "Syracuse University",
           "George Washington University",
-          "Air University"
+          "Air University",
+          "Hampton High School",
+          "Embry\u2013Riddle Aeronautical University"
         ],
         "employers": [],
         "positions": [
@@ -476,10 +476,15 @@
           "academic"
         ],
         "education": [
-          "Princeton University",
-          "Princeton School of Public and International Affairs"
+          "Princeton School of Public and International Affairs",
+          "Princeton University"
         ],
         "employers": [
+          {
+            "company": "University of Chicago",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Northwestern University",
             "start": null,

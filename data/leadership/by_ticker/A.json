@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-22T03:51:34.123443Z",
+  "fetchedAt": "2026-06-28T09:21:18.772357Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -105,8 +105,8 @@
         "image": null,
         "occupations": [
           "scientist",
-          "oncologist",
-          "physician"
+          "physician",
+          "oncologist"
         ],
         "education": [
           "University of Detroit Jesuit High School and Academy",
@@ -259,11 +259,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +272,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -460,8 +460,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
@@ -505,8 +505,8 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "biologist",
-          "business executive"
+          "business executive",
+          "biologist"
         ],
         "education": [
           "Cornell University",

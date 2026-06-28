@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-22T03:51:34.151203Z",
+  "fetchedAt": "2026-06-28T09:21:18.797457Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Colgate University",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Wellesley College"
@@ -215,7 +215,7 @@
         "qid": "Q5483294",
         "name": "Francisco D'Souza",
         "dateOfBirth": "1968-08-23",
-        "birthPlace": "Nairobi",
+        "birthPlace": "Kenya",
         "image": null,
         "occupations": [
           "chief executive officer",
@@ -257,9 +257,9 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "University of California, Berkeley",
-          "Haas School of Business"
+          "Haas School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -277,29 +277,18 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "politician",
           "university teacher",
-          "politician",
-          "physicist"
+          "physicist",
+          "politician"
         ],
         "education": [
-          "Trumbull College",
-          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "Trumbull College",
+          "Abington Senior High School"
         ],
         "employers": [
-          {
-            "company": "MIT Center for International Studies",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Brookhaven National Laboratory",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Harvard University",
             "start": null,
@@ -314,9 +303,25 @@
             "company": "Fermilab",
             "start": null,
             "end": null
+          },
+          {
+            "company": "MIT Center for International Studies",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Brookhaven National Laboratory",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
@@ -334,12 +339,6 @@
             "company": null,
             "start": "1993-06-30",
             "end": "1996-09-14"
-          },
-          {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
           },
           {
             "title": "United States Secretary of Defense",
@@ -401,19 +400,19 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Philadelphia",
+        "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "administrator",
           "physician"
         ],
         "education": [
-          "Harvard Medical School",
-          "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
+          "University of Pennsylvania",
           "Harvard University",
-          "University of Pennsylvania"
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
           {
@@ -489,14 +488,14 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "inventor",
-          "film producer",
           "mathematician",
-          "film director",
+          "film producer",
           "engineer",
+          "inventor",
           "entrepreneur",
-          "screenwriter",
-          "physicist"
+          "film director",
+          "physicist",
+          "screenwriter"
         ],
         "education": [
           "Cooper Union"

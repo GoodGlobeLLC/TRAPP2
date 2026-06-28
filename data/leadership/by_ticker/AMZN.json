@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-22T03:51:34.130294Z",
+  "fetchedAt": "2026-06-28T09:21:18.778904Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
           "Questrom School of Business",
@@ -334,9 +334,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "executive",
           "dean",
+          "university teacher",
           "academic",
           "computer scientist"
         ],
@@ -366,14 +366,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
-          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University"
+          "Colorado State University",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -526,16 +526,6 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
@@ -546,8 +536,18 @@
             "end": null
           },
           {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
             "company": "Johnson & Johnson",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
           "Miami Palmetto High School",

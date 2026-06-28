@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-06-22T03:51:34.125667Z",
+  "fetchedAt": "2026-06-28T09:21:18.774468Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -14,8 +14,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%20Airbnb.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Niskayuna High School",
@@ -163,13 +163,13 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
           "computer scientist",
+          "business executive",
           "businessperson"
         ],
         "education": [
-          "Boston Latin Academy",
-          "Harvard University"
+          "Harvard University",
+          "Boston Latin Academy"
         ],
         "employers": [
           {
@@ -266,6 +266,11 @@
         ],
         "employers": [
           {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
+          },
+          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -274,11 +279,6 @@
             "company": "Donna Karan",
             "start": "1989-01-01",
             "end": "1996-01-01"
-          },
-          {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
           },
           {
             "company": "Warnaco Group",
@@ -419,13 +419,13 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
           "computer scientist",
+          "business executive",
           "businessperson"
         ],
         "education": [
-          "Boston Latin Academy",
-          "Harvard University"
+          "Harvard University",
+          "Boston Latin Academy"
         ],
         "employers": [
           {
@@ -456,8 +456,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%20Airbnb.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Niskayuna High School",
