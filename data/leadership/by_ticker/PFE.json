@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-06-22T03:51:34.172531Z",
+  "fetchedAt": "2026-06-28T09:16:07.073240Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -17,8 +17,8 @@
           "business executive",
           "pharmacologist",
           "executive",
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -69,12 +69,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "university teacher",
           "molecular geneticist",
           "biochemist",
           "researcher",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Stanford University"
@@ -165,12 +164,22 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Nevada, Reno",
           "University of California, San Francisco",
+          "University of California, Berkeley",
           "Bishop Manogue High School"
         ],
         "employers": [
+          {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Genentech",
             "start": null,
@@ -183,16 +192,6 @@
           },
           {
             "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bristol-Myers Squibb",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Gates Foundation",
             "start": null,
             "end": null
           }
@@ -245,18 +244,18 @@
         ],
         "education": [
           "Washington University in St.\u00a0Louis",
-          "Princeton University",
           "Columbia University",
-          "Washington University School of Medicine"
+          "Washington University School of Medicine",
+          "Princeton University"
         ],
         "employers": [
           {
-            "company": "University of California, San Francisco",
+            "company": "New York University",
             "start": null,
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           }
@@ -276,8 +275,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Haas School of Business",
@@ -373,8 +372,8 @@
           "business executive",
           "pharmacologist",
           "executive",
-          "entrepreneur",
-          "veterinarian"
+          "veterinarian",
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
