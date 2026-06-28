@@ -14,9 +14,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
+          "chief executive officer",
           "presenter",
           "manager",
-          "chief executive officer",
+          "businessperson",
           "computer scientist",
           "businessperson",
           "engineer"
@@ -30,14 +31,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -67,9 +68,9 @@
           "biochemist"
         ],
         "education": [
+          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "University of Washington"
         ],
         "employers": [
           {
@@ -256,14 +257,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -285,9 +286,9 @@
           "biochemist"
         ],
         "education": [
+          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "University of Washington"
         ],
         "employers": [
           {
@@ -361,6 +362,7 @@
           "engineer",
           "teacher",
           "businessperson",
+          "teacher",
           "actor"
         ],
         "education": [
@@ -455,17 +457,17 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

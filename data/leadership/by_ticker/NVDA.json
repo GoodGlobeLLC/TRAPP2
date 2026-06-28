@@ -388,14 +388,19 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Persis%20Drell%20at%20Stanford%203-4-09%201.JPG",
         "occupations": [
-          "physicist",
-          "university teacher"
+          "university teacher",
+          "physicist"
         ],
         "education": [
           "University of California, Berkeley",
           "Wellesley College"
         ],
         "employers": [
+          {
+            "company": "Stanford University School of Engineering",
+            "start": "2014-01-01",
+            "end": "2017-01-01"
+          },
           {
             "company": "SLAC National Accelerator Laboratory",
             "start": "2007-01-01",

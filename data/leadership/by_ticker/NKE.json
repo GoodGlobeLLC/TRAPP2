@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -284,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford Graduate School of Business",
           "Dartmouth College",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -312,6 +312,7 @@
         "occupations": [
           "presenter",
           "manager",
+          "businessperson",
           "chief executive officer",
           "computer scientist",
           "businessperson",
@@ -326,14 +327,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [

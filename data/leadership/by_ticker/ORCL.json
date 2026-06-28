@@ -263,11 +263,6 @@
         ],
         "employers": [
           {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
@@ -281,6 +276,11 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -305,6 +305,7 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
+          "economist",
           "academic",
           "university teacher",
           "businessperson",
