@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-06-22T03:51:34.160626Z",
+  "fetchedAt": "2026-06-28T10:01:08.631160Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -268,9 +268,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
           "Yale University",
@@ -378,9 +378,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -449,8 +449,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -515,55 +515,6 @@
       }
     },
     {
-      "qid": "Q105798427",
-      "name": "Marschall Stevens Runge",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q105798427",
-        "name": "Marschall Stevens Runge",
-        "dateOfBirth": "1954-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "university teacher",
-          "physician",
-          "cardiologist"
-        ],
-        "education": [
-          "Johns Hopkins School of Medicine",
-          "Vanderbilt University"
-        ],
-        "employers": [
-          {
-            "company": "University of Michigan",
-            "start": "2015-03-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "dean",
-            "company": null,
-            "start": "2016-01-01",
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2015-03-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2013-09-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q100816295",
       "name": "Jamere Jackson",
       "role_at_company": "Board Member",
@@ -576,8 +527,8 @@
         "image": null,
         "occupations": [
           "basketball player",
-          "businessperson",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -611,9 +562,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "university teacher",
+          "oncologist",
           "researcher",
-          "oncologist"
+          "university teacher"
         ],
         "education": [
           "Duke University"

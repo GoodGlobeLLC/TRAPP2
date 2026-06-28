@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-22T03:51:34.130294Z",
+  "fetchedAt": "2026-06-28T10:01:08.602129Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
+          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "computer scientist",
           "business oligarch",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -67,6 +67,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
+          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University",
-          "Scarsdale High School"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -294,8 +294,8 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "spy",
           "soldier",
+          "spy",
           "intelligence officer"
         ],
         "education": [
@@ -334,9 +334,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "executive",
           "dean",
+          "university teacher",
           "academic",
           "computer scientist"
         ],
@@ -370,10 +370,10 @@
           "computer scientist"
         ],
         "education": [
-          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University"
+          "Colorado State University",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "computer scientist",
           "business oligarch",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -465,6 +465,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -531,11 +531,6 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
@@ -548,6 +543,11 @@
           {
             "company": "Johnson & Johnson",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
@@ -586,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "computer scientist",
           "business oligarch",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -596,6 +596,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-06-22T03:51:34.150619Z",
+  "fetchedAt": "2026-06-28T10:01:08.621544Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -14,19 +14,14 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -35,6 +30,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -270,8 +270,8 @@
         "birthPlace": "Ipswich",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Sir%20Peter%20Wall%20in%20No%201%20uniform.jpg",
         "occupations": [
-          "military personnel",
-          "engineer"
+          "engineer",
+          "military personnel"
         ],
         "education": [
           "Whitgift School",
@@ -324,19 +324,14 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -345,6 +340,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],

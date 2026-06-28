@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-06-22T03:51:34.163119Z",
+  "fetchedAt": "2026-06-28T10:01:08.633655Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -67,8 +67,8 @@
         "occupations": [
           "restaurateur",
           "salesperson",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -76,17 +76,17 @@
         ],
         "employers": [
           {
+            "company": "McDonald's",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Lily-Tulip Cup Company",
             "start": null,
             "end": null
           },
           {
             "company": "Prince Castle",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "McDonald's",
             "start": null,
             "end": null
           }

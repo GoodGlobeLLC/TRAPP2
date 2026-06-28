@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-06-22T03:51:34.125667Z",
+  "fetchedAt": "2026-06-28T10:01:08.597493Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -85,8 +85,8 @@
         ],
         "education": [
           "University of Zimbabwe",
-          "University of Oxford",
-          "Keble College"
+          "Keble College",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -266,6 +266,11 @@
         ],
         "employers": [
           {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
+          },
+          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -274,11 +279,6 @@
             "company": "Donna Karan",
             "start": "1989-01-01",
             "end": "1996-01-01"
-          },
-          {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
           },
           {
             "company": "Warnaco Group",
