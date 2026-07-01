@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-07-01T15:39:59.560162Z",
+  "updatedAt": "2026-07-01T17:28:12.392494Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -14,23 +14,23 @@
       }
     },
     "liquidity": {
-      "raw": 0.175892998945335,
+      "raw": 0.19504469891113413,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "t10y2y": 0.28,
-        "hy_spread": 2.8,
-        "hy_spread_z": -0.9,
+        "t10y2y": 0.3,
+        "hy_spread": 2.75,
+        "hy_spread_z": -1.01,
         "hyg_minus_lqd_1m": -0.0016
       }
     },
     "volatility": {
-      "raw": 0.3876682011331438,
+      "raw": 0.11549202127659508,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "vix_level": 17.65,
-        "vix9d_over_vix": 0.9518
+        "vix_level": 16.45,
+        "vix9d_over_vix": 1.0213
       }
     },
     "valuation": {
