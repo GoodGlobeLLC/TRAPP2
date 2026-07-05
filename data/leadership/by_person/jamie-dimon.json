@@ -15,6 +15,16 @@
   ],
   "employers": [
     {
+      "company": "JPMorgan Chase",
+      "start": "2004-07-01",
+      "end": null
+    },
+    {
+      "company": "Boston Consulting Group",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Bank One Corporation",
       "start": "2000-03-01",
       "end": "2004-07-01"
@@ -26,16 +36,6 @@
     },
     {
       "company": "Goldman Sachs",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "JPMorgan Chase",
-      "start": "2004-07-01",
-      "end": null
-    },
-    {
-      "company": "Boston Consulting Group",
       "start": null,
       "end": null
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-06-28T10:01:08.653467Z",
+  "fetchedAt": "2026-07-05T10:04:20.686435Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,29 +14,26 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "dub actor",
-          "technology entrepreneur",
           "programmer",
+          "technology entrepreneur",
+          "dub actor",
+          "civil servant",
           "financier",
           "investor",
-          "civil servant",
-          "programmer",
-          "dub actor",
-          "technology entrepreneur",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "engineer",
-          "entrepreneur"
+          "politician"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pretoria",
+          "University of Pennsylvania",
           "Queen's University",
           "The Wharton School",
-          "University of Pennsylvania",
+          "University of Pretoria",
           "Stanford University"
         ],
         "employers": [
@@ -46,8 +43,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -61,9 +58,9 @@
             "end": "2019-01-01"
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
@@ -74,11 +71,6 @@
             "company": "Tesla",
             "start": "2004-04-23",
             "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SpaceX",
@@ -138,8 +130,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -147,6 +139,26 @@
           "Georges River College"
         ],
         "employers": [
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
+          },
           {
             "company": "Toyota Australia",
             "start": "1989-01-01",
@@ -166,26 +178,6 @@
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
-          },
-          {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -334,8 +326,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -343,6 +335,26 @@
           "Georges River College"
         ],
         "employers": [
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
+          },
           {
             "company": "Toyota Australia",
             "start": "1989-01-01",
@@ -362,26 +374,6 @@
             "company": "Sun Microsystems",
             "start": "1996-01-01",
             "end": "2007-08-01"
-          },
-          {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -466,8 +458,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
           "environmentalist",
-          "entrepreneur",
-          "restaurateur"
+          "restaurateur",
+          "entrepreneur"
         ],
         "education": [
           "International Culinary Center",
@@ -495,9 +487,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "chief technology officer",
+          "businessperson",
           "inventor",
-          "businessperson"
+          "chief technology officer"
         ],
         "education": [
           "Stanford University",
@@ -532,29 +524,26 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "dub actor",
-          "technology entrepreneur",
           "programmer",
+          "technology entrepreneur",
+          "dub actor",
+          "civil servant",
           "financier",
           "investor",
-          "civil servant",
-          "programmer",
-          "dub actor",
-          "technology entrepreneur",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "engineer",
-          "entrepreneur"
+          "politician"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pretoria",
+          "University of Pennsylvania",
           "Queen's University",
           "The Wharton School",
-          "University of Pennsylvania",
+          "University of Pretoria",
           "Stanford University"
         ],
         "employers": [
@@ -564,8 +553,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -579,9 +568,9 @@
             "end": "2019-01-01"
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
@@ -592,11 +581,6 @@
             "company": "Tesla",
             "start": "2004-04-23",
             "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SpaceX",
@@ -658,8 +642,8 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [

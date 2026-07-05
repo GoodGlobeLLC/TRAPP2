@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-06-28T10:01:08.638643Z",
+  "fetchedAt": "2026-07-05T10:04:20.671206Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -139,8 +139,8 @@
         "occupations": [
           "rapper",
           "animator",
-          "film producer",
-          "film director"
+          "film director",
+          "film producer"
         ],
         "education": [
           "Jesuit High School",
@@ -165,8 +165,8 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -247,10 +247,10 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "entrepreneur",
           "philanthropist",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "Oregon State University",
@@ -284,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford Graduate School of Business",
+          "Stanford University",
           "Dartmouth College",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -312,11 +312,10 @@
         "occupations": [
           "presenter",
           "manager",
-          "businessperson",
           "chief executive officer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -327,14 +326,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -359,10 +358,10 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "entrepreneur",
           "philanthropist",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "Oregon State University",

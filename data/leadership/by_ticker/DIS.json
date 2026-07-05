@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-06-28T10:01:08.616149Z",
+  "fetchedAt": "2026-07-05T10:04:20.648149Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -58,8 +58,8 @@
         "birthPlace": "Medford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "Georgetown University"
@@ -134,9 +134,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "chief executive officer",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
           "Lawrenceville School",
@@ -192,9 +192,8 @@
           "television producer",
           "film producer",
           "business executive",
-          "television producer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -265,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "animator",
-          "businessperson"
+          "businessperson",
+          "animator"
         ],
         "education": [],
         "employers": [],
@@ -352,25 +351,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "designer",
-          "draftsperson",
-          "manufacturer",
-          "producer",
-          "caricaturist",
-          "film actor",
-          "director",
-          "film producer",
+          "animator",
+          "voice actor",
           "film director",
           "television presenter",
           "comics artist",
-          "voice actor",
+          "producer",
+          "manufacturer",
+          "caricaturist",
+          "draftsperson",
           "painter",
+          "designer",
+          "film actor",
+          "director",
+          "film producer",
           "illustrator",
-          "animator",
-          "inventor",
-          "animator",
           "writer",
-          "actor"
+          "actor",
+          "inventor"
         ],
         "education": [
           "McKinley High School",
@@ -393,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -452,8 +450,8 @@
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
-          "University of Oxford",
           "The Branson School",
+          "University of Oxford",
           "Princeton University"
         ],
         "employers": [],
@@ -488,10 +486,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -584,8 +582,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -615,15 +613,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "businessperson",
-          "chief financial officer"
+          "chief financial officer",
+          "banker"
         ],
         "education": [
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
           "The Wharton School",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -638,6 +636,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -661,18 +671,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -709,8 +707,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford University"
@@ -738,8 +736,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",
@@ -761,8 +759,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -826,25 +824,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "designer",
-          "draftsperson",
-          "manufacturer",
-          "producer",
-          "caricaturist",
-          "film actor",
-          "director",
-          "film producer",
+          "animator",
+          "voice actor",
           "film director",
           "television presenter",
           "comics artist",
-          "voice actor",
+          "producer",
+          "manufacturer",
+          "caricaturist",
+          "draftsperson",
           "painter",
+          "designer",
+          "film actor",
+          "director",
+          "film producer",
           "illustrator",
-          "animator",
-          "inventor",
-          "animator",
           "writer",
-          "actor"
+          "actor",
+          "inventor"
         ],
         "education": [
           "McKinley High School",

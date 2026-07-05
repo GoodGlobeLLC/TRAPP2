@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-06-28T10:01:08.651287Z",
+  "fetchedAt": "2026-07-05T10:04:20.684071Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -92,8 +92,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "musician",
-          "artist"
+          "artist",
+          "musician"
         ],
         "education": [
           "Trulaske College of Business",
@@ -162,16 +162,36 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
+          "John F. Kennedy School of Government",
           "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
-          "John F. Kennedy School of Government"
+          "Brown University"
         ],
         "employers": [
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
+          },
           {
             "company": "BET",
             "start": null,
@@ -191,16 +211,6 @@
             "company": "Kodak",
             "start": null,
             "end": null
-          },
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -408,8 +418,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
           "Stanford University"

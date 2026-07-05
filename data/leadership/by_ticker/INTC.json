@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-06-28T10:01:08.626922Z",
+  "fetchedAt": "2026-07-05T10:04:20.659277Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,10 +14,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer",
+          "chemist",
           "businessperson",
-          "chemist"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -157,13 +157,13 @@
         "occupations": [
           "entrepreneur",
           "engineer",
-          "professor",
           "scientist",
+          "professor",
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {
@@ -294,9 +294,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "physicist",
           "inventor",
           "computer scientist",
+          "physicist",
           "businessperson"
         ],
         "education": [
@@ -363,13 +363,13 @@
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -415,8 +415,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -600,8 +600,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "board member",
-          "chief financial officer"
+          "chief financial officer",
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -649,13 +649,13 @@
         "occupations": [
           "entrepreneur",
           "engineer",
-          "professor",
           "scientist",
+          "professor",
           "writer"
         ],
         "education": [
-          "City University of New York",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "City University of New York"
         ],
         "employers": [
           {
@@ -742,9 +742,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "physicist",
           "inventor",
           "computer scientist",
+          "physicist",
           "businessperson"
         ],
         "education": [

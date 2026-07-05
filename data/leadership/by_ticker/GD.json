@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-06-28T10:01:08.621544Z",
+  "fetchedAt": "2026-07-05T10:04:20.653825Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -14,14 +14,19 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -30,11 +35,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -251,8 +251,8 @@
         ],
         "education": [
           "Duke University",
-          "University of Chicago",
-          "Booth School of Business"
+          "Booth School of Business",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []
@@ -324,14 +324,19 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -340,11 +345,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -377,8 +377,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mattis%20official%20photo.jpg",
         "occupations": [
           "politician",
-          "army officer",
-          "military officer"
+          "military officer",
+          "army officer"
         ],
         "education": [
           "Richland High School",

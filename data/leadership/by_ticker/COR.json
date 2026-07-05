@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-06-28T10:01:08.611221Z",
+  "fetchedAt": "2026-07-05T10:04:20.643909Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -50,8 +50,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
           "The Wharton School",
+          "Perelman School of Medicine at the University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [],
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "oncologist",
-          "physician"
+          "physician",
+          "oncologist"
         ],
         "education": [
           "Manchester University",
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
-            "company": "University of New Mexico",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

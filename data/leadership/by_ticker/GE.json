@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-06-28T10:01:08.622128Z",
+  "fetchedAt": "2026-07-05T10:04:20.654426Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Colgate University",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -215,7 +215,7 @@
         "qid": "Q5483294",
         "name": "Francisco D'Souza",
         "dateOfBirth": "1968-08-23",
-        "birthPlace": "Kenya",
+        "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
           "chief executive officer",
@@ -278,22 +278,17 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
           "university teacher",
-          "physicist",
-          "politician"
+          "politician",
+          "physicist"
         ],
         "education": [
+          "University of Edinburgh",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
           "Trumbull College",
           "Abington Senior High School"
         ],
         "employers": [
-          {
-            "company": "Fermilab",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Harvard University",
             "start": null,
@@ -305,12 +300,7 @@
             "end": null
           },
           {
-            "company": "MIT Center for International Studies",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Brookhaven National Laboratory",
+            "company": "Fermilab",
             "start": null,
             "end": null
           },
@@ -371,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -413,8 +403,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
@@ -499,12 +489,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
           "film producer",
-          "mathematician",
           "film director",
+          "mathematician",
           "inventor",
-          "engineer",
-          "physicist",
           "entrepreneur",
+          "physicist",
+          "engineer",
           "screenwriter"
         ],
         "education": [

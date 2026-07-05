@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-06-28T10:01:08.628176Z",
+  "fetchedAt": "2026-07-05T10:04:20.660558Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -11,7 +11,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -59,8 +59,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -107,8 +107,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
           "business executive",
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -154,16 +154,16 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "lecturer",
+          "chief executive officer",
           "executive",
           "business manager",
-          "chief executive officer",
-          "entrepreneur",
-          "merchant"
+          "lecturer",
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
-          "Lyc\u00e9e Louis-le-Grand",
           "HEC Paris",
+          "Lyc\u00e9e Louis-le-Grand",
           "Sciences Po"
         ],
         "employers": [
@@ -455,9 +455,9 @@
         "education": [
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
+          "Massachusetts Institute of Technology",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Massachusetts Institute of Technology",
           "Harvard University"
         ],
         "employers": [],
@@ -525,8 +525,8 @@
         "education": [
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Columbia University"
         ],
         "employers": [
           {
@@ -604,8 +604,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -643,7 +643,7 @@
         "qid": "Q113356474",
         "name": "Joaquin Duato",
         "dateOfBirth": "1962-01-01",
-        "birthPlace": "Spain",
+        "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
@@ -690,8 +690,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
-          "university teacher"
+          "university teacher",
+          "business executive"
         ],
         "education": [],
         "employers": [],
@@ -767,15 +767,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
           "molecular biologist",
+          "chemist",
           "crystallographer",
           "university teacher",
-          "biochemist",
-          "chemist"
+          "biochemist"
         ],
         "education": [
-          "Harvard University",
           "Pomona College",
-          "Hilo High School"
+          "Hilo High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -789,14 +789,14 @@
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

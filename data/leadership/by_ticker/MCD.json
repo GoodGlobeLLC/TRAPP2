@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-06-28T10:01:08.633655Z",
+  "fetchedAt": "2026-07-05T10:04:20.666171Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -22,6 +22,11 @@
         ],
         "employers": [
           {
+            "company": "McDonald's",
+            "start": "2015-01-01",
+            "end": null
+          },
+          {
             "company": "Kraft Foods Inc.",
             "start": "2008-01-01",
             "end": "2012-01-01"
@@ -30,11 +35,6 @@
             "company": "Kraft Foods Group",
             "start": "2012-01-01",
             "end": "2015-01-01"
-          },
-          {
-            "company": "McDonald's",
-            "start": "2015-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -67,8 +67,8 @@
         "occupations": [
           "restaurateur",
           "salesperson",
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -76,17 +76,17 @@
         ],
         "employers": [
           {
-            "company": "McDonald's",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Lily-Tulip Cup Company",
             "start": null,
             "end": null
           },
           {
             "company": "Prince Castle",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "McDonald's",
             "start": null,
             "end": null
           }

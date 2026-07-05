@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-06-28T10:01:08.594959Z",
+  "fetchedAt": "2026-07-05T10:04:20.627065Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -53,8 +53,8 @@
         "image": null,
         "occupations": [
           "gastroenterologist",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Harvard College",
@@ -105,8 +105,8 @@
         "image": null,
         "occupations": [
           "scientist",
-          "physician",
-          "oncologist"
+          "oncologist",
+          "physician"
         ],
         "education": [
           "University of Chicago",
@@ -156,8 +156,8 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
           "University of London",
+          "Imperial College London",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -259,6 +259,11 @@
         "education": [],
         "employers": [
           {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -272,11 +277,6 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
-          },
-          {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -416,20 +416,20 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
           {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
-          {
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -468,19 +468,14 @@
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
-            "company": "Boehringer Ingelheim",
-            "start": "2003-01-01",
-            "end": "2008-01-01"
-          },
-          {
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
@@ -505,12 +500,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [
