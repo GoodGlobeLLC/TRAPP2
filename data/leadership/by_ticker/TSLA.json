@@ -76,6 +76,11 @@
             "company": "SpaceX",
             "start": "2002-06-01",
             "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
           }
         ],
         "positions": [
@@ -586,6 +591,11 @@
             "company": "SpaceX",
             "start": "2002-06-01",
             "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
+            "end": null
           }
         ],
         "positions": [
@@ -647,9 +657,9 @@
           "actor"
         ],
         "education": [
-          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign"
+          "University of Illinois Urbana-Champaign",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -664,12 +674,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -687,6 +691,12 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
           }
         ]
       }
@@ -740,8 +750,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "York Community High School",

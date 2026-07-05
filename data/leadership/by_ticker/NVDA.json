@@ -351,8 +351,8 @@
           "engineer"
         ],
         "education": [
-          "California Institute of Technology",
-          "Princeton University"
+          "Princeton University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -397,11 +397,6 @@
         ],
         "employers": [
           {
-            "company": "Stanford University School of Engineering",
-            "start": "2014-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "SLAC National Accelerator Laboratory",
             "start": "2007-01-01",
             "end": "2012-01-01"
@@ -412,8 +407,13 @@
             "end": "2007-01-01"
           },
           {
-            "company": "Cornell University",
-            "start": null,
+            "company": "Stanford University",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Stanford University",
+            "start": "2017-01-01",
             "end": null
           },
           {
