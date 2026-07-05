@@ -5,7 +5,6 @@
   "birthPlace": "New York City",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
   "occupations": [
-    "economist",
     "academic",
     "university teacher",
     "businessperson",
@@ -17,17 +16,17 @@
   ],
   "employers": [
     {
+      "company": "Stanford University",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Yale University",
       "start": null,
       "end": null
     },
     {
       "company": "University of California, Berkeley",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Stanford University",
       "start": null,
       "end": null
     },

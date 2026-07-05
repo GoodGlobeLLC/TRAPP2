@@ -6,15 +6,15 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
   "occupations": [
     "aircraft pilot",
-    "entrepreneur",
-    "businessperson",
     "computer scientist",
-    "actor"
+    "actor",
+    "entrepreneur",
+    "businessperson"
   ],
   "education": [
-    "University of Chicago",
     "South Shore High School",
-    "University of Illinois Urbana-Champaign"
+    "University of Illinois Urbana-Champaign",
+    "University of Chicago"
   ],
   "employers": [
     {
@@ -29,12 +29,6 @@
     }
   ],
   "positions": [
-    {
-      "title": "board member",
-      "company": null,
-      "start": "2018-01-01",
-      "end": "2022-01-01"
-    },
     {
       "title": "chairperson",
       "company": null,
@@ -52,6 +46,12 @@
       "company": null,
       "start": "1977-01-01",
       "end": "2014-01-01"
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2018-01-01",
+      "end": "2022-01-01"
     }
   ],
   "currentTickers": [
