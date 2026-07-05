@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-06-28T10:01:08.609862Z",
+  "fetchedAt": "2026-07-05T09:24:15.418418Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -101,11 +101,6 @@
         ],
         "employers": [
           {
-            "company": "Bright House Networks",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Advance Publications",
             "start": null,
             "end": null
@@ -117,6 +112,11 @@
           },
           {
             "company": "Syracuse University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bright House Networks",
             "start": null,
             "end": null
           }
@@ -139,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "London School of Economics and Political Science",
+          "Harvard Business School",
           "Stanford University"
         ],
         "employers": [],
@@ -159,8 +159,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Madeline%20Bell%20Headshot%202022.jpg",
         "occupations": [
-          "business executive",
-          "nurse"
+          "nurse",
+          "business executive"
         ],
         "education": [
           "Villanova University",
@@ -228,9 +228,9 @@
           "chief executive officer"
         ],
         "education": [
-          "New York University",
           "Duke University",
-          "Stern School of Business"
+          "Stern School of Business",
+          "New York University"
         ],
         "employers": [
           {
@@ -327,8 +327,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-06-28T10:01:08.602129Z",
+  "fetchedAt": "2026-07-05T09:24:15.409912Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
+          "entrepreneur",
           "business oligarch",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
@@ -294,16 +294,16 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "soldier",
           "spy",
+          "soldier",
           "intelligence officer"
         ],
         "education": [
-          "Questrom School of Business",
           "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Westhill Senior High School"
+          "Westhill Senior High School",
+          "Questrom School of Business"
         ],
         "employers": [
           {
@@ -334,9 +334,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "university teacher",
           "executive",
           "dean",
-          "university teacher",
           "academic",
           "computer scientist"
         ],
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
+          "entrepreneur",
           "business oligarch",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -526,11 +526,6 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
@@ -541,23 +536,23 @@
             "end": null
           },
           {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
           },
           {
-            "company": "Johnson & Johnson",
+            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
           },
           {
             "company": "Amazon",
             "start": "2019-01-01",
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
             "end": null
           }
         ],
@@ -591,9 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
+          "entrepreneur",
           "business oligarch",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",

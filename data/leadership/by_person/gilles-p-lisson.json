@@ -5,17 +5,32 @@
   "birthPlace": "6th arrondissement of Lyon",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
   "occupations": [
-    "businessperson",
-    "business executive"
+    "business executive",
+    "businessperson"
   ],
   "education": [
-    "\u00c9cole alsacienne",
     "Harvard University",
     "lyc\u00e9e du Parc",
     "ESSEC Business School",
-    "Harvard Business School"
+    "Harvard Business School",
+    "\u00c9cole alsacienne"
   ],
   "employers": [
+    {
+      "company": "Bouygues Telecom",
+      "start": "2001-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "company": "Euro Disney S.C.A.",
+      "start": "1995-01-01",
+      "end": "2000-01-01"
+    },
+    {
+      "company": "Suez",
+      "start": "2000-01-01",
+      "end": "2001-01-01"
+    },
     {
       "company": "Groupe TF1",
       "start": "2016-01-01",
@@ -35,21 +50,6 @@
       "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
       "start": "1981-01-01",
       "end": "1983-01-01"
-    },
-    {
-      "company": "Bouygues Telecom",
-      "start": "2001-01-01",
-      "end": "2005-01-01"
-    },
-    {
-      "company": "Euro Disney S.C.A.",
-      "start": "1995-01-01",
-      "end": "2000-01-01"
-    },
-    {
-      "company": "Suez",
-      "start": "2000-01-01",
-      "end": "2001-01-01"
     }
   ],
   "positions": [

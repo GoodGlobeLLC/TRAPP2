@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-06-28T10:01:08.622798Z",
+  "fetchedAt": "2026-07-05T09:24:15.432477Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -95,8 +95,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Morgantown High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Morgantown High School"
         ],
         "employers": [],
         "positions": []
@@ -119,8 +119,8 @@
         "education": [
           "University of Toronto",
           "University of California, Berkeley",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
           "politician",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -249,9 +249,9 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "chief executive officer",
+          "lawyer",
           "business executive",
-          "lawyer"
+          "chief executive officer"
         ],
         "education": [
           "Union College",
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -364,9 +364,9 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "business executive",
           "entrepreneur",
-          "politician"
+          "politician",
+          "business executive"
         ],
         "education": [
           "Cold Spring Harbor Jr./Sr. High School",
@@ -374,11 +374,6 @@
           "Princeton University"
         ],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
           {
             "company": "Hasbro",
             "start": null,
@@ -390,8 +385,8 @@
             "end": null
           },
           {
-            "company": "Quibi",
-            "start": null,
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {
@@ -406,6 +401,11 @@
           },
           {
             "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -497,9 +497,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
+          "entrepreneur",
           "executive",
-          "businessperson",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Grosse Ile High School"
@@ -545,10 +545,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {

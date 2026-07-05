@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-06-28T10:01:08.596308Z",
+  "fetchedAt": "2026-07-05T09:24:15.403848Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,13 +14,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
           "presenter",
           "manager",
-          "businessperson",
+          "chief executive officer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -31,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -64,13 +63,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -101,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -179,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "journalist",
+          "university teacher",
+          "orator",
+          "farmer",
+          "blogger",
+          "climate activist",
           "environmentalist",
           "financier",
-          "climate activist",
-          "orator",
-          "blogger",
-          "journalist",
-          "farmer",
-          "university teacher",
-          "businessperson",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -257,14 +256,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -282,13 +281,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of California, San Francisco",
-          "University of Washington"
+          "University of Washington",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -319,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -356,12 +355,11 @@
         "occupations": [
           "programmer",
           "electronics technician",
+          "businessperson",
           "inventor",
           "entrepreneur",
           "computer scientist",
           "engineer",
-          "teacher",
-          "businessperson",
           "teacher",
           "actor"
         ],
@@ -409,8 +407,8 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "writer",
           "engineer"
         ],
@@ -441,14 +439,14 @@
         "occupations": [
           "technology entrepreneur",
           "designer",
+          "entrepreneur",
           "film producer",
-          "general manager",
-          "executive producer",
+          "computer scientist",
           "founder",
           "financier",
-          "entrepreneur",
-          "inventor",
-          "computer scientist"
+          "general manager",
+          "executive producer",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -457,22 +455,22 @@
         ],
         "employers": [
           {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
