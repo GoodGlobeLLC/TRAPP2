@@ -7,11 +7,11 @@
   "occupations": [
     "programmer",
     "electronics technician",
-    "businessperson",
-    "inventor",
     "entrepreneur",
+    "inventor",
     "computer scientist",
     "engineer",
+    "businessperson",
     "teacher",
     "actor"
   ],
@@ -24,17 +24,17 @@
   ],
   "employers": [
     {
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
     },
     {
       "company": "University of Technology Sydney",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },

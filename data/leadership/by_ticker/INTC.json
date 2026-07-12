@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-07-05T10:04:20.659277Z",
+  "fetchedAt": "2026-07-12T09:25:50.098433Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,10 +14,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
+          "entrepreneur",
           "chemist",
-          "businessperson",
           "engineer",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -50,8 +50,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -157,8 +157,8 @@
         "occupations": [
           "entrepreneur",
           "engineer",
-          "scientist",
           "professor",
+          "scientist",
           "writer"
         ],
         "education": [
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
-          "computer scientist",
           "physicist",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
@@ -363,13 +363,13 @@
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           }
         ],
@@ -420,9 +420,9 @@
         ],
         "education": [
           "Stony Brook University",
-          "Harvard Medical School",
           "The Bush School",
           "The Wharton School",
+          "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University"
         ],
@@ -477,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -599,9 +599,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "board member",
           "businessperson",
-          "chief financial officer",
-          "board member"
+          "chief financial officer"
         ],
         "education": [],
         "employers": [],
@@ -649,8 +649,8 @@
         "occupations": [
           "entrepreneur",
           "engineer",
-          "scientist",
           "professor",
+          "scientist",
           "writer"
         ],
         "education": [
@@ -743,8 +743,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
-          "computer scientist",
           "physicist",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

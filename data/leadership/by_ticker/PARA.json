@@ -1,6 +1,6 @@
 {
   "ticker": "PARA",
-  "fetchedAt": "2026-07-05T10:04:20.674749Z",
+  "fetchedAt": "2026-07-12T09:25:50.115132Z",
   "people": [
     {
       "qid": "Q6195201",
@@ -43,11 +43,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Paramount Pictures",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Famous Players-Lasky Corporation",
             "start": "1916-01-01",
             "end": null
@@ -56,6 +51,11 @@
             "company": "Famous Players Film Company",
             "start": "1912-01-01",
             "end": "1916-01-01"
+          },
+          {
+            "company": "Paramount Pictures",
+            "start": null,
+            "end": null
           }
         ],
         "positions": []

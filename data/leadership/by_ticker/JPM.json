@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-07-05T10:04:20.661319Z",
+  "fetchedAt": "2026-07-12T09:25:50.100637Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,20 +19,10 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -42,6 +32,16 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
           },
           {
             "company": "Goldman Sachs",
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1994-01-01",
+            "end": "2019-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -405,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -505,20 +505,10 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -528,6 +518,16 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
           },
           {
             "company": "Goldman Sachs",

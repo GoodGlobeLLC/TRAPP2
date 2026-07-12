@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-07-05T10:04:20.628277Z",
+  "fetchedAt": "2026-07-12T09:25:50.065741Z",
   "people": [
     {
       "qid": "Q265852",
@@ -22,22 +22,22 @@
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
           {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
+          "molecular biologist",
           "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "journalist",
-          "university teacher",
-          "orator",
-          "farmer",
-          "blogger",
           "climate activist",
+          "orator",
           "environmentalist",
           "financier",
+          "blogger",
+          "farmer",
+          "journalist",
+          "university teacher",
+          "writer",
           "politician",
-          "businessperson",
-          "writer"
+          "businessperson"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -280,13 +280,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
+          "molecular biologist",
           "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -355,11 +355,11 @@
         "occupations": [
           "programmer",
           "electronics technician",
-          "businessperson",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "computer scientist",
           "engineer",
+          "businessperson",
           "teacher",
           "actor"
         ],
@@ -372,17 +372,17 @@
         ],
         "employers": [
           {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -409,8 +409,8 @@
         "occupations": [
           "entrepreneur",
           "computer scientist",
-          "writer",
-          "engineer"
+          "engineer",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -438,15 +438,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "technology entrepreneur",
-          "designer",
-          "entrepreneur",
-          "film producer",
-          "computer scientist",
           "founder",
+          "designer",
+          "film producer",
           "financier",
           "general manager",
           "executive producer",
-          "inventor"
+          "inventor",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -455,17 +455,17 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

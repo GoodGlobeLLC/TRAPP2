@@ -6,25 +6,25 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
     "programmer",
-    "technology entrepreneur",
-    "dub actor",
-    "civil servant",
     "financier",
     "investor",
-    "entrepreneur",
+    "technology entrepreneur",
+    "dub actor",
     "inventor",
-    "engineer",
-    "politician"
+    "entrepreneur",
+    "civil servant",
+    "politician",
+    "engineer"
   ],
   "education": [
     "Smith School of Business",
     "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
-    "University of Pennsylvania",
     "Queen's University",
     "The Wharton School",
     "University of Pretoria",
+    "University of Pennsylvania",
     "Stanford University"
   ],
   "employers": [
@@ -39,16 +39,6 @@
       "end": null
     },
     {
-      "company": "SolarCity",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "OpenAI",
-      "start": "2015-12-11",
-      "end": "2019-01-01"
-    },
-    {
       "company": "Department of Government Efficiency",
       "start": "2025-01-20",
       "end": "2025-05-30"
@@ -59,6 +49,16 @@
       "end": null
     },
     {
+      "company": "SolarCity",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "OpenAI",
+      "start": "2015-12-11",
+      "end": "2019-01-01"
+    },
+    {
       "company": "Tesla",
       "start": "2004-04-23",
       "end": null
@@ -66,11 +66,6 @@
     {
       "company": "SpaceX",
       "start": "2002-06-01",
-      "end": null
-    },
-    {
-      "company": "Tesla",
-      "start": "2004-04-23",
       "end": null
     }
   ],

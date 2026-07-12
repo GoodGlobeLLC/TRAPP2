@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-07-05T10:04:20.672641Z",
+  "fetchedAt": "2026-07-12T09:25:50.112875Z",
   "people": [
     {
       "qid": "Q305177",
@@ -18,11 +18,11 @@
           "manager",
           "electrical engineer",
           "tech VIP",
-          "engineer",
+          "chief executive officer",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
-          "chief executive officer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -75,9 +75,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Stevens%2C%202017.jpg",
         "occupations": [],
         "education": [
+          "Harvard Business School",
           "Harvard University",
           "University of Southern California",
-          "Harvard Business School",
           "USC Viterbi School of Engineering"
         ],
         "employers": [],
@@ -288,10 +288,10 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Merton College",
-          "Princeton University",
           "Stanford University",
-          "Princeton School of Public and International Affairs"
+          "Merton College",
+          "Princeton School of Public and International Affairs",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -347,12 +347,12 @@
         "occupations": [
           "biophysicist",
           "military flight engineer",
-          "university teacher",
-          "engineer"
+          "engineer",
+          "university teacher"
         ],
         "education": [
-          "Princeton University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -388,14 +388,24 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Persis%20Drell%20at%20Stanford%203-4-09%201.JPG",
         "occupations": [
-          "university teacher",
-          "physicist"
+          "physicist",
+          "university teacher"
         ],
         "education": [
           "University of California, Berkeley",
           "Wellesley College"
         ],
         "employers": [
+          {
+            "company": "Stanford University",
+            "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Stanford University",
+            "start": "2017-01-01",
+            "end": null
+          },
           {
             "company": "SLAC National Accelerator Laboratory",
             "start": "2007-01-01",
@@ -407,23 +417,13 @@
             "end": "2007-01-01"
           },
           {
-            "company": "Stanford University",
-            "start": "2002-01-01",
-            "end": null
+            "company": "Stanford University School of Engineering",
+            "start": "2014-01-01",
+            "end": "2017-01-01"
           },
           {
-            "company": "Stanford University",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": "2017-01-01",
+            "company": "Cornell University",
+            "start": null,
             "end": null
           }
         ],
@@ -453,11 +453,11 @@
           "manager",
           "electrical engineer",
           "tech VIP",
-          "engineer",
+          "chief executive officer",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
-          "chief executive officer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -485,11 +485,11 @@
           "manager",
           "electrical engineer",
           "tech VIP",
-          "engineer",
+          "chief executive officer",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
-          "chief executive officer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Stanford University",

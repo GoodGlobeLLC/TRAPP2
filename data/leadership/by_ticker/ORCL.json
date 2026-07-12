@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-07-05T10:04:20.673703Z",
+  "fetchedAt": "2026-07-12T09:25:50.114009Z",
   "people": [
     {
       "qid": "Q92759",
@@ -16,14 +16,14 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
+          "actor",
           "businessperson",
-          "actor"
+          "computer scientist"
         ],
         "education": [
+          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign",
-          "University of Chicago"
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -38,6 +38,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -55,12 +61,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
+          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda",
-          "Stanford University"
+          "Maharaja Sayajirao University of Baroda"
         ],
         "employers": [
           {
@@ -198,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -220,8 +220,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -263,11 +263,6 @@
         ],
         "employers": [
           {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
@@ -281,6 +276,11 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -305,21 +305,16 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "university teacher",
           "academic",
           "economist",
+          "businessperson",
           "writer"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
-          {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Yale University",
             "start": null,
@@ -356,8 +351,8 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "banker"
         ],
         "education": [
@@ -538,9 +533,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
           "Oberleutnant",
-          "jurist",
           "university teacher",
           "political scientist",
+          "jurist",
           "lawyer",
           "politician"
         ],
@@ -551,12 +546,12 @@
         ],
         "employers": [
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           },
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           }
@@ -583,6 +578,18 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1993-01-05",
+            "end": "1993-01-22"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1985-01-03",
             "end": "1987-01-03"
           },
@@ -605,6 +612,12 @@
             "end": "1993-01-03"
           },
           {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -617,22 +630,16 @@
             "end": "1994-07-17"
           },
           {
-            "title": "United States representative",
+            "title": "Director of the Central Intelligence Agency",
             "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
+            "start": "2009-02-13",
+            "end": "2011-06-30"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1993-01-05",
-            "end": "1993-01-22"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -651,14 +658,14 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
+          "actor",
           "businessperson",
-          "actor"
+          "computer scientist"
         ],
         "education": [
+          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign",
-          "University of Chicago"
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -673,6 +680,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -690,12 +703,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }
@@ -714,14 +721,14 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
+          "actor",
           "businessperson",
-          "actor"
+          "computer scientist"
         ],
         "education": [
+          "University of Chicago",
           "South Shore High School",
-          "University of Illinois Urbana-Champaign",
-          "University of Chicago"
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -736,6 +743,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": "2022-01-01"
+          },
           {
             "title": "chairperson",
             "company": null,
@@ -753,12 +766,6 @@
             "company": null,
             "start": "1977-01-01",
             "end": "2014-01-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": "2022-01-01"
           }
         ]
       }

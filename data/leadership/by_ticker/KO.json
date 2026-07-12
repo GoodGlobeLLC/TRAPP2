@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-07-05T10:04:20.662714Z",
+  "fetchedAt": "2026-07-12T09:25:50.102067Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -177,10 +177,10 @@
           "pediatrician"
         ],
         "education": [
-          "Johns Hopkins University",
-          "Barnard College",
           "Perelman School of Medicine at the University of Pennsylvania",
           "Johns Hopkins Bloomberg School of Public Health",
+          "Johns Hopkins University",
+          "Barnard College",
           "University of Pennsylvania"
         ],
         "employers": [
@@ -255,8 +255,8 @@
           "entrepreneur"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -290,9 +290,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "banker",
           "economist",
-          "banker"
+          "businessperson"
         ],
         "education": [
           "St Mary's School",
@@ -325,9 +325,9 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "business executive",
           "sociologist",
           "social worker",
+          "business executive",
           "politician"
         ],
         "education": [
@@ -336,6 +336,26 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "The Coca-Cola Company",
+            "start": "2001-01-01",
+            "end": "2006-01-01"
+          },
+          {
+            "company": "Entergy",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "MGM Resorts International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Sodexo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
@@ -359,26 +379,6 @@
           {
             "company": "Toyota",
             "start": "2006-01-01",
-            "end": null
-          },
-          {
-            "company": "The Coca-Cola Company",
-            "start": "2001-01-01",
-            "end": "2006-01-01"
-          },
-          {
-            "company": "Entergy",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "MGM Resorts International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Sodexo",
-            "start": null,
             "end": null
           }
         ],

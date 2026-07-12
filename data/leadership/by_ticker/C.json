@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-07-05T10:04:20.640674Z",
+  "fetchedAt": "2026-07-12T09:25:50.078060Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -256,18 +256,18 @@
           "economist"
         ],
         "education": [
-          "St Catherine's College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "St Catherine's College"
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],

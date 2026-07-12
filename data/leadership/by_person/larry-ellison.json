@@ -7,14 +7,14 @@
   "occupations": [
     "aircraft pilot",
     "entrepreneur",
-    "computer scientist",
+    "actor",
     "businessperson",
-    "actor"
+    "computer scientist"
   ],
   "education": [
+    "University of Chicago",
     "South Shore High School",
-    "University of Illinois Urbana-Champaign",
-    "University of Chicago"
+    "University of Illinois Urbana-Champaign"
   ],
   "employers": [
     {
@@ -29,6 +29,12 @@
     }
   ],
   "positions": [
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2018-01-01",
+      "end": "2022-01-01"
+    },
     {
       "title": "chairperson",
       "company": null,
@@ -46,12 +52,6 @@
       "company": null,
       "start": "1977-01-01",
       "end": "2014-01-01"
-    },
-    {
-      "title": "board member",
-      "company": null,
-      "start": "2018-01-01",
-      "end": "2022-01-01"
     }
   ],
   "currentTickers": [

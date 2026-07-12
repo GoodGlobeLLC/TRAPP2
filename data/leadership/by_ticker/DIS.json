@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-07-05T10:04:20.648149Z",
+  "fetchedAt": "2026-07-12T09:25:50.086203Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -134,9 +134,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "businessperson",
+          "chief executive officer",
           "entrepreneur",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Lawrenceville School",
@@ -146,11 +146,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -159,6 +154,11 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -192,8 +192,8 @@
           "television producer",
           "film producer",
           "business executive",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "The Center for Early Education",
@@ -203,11 +203,6 @@
         ],
         "employers": [
           {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
-          },
-          {
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
@@ -216,6 +211,11 @@
             "company": "The Walt Disney Company",
             "start": "1996-01-01",
             "end": "2021-12-31"
+          },
+          {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
           }
         ],
         "positions": [
@@ -264,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "businessperson",
-          "animator"
+          "animator",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -351,24 +351,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "animator",
-          "voice actor",
-          "film director",
-          "television presenter",
-          "comics artist",
+          "film actor",
           "producer",
-          "manufacturer",
+          "film director",
           "caricaturist",
           "draftsperson",
-          "painter",
           "designer",
-          "film actor",
-          "director",
+          "manufacturer",
           "film producer",
+          "director",
+          "television presenter",
+          "comics artist",
+          "painter",
+          "voice actor",
           "illustrator",
+          "animator",
+          "inventor",
           "writer",
-          "actor",
-          "inventor"
+          "actor"
         ],
         "education": [
           "McKinley High School",
@@ -486,10 +486,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -613,8 +613,8 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "banker"
         ],
         "education": [
@@ -707,8 +707,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Stanford University"
@@ -759,8 +759,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -824,24 +824,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "animator",
-          "voice actor",
-          "film director",
-          "television presenter",
-          "comics artist",
+          "film actor",
           "producer",
-          "manufacturer",
+          "film director",
           "caricaturist",
           "draftsperson",
-          "painter",
           "designer",
-          "film actor",
-          "director",
+          "manufacturer",
           "film producer",
+          "director",
+          "television presenter",
+          "comics artist",
+          "painter",
+          "voice actor",
           "illustrator",
+          "animator",
+          "inventor",
           "writer",
-          "actor",
-          "inventor"
+          "actor"
         ],
         "education": [
           "McKinley High School",
