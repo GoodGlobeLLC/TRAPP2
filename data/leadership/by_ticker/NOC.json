@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-07-05T10:04:20.671657Z",
+  "fetchedAt": "2026-07-12T08:45:36.861806Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -179,8 +179,8 @@
           "businessperson"
         ],
         "education": [
-          "Simmons University",
           "Harvard Business School",
+          "Simmons University",
           "Harvard University"
         ],
         "employers": [],
@@ -433,17 +433,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }
