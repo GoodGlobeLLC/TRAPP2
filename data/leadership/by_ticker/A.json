@@ -109,9 +109,9 @@
           "scientist"
         ],
         "education": [
-          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
+          "Pritzker School of Medicine",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -152,8 +152,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "chairperson"
+          "chairperson",
+          "investor"
         ],
         "education": [
           "Imperial College London",
@@ -416,8 +416,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -468,14 +468,14 @@
         ],
         "employers": [
           {
-            "company": "Pfizer",
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
             "company": "Wyeth",
             "start": "2008-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Pfizer",
+            "start": "2009-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -504,8 +504,8 @@
           "biologist"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [

@@ -16,10 +16,10 @@
         "occupations": [
           "presenter",
           "manager",
-          "chief executive officer",
+          "businessperson",
           "computer scientist",
-          "engineer",
-          "businessperson"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Auburn University",
@@ -318,8 +318,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -353,6 +353,7 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "computer scientist",
           "programmer",
           "electronics technician",
           "entrepreneur",
@@ -361,6 +362,7 @@
           "engineer",
           "businessperson",
           "teacher",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -407,7 +409,6 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
           "engineer",
           "writer"
@@ -460,7 +461,7 @@
             "end": null
           },
           {
-            "company": "NeXT",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

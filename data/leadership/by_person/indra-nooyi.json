@@ -8,14 +8,19 @@
     "businessperson"
   ],
   "education": [
-    "Indian Institute of Management Calcutta",
-    "University of Madras",
     "Yale School of Management",
     "Holy Angels Anglo Indian Higher Secondary School",
     "Madras Christian College",
+    "Indian Institute of Management Calcutta",
+    "University of Madras",
     "Yale University"
   ],
   "employers": [
+    {
+      "company": "Johnson & Johnson",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Boston Consulting Group",
       "start": null,
@@ -39,11 +44,6 @@
     {
       "company": "Booz Allen Hamilton",
       "start": null,
-      "end": null
-    },
-    {
-      "company": "Amazon",
-      "start": "2019-01-01",
       "end": null
     }
   ],

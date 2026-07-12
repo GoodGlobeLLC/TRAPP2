@@ -12,16 +12,11 @@
     "computer scientist"
   ],
   "education": [
-    "Miami Palmetto High School",
     "Princeton University",
-    "River Oaks Elementary School"
+    "River Oaks Elementary School",
+    "Miami Palmetto High School"
   ],
   "employers": [
-    {
-      "company": "First International Telecom",
-      "start": null,
-      "end": null
-    },
     {
       "company": "D.E. Shaw",
       "start": "1990-01-01",
@@ -36,6 +31,11 @@
       "company": "Bankers Trust",
       "start": "1988-01-01",
       "end": "1990-01-01"
+    },
+    {
+      "company": "First International Telecom",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [

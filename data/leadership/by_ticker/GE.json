@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Tepper School of Business",
@@ -277,9 +277,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "physicist",
           "university teacher",
-          "politician",
-          "physicist"
+          "politician"
         ],
         "education": [
           "Trumbull College",
@@ -289,16 +289,6 @@
           "University of Edinburgh"
         ],
         "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Fermilab",
             "start": null,
@@ -311,6 +301,16 @@
           },
           {
             "company": "Brookhaven National Laboratory",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
             "start": null,
             "end": null
           }
@@ -403,8 +403,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
           "Stony Brook University",
