@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-07-05T10:04:20.646782Z",
+  "fetchedAt": "2026-07-12T08:49:17.660018Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -112,8 +112,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -151,10 +151,10 @@
           "businessperson"
         ],
         "education": [
-          "Columbia Business School",
-          "University of Alabama",
           "Harvard Business School",
-          "Columbia University"
+          "Columbia University",
+          "Columbia Business School",
+          "University of Alabama"
         ],
         "employers": [
           {
@@ -198,8 +198,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
           "chemist",
-          "academic administrator",
-          "chemical engineer"
+          "chemical engineer",
+          "academic administrator"
         ],
         "education": [
           "University of Southern California",
@@ -212,12 +212,12 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -355,15 +355,15 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
+          "Bronx High School of Science",
+          "Franklin & Marshall College",
           "University of Pittsburgh",
           "University of Southern California",
-          "USC Viterbi School of Engineering",
-          "Bronx High School of Science",
-          "Franklin & Marshall College"
+          "USC Viterbi School of Engineering"
         ],
         "employers": [
           {
@@ -449,8 +449,8 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "diplomat",
           "missionary",
+          "diplomat",
           "politician",
           "governor",
           "ambassador"

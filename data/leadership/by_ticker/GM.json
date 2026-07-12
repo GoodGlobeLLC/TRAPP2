@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-07-05T10:04:20.655085Z",
+  "fetchedAt": "2026-07-12T08:49:17.671462Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -249,8 +249,8 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
+          "lawyer",
           "chief executive officer"
         ],
         "education": [
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -364,8 +364,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
+          "entrepreneur",
           "business executive"
         ],
         "education": [
@@ -390,6 +390,11 @@
             "end": null
           },
           {
+            "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
@@ -401,11 +406,6 @@
           },
           {
             "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -444,17 +444,17 @@
           {
             "title": "vice president",
             "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "vice president",
-            "company": null,
             "start": "1989-01-01",
             "end": null
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "vice president",
             "company": null,
             "start": null,
             "end": null
@@ -497,8 +497,8 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "entrepreneur",
           "executive",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [
