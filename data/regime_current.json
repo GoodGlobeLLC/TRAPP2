@@ -1,16 +1,16 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "regime": "expansion",
   "confidence": 0.981,
   "scores": {
-    "macro": 0.133,
-    "liquidity": 0.424,
+    "macro": 0.203,
+    "liquidity": 0.456,
     "volatility": 0.771,
-    "valuation": -0.374,
-    "trend": 0.924,
-    "breadth": 0.091,
-    "commodity": -0.091,
-    "crypto": 0.063
+    "valuation": -0.37,
+    "trend": 0.891,
+    "breadth": 0.636,
+    "commodity": -0.149,
+    "crypto": 0.004
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,19 +23,19 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.5004,
-    "risk_on_melt_up": 0.2875,
-    "inflation_shock": 0.0029,
-    "recession_fear": 0.0001,
-    "risk_off": 0.0019,
-    "neutral": 0.2072
+    "expansion": 0.4761,
+    "risk_on_melt_up": 0.4167,
+    "inflation_shock": 0.0009,
+    "recession_fear": 0.0,
+    "risk_off": 0.0005,
+    "neutral": 0.1058
   },
   "drivers": [
     {
       "signal": "trend",
-      "score": 0.924,
+      "score": 0.891,
       "confidence": 1.0,
-      "weight": 0.924,
+      "weight": 0.891,
       "direction": "bullish"
     },
     {
@@ -46,16 +46,16 @@
       "direction": "bullish"
     },
     {
-      "signal": "liquidity",
-      "score": 0.424,
+      "signal": "breadth",
+      "score": 0.636,
       "confidence": 1.0,
-      "weight": 0.424,
+      "weight": 0.636,
       "direction": "bullish"
     }
   ],
   "signal_notes": {
     "macro": {
-      "avg_1m_sector_return": -0.0,
+      "avg_1m_sector_return": 0.0058,
       "n_sectors": 11,
       "indpro_yoy": 0.0167
     },
@@ -63,42 +63,42 @@
       "t10y2y": 0.42,
       "hy_spread": 2.71,
       "hy_spread_z": -1.07,
-      "hyg_minus_lqd_1m": 0.0101
+      "hyg_minus_lqd_1m": 0.012
     },
     "volatility": {
       "vix_level": 15.67,
-      "vix9d_over_vix": 0.7696
+      "vix9d_over_vix": 0.8922
     },
     "valuation": {
-      "spy_pe": 27.15,
-      "earnings_yield": 0.0368,
+      "spy_pe": 26.85,
+      "earnings_yield": 0.0372,
       "real_10y": 0.0085,
-      "fed_model_spread": 0.0283
+      "fed_model_spread": 0.0287
     },
     "trend": {
-      "spy_price": 754.81,
-      "sma50": 743.34,
-      "sma200": 695.85,
-      "pct_above_200dma": 0.0847
+      "spy_price": 750.72,
+      "sma50": 743.99,
+      "sma200": 696.29,
+      "pct_above_200dma": 0.0782
     },
     "breadth": {
-      "pct_sectors_above_50dma": 0.545,
-      "n_above": 6,
+      "pct_sectors_above_50dma": 0.818,
+      "n_above": 9,
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0252,
-      "oil_60d_return": -0.2469,
-      "gold_oil_ratio": 50.891,
-      "gold_oil_zscore": -0.855,
+      "copper_60d_return": -0.0019,
+      "oil_60d_return": -0.25,
+      "gold_oil_ratio": 50.603,
+      "gold_oil_zscore": -0.88,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.0238,
-      "btc_pct_from_50dma": 0.0094,
-      "eth_30d_return": 0.068,
+      "btc_30d_return": -0.0276,
+      "btc_pct_from_50dma": -0.0018,
+      "eth_30d_return": 0.0407,
       "n_components": 3
     }
   },
-  "computed_at": "2026-07-16T23:42:11+00:00"
+  "computed_at": "2026-07-17T14:33:06+00:00"
 }
