@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4761,
+    "expansion": 0.476,
     "risk_on_melt_up": 0.4167,
     "inflation_shock": 0.0009,
     "recession_fear": 0.0,
     "risk_off": 0.0005,
-    "neutral": 0.1058
+    "neutral": 0.1057
   },
   "drivers": [
     {
@@ -70,7 +70,7 @@
       "vix9d_over_vix": 0.8922
     },
     "valuation": {
-      "spy_pe": 26.85,
+      "spy_pe": 26.86,
       "earnings_yield": 0.0372,
       "real_10y": 0.0085,
       "fed_model_spread": 0.0287
@@ -100,5 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-07-17T14:33:06+00:00"
+  "computed_at": "2026-07-17T16:01:04+00:00"
 }
