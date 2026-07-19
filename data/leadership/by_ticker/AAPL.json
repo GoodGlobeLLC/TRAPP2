@@ -360,7 +360,6 @@
           "engineer",
           "computer scientist",
           "teacher",
-          "businessperson",
           "actor"
         ],
         "education": [
@@ -442,6 +441,8 @@
           "film producer",
           "founder",
           "financier",
+          "founder",
+          "film producer",
           "general manager",
           "executive producer",
           "entrepreneur",
@@ -471,6 +472,11 @@
           },
           {
             "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

@@ -192,9 +192,9 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemical engineer",
           "chemist",
-          "academic administrator"
+          "academic administrator",
+          "chemical engineer"
         ],
         "education": [
           "University of Southern California",
@@ -202,12 +202,12 @@
         ],
         "employers": [
           {
-            "company": "Imperial College London",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Imperial College London",
             "start": null,
             "end": null
           },
@@ -354,10 +354,10 @@
           "military flight engineer"
         ],
         "education": [
-          "Bronx High School of Science",
-          "Franklin & Marshall College",
           "University of Pittsburgh",
           "University of Southern California",
+          "Bronx High School of Science",
+          "Franklin & Marshall College",
           "USC Viterbi School of Engineering"
         ],
         "employers": [
@@ -444,6 +444,7 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "ambassador",
           "missionary",
           "diplomat",
           "governor",

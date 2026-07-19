@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",
@@ -258,8 +258,8 @@
         ],
         "education": [
           "University of California, Berkeley",
-          "Stanford University",
-          "Haas School of Business"
+          "Haas School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -335,16 +335,16 @@
             "end": "2011-10-05"
           },
           {
-            "title": "Assistant Secretary of Defense for Global Strategic Affairs",
-            "company": null,
-            "start": "1993-06-30",
-            "end": "1996-09-14"
-          },
-          {
             "title": "United States Secretary of Defense",
             "company": null,
             "start": "2015-02-17",
             "end": "2017-01-19"
+          },
+          {
+            "title": "Assistant Secretary of Defense for Global Strategic Affairs",
+            "company": null,
+            "start": "1993-06-30",
+            "end": "1996-09-14"
           }
         ]
       }
@@ -407,9 +407,9 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
           "The Bush School",
           "The Wharton School",
+          "Stony Brook University",
           "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University"
