@@ -8,13 +8,13 @@
     "programmer",
     "financier",
     "investor",
-    "technology entrepreneur",
-    "dub actor",
-    "inventor",
-    "entrepreneur",
     "civil servant",
+    "technology entrepreneur",
+    "entrepreneur",
+    "dub actor",
+    "engineer",
     "politician",
-    "engineer"
+    "inventor"
   ],
   "education": [
     "Smith School of Business",
@@ -23,11 +23,16 @@
     "Pretoria Boys High School",
     "Queen's University",
     "The Wharton School",
+    "Stanford University",
     "University of Pretoria",
-    "University of Pennsylvania",
-    "Stanford University"
+    "University of Pennsylvania"
   ],
   "employers": [
+    {
+      "company": "Department of Government Efficiency",
+      "start": "2025-01-20",
+      "end": "2025-05-30"
+    },
     {
       "company": "The Boring Company",
       "start": "2016-12-17",
@@ -36,16 +41,6 @@
     {
       "company": "Neuralink",
       "start": "2016-07-01",
-      "end": null
-    },
-    {
-      "company": "Department of Government Efficiency",
-      "start": "2025-01-20",
-      "end": "2025-05-30"
-    },
-    {
-      "company": "PayPal",
-      "start": "1998-12-01",
       "end": null
     },
     {
@@ -66,6 +61,11 @@
     {
       "company": "SpaceX",
       "start": "2002-06-01",
+      "end": null
+    },
+    {
+      "company": "PayPal",
+      "start": "1998-12-01",
       "end": null
     }
   ],

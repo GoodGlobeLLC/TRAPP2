@@ -1,6 +1,6 @@
 {
   "ticker": "PM",
-  "fetchedAt": "2026-07-12T09:25:50.118248Z",
+  "fetchedAt": "2026-07-19T08:42:39.559623Z",
   "people": [
     {
       "qid": "Q56703648",
@@ -14,8 +14,8 @@
         "birthPlace": "Liverpool",
         "image": null,
         "occupations": [
-          "patron of the arts",
-          "businessperson"
+          "businessperson",
+          "patron of the arts"
         ],
         "education": [
           "University of Cambridge"
@@ -55,14 +55,19 @@
         "birthPlace": "\u0141\u00f3d\u017a",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NYCW%202025%20-%20Jacek%20Olczak%2002%20%28cropped%29.jpg",
         "occupations": [
-          "author",
           "economist",
-          "business executive"
+          "business executive",
+          "author"
         ],
         "education": [
           "University of \u0141\u00f3d\u017a"
         ],
         "employers": [
+          {
+            "company": "BDO International",
+            "start": null,
+            "end": "1993-01-01"
+          },
           {
             "company": "Philip Morris International",
             "start": null,
@@ -87,11 +92,11 @@
           "entrepreneur"
         ],
         "education": [
-          "Conservatoire national des Arts et M\u00e9tiers",
-          "\u00c9cole polytechnique",
           "T\u00e9l\u00e9com Paris",
           "Paris Dauphine University",
-          "Lyc\u00e9e Louis-le-Grand"
+          "Lyc\u00e9e Louis-le-Grand",
+          "Conservatoire national des Arts et M\u00e9tiers",
+          "\u00c9cole polytechnique"
         ],
         "employers": [
           {
@@ -115,14 +120,19 @@
         "birthPlace": "\u0141\u00f3d\u017a",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NYCW%202025%20-%20Jacek%20Olczak%2002%20%28cropped%29.jpg",
         "occupations": [
-          "author",
           "economist",
-          "business executive"
+          "business executive",
+          "author"
         ],
         "education": [
           "University of \u0141\u00f3d\u017a"
         ],
         "employers": [
+          {
+            "company": "BDO International",
+            "start": null,
+            "end": "1993-01-01"
+          },
           {
             "company": "Philip Morris International",
             "start": null,
@@ -249,8 +259,8 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shlomo%20yanai.jpg",
         "occupations": [
-          "military officer",
-          "chief executive officer"
+          "chief executive officer",
+          "military officer"
         ],
         "education": [
           "Tel Aviv University"
