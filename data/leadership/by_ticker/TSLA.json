@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-07-12T09:25:50.128284Z",
+  "fetchedAt": "2026-07-19T08:42:39.565400Z",
   "people": [
     {
       "qid": "Q317521",
@@ -17,13 +17,13 @@
           "programmer",
           "financier",
           "investor",
-          "technology entrepreneur",
-          "dub actor",
-          "inventor",
-          "entrepreneur",
           "civil servant",
+          "technology entrepreneur",
+          "entrepreneur",
+          "dub actor",
+          "engineer",
           "politician",
-          "engineer"
+          "inventor"
         ],
         "education": [
           "Smith School of Business",
@@ -32,11 +32,16 @@
           "Pretoria Boys High School",
           "Queen's University",
           "The Wharton School",
+          "Stanford University",
           "University of Pretoria",
-          "University of Pennsylvania",
-          "Stanford University"
+          "University of Pennsylvania"
         ],
         "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
@@ -45,16 +50,6 @@
           {
             "company": "Neuralink",
             "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
             "end": null
           },
           {
@@ -75,6 +70,11 @@
           {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
@@ -155,6 +155,11 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -168,11 +173,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -351,6 +351,11 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -364,11 +369,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -458,8 +458,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
           "entrepreneur",
-          "environmentalist",
-          "restaurateur"
+          "restaurateur",
+          "environmentalist"
         ],
         "education": [
           "International Culinary Center",
@@ -492,8 +492,8 @@
           "inventor"
         ],
         "education": [
-          "Edgewood High School of the Sacred Heart",
-          "Stanford University"
+          "Stanford University",
+          "Edgewood High School of the Sacred Heart"
         ],
         "employers": [
           {
@@ -527,13 +527,13 @@
           "programmer",
           "financier",
           "investor",
-          "technology entrepreneur",
-          "dub actor",
-          "inventor",
-          "entrepreneur",
           "civil servant",
+          "technology entrepreneur",
+          "entrepreneur",
+          "dub actor",
+          "engineer",
           "politician",
-          "engineer"
+          "inventor"
         ],
         "education": [
           "Smith School of Business",
@@ -542,11 +542,16 @@
           "Pretoria Boys High School",
           "Queen's University",
           "The Wharton School",
+          "Stanford University",
           "University of Pretoria",
-          "University of Pennsylvania",
-          "Stanford University"
+          "University of Pennsylvania"
         ],
         "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
@@ -555,16 +560,6 @@
           {
             "company": "Neuralink",
             "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
             "end": null
           },
           {
@@ -585,6 +580,11 @@
           {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
@@ -641,10 +641,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "entrepreneur",
           "actor",
+          "computer scientist",
           "businessperson",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "University of Chicago",
@@ -703,9 +703,9 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
+          "karateka",
           "businessperson",
-          "publisher",
-          "karateka"
+          "publisher"
         ],
         "education": [
           "Horace Mann School",
@@ -740,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "York Community High School",

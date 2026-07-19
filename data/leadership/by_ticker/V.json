@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-07-12T09:25:50.131547Z",
+  "fetchedAt": "2026-07-19T08:42:39.567538Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,6 +17,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -25,11 +30,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
@@ -222,17 +222,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -247,6 +242,11 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -597,6 +597,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -605,11 +610,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
