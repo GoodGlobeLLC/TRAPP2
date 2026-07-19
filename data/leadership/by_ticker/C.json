@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-07-12T09:25:50.078060Z",
+  "fetchedAt": "2026-07-19T09:29:22.462963Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -256,18 +256,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -284,7 +284,7 @@
         "name": "Deborah Wright",
         "dateOfBirth": "1958-01-01",
         "birthPlace": "Bennettsville",
-        "image": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Deborah%20Wright%20on%20Urban%20Agenda%20%281996%29.jpg",
         "occupations": [
           "banker"
         ],

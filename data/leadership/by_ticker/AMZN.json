@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-07-12T09:25:50.071695Z",
+  "fetchedAt": "2026-07-19T09:29:22.458231Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -57,16 +57,21 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -334,8 +334,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
           "university teacher",
+          "academic",
           "executive",
           "dean",
           "computer scientist"
@@ -366,14 +366,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
-          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University"
+          "Colorado State University",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -455,16 +455,21 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -517,18 +517,18 @@
           "businessperson"
         ],
         "education": [
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale University"
         ],
         "employers": [
           {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Boston Consulting Group",
@@ -541,13 +541,13 @@
             "end": null
           },
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Johnson & Johnson",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
@@ -586,16 +586,21 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
+          "business oligarch",
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

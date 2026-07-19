@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-07-12T09:25:50.109425Z",
+  "fetchedAt": "2026-07-19T09:29:22.484686Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -16,9 +16,9 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "chief executive officer",
           "entrepreneur",
           "engineer",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -103,17 +103,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -128,6 +123,11 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Syracuse University",
@@ -196,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
-          "St Swithun's School",
-          "University of Oxford"
+          "University of Oxford",
+          "St Swithun's School"
         ],
         "employers": [
           {
@@ -274,8 +274,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
           "politician",
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -309,9 +309,9 @@
           "podcaster",
           "financier",
           "investor",
+          "writer",
           "entrepreneur",
-          "businessperson",
-          "writer"
+          "businessperson"
         ],
         "education": [
           "The Putney School",
@@ -397,9 +397,9 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "chief executive officer",
           "entrepreneur",
           "engineer",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
@@ -443,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "philanthropist",
-          "co-founder",
-          "art collector",
-          "film producer",
+          "television producer",
+          "investor",
           "inventor",
+          "co-founder",
+          "philanthropist",
+          "record producer",
+          "art collector",
           "programmer",
           "musician",
-          "television producer",
-          "record producer",
-          "investor",
-          "entrepreneur",
           "computer scientist",
-          "businessperson",
-          "composer"
+          "entrepreneur",
+          "film producer",
+          "composer",
+          "businessperson"
         ],
         "education": [
-          "Lakeside School",
           "Washington State University",
-          "Harvard University"
+          "Harvard University",
+          "Lakeside School"
         ],
         "employers": [
           {

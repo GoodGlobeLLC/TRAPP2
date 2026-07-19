@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-07-12T09:25:50.068800Z",
+  "fetchedAt": "2026-07-19T09:29:22.455573Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -453,8 +453,8 @@
         "occupations": [
           "university teacher",
           "software developer",
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
@@ -462,14 +462,14 @@
         ],
         "employers": [
           {
-            "company": "PARC",
-            "start": "1972-01-01",
-            "end": "1982-01-01"
-          },
-          {
             "company": "Adobe",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Palo Alto Research Center",
+            "start": "1972-01-01",
+            "end": "1982-01-01"
           },
           {
             "company": "John Carroll University",
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "businessperson",
-          "mathematician",
-          "entrepreneur",
           "computer scientist",
-          "engineer"
+          "entrepreneur",
+          "mathematician",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Olympus High School",
@@ -516,7 +516,7 @@
             "end": null
           },
           {
-            "company": "PARC",
+            "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },

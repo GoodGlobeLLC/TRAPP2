@@ -1,6 +1,6 @@
 {
   "ticker": "ABT",
-  "fetchedAt": "2026-07-12T09:25:50.067497Z",
+  "fetchedAt": "2026-07-19T09:29:22.454360Z",
   "people": [
     {
       "qid": "Q95569597",
@@ -157,9 +157,9 @@
           "businessperson"
         ],
         "education": [
+          "Stanford University",
           "Lakeland University",
-          "University of Wisconsin\u2013Oshkosh",
-          "Stanford University"
+          "University of Wisconsin\u2013Oshkosh"
         ],
         "employers": [
           {
@@ -239,9 +239,9 @@
           "researcher"
         ],
         "education": [
-          "Pritzker School of Medicine",
           "University of California, San Francisco",
-          "Northwestern University"
+          "Northwestern University",
+          "Pritzker School of Medicine"
         ],
         "employers": [],
         "positions": [
@@ -486,12 +486,12 @@
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "University of Chicago",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Chicago",
+            "company": "New York University",
             "start": null,
             "end": null
           }

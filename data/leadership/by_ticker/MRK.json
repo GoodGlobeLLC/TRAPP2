@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-07-12T09:25:50.108614Z",
+  "fetchedAt": "2026-07-19T09:29:22.484112Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -333,12 +333,12 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20H.%20Glocer%20-%20World%20Economic%20Forum%20Annual%20Meeting%20Davos%202010.jpg",
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
-          "Yale Law School",
-          "Columbia University"
+          "Columbia University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": [
@@ -504,17 +504,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }

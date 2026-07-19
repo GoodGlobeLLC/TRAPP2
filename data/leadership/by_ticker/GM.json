@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-07-12T09:25:50.093838Z",
+  "fetchedAt": "2026-07-19T09:29:22.473855Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
+          "businessperson",
           "politician",
-          "engineer",
-          "businessperson"
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -364,14 +364,14 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
-          "business executive"
+          "business executive",
+          "politician"
         ],
         "education": [
-          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -387,11 +387,6 @@
           {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
-            "end": null
-          },
-          {
-            "company": "Quibi",
-            "start": null,
             "end": null
           },
           {
@@ -482,9 +477,9 @@
           "businessperson"
         ],
         "education": [
+          "Yale University",
           "Yale School of Management",
-          "Yale College",
-          "Yale University"
+          "Yale College"
         ],
         "employers": [],
         "positions": []
@@ -550,10 +545,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -601,8 +596,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Stanford University"
+          "Stanford University",
+          "University of California, Berkeley"
         ],
         "employers": [
           {

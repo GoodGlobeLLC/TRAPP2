@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-07-12T09:25:50.100637Z",
+  "fetchedAt": "2026-07-19T09:29:22.478608Z",
   "people": [
     {
       "qid": "Q922169",
@@ -24,6 +24,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
             "end": "2004-07-01"
@@ -40,11 +45,6 @@
           },
           {
             "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep"
+          "St. Ignatius College Prep",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -414,11 +414,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -426,6 +421,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -457,8 +457,8 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Colgate University",
@@ -510,6 +510,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
             "end": "2004-07-01"
@@ -526,11 +531,6 @@
           },
           {
             "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }

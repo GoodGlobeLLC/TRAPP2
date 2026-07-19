@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-07-12T09:25:50.093125Z",
+  "fetchedAt": "2026-07-19T09:29:22.473331Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Colgate University",
@@ -277,16 +277,16 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "physicist",
           "university teacher",
+          "physicist",
           "politician"
         ],
         "education": [
-          "Trumbull College",
-          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "Trumbull College",
+          "Abington Senior High School"
         ],
         "employers": [
           {
@@ -361,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -403,8 +403,8 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
           "Stony Brook University",
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
+          "Cornell University",
           "Suffield Academy",
-          "The Wharton School",
-          "Cornell University"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -488,12 +488,12 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film producer",
-          "mathematician",
           "inventor",
           "film director",
-          "engineer",
+          "film producer",
+          "mathematician",
           "entrepreneur",
+          "engineer",
           "physicist",
           "screenwriter"
         ],

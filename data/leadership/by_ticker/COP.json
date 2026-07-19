@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-07-12T09:25:50.081360Z",
+  "fetchedAt": "2026-07-19T09:29:22.465193Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -107,25 +107,25 @@
         "birthPlace": "Pinehurst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ADM%20William%20H.%20McRaven%202012.jpg",
         "occupations": [
-          "admiral",
-          "military officer"
+          "military officer",
+          "admiral"
         ],
         "education": [
-          "Moody College of Communication",
-          "Theodore Roosevelt High School",
           "Naval Postgraduate School",
-          "University of Texas at Austin"
+          "University of Texas at Austin",
+          "Moody College of Communication",
+          "Theodore Roosevelt High School"
         ],
         "employers": [
-          {
-            "company": "United States Navy",
-            "start": "1977-01-01",
-            "end": "2014-01-01"
-          },
           {
             "company": "University of Texas System",
             "start": "2015-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "United States Navy",
+            "start": "1977-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []
@@ -287,8 +287,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-07-12T09:25:50.065741Z",
+  "fetchedAt": "2026-07-19T09:29:22.452618Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,28 +16,28 @@
         "occupations": [
           "presenter",
           "manager",
-          "businessperson",
           "computer scientist",
           "chief executive officer",
+          "businessperson",
           "engineer"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -178,17 +178,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
           "orator",
+          "climate activist",
+          "journalist",
           "environmentalist",
           "financier",
-          "blogger",
           "farmer",
-          "journalist",
+          "blogger",
           "university teacher",
-          "writer",
           "politician",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -256,14 +256,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -280,13 +280,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -353,14 +353,12 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
+          "entrepreneur",
           "programmer",
           "electronics technician",
-          "entrepreneur",
           "inventor",
-          "computer scientist",
           "engineer",
-          "businessperson",
+          "computer scientist",
           "teacher",
           "businessperson",
           "actor"
@@ -409,6 +407,7 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
+          "entrepreneur",
           "computer scientist",
           "engineer",
           "writer"
@@ -438,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "founder",
           "designer",
+          "technology entrepreneur",
           "film producer",
+          "founder",
           "financier",
           "general manager",
           "executive producer",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "computer scientist"
         ],
         "education": [
@@ -456,12 +455,12 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },

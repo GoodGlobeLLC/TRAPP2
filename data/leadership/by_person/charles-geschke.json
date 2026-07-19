@@ -7,8 +7,8 @@
   "occupations": [
     "university teacher",
     "software developer",
-    "computer scientist",
-    "entrepreneur"
+    "entrepreneur",
+    "computer scientist"
   ],
   "education": [
     "Xavier University",
@@ -16,14 +16,14 @@
   ],
   "employers": [
     {
-      "company": "PARC",
-      "start": "1972-01-01",
-      "end": "1982-01-01"
-    },
-    {
       "company": "Adobe",
       "start": null,
       "end": null
+    },
+    {
+      "company": "Palo Alto Research Center",
+      "start": "1972-01-01",
+      "end": "1982-01-01"
     },
     {
       "company": "John Carroll University",

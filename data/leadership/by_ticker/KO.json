@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-07-12T09:25:50.102067Z",
+  "fetchedAt": "2026-07-19T09:29:22.479573Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -255,8 +255,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -325,9 +325,9 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "sociologist",
           "social worker",
           "business executive",
+          "sociologist",
           "politician"
         ],
         "education": [
@@ -336,6 +336,21 @@
           "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
+          },
+          {
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
+            "end": null
+          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -353,21 +368,6 @@
           },
           {
             "company": "Sodexo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
             "start": null,
             "end": null
           },

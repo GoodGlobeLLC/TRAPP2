@@ -8,8 +8,8 @@
     "television producer",
     "film producer",
     "business executive",
-    "businessperson",
-    "entrepreneur"
+    "entrepreneur",
+    "businessperson"
   ],
   "education": [
     "The Center for Early Education",
@@ -19,6 +19,11 @@
   ],
   "employers": [
     {
+      "company": "American Broadcasting Company",
+      "start": "1974-01-01",
+      "end": "1999-02-25"
+    },
+    {
       "company": "The Walt Disney Company",
       "start": "2022-11-20",
       "end": "2026-12-31"
@@ -27,11 +32,6 @@
       "company": "The Walt Disney Company",
       "start": "1996-01-01",
       "end": "2021-12-31"
-    },
-    {
-      "company": "American Broadcasting Company",
-      "start": "1974-01-01",
-      "end": "1999-02-25"
     }
   ],
   "positions": [

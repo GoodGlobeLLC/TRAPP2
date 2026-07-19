@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-07-12T09:25:50.103678Z",
+  "fetchedAt": "2026-07-19T09:29:22.480825Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -238,10 +238,10 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -313,6 +313,16 @@
         ],
         "employers": [
           {
+            "company": "United States District Court for the Southern District of New York",
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Lockheed Martin",
+            "start": "2017-12-01",
+            "end": null
+          },
+          {
             "company": "U.S. Steel",
             "start": "2020-04-01",
             "end": null
@@ -341,16 +351,6 @@
             "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
             "start": "1984-11-01",
             "end": "1989-01-01"
-          },
-          {
-            "company": "United States District Court for the Southern District of New York",
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Lockheed Martin",
-            "start": "2017-12-01",
-            "end": null
           }
         ],
         "positions": [
@@ -410,14 +410,14 @@
         "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
+          "businessperson",
           "manager",
-          "military officer",
-          "businessperson"
+          "military officer"
         ],
         "education": [
+          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science",
-          "Mankato West High School"
+          "London School of Economics and Political Science"
         ],
         "employers": [
           {

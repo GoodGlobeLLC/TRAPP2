@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-07-12T09:25:50.083262Z",
+  "fetchedAt": "2026-07-19T09:29:22.466576Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -47,10 +47,10 @@
         ],
         "education": [
           "University of Wisconsin\u2013Madison",
+          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -218,14 +218,14 @@
         ],
         "employers": [
           {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
-          {
             "company": "Duke University",
             "start": "1999-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
           }
         ],
         "positions": []
@@ -356,11 +356,6 @@
         ],
         "employers": [
           {
-            "company": "Forest Laboratories",
-            "start": "2010-01-01",
-            "end": "2014-01-01"
-          },
-          {
             "company": "Actavis",
             "start": null,
             "end": null
@@ -379,6 +374,11 @@
             "company": "Bausch & Lomb",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Forest Laboratories",
+            "start": "2010-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []
@@ -425,9 +425,9 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
+          "entrepreneur",
           "electrical engineer",
-          "chief executive officer",
-          "entrepreneur"
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"

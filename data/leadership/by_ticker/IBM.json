@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-07-12T09:25:50.097246Z",
+  "fetchedAt": "2026-07-19T09:29:22.476262Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -43,8 +43,8 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "fighter pilot",
-          "businessperson"
+          "businessperson",
+          "fighter pilot"
         ],
         "education": [
           "Yale University"
@@ -196,9 +196,9 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "bank teller",
           "chairman of the executive board",
           "business manager",
+          "bank teller",
           "businessperson"
         ],
         "education": [
@@ -417,8 +417,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -515,7 +515,7 @@
         "qid": "Q116012",
         "name": "Peter Voser",
         "dateOfBirth": "1958-08-29",
-        "birthPlace": "Baden",
+        "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Voser.jpg",
         "occupations": [
           "businessperson"

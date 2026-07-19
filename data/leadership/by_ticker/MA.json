@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-07-12T09:25:50.105195Z",
+  "fetchedAt": "2026-07-19T09:29:22.481802Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -14,19 +14,14 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Passau",
           "Harvard Business School"
         ],
         "employers": [
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
           {
             "company": "Citigroup",
             "start": "1994-01-01",
@@ -36,6 +31,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -155,19 +155,14 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Passau",
           "Harvard Business School"
         ],
         "employers": [
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
           {
             "company": "Citigroup",
             "start": "1994-01-01",
@@ -177,6 +172,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -357,8 +357,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "California State University, Fullerton"

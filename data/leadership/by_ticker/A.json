@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-07-12T09:25:50.064633Z",
+  "fetchedAt": "2026-07-19T09:29:22.451668Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,8 +52,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "gastroenterologist",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -104,21 +104,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
           "oncologist",
-          "scientist"
+          "scientist",
+          "physician"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
-          {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          },
           {
             "company": "American Cancer Society",
             "start": "2007-01-01",
@@ -128,6 +123,11 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -152,14 +152,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chairperson",
-          "investor"
+          "investor",
+          "chairperson"
         ],
         "education": [
           "Imperial College London",
-          "University of London",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "University of London"
         ],
         "employers": [],
         "positions": [
@@ -259,11 +259,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +272,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -416,20 +416,20 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
           {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
-          {
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [

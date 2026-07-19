@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-07-12T09:25:50.107329Z",
+  "fetchedAt": "2026-07-19T09:29:22.483260Z",
   "people": [
     {
       "qid": "Q36215",
@@ -18,8 +18,8 @@
           "philanthropist",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Columbia Business School",
@@ -128,8 +128,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lynbrook High School",
@@ -286,8 +286,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Acton-Boxborough Regional High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Acton-Boxborough Regional High School"
         ],
         "employers": [],
         "positions": [
@@ -357,11 +357,11 @@
         "qid": "Q705525",
         "name": "Peter Thiel",
         "dateOfBirth": "1967-10-11",
-        "birthPlace": "Frankfurt am Main",
+        "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "technology entrepreneur",
           "chess player",
+          "technology entrepreneur",
           "manager",
           "financier",
           "investor",
@@ -411,16 +411,22 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "businessperson",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Harvard College",
           "North Miami Beach High School",
           "Harvard Business School"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Facebook",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": [
           {
             "title": "board member",
@@ -486,13 +492,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
           "blogger",
-          "programmer",
           "software engineer",
+          "programmer",
           "investor",
-          "inventor",
           "entrepreneur",
-          "engineer",
-          "computer scientist"
+          "inventor",
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "New Lisbon High School",
@@ -536,8 +542,8 @@
           "philanthropist",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
@@ -565,34 +571,6 @@
       }
     },
     {
-      "qid": "Q4757939",
-      "name": "\u0628\u0646 \u0645\u0646\u0634\u0644\u064a\u0646",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q4757939",
-        "name": "\u0628\u0646 \u0645\u0646\u0634\u0644\u064a\u0646",
-        "dateOfBirth": "1983-09-04",
-        "birthPlace": "Los Angeles County",
-        "image": null,
-        "occupations": [
-          "angel investor"
-        ],
-        "education": [
-          "Harvard Graduate School of Education",
-          "Harvard University"
-        ],
-        "employers": [
-          {
-            "company": "Meta",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q36215",
       "name": "Mark Zuckerberg",
       "role_at_company": "Founder",
@@ -608,8 +586,8 @@
           "philanthropist",
           "programmer",
           "entrepreneur",
-          "chief executive officer",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
