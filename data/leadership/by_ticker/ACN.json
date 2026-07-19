@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-07-12T09:25:50.068177Z",
+  "fetchedAt": "2026-07-19T08:49:00.413438Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -264,8 +264,8 @@
         "birthPlace": "6th arrondissement of Lyon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "ESSEC Business School",
@@ -333,12 +333,6 @@
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
-            "start": "2009-02-01",
-            "end": "2010-11-30"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
             "start": "2004-02-01",
             "end": "2005-10-01"
           },
@@ -353,6 +347,12 @@
             "company": null,
             "start": "2006-01-09",
             "end": "2009-02-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "2009-02-01",
+            "end": "2010-11-30"
           }
         ]
       }
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -412,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "University of Bradford"
@@ -468,6 +468,11 @@
             "end": "2015-01-01"
           },
           {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
+          },
+          {
             "company": "Koninklijke Philips NV",
             "start": "1983-01-01",
             "end": "2000-01-01"
@@ -476,11 +481,6 @@
             "company": "Intel",
             "start": "2015-11-01",
             "end": "2020-08-01"
-          },
-          {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -540,8 +540,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Chicago",
-          "DePaul University"
+          "DePaul University",
+          "University of Chicago"
         ],
         "employers": [
           {

@@ -7,10 +7,10 @@
   "occupations": [
     "presenter",
     "manager",
-    "businessperson",
-    "computer scientist",
     "chief executive officer",
-    "engineer"
+    "businessperson",
+    "engineer",
+    "computer scientist"
   ],
   "education": [
     "Auburn University",
@@ -21,14 +21,14 @@
   ],
   "employers": [
     {
-      "company": "IBM",
-      "start": "1982-01-01",
-      "end": "1994-01-01"
-    },
-    {
       "company": "Apple Inc.",
       "start": "1998-01-01",
       "end": null
+    },
+    {
+      "company": "IBM",
+      "start": "1982-01-01",
+      "end": "1994-01-01"
     }
   ],
   "positions": [

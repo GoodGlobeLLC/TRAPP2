@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-07-12T09:25:50.095115Z",
+  "fetchedAt": "2026-07-19T08:49:00.434840Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -52,23 +52,23 @@
         "occupations": [
           "academic",
           "investment banker",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
-          "Harvard Law School",
           "Harvard Business School",
+          "Harvard Law School",
           "King's College, Lagos",
           "University of Oxford"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           },
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -403,8 +403,8 @@
         "education": [
           "Bryn Mawr College",
           "Concord Academy",
-          "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {

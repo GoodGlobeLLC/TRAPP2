@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-07-12T09:25:50.065741Z",
+  "fetchedAt": "2026-07-19T08:49:00.410901Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,10 +16,10 @@
         "occupations": [
           "presenter",
           "manager",
-          "businessperson",
-          "computer scientist",
           "chief executive officer",
-          "engineer"
+          "businessperson",
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Auburn University",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -62,8 +62,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
@@ -183,12 +183,12 @@
           "environmentalist",
           "financier",
           "blogger",
-          "farmer",
           "journalist",
+          "farmer",
           "university teacher",
-          "writer",
           "politician",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -256,14 +256,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -280,8 +280,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
@@ -353,16 +353,14 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
           "programmer",
           "electronics technician",
-          "entrepreneur",
+          "businessperson",
           "inventor",
+          "entrepreneur",
           "computer scientist",
           "engineer",
-          "businessperson",
           "teacher",
-          "businessperson",
           "actor"
         ],
         "education": [
@@ -409,6 +407,7 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
+          "entrepreneur",
           "computer scientist",
           "engineer",
           "writer"
@@ -438,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "founder",
           "designer",
-          "film producer",
+          "technology entrepreneur",
           "financier",
+          "founder",
+          "film producer",
           "general manager",
           "executive producer",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "computer scientist"
         ],
         "education": [
@@ -456,22 +455,22 @@
         ],
         "employers": [
           {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

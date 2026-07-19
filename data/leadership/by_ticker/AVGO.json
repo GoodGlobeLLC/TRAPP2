@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-07-12T09:25:50.073519Z",
+  "fetchedAt": "2026-07-19T08:49:00.418052Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -37,17 +37,17 @@
             "end": "2005-01-01"
           },
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -74,8 +74,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "university teacher",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [],
         "employers": [],
@@ -333,17 +333,17 @@
             "end": "2005-01-01"
           },
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -442,8 +442,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "university teacher",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [

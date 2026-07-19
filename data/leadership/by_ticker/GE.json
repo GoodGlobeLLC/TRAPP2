@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-07-12T09:25:50.093125Z",
+  "fetchedAt": "2026-07-19T08:49:00.432866Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -62,8 +62,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Colgate University",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",
@@ -258,8 +258,8 @@
         ],
         "education": [
           "University of California, Berkeley",
-          "Stanford University",
-          "Haas School of Business"
+          "Haas School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -277,15 +277,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "politician",
           "physicist",
-          "university teacher",
-          "politician"
+          "university teacher"
         ],
         "education": [
-          "Trumbull College",
-          "Abington Senior High School",
           "Yale College",
           "St John's College",
+          "Trumbull College",
+          "Abington Senior High School",
           "University of Edinburgh"
         ],
         "employers": [
@@ -335,16 +335,16 @@
             "end": "2011-10-05"
           },
           {
-            "title": "Assistant Secretary of Defense for Global Strategic Affairs",
-            "company": null,
-            "start": "1993-06-30",
-            "end": "1996-09-14"
-          },
-          {
             "title": "United States Secretary of Defense",
             "company": null,
             "start": "2015-02-17",
             "end": "2017-01-19"
+          },
+          {
+            "title": "Assistant Secretary of Defense for Global Strategic Affairs",
+            "company": null,
+            "start": "1993-06-30",
+            "end": "1996-09-14"
           }
         ]
       }
@@ -361,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -403,13 +403,13 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
-          "Stony Brook University",
           "The Bush School",
           "The Wharton School",
+          "Stony Brook University",
           "Harvard Medical School",
           "University of Pennsylvania",
           "Harvard University"
@@ -488,14 +488,14 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film producer",
-          "mathematician",
           "inventor",
           "film director",
+          "film producer",
+          "mathematician",
+          "screenwriter",
           "engineer",
           "entrepreneur",
-          "physicist",
-          "screenwriter"
+          "physicist"
         ],
         "education": [
           "Cooper Union"

@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-07-12T09:25:50.066330Z",
+  "fetchedAt": "2026-07-19T08:49:00.411546Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -138,8 +138,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Kellogg School of Management",
@@ -447,9 +447,9 @@
           "researcher"
         ],
         "education": [
-          "Pritzker School of Medicine",
           "University of California, San Francisco",
-          "Northwestern University"
+          "Northwestern University",
+          "Pritzker School of Medicine"
         ],
         "employers": [],
         "positions": [
@@ -508,22 +508,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
           "researcher",
-          "nephrologist"
+          "nephrologist",
+          "academic"
         ],
         "education": [
           "Yale School of Medicine"
         ],
         "employers": [
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           },
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           }
         ],

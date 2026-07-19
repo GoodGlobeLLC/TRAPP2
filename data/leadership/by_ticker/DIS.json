@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-07-12T09:25:50.086203Z",
+  "fetchedAt": "2026-07-19T08:49:00.427882Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -192,8 +192,8 @@
           "television producer",
           "film producer",
           "business executive",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -203,6 +203,11 @@
         ],
         "employers": [
           {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
+          },
+          {
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
@@ -211,11 +216,6 @@
             "company": "The Walt Disney Company",
             "start": "1996-01-01",
             "end": "2021-12-31"
-          },
-          {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
           }
         ],
         "positions": [
@@ -351,24 +351,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "film actor",
           "producer",
-          "film director",
-          "caricaturist",
+          "film actor",
           "draftsperson",
-          "designer",
-          "manufacturer",
-          "film producer",
-          "director",
           "television presenter",
           "comics artist",
-          "painter",
-          "voice actor",
+          "designer",
+          "manufacturer",
+          "caricaturist",
+          "director",
+          "film producer",
+          "film director",
+          "actor",
           "illustrator",
+          "voice actor",
+          "painter",
           "animator",
-          "inventor",
           "writer",
-          "actor"
+          "inventor"
         ],
         "education": [
           "McKinley High School",
@@ -391,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -447,12 +447,12 @@
           "politician"
         ],
         "education": [
-          "Harvard Law School",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
+          "Harvard Law School",
           "The Branson School",
-          "University of Oxford",
-          "Princeton University"
+          "Princeton University",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": [
@@ -486,10 +486,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -553,8 +553,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -582,8 +582,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -613,15 +613,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
+          "banker",
           "businessperson",
-          "banker"
+          "chief financial officer"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
           "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School"
         ],
         "employers": [
           {
@@ -636,18 +636,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -671,6 +659,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -736,8 +736,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",
@@ -824,24 +824,24 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "film actor",
           "producer",
-          "film director",
-          "caricaturist",
+          "film actor",
           "draftsperson",
-          "designer",
-          "manufacturer",
-          "film producer",
-          "director",
           "television presenter",
           "comics artist",
-          "painter",
-          "voice actor",
+          "designer",
+          "manufacturer",
+          "caricaturist",
+          "director",
+          "film producer",
+          "film director",
+          "actor",
           "illustrator",
+          "voice actor",
+          "painter",
           "animator",
-          "inventor",
           "writer",
-          "actor"
+          "inventor"
         ],
         "education": [
           "McKinley High School",

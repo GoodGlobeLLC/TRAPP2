@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-07-12T09:25:50.093838Z",
+  "fetchedAt": "2026-07-19T08:49:00.433849Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -119,8 +119,8 @@
         "education": [
           "University of Toronto",
           "University of California, Berkeley",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -145,8 +145,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -249,8 +249,8 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "business executive",
           "lawyer",
+          "business executive",
           "chief executive officer"
         ],
         "education": [
@@ -369,9 +369,9 @@
           "business executive"
         ],
         "education": [
-          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -385,13 +385,13 @@
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
+            "company": "Quibi",
+            "start": null,
             "end": null
           },
           {
-            "company": "Quibi",
-            "start": null,
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {
@@ -401,11 +401,6 @@
           },
           {
             "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Quibi",
             "start": null,
             "end": null
           },
@@ -449,17 +444,17 @@
           {
             "title": "vice president",
             "company": null,
-            "start": "1989-01-01",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
             "start": null,
             "end": null
           },
           {
             "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
             "start": null,
             "end": null
@@ -550,10 +545,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
