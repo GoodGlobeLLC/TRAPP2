@@ -6,7 +6,7 @@
     "macro": 0.307,
     "liquidity": 0.486,
     "volatility": 0.71,
-    "valuation": -0.375,
+    "valuation": -0.371,
     "trend": 0.855,
     "breadth": 0.273,
     "commodity": 0.051,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4685,
-    "risk_on_melt_up": 0.4297,
+    "expansion": 0.4696,
+    "risk_on_melt_up": 0.4283,
     "inflation_shock": 0.0012,
     "recession_fear": 0.0,
     "risk_off": 0.0005,
-    "neutral": 0.1001
+    "neutral": 0.1003
   },
   "drivers": [
     {
@@ -70,10 +70,10 @@
       "vix9d_over_vix": NaN
     },
     "valuation": {
-      "spy_pe": 26.92,
-      "earnings_yield": 0.0372,
+      "spy_pe": 26.51,
+      "earnings_yield": 0.0377,
       "real_10y": 0.009,
-      "fed_model_spread": 0.0281
+      "fed_model_spread": 0.0287
     },
     "trend": {
       "spy_price": 747.41,
@@ -100,93 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-07-23T16:56:57+00:00",
-  "transitions": {
-    "1_step": {
-      "expansion": 0.825,
-      "risk_on_melt_up": 0.025,
-      "inflation_shock": 0.025,
-      "recession_fear": 0.025,
-      "risk_off": 0.025,
-      "neutral": 0.075
-    },
-    "5_step": {
-      "expansion": 0.5304,
-      "risk_on_melt_up": 0.0593,
-      "inflation_shock": 0.0593,
-      "recession_fear": 0.0593,
-      "risk_off": 0.0593,
-      "neutral": 0.2326
-    },
-    "20_step": {
-      "expansion": 0.4448,
-      "risk_on_melt_up": 0.0666,
-      "inflation_shock": 0.0666,
-      "recession_fear": 0.0666,
-      "risk_off": 0.0666,
-      "neutral": 0.2886
-    }
-  },
-  "stationary": {
-    "expansion": 0.4444,
-    "risk_on_melt_up": 0.0667,
-    "inflation_shock": 0.0667,
-    "recession_fear": 0.0667,
-    "risk_off": 0.0667,
-    "neutral": 0.2889
-  },
-  "expected_persistence_days": 5.7,
-  "transition_matrix": [
-    [
-      0.825,
-      0.025,
-      0.025,
-      0.025,
-      0.025,
-      0.075
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1154,
-      0.0385,
-      0.0385,
-      0.0385,
-      0.0385,
-      0.7308
-    ]
-  ],
-  "transition_observation_count": 54,
-  "transition_warning": "Only 54 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-07-23T16:56:57+00:00"
+  "computed_at": "2026-07-23T19:02:42+00:00"
 }
