@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-07-19T09:29:22.465193Z",
+  "fetchedAt": "2026-07-26T08:55:46.149593Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -60,13 +60,13 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jody%20Freeman%20at%20Metcalf%20Institute.jpg",
         "occupations": [
-          "jurist",
-          "lawyer"
+          "lawyer",
+          "jurist"
         ],
         "education": [
-          "Stanford University",
+          "University of Toronto",
           "Harvard Law School",
-          "University of Toronto"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -107,8 +107,8 @@
         "birthPlace": "Pinehurst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ADM%20William%20H.%20McRaven%202012.jpg",
         "occupations": [
-          "military officer",
-          "admiral"
+          "admiral",
+          "military officer"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -118,14 +118,14 @@
         ],
         "employers": [
           {
-            "company": "University of Texas System",
-            "start": "2015-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "United States Navy",
             "start": "1977-01-01",
             "end": "2014-01-01"
+          },
+          {
+            "company": "University of Texas System",
+            "start": "2015-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": []

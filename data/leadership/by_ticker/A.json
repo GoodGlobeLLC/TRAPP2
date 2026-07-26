@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-07-19T09:29:22.451668Z",
+  "fetchedAt": "2026-07-26T08:55:46.137965Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -53,8 +53,8 @@
         "image": null,
         "occupations": [
           "gastroenterologist",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Harvard College",
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [
@@ -115,6 +115,11 @@
         ],
         "employers": [
           {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
+          },
+          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -123,11 +128,6 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
+          "University of London",
           "Harvard Business School",
-          "Harvard University",
-          "University of London"
+          "Imperial College London",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -416,8 +416,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -460,8 +460,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "business executive"
+          "business executive",
+          "physician"
         ],
         "education": [
           "Lund University"

@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-07-19T09:29:22.458231Z",
+  "fetchedAt": "2026-07-26T08:55:46.143110Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -295,8 +295,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
-          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "William A. Shine Great Neck South High School"
         ],
         "employers": [],
         "positions": [
@@ -526,6 +526,11 @@
         ],
         "employers": [
           {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
@@ -537,11 +542,6 @@
           },
           {
             "company": "ABB Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },

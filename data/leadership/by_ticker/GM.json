@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-07-19T09:29:22.473855Z",
+  "fetchedAt": "2026-07-26T08:55:46.158058Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -119,8 +119,8 @@
         "education": [
           "University of Toronto",
           "University of California, Berkeley",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
           "politician",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -364,9 +364,9 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
+          "politician",
           "entrepreneur",
-          "business executive",
-          "politician"
+          "business executive"
         ],
         "education": [
           "Cold Spring Harbor Jr./Sr. High School",
@@ -385,8 +385,8 @@
             "end": null
           },
           {
-            "company": "Quibi",
-            "start": null,
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {
@@ -401,6 +401,11 @@
           },
           {
             "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -472,9 +477,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Yale School of Management",
-          "Yale College"
+          "Yale College",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -492,9 +497,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
-          "executive"
+          "executive",
+          "entrepreneur"
         ],
         "education": [
           "Grosse Ile High School"
@@ -591,8 +596,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Stanford University"
         ],
         "employers": [
           {
