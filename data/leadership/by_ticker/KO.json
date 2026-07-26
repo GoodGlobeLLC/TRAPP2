@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-07-19T09:29:22.479573Z",
+  "fetchedAt": "2026-07-26T09:56:47.309686Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -228,8 +228,8 @@
         "image": null,
         "occupations": [
           "merchant",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "University of Groningen"
@@ -290,9 +290,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "economist",
-          "businessperson"
+          "businessperson",
+          "banker"
         ],
         "education": [
           "St Mary's School",
@@ -331,16 +331,11 @@
           "politician"
         ],
         "education": [
+          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College",
-          "Xavier University of Louisiana"
+          "Edgewood College"
         ],
         "employers": [
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
           {
             "company": "United States Women's Bureau",
             "start": "1977-04-04",
@@ -380,20 +375,25 @@
             "company": "Toyota",
             "start": "2006-01-01",
             "end": null
+          },
+          {
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
           }
         ],
         "positions": [
-          {
-            "title": "Director of the Office of Public Liaison",
-            "company": null,
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
           {
             "title": "United States Secretary of Labor",
             "company": null,
             "start": "1997-05-01",
             "end": "2001-01-20"
+          },
+          {
+            "title": "Director of the Office of Public Liaison",
+            "company": null,
+            "start": "1993-01-20",
+            "end": "1997-02-07"
           }
         ]
       }

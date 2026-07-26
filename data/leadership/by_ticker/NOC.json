@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-07-19T09:29:22.486325Z",
+  "fetchedAt": "2026-07-26T09:56:47.319343Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -17,11 +17,16 @@
           "business executive"
         ],
         "education": [
+          "Smithsburg High School",
           "George Washington University",
-          "James Madison University",
-          "Smithsburg High School"
+          "James Madison University"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
@@ -29,11 +34,6 @@
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -180,8 +180,8 @@
         ],
         "education": [
           "Simmons University",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Yale Law School"
+          "Yale Law School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -427,11 +427,16 @@
           "business executive"
         ],
         "education": [
+          "Smithsburg High School",
           "George Washington University",
-          "James Madison University",
-          "Smithsburg High School"
+          "James Madison University"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
@@ -439,11 +444,6 @@
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }

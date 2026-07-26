@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-07-19T09:29:22.495708Z",
+  "fetchedAt": "2026-07-26T09:56:47.331480Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "business executive"
+          "business executive",
+          "chief executive officer"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -72,9 +72,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Houston C.T. Bauer College of Business",
           "University of Houston",
-          "University of Alabama",
-          "University of Houston C.T. Bauer College of Business"
+          "University of Alabama"
         ],
         "employers": [],
         "positions": []
@@ -92,8 +92,8 @@
         "birthPlace": "Salina",
         "image": null,
         "occupations": [
-          "artist",
-          "musician"
+          "musician",
+          "artist"
         ],
         "education": [
           "Trulaske College of Business",
@@ -118,10 +118,10 @@
           "manager"
         ],
         "education": [
+          "Harvard University",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -142,9 +142,9 @@
           "financier"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -166,32 +166,12 @@
           "lawyer"
         ],
         "education": [
-          "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
-          "John F. Kennedy School of Government"
+          "Brown University",
+          "John F. Kennedy School of Government",
+          "Harvard Law School"
         ],
         "employers": [
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Revlon",
             "start": null,
@@ -211,6 +191,26 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Monsanto",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Kodak",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -244,9 +244,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -322,8 +322,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Stankey%20%2854598693935%29%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "business executive"
+          "business executive",
+          "chief executive officer"
         ],
         "education": [
           "University of California, Los Angeles",

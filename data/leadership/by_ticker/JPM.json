@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-07-19T09:29:22.478608Z",
+  "fetchedAt": "2026-07-26T09:56:47.307881Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,14 +17,24 @@
           "banker"
         ],
         "education": [
-          "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School",
+          "Browning School"
         ],
         "employers": [
           {
             "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
@@ -37,16 +47,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -285,8 +285,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Case Western Reserve University",
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -405,14 +405,19 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -421,11 +426,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -461,9 +461,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Colgate University"
         ],
         "employers": [
           {
@@ -503,14 +503,24 @@
           "banker"
         ],
         "education": [
-          "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School",
+          "Browning School"
         ],
         "employers": [
           {
             "company": "Goldman Sachs",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
@@ -523,16 +533,6 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

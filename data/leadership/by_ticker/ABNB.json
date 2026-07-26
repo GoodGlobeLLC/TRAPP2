@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-07-19T09:29:22.453831Z",
+  "fetchedAt": "2026-07-26T09:56:47.276774Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -14,8 +14,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Niskayuna High School",
@@ -84,8 +84,8 @@
           "business executive"
         ],
         "education": [
-          "University of Oxford",
           "University of Zimbabwe",
+          "University of Oxford",
           "Keble College"
         ],
         "employers": [
@@ -163,9 +163,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Boston Latin Academy",
@@ -281,6 +281,11 @@
             "end": "2014-04-01"
           },
           {
+            "company": "Apple Inc.",
+            "start": "2014-05-01",
+            "end": "2019-05-01"
+          },
+          {
             "company": "Warnaco Group",
             "start": null,
             "end": null
@@ -289,11 +294,6 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
-          },
-          {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
           }
         ],
         "positions": [
@@ -419,9 +419,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "business executive",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Boston Latin Academy",
@@ -456,8 +456,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%202025.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Niskayuna High School",

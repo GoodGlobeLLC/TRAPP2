@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-07-19T09:29:22.467754Z",
+  "fetchedAt": "2026-07-26T09:56:47.293340Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University"
+          "Wesleyan University",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": []
@@ -146,10 +146,10 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Columbia University"
+          "Columbia University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -192,9 +192,9 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
+          "chemical engineer",
           "chemist",
-          "academic administrator",
-          "chemical engineer"
+          "academic administrator"
         ],
         "education": [
           "University of Southern California",
@@ -202,12 +202,12 @@
         ],
         "employers": [
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Imperial College London",
             "start": null,
             "end": null
           },
           {
-            "company": "Imperial College London",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
@@ -354,10 +354,10 @@
           "military flight engineer"
         ],
         "education": [
-          "University of Pittsburgh",
-          "University of Southern California",
           "Bronx High School of Science",
           "Franklin & Marshall College",
+          "University of Pittsburgh",
+          "University of Southern California",
           "USC Viterbi School of Engineering"
         ],
         "employers": [
@@ -391,21 +391,21 @@
           "writer"
         ],
         "education": [
-          "University of Oxford",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
-          "Harvard University",
-          "John F. Kennedy School of Government"
+          "John F. Kennedy School of Government",
+          "University of Oxford",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -444,12 +444,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "ambassador",
           "missionary",
           "diplomat",
+          "ambassador",
           "governor",
-          "politician",
-          "ambassador"
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

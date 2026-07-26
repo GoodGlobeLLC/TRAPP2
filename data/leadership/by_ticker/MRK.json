@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-07-19T09:29:22.484112Z",
+  "fetchedAt": "2026-07-26T09:56:47.316576Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -14,15 +14,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -104,8 +104,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Yale University"
         ],
         "employers": [
           {
@@ -151,14 +151,19 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
-          "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -168,14 +173,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -187,12 +193,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -237,15 +237,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "businessperson",
           "business executive",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "Pennsylvania State University",
-          "Harvard Law School",
           "Northeast High School",
-          "Julia R. Masterman School"
+          "Julia R. Masterman School",
+          "Pennsylvania State University",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -498,11 +498,16 @@
           "business executive"
         ],
         "education": [
+          "Smithsburg High School",
           "George Washington University",
-          "James Madison University",
-          "Smithsburg High School"
+          "James Madison University"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
@@ -510,11 +515,6 @@
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -597,8 +597,8 @@
           "biophysicist"
         ],
         "education": [
-          "Pennsylvania State University",
-          "California Institute of Technology"
+          "California Institute of Technology",
+          "Pennsylvania State University"
         ],
         "employers": [
           {

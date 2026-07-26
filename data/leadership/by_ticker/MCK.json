@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-07-19T09:29:22.482480Z",
+  "fetchedAt": "2026-07-26T09:56:47.314318Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -160,14 +160,14 @@
         ],
         "employers": [
           {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
-          },
-          {
             "company": "Salesforce",
             "start": "2010-02-01",
             "end": "2018-04-01"
+          },
+          {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
           },
           {
             "company": "Microsoft",
@@ -303,10 +303,10 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20carmona.jpg",
         "occupations": [
-          "nurse",
-          "surgeon",
           "politician",
-          "paramedic"
+          "surgeon",
+          "paramedic",
+          "nurse"
         ],
         "education": [
           "City University of New York",

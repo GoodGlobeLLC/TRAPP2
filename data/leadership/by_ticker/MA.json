@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-07-19T09:29:22.481802Z",
+  "fetchedAt": "2026-07-26T09:56:47.313429Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -14,14 +14,19 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Passau",
           "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
           {
             "company": "Citigroup",
             "start": "1994-01-01",
@@ -31,11 +36,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -69,8 +69,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Michigan",
-          "Columbia Law School"
+          "Columbia Law School",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -116,9 +116,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -155,14 +155,19 @@
         "birthPlace": "Oberg\u00fcnzburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Passau",
           "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
           {
             "company": "Citigroup",
             "start": "1994-01-01",
@@ -172,11 +177,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -389,8 +389,8 @@
           "university teacher"
         ],
         "education": [
-          "University of Michigan",
-          "Columbia Law School"
+          "Columbia Law School",
+          "University of Michigan"
         ],
         "employers": [
           {
@@ -436,9 +436,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Law School",
           "Marsha Stern Talmudical Academy",
           "Columbia College",
+          "Harvard Law School",
           "Columbia University"
         ],
         "employers": [],
