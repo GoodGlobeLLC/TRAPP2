@@ -18,18 +18,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -120,18 +120,18 @@
         ],
         "education": [
           "Harvard Business School",
-          "Scarsdale High School",
-          "Harvard University"
+          "Harvard University",
+          "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -525,6 +525,11 @@
           "Madras Christian College"
         ],
         "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",

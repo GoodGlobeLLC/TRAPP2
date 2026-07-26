@@ -6,19 +6,24 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
   "occupations": [
     "university teacher",
-    "physicist",
-    "politician"
+    "politician",
+    "physicist"
   ],
   "education": [
+    "Trumbull College",
+    "Abington Senior High School",
     "Yale College",
     "St John's College",
-    "University of Edinburgh",
-    "Trumbull College",
-    "Abington Senior High School"
+    "University of Edinburgh"
   ],
   "employers": [
     {
-      "company": "Fermilab",
+      "company": "Harvard University",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "United States Department of Defense",
       "start": null,
       "end": null
     },
@@ -33,23 +38,12 @@
       "end": null
     },
     {
-      "company": "Harvard University",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "United States Department of Defense",
+      "company": "Fermilab",
       "start": null,
       "end": null
     }
   ],
   "positions": [
-    {
-      "title": "defence minister",
-      "company": null,
-      "start": null,
-      "end": null
-    },
     {
       "title": "United States Deputy Secretary of Defense",
       "company": null,

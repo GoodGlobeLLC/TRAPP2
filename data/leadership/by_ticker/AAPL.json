@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -104,9 +104,9 @@
           "businessperson"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College"
+          "Wellesley College",
+          "Booth School of Business"
         ],
         "employers": [
           {
@@ -186,6 +186,7 @@
           "environmentalist",
           "financier",
           "university teacher",
+          "farmer",
           "politician",
           "businessperson",
           "writer"
@@ -409,6 +410,7 @@
         "occupations": [
           "engineer",
           "entrepreneur",
+          "writer",
           "computer scientist",
           "writer"
         ],
@@ -455,17 +457,12 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

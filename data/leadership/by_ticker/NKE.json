@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -257,7 +257,8 @@
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -326,14 +327,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -368,7 +369,8 @@
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School"
+          "Cleveland High School",
+          "Stanford University"
         ],
         "employers": [
           {
