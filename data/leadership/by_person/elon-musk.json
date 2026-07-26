@@ -6,13 +6,13 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
     "dub actor",
+    "technology entrepreneur",
     "programmer",
     "financier",
     "investor",
-    "technology entrepreneur",
-    "entrepreneur",
-    "inventor",
     "civil servant",
+    "inventor",
+    "entrepreneur",
     "engineer",
     "politician"
   ],
@@ -21,11 +21,11 @@
     "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
-    "University of Pretoria",
     "Queen's University",
     "The Wharton School",
-    "Stanford University",
-    "University of Pennsylvania"
+    "University of Pretoria",
+    "University of Pennsylvania",
+    "Stanford University"
   ],
   "employers": [
     {
@@ -39,6 +39,11 @@
       "end": "2025-05-30"
     },
     {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
+    },
+    {
       "company": "SolarCity",
       "start": null,
       "end": null
@@ -49,28 +54,18 @@
       "end": "2019-01-01"
     },
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
-      "end": null
-    },
-    {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
-      "end": null
-    },
-    {
       "company": "Tesla",
       "start": "2004-04-23",
       "end": null
     },
     {
-      "company": "SpaceX",
-      "start": "2002-06-01",
+      "company": "PayPal",
+      "start": "1998-12-01",
       "end": null
     },
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
+      "company": "SpaceX",
+      "start": "2002-06-01",
       "end": null
     }
   ],
