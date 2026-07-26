@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-07-19T09:29:22.502092Z",
+  "fetchedAt": "2026-07-26T08:50:50.246983Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -94,6 +94,11 @@
         ],
         "employers": [
           {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
+          },
+          {
             "company": "Yahoo",
             "start": "2012-07-16",
             "end": "2017-06-01"
@@ -102,11 +107,6 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
-          },
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
           }
         ],
         "positions": [
@@ -310,10 +310,10 @@
           "military officer"
         ],
         "education": [
-          "Miami Coral Park High School",
-          "University of Virginia Darden School of Business",
           "United States Naval Academy",
-          "University of Virginia"
+          "University of Virginia",
+          "Miami Coral Park High School",
+          "University of Virginia Darden School of Business"
         ],
         "employers": [
           {
@@ -338,8 +338,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cesar%20Conde%2C%20Univision%20President%20%28cropped%29.jpg",
         "occupations": [],
         "education": [
-          "Harvard University",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard University"
         ],
         "employers": [
           {
