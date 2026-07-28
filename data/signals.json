@@ -1,14 +1,14 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-07-27T23:46:30.248932Z",
+  "updatedAt": "2026-07-28T15:17:50.668754Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
-      "raw": 0.3002868749254619,
+      "raw": 0.22808399631545176,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "avg_1m_sector_return": 0.0174,
+        "avg_1m_sector_return": 0.0114,
         "n_sectors": 11,
         "indpro_yoy": 0.0114
       }
@@ -21,70 +21,70 @@
         "t10y2y": 0.36,
         "hy_spread": 2.79,
         "hy_spread_z": -0.87,
-        "hyg_minus_lqd_1m": 0.0213
+        "hyg_minus_lqd_1m": 0.0203
       }
     },
     "volatility": {
-      "raw": 0.5887500000000001,
+      "raw": 0.20984795479009655,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
         "vix_level": 18.58,
-        "vix9d_over_vix": NaN
+        "vix9d_over_vix": 0.9758
       }
     },
     "valuation": {
-      "raw": -0.37769301249264586,
+      "raw": -0.3777581904484961,
       "confidence": 0.85,
       "tier": "LIVE",
       "note": {
-        "spy_pe": 26.58,
+        "spy_pe": 26.59,
         "earnings_yield": 0.0376,
         "real_10y": 0.0098,
         "fed_model_spread": 0.0278
       }
     },
     "trend": {
-      "raw": 0.789082542842406,
+      "raw": 0.787579614348443,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "spy_price": 738.93,
-        "sma50": 745.07,
-        "sma200": 698.54,
-        "pct_above_200dma": 0.0578
+        "spy_price": 739.09,
+        "sma50": 745.0,
+        "sma200": 698.89,
+        "pct_above_200dma": 0.0575
       }
     },
     "breadth": {
-      "raw": 0.2727272727272727,
+      "raw": 0.4545454545454546,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "pct_sectors_above_50dma": 0.636,
-        "n_above": 7,
+        "pct_sectors_above_50dma": 0.727,
+        "n_above": 8,
         "n_total": 11
       }
     },
     "commodity": {
-      "raw": 0.06203874734345125,
+      "raw": 0.00187568296869145,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "copper_60d_return": -0.0035,
-        "oil_60d_return": -0.0755,
-        "gold_oil_ratio": 45.545,
-        "gold_oil_zscore": -1.294,
+        "copper_60d_return": -0.0056,
+        "oil_60d_return": -0.0837,
+        "gold_oil_ratio": 49.707,
+        "gold_oil_zscore": -0.941,
         "n_components": 3
       }
     },
     "crypto": {
-      "raw": 0.40604309581653,
+      "raw": 0.2947109026158396,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "btc_30d_return": 0.0887,
-        "btc_pct_from_50dma": 0.0328,
-        "eth_30d_return": 0.239,
+        "btc_30d_return": 0.0631,
+        "btc_pct_from_50dma": 0.0071,
+        "eth_30d_return": 0.203,
         "n_components": 3
       }
     }
