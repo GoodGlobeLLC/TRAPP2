@@ -6,29 +6,60 @@
 #  Edit/paste directly on GitHub here:
 #  https://github.com/GoodGlobeLLC/TRAPP2/edit/main/.github/workflows/intraday.yml
 #
-#  WHAT CHANGED IN THIS FILE:
-#    Concurrency group changed to `trapp2-quote-push` so this and
-#    quotes.yml in THIS repo never push at the same instant (they both
-#    run fetch_data.py and write data/).
+#  WHAT CHANGED IN THIS FILE
+#  -------------------------
+#  1. 15-MINUTE CADENCE, STAGGERED ACROSS REPOS. This repo fires at :0,15,30,45
+#     past the hour. TRAPP2 :0,15,30,45 · TRAPP2-2 :5,20,35,50 ·
+#     TRAPP2-3 :10,25,40,55 · TRAPP2-1 :3,18,33,48. The fleet therefore pushes
+#     fresh prices to the frontend roughly every ~4 minutes, and no two repos
+#     ever queue for a runner in the same minute.
+#
+#  2. NEW STEP: "Append 15-minute intraday tape" runs
+#     pipeline/append_intraday_snapshot.py immediately after the quote fetch. It
+#     writes data/intraday/<today>.json (the session tape), data/intraday/
+#     latest.json (the frontend's one-request fast path) and index.json. This is
+#     what gives the app a GOOGLEFINANCE-style refreshing price series for
+#     today's trading day even when nobody has the app open.
+#
+#  3. SCOPED COMMITS. `git add -A data/` staged EVERY file under data/, including
+#     output owned by other workflows in this repo (macro/quad.json, history/,
+#     leadership/, 13f/ ...). Combined with the `merge -X ours` retry, a quote
+#     run that started before a sibling pushed would REVERT that sibling's work.
+#     This job now stages only the files it actually produces.
+#
+#  4. SCOPED CONFLICT RECOVERY. `git checkout --ours -- data/` had the same
+#     blast radius on the conflict path. Now scoped to this job's own files.
 # ============================================================
 
-name: Intraday Quotes
+name: Intraday Quotes + 15-min Tape
 
 on:
   schedule:
-    - cron: '0,15,30,45 13-22 * * 1-5'
+    # Pre-market warm-up. GitHub Actions cron is queued, not fired-at-time, and
+    # observed lag on the first trigger of the day has been hours — the early
+    # runs absorb that so the first REAL quote lands at or near the 9:30 ET bell.
+    - cron: '0,15,30,45 8-12 * * 1-5'
+    # Regular + extended session: 13:00-21:59 UTC covers 9:30-16:00 ET in both
+    # EDT and EST, plus post-market.
+    - cron: '0,15,30,45 13-21 * * 1-5'
   workflow_dispatch:
+    inputs:
+      force_tape:
+        description: 'Write an intraday tape point even outside session hours'
+        type: boolean
+        required: false
+        default: false
 
 concurrency:
   group: trapp2-quote-push
-  cancel-in-progress: false
+  cancel-in-progress: false     # never kill a run mid-write
 
 jobs:
   quotes:
     runs-on: ubuntu-latest
+    timeout-minutes: 12
     permissions:
       contents: write
-    timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -53,23 +84,47 @@ jobs:
           python pipeline/classify_regime.py
         continue-on-error: true
 
-      - name: Commit and push
+      # ----------------------------------------------------------------
+      #  THE 15-MINUTE TAPE. Reads the master.json written one step above and
+      #  appends ONE bucketed point. It self-skips on weekends, NYSE holidays
+      #  and outside 04:00-20:00 ET, and it de-duplicates a re-run inside the
+      #  same 15-minute bucket, so it is safe to fire as often as you like.
+      # ----------------------------------------------------------------
+      - name: Append 15-minute intraday tape
+        env:
+          INTRADAY_FORCE: ${{ github.event.inputs.force_tape == 'true' && '1' || '' }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python pipeline/append_intraday_snapshot.py
+        continue-on-error: true
+
+      - name: Commit and push (quote scope only)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # SCOPED. Anything not listed here belongs to another workflow in this
+          # repo and must not ride along on this commit.
           git add data/master.csv data/master.json 2>/dev/null || true
-          git add data/regime_current.json data/regime_history.json 2>/dev/null || true
+          git add data/intraday/ 2>/dev/null || true
           git add data/signals.json 2>/dev/null || true
+          git add data/regime_current.json data/regime_history.json 2>/dev/null || true
+
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No quote changes to commit"
           else
-            git commit -m "Intraday quotes $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "Quotes + intraday tape $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+            # Generated whole-file JSON never auto-merges. fetch + `merge -X ours`
+            # resolves to THIS run's quotes without ever leaving unmerged files
+            # (a plain `pull --rebase` is what used to exit 128 here).
             for i in 1 2 3 4 5; do
-              if git push; then echo "Push succeeded on attempt $i"; break; fi
-              echo "Push attempt $i failed — merging remote with OURS winning conflicts"
+              if git push; then echo "Pushed on attempt $i"; break; fi
+              echo "Push rejected — reconciling (ours wins for OUR files) and retrying."
               git fetch origin
-              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
-              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
-              sleep 5
+              git merge -X ours origin/${{ github.ref_name }} --no-edit 2>/dev/null || true
+              if [ -f .git/MERGE_HEAD ] || [ -d .git/rebase-merge ]; then
+                git checkout --ours -- data/master.csv data/master.json data/intraday/ data/signals.json data/regime_current.json data/regime_history.json 2>/dev/null || true
+                git add -A data/master.csv data/master.json data/intraday/ data/signals.json data/regime_current.json data/regime_history.json 2>/dev/null || true
+                git commit --no-edit 2>/dev/null || true
+              fi
+              sleep $((i * 2))
             done
           fi
