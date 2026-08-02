@@ -5,20 +5,15 @@
   "birthPlace": "Wausau",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
   "occupations": [
+    "computer scientist",
     "business executive",
-    "engineer",
-    "computer scientist"
+    "engineer"
   ],
   "education": [
     "Stanford University",
     "Wausau West High School"
   ],
   "employers": [
-    {
-      "company": "Lumi Labs",
-      "start": "2017-07-01",
-      "end": null
-    },
     {
       "company": "Yahoo",
       "start": "2012-07-16",
@@ -28,6 +23,11 @@
       "company": "Google",
       "start": "1999-01-01",
       "end": "2012-07-01"
+    },
+    {
+      "company": "Lumi Labs",
+      "start": "2017-07-01",
+      "end": null
     }
   ],
   "positions": [

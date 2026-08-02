@@ -8,16 +8,11 @@
     "business executive"
   ],
   "education": [
-    "Smithsburg High School",
     "George Washington University",
-    "James Madison University"
+    "James Madison University",
+    "Smithsburg High School"
   ],
   "employers": [
-    {
-      "company": "General Dynamics",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Northrop Grumman Corporation",
       "start": "2008-01-01",
@@ -25,6 +20,11 @@
     },
     {
       "company": "General Electric",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "General Dynamics",
       "start": null,
       "end": null
     }
