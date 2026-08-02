@@ -5,15 +5,20 @@
   "birthPlace": "Milperra",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
   "occupations": [
-    "entrepreneur",
-    "businessperson"
+    "businessperson",
+    "entrepreneur"
   ],
   "education": [
+    "Georges River College",
     "University of New South Wales",
-    "University of Sydney",
-    "Georges River College"
+    "University of Sydney"
   ],
   "employers": [
+    {
+      "company": "Sun Microsystems",
+      "start": "1996-01-01",
+      "end": "2007-08-01"
+    },
     {
       "company": "Toyota Australia",
       "start": "1989-01-01",
@@ -48,11 +53,6 @@
       "company": "Telstra",
       "start": "2017-01-01",
       "end": null
-    },
-    {
-      "company": "Sun Microsystems",
-      "start": "1996-01-01",
-      "end": "2007-08-01"
     }
   ],
   "positions": [
