@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-07-26T09:56:47.323026Z",
+  "fetchedAt": "2026-08-02T09:07:28.720579Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
+          "executive",
           "business executive",
           "pharmacologist",
-          "executive",
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -113,9 +113,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Occidental College",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -239,23 +239,23 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
-          "Washington University in St.\u00a0Louis",
-          "Princeton University",
           "Columbia University",
+          "Washington University in St.\u00a0Louis",
+          "Washington University School of Medicine",
           "Princeton University"
         ],
         "employers": [
           {
-            "company": "New York University",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
+            "company": "New York University",
             "start": null,
             "end": null
           }
@@ -279,11 +279,11 @@
           "computer scientist"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "North-Eastern Hill University"
         ],
         "employers": [],
         "positions": [
@@ -314,14 +314,14 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
+          "university teacher",
           "neuroscientist",
-          "physiologist",
-          "university teacher"
+          "physiologist"
         ],
         "education": [
-          "Horace Greeley High School",
           "Georgetown University",
-          "University of Rochester"
+          "University of Rochester",
+          "Horace Greeley High School"
         ],
         "employers": [
           {
@@ -369,11 +369,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
+          "executive",
           "business executive",
           "pharmacologist",
-          "executive",
-          "veterinarian",
-          "entrepreneur"
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -510,8 +510,8 @@
         "birthPlace": "Ludwigsburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [],
         "employers": [

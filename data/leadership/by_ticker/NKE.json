@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-07-26T09:56:47.318906Z",
+  "fetchedAt": "2026-08-02T09:07:28.715796Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Oxford"
+          "University of Oxford",
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -139,8 +139,8 @@
         "occupations": [
           "rapper",
           "animator",
-          "film director",
-          "film producer"
+          "film producer",
+          "film director"
         ],
         "education": [
           "Jesuit High School",
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "director"
+          "director",
+          "entrepreneur"
         ],
         "education": [
           "Westhill High School",
@@ -247,9 +247,9 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
           "philanthropist",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -257,8 +257,7 @@
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {
@@ -285,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford Graduate School of Business",
           "Stanford University",
-          "Dartmouth College",
-          "Stanford Graduate School of Business"
+          "Dartmouth College"
         ],
         "employers": [
           {
@@ -312,29 +311,29 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
+          "businessperson",
           "manager",
           "computer scientist",
-          "engineer",
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -359,9 +358,9 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "businessperson",
           "philanthropist",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -369,8 +368,7 @@
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {
