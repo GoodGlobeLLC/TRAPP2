@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-07-26T09:56:47.301568Z",
+  "fetchedAt": "2026-08-02T09:16:07.864676Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Toronto",
+          "University of California, Berkeley",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -144,8 +144,8 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "engineer",
           "politician",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -364,8 +364,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -385,16 +385,6 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
@@ -405,8 +395,13 @@
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "The Walt Disney Company",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {
@@ -449,17 +444,17 @@
           {
             "title": "vice president",
             "company": null,
-            "start": "1989-01-01",
-            "end": null
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
             "start": null,
             "end": null
           },
           {
             "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
             "start": null,
             "end": null
@@ -502,9 +497,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "executive",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -550,10 +545,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -596,9 +591,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "entrepreneur",
           "chief executive officer",
-          "businessperson",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley",

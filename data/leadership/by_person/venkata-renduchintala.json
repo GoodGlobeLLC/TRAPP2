@@ -5,18 +5,13 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "engineer",
-    "business executive"
+    "business executive",
+    "engineer"
   ],
   "education": [
     "University of Bradford"
   ],
   "employers": [
-    {
-      "company": "Qualcomm",
-      "start": "2004-01-01",
-      "end": "2015-01-01"
-    },
     {
       "company": "Koninklijke Philips NV",
       "start": "1983-01-01",
@@ -31,6 +26,11 @@
       "company": "Skyworks Solutions",
       "start": "2000-01-01",
       "end": "2004-01-01"
+    },
+    {
+      "company": "Qualcomm",
+      "start": "2004-01-01",
+      "end": "2015-01-01"
     }
   ],
   "positions": [

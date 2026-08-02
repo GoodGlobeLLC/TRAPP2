@@ -5,15 +5,15 @@
   "birthPlace": "Seattle",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
   "occupations": [
-    "administrator",
-    "physician"
+    "physician",
+    "administrator"
   ],
   "education": [
-    "The Wharton School",
-    "Harvard Medical School",
-    "University of Pennsylvania",
-    "Harvard University",
     "Stony Brook University",
+    "Harvard Medical School",
+    "Harvard University",
+    "University of Pennsylvania",
+    "The Wharton School",
     "The Bush School"
   ],
   "employers": [
@@ -23,13 +23,13 @@
       "end": null
     },
     {
-      "company": "Perelman School of Medicine at the University of Pennsylvania",
-      "start": null,
+      "company": "Robert Wood Johnson Foundation",
+      "start": "2001-04-01",
       "end": null
     },
     {
-      "company": "Robert Wood Johnson Foundation",
-      "start": "2001-04-01",
+      "company": "Perelman School of Medicine at the University of Pennsylvania",
+      "start": null,
       "end": null
     }
   ],
@@ -41,16 +41,16 @@
       "end": null
     },
     {
-      "title": "board member",
-      "company": null,
-      "start": "2014-02-21",
-      "end": "2026-03-02"
-    },
-    {
       "title": "chief executive officer",
       "company": null,
       "start": "2003-01-01",
       "end": "2017-04-01"
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2014-02-21",
+      "end": "2026-03-02"
     }
   ],
   "currentTickers": [

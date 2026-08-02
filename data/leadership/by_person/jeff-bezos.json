@@ -8,8 +8,8 @@
     "programmer",
     "commercial astronaut",
     "entrepreneur",
-    "business oligarch",
-    "computer scientist"
+    "computer scientist",
+    "business oligarch"
   ],
   "education": [
     "Miami Palmetto High School",
@@ -17,11 +17,6 @@
     "River Oaks Elementary School"
   ],
   "employers": [
-    {
-      "company": "First International Telecom",
-      "start": null,
-      "end": null
-    },
     {
       "company": "D.E. Shaw",
       "start": "1990-01-01",
@@ -36,6 +31,11 @@
       "company": "Bankers Trust",
       "start": "1988-01-01",
       "end": "1990-01-01"
+    },
+    {
+      "company": "First International Telecom",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [
@@ -46,7 +46,7 @@
       "end": "2021-07-05"
     },
     {
-      "title": "chairman of the executive board",
+      "title": "chairperson of the executive board",
       "company": null,
       "start": null,
       "end": null

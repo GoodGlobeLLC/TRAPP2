@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-07-26T09:56:47.300874Z",
+  "fetchedAt": "2026-08-02T09:16:07.863964Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",
@@ -278,24 +278,19 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
           "university teacher",
-          "politician",
-          "physicist"
+          "physicist",
+          "politician"
         ],
         "education": [
-          "Trumbull College",
-          "Abington Senior High School",
           "Yale College",
           "St John's College",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "Trumbull College",
+          "Abington Senior High School"
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
+            "company": "Fermilab",
             "start": null,
             "end": null
           },
@@ -310,12 +305,23 @@
             "end": null
           },
           {
-            "company": "Fermilab",
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
             "start": null,
             "end": null
           }
         ],
         "positions": [
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "United States Deputy Secretary of Defense",
             "company": null,
@@ -397,15 +403,15 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "administrator",
-          "physician"
+          "physician",
+          "administrator"
         ],
         "education": [
-          "The Wharton School",
-          "Harvard Medical School",
-          "University of Pennsylvania",
-          "Harvard University",
           "Stony Brook University",
+          "Harvard Medical School",
+          "Harvard University",
+          "University of Pennsylvania",
+          "The Wharton School",
           "The Bush School"
         ],
         "employers": [
@@ -415,13 +421,13 @@
             "end": null
           },
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
-            "start": null,
+            "company": "Robert Wood Johnson Foundation",
+            "start": "2001-04-01",
             "end": null
           },
           {
-            "company": "Robert Wood Johnson Foundation",
-            "start": "2001-04-01",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "start": null,
             "end": null
           }
         ],
@@ -433,16 +439,16 @@
             "end": null
           },
           {
-            "title": "board member",
-            "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
-          },
-          {
             "title": "chief executive officer",
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           }
         ]
       }
@@ -482,14 +488,14 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "film producer",
-          "film director",
           "inventor",
+          "film director",
+          "film producer",
           "mathematician",
-          "entrepreneur",
-          "physicist",
           "engineer",
-          "screenwriter"
+          "physicist",
+          "screenwriter",
+          "entrepreneur"
         ],
         "education": [
           "Cooper Union"

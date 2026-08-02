@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-07-26T09:56:47.294657Z",
+  "fetchedAt": "2026-08-02T09:16:07.856875Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -105,8 +105,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "architect",
-          "businessperson"
+          "businessperson",
+          "architect"
         ],
         "education": [
           "University of California, Berkeley"
@@ -135,8 +135,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -146,6 +146,11 @@
         ],
         "employers": [
           {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
+          },
+          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -154,11 +159,6 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -191,9 +191,9 @@
         "occupations": [
           "film producer",
           "business executive",
+          "entrepreneur",
           "television producer",
-          "businessperson",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -292,8 +292,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -351,20 +351,20 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "caricaturist",
-          "director",
-          "producer",
-          "manufacturer",
-          "film producer",
-          "film actor",
-          "painter",
-          "draftsperson",
-          "designer",
-          "film director",
-          "voice actor",
           "television presenter",
           "comics artist",
+          "director",
+          "producer",
+          "film producer",
+          "film director",
+          "draftsperson",
+          "painter",
+          "manufacturer",
+          "designer",
           "illustrator",
+          "film actor",
+          "voice actor",
+          "caricaturist",
           "animator",
           "inventor",
           "writer",
@@ -391,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -402,7 +402,7 @@
         "employers": [],
         "positions": [
           {
-            "title": "chairman of the executive board",
+            "title": "chairperson of the executive board",
             "company": null,
             "start": "2021-01-01",
             "end": null
@@ -425,8 +425,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
-          "San Francisco Art Institute"
+          "San Francisco Art Institute",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": []
@@ -449,10 +449,10 @@
         "education": [
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "Harvard Law School",
           "University of Oxford",
-          "The Branson School",
-          "Princeton University"
+          "Harvard Law School",
+          "Princeton University",
+          "The Branson School"
         ],
         "employers": [],
         "positions": [
@@ -486,10 +486,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -582,8 +582,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -593,7 +593,7 @@
         "employers": [],
         "positions": [
           {
-            "title": "chairman of the executive board",
+            "title": "chairperson of the executive board",
             "company": null,
             "start": "2021-01-01",
             "end": null
@@ -613,8 +613,8 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "banker"
         ],
         "education": [
@@ -804,8 +804,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
         "occupations": [
           "film producer",
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [],
         "employers": [],
@@ -824,20 +824,20 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
         "occupations": [
-          "caricaturist",
-          "director",
-          "producer",
-          "manufacturer",
-          "film producer",
-          "film actor",
-          "painter",
-          "draftsperson",
-          "designer",
-          "film director",
-          "voice actor",
           "television presenter",
           "comics artist",
+          "director",
+          "producer",
+          "film producer",
+          "film director",
+          "draftsperson",
+          "painter",
+          "manufacturer",
+          "designer",
           "illustrator",
+          "film actor",
+          "voice actor",
+          "caricaturist",
           "animator",
           "inventor",
           "writer",

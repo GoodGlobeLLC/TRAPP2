@@ -5,17 +5,21 @@
   "birthPlace": "Cleveland",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
   "occupations": [
-    "computer scientist",
-    "university teacher",
-    "software developer",
     "entrepreneur",
-    "computer scientist"
+    "university teacher",
+    "computer scientist",
+    "software developer"
   ],
   "education": [
     "Xavier University",
     "Carnegie Mellon University"
   ],
   "employers": [
+    {
+      "company": "Adobe",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Palo Alto Research Center",
       "start": "1972-01-01",
@@ -25,11 +29,6 @@
       "company": "John Carroll University",
       "start": "1963-01-01",
       "end": "1968-01-01"
-    },
-    {
-      "company": "Adobe",
-      "start": null,
-      "end": null
     }
   ],
   "positions": [
