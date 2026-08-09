@@ -18,6 +18,7 @@
           "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
@@ -297,8 +298,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "businessperson",
-          "electronic engineer"
+          "electronic engineer",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -416,6 +417,7 @@
           "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
@@ -511,17 +513,17 @@
         ],
         "employers": [
           {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Adobe",
             "start": null,
             "end": null
           }

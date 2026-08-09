@@ -18,6 +18,7 @@
           "engineer",
           "chief executive officer",
           "manager",
+          "chief executive officer",
           "computer scientist",
           "businessperson"
         ],
@@ -179,8 +180,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
+          "university teacher",
           "orator",
-          "blogger",
+          "farmer",
           "environmentalist",
           "financier",
           "journalist",
@@ -250,8 +252,8 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
@@ -318,8 +320,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -364,10 +366,10 @@
           "teacher"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
@@ -449,9 +451,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Homestead High School",
           "Reed College",
-          "De Anza College",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
           {
@@ -471,6 +473,11 @@
           },
           {
             "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
             "start": null,
             "end": null
           }

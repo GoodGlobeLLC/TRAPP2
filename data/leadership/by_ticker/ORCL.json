@@ -220,6 +220,7 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Georgia Tech",
           "Harvard Business School",
           "Harvard University"
@@ -351,10 +352,10 @@
           "banker"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -535,35 +536,23 @@
           "lawyer"
         ],
         "education": [
-          "Santa Clara University School of Law",
           "Santa Clara University College of Arts & Sciences",
-          "Monterey High School"
+          "Monterey High School",
+          "Santa Clara University School of Law"
         ],
         "employers": [
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           },
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           }
         ],
         "positions": [
-          {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1979-01-03",
-            "end": "1981-01-03"
-          },
           {
             "title": "United States Secretary of Defense",
             "company": null,
@@ -575,6 +564,18 @@
             "company": null,
             "start": "1985-01-03",
             "end": "1987-01-03"
+          },
+          {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
           },
           {
             "title": "United States representative",

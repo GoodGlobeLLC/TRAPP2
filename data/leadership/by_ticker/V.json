@@ -229,6 +229,16 @@
         "education": [],
         "employers": [
           {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
+          },
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -409,16 +419,6 @@
         ],
         "employers": [
           {
-            "company": "Yahoo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "IBM",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Gateway",
             "start": "1998-07-01",
             "end": "1999-08-01"
@@ -427,6 +427,16 @@
             "company": "LiveOps",
             "start": "2006-12-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Yahoo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -460,6 +470,11 @@
         ],
         "employers": [
           {
+            "company": "Nestl\u00e9",
+            "start": "1984-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "Kraft Foods Inc.",
             "start": "1995-01-01",
             "end": "2003-01-01"
@@ -478,11 +493,6 @@
             "company": "Procter & Gamble",
             "start": "1975-01-01",
             "end": "1982-01-01"
-          },
-          {
-            "company": "Nestl\u00e9",
-            "start": "1984-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
