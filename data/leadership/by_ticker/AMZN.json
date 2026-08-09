@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-08-02T09:16:07.842246Z",
+  "fetchedAt": "2026-08-09T07:29:20.852745Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard University",
+          "Harvard Business School",
           "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -57,26 +57,16 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
+          "River Oaks Elementary School",
           "Miami Palmetto High School",
-          "Princeton University",
-          "River Oaks Elementary School"
+          "Princeton University"
         ],
         "employers": [
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "Amazon",
-            "start": "1994-07-05",
-            "end": null
-          },
           {
             "company": "Bankers Trust",
             "start": "1988-01-01",
@@ -86,20 +76,30 @@
             "company": "First International Telecom",
             "start": null,
             "end": null
+          },
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "1994-07-05",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1996-05-01",
-            "end": "2021-07-05"
-          },
           {
             "title": "chairperson of the executive board",
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1996-05-01",
+            "end": "2021-07-05"
           }
         ]
       }
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard University",
+          "Harvard Business School",
           "Scarsdale High School"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -334,11 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
-          "computer scientist",
+          "academic",
           "university teacher",
-          "academic"
+          "computer scientist",
+          "executive",
+          "dean"
         ],
         "education": [
           "University of Michigan",
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Horace Mann School",
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -455,26 +455,16 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
+          "River Oaks Elementary School",
           "Miami Palmetto High School",
-          "Princeton University",
-          "River Oaks Elementary School"
+          "Princeton University"
         ],
         "employers": [
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "Amazon",
-            "start": "1994-07-05",
-            "end": null
-          },
           {
             "company": "Bankers Trust",
             "start": "1988-01-01",
@@ -484,20 +474,30 @@
             "company": "First International Telecom",
             "start": null,
             "end": null
+          },
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "1994-07-05",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1996-05-01",
-            "end": "2021-07-05"
-          },
           {
             "title": "chairperson of the executive board",
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1996-05-01",
+            "end": "2021-07-05"
           }
         ]
       }
@@ -517,22 +517,27 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Indian Institute of Management Calcutta",
           "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           },
           {
@@ -543,11 +548,6 @@
           {
             "company": "ABB Group",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
             "end": null
           },
           {
@@ -586,26 +586,16 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
+          "River Oaks Elementary School",
           "Miami Palmetto High School",
-          "Princeton University",
-          "River Oaks Elementary School"
+          "Princeton University"
         ],
         "employers": [
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "Amazon",
-            "start": "1994-07-05",
-            "end": null
-          },
           {
             "company": "Bankers Trust",
             "start": "1988-01-01",
@@ -615,20 +605,30 @@
             "company": "First International Telecom",
             "start": null,
             "end": null
+          },
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "1994-07-05",
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1996-05-01",
-            "end": "2021-07-05"
-          },
           {
             "title": "chairperson of the executive board",
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1996-05-01",
+            "end": "2021-07-05"
           }
         ]
       }

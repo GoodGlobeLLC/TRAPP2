@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "fetchedAt": "2026-08-02T09:16:07.865438Z",
+  "fetchedAt": "2026-08-09T07:29:20.875387Z",
   "people": [
     {
       "qid": "Q3503829",
@@ -14,9 +14,9 @@
         "birthPlace": "Madurai",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundar%20Pichai%20-%202023%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "executive",
-          "chief executive officer"
+          "chief executive officer",
+          "computer scientist"
         ],
         "education": [
           "Vanavani Matriculation Higher Secondary School",
@@ -26,13 +26,13 @@
         ],
         "employers": [
           {
-            "company": "Alphabet Inc.",
-            "start": "2019-01-01",
+            "company": "Google",
+            "start": "2004-01-01",
             "end": null
           },
           {
-            "company": "Google",
-            "start": "2004-01-01",
+            "company": "Alphabet Inc.",
+            "start": "2019-01-01",
             "end": null
           }
         ],
@@ -69,10 +69,10 @@
           "computer scientist"
         ],
         "education": [
+          "Stanford University",
           "University of Michigan",
           "Interlochen Center for the Arts",
-          "East Lansing High School",
-          "Stanford University"
+          "East Lansing High School"
         ],
         "employers": [
           {
