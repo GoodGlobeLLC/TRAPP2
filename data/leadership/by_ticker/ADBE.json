@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-08-02T09:16:07.839192Z",
+  "fetchedAt": "2026-08-09T07:29:20.849744Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -18,10 +18,10 @@
           "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -297,8 +297,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "businessperson",
-          "electronic engineer"
+          "electronic engineer",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Temple University Beasley School of Law",
-          "Harvard University"
+          "Harvard University",
+          "Temple University Beasley School of Law"
         ],
         "employers": [
           {
@@ -416,10 +416,10 @@
           "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -453,8 +453,8 @@
         "occupations": [
           "entrepreneur",
           "university teacher",
-          "computer scientist",
-          "software developer"
+          "software developer",
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
@@ -500,9 +500,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
           "computer scientist",
+          "engineer",
           "mathematician",
           "entrepreneur",
-          "engineer",
           "businessperson"
         ],
         "education": [
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Adobe",
             "start": null,
             "end": null
           }

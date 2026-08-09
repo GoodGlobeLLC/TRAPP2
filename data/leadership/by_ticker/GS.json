@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-08-02T09:16:07.865919Z",
+  "fetchedAt": "2026-08-09T07:29:20.875847Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,16 +50,16 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson",
           "academic",
-          "investment banker"
+          "investment banker",
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "King's College, Lagos",
-          "University of Oxford",
+          "Harvard Business School",
           "Harvard Law School",
-          "Harvard Business School"
+          "University of Oxford",
+          "King's College, Lagos"
         ],
         "employers": [
           {
@@ -88,8 +88,8 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "computer scientist",
           "director",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
@@ -122,11 +122,11 @@
           "business executive"
         ],
         "education": [
-          "Northwestern University",
-          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "Northwestern University",
+          "Tufts University"
         ],
         "employers": [
           {
@@ -181,8 +181,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Yale Law School"
+          "Yale Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -321,10 +321,10 @@
           "chief financial officer"
         ],
         "education": [
-          "Harvard University",
           "Union College",
           "Bronx High School of Science",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -401,10 +401,10 @@
           "university teacher"
         ],
         "education": [
-          "University of Pennsylvania",
           "Bryn Mawr College",
-          "Harvard University",
-          "Concord Academy"
+          "Concord Academy",
+          "University of Pennsylvania",
+          "Harvard University"
         ],
         "employers": [
           {

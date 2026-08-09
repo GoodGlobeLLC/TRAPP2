@@ -9,15 +9,20 @@
     "computer scientist"
   ],
   "education": [
-    "Duke University",
-    "West Virginia University",
     "Indiana University",
     "Indiana University Kelley School of Business",
+    "Duke University",
+    "West Virginia University",
     "West Virginia University College of Law"
   ],
   "employers": [
     {
       "company": "IBM",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Cisco",
       "start": null,
       "end": null
     }

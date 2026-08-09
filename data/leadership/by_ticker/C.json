@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-08-02T09:16:07.848550Z",
+  "fetchedAt": "2026-08-09T07:29:20.858941Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -261,13 +261,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -331,8 +331,8 @@
         "occupations": [
           "television actor",
           "voice actor",
-          "actor",
-          "film actor"
+          "film actor",
+          "actor"
         ],
         "education": [
           "Royal Central School of Speech and Drama"

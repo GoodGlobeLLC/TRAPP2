@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-08-02T09:16:07.863964Z",
+  "fetchedAt": "2026-08-09T07:29:20.873932Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Stanford University",
+          "University of California, Berkeley",
           "Haas School of Business"
         ],
         "employers": [],
@@ -277,9 +277,9 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "university teacher",
+          "politician",
           "physicist",
-          "politician"
+          "university teacher"
         ],
         "education": [
           "Yale College",
@@ -290,7 +290,12 @@
         ],
         "employers": [
           {
-            "company": "Fermilab",
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
@@ -305,12 +310,7 @@
             "end": null
           },
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
+            "company": "Fermilab",
             "start": null,
             "end": null
           }
@@ -361,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -408,15 +408,15 @@
         ],
         "education": [
           "Stony Brook University",
-          "Harvard Medical School",
-          "Harvard University",
-          "University of Pennsylvania",
+          "The Bush School",
           "The Wharton School",
-          "The Bush School"
+          "Harvard Medical School",
+          "University of Pennsylvania",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           },
@@ -426,17 +426,17 @@
             "end": null
           },
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           },
           {
             "title": "chief executive officer",
@@ -445,10 +445,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -488,14 +488,14 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "inventor",
-          "film director",
           "film producer",
+          "film director",
+          "inventor",
           "mathematician",
           "engineer",
+          "entrepreneur",
           "physicist",
-          "screenwriter",
-          "entrepreneur"
+          "screenwriter"
         ],
         "education": [
           "Cooper Union"

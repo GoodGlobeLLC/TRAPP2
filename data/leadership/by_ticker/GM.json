@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-08-02T09:16:07.864676Z",
+  "fetchedAt": "2026-08-09T07:29:20.874628Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -250,8 +250,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "chief executive officer"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
           "Union College",
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -395,13 +395,13 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
-            "start": null,
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
+            "company": "The Walt Disney Company",
+            "start": null,
             "end": null
           },
           {
@@ -545,10 +545,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -591,8 +591,8 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "businessperson"
         ],
         "education": [

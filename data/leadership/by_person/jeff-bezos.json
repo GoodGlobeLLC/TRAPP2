@@ -7,26 +7,16 @@
   "occupations": [
     "programmer",
     "commercial astronaut",
+    "business oligarch",
     "entrepreneur",
-    "computer scientist",
-    "business oligarch"
+    "computer scientist"
   ],
   "education": [
+    "River Oaks Elementary School",
     "Miami Palmetto High School",
-    "Princeton University",
-    "River Oaks Elementary School"
+    "Princeton University"
   ],
   "employers": [
-    {
-      "company": "D.E. Shaw",
-      "start": "1990-01-01",
-      "end": "1994-01-01"
-    },
-    {
-      "company": "Amazon",
-      "start": "1994-07-05",
-      "end": null
-    },
     {
       "company": "Bankers Trust",
       "start": "1988-01-01",
@@ -36,20 +26,30 @@
       "company": "First International Telecom",
       "start": null,
       "end": null
+    },
+    {
+      "company": "D.E. Shaw",
+      "start": "1990-01-01",
+      "end": "1994-01-01"
+    },
+    {
+      "company": "Amazon",
+      "start": "1994-07-05",
+      "end": null
     }
   ],
   "positions": [
-    {
-      "title": "chief executive officer",
-      "company": null,
-      "start": "1996-05-01",
-      "end": "2021-07-05"
-    },
     {
       "title": "chairperson of the executive board",
       "company": null,
       "start": null,
       "end": null
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "1996-05-01",
+      "end": "2021-07-05"
     }
   ],
   "currentTickers": [

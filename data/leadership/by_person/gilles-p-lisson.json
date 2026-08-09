@@ -11,11 +11,26 @@
   "education": [
     "ESSEC Business School",
     "Harvard Business School",
+    "\u00c9cole alsacienne",
     "Harvard University",
-    "lyc\u00e9e du Parc",
-    "\u00c9cole alsacienne"
+    "lyc\u00e9e du Parc"
   ],
   "employers": [
+    {
+      "company": "Bouygues Telecom",
+      "start": "2001-01-01",
+      "end": "2005-01-01"
+    },
+    {
+      "company": "Euro Disney S.C.A.",
+      "start": "1995-01-01",
+      "end": "2000-01-01"
+    },
+    {
+      "company": "Suez",
+      "start": "2000-01-01",
+      "end": "2001-01-01"
+    },
     {
       "company": "Accor",
       "start": "1983-01-01",
@@ -35,24 +50,15 @@
       "company": "Groupe TF1",
       "start": "2016-01-01",
       "end": "2023-01-01"
-    },
-    {
-      "company": "Bouygues Telecom",
-      "start": "2001-01-01",
-      "end": "2005-01-01"
-    },
-    {
-      "company": "Euro Disney S.C.A.",
-      "start": "1995-01-01",
-      "end": "2000-01-01"
-    },
-    {
-      "company": "Suez",
-      "start": "2000-01-01",
-      "end": "2001-01-01"
     }
   ],
   "positions": [
+    {
+      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+      "company": null,
+      "start": "1997-02-01",
+      "end": "2000-01-01"
+    },
     {
       "title": "board of directors member",
       "company": null,
@@ -82,12 +88,6 @@
       "company": null,
       "start": "2001-09-01",
       "end": "2004-02-01"
-    },
-    {
-      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-      "company": null,
-      "start": "1997-02-01",
-      "end": "2000-01-01"
     },
     {
       "title": "director general",

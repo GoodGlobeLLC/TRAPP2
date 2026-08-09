@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:16:07.946274Z",
+  "generatedAt": "2026-08-09T07:29:20.951204Z",
   "totalPeople": 952,
   "totalTickers": 136,
   "lastRangeFilter": "A-G",
@@ -75,7 +75,7 @@
         "A"
       ],
       "positionsCount": 2,
-      "employersCount": 2
+      "employersCount": 3
     },
     {
       "qid": "Q97458797",
@@ -132,7 +132,7 @@
       "name": "Tim Cook",
       "slug": "tim-cook",
       "tickers": [
-        "NKE"
+        "AAPL"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -163,7 +163,8 @@
       "name": "Ronald Sugar",
       "slug": "ronald-sugar",
       "tickers": [
-        "UBER"
+        "AAPL",
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -265,7 +266,8 @@
       "name": "Glenn Tilton",
       "slug": "glenn-tilton",
       "tickers": [
-        "PSX"
+        "ABBV",
+        "ABT"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -356,7 +358,7 @@
       "name": "Roxanne Austin",
       "slug": "roxanne-austin",
       "tickers": [
-        "VZ"
+        "ABBV"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -407,7 +409,8 @@
       "name": "Joe Gebbia",
       "slug": "joe-gebbia",
       "tickers": [
-        "TSLA"
+        "ABNB",
+        "ABNB"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -653,7 +656,8 @@
       "name": "Beth E. Mooney",
       "slug": "beth-e-mooney",
       "tickers": [
-        "T"
+        "ACN",
+        "F"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -703,7 +707,8 @@
       "name": "Shantanu Narayen",
       "slug": "shantanu-narayen",
       "tickers": [
-        "PFE"
+        "ADBE",
+        "ADBE"
       ],
       "positionsCount": 2,
       "employersCount": 0
@@ -783,7 +788,7 @@
       "name": "Cristiano Amon",
       "slug": "cristiano-amon",
       "tickers": [
-        "QCOM"
+        "ADBE"
       ],
       "positionsCount": 3,
       "employersCount": 1
@@ -914,7 +919,7 @@
       "name": "W. Don Cornwell",
       "slug": "w-don-cornwell",
       "tickers": [
-        "PFE"
+        "AIG"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -975,7 +980,7 @@
       "name": "Kermit Crawford",
       "slug": "kermit-crawford",
       "tickers": [
-        "V"
+        "ALL"
       ],
       "positionsCount": 2,
       "employersCount": 3
@@ -1005,7 +1010,7 @@
       "name": "Maria Morris",
       "slug": "maria-morris",
       "tickers": [
-        "WFC"
+        "ALL"
       ],
       "positionsCount": 1,
       "employersCount": 1
@@ -1392,7 +1397,7 @@
       "name": "Lisa Davis",
       "slug": "lisa-davis",
       "tickers": [
-        "PSX"
+        "APD"
       ],
       "positionsCount": 1,
       "employersCount": 1
@@ -1927,8 +1932,7 @@
       "name": "Denise Ramos",
       "slug": "denise-ramos",
       "tickers": [
-        "PSX",
-        "RTX"
+        "BAC"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -2246,7 +2250,7 @@
       "name": "Jim Turley",
       "slug": "jim-turley",
       "tickers": [
-        "NOC"
+        "C"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -2256,7 +2260,7 @@
       "name": "Ren\u00e9e James",
       "slug": "ren-e-james",
       "tickers": [
-        "ORCL"
+        "C"
       ],
       "positionsCount": 2,
       "employersCount": 2
@@ -2266,7 +2270,7 @@
       "name": "Peter Henry",
       "slug": "peter-henry",
       "tickers": [
-        "NKE"
+        "C"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3101,7 +3105,7 @@
         "CSCO"
       ],
       "positionsCount": 1,
-      "employersCount": 0
+      "employersCount": 1
     },
     {
       "qid": "Q6249428",
@@ -3111,7 +3115,7 @@
         "CSCO"
       ],
       "positionsCount": 0,
-      "employersCount": 4
+      "employersCount": 5
     },
     {
       "qid": "Q1393271",
@@ -3121,7 +3125,7 @@
         "CSCO"
       ],
       "positionsCount": 0,
-      "employersCount": 1
+      "employersCount": 2
     },
     {
       "qid": "Q6829086",
@@ -3160,8 +3164,7 @@
       "name": "Dan Schulman",
       "slug": "dan-schulman",
       "tickers": [
-        "PYPL",
-        "VZ"
+        "CSCO"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -3211,7 +3214,7 @@
       "name": "John Harris",
       "slug": "john-harris",
       "tickers": [
-        "XOM"
+        "CSCO"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -3313,7 +3316,7 @@
       "name": "Roger N. Farah",
       "slug": "roger-n-farah",
       "tickers": [
-        "PGR"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -3393,7 +3396,7 @@
       "name": "Mark T. Bertolini",
       "slug": "mark-t-bertolini",
       "tickers": [
-        "VZ"
+        "CVS"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3464,7 +3467,7 @@
       "name": "Charles Moorman",
       "slug": "charles-moorman",
       "tickers": [
-        "ORCL"
+        "CVX"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -3712,7 +3715,7 @@
       "name": "Mark Parker",
       "slug": "mark-parker",
       "tickers": [
-        "NKE"
+        "DIS"
       ],
       "positionsCount": 0,
       "employersCount": 1
@@ -3722,7 +3725,7 @@
       "name": "Safra Catz",
       "slug": "safra-catz",
       "tickers": [
-        "ORCL"
+        "DIS"
       ],
       "positionsCount": 6,
       "employersCount": 2
@@ -4106,7 +4109,7 @@
       "name": "William Kennard",
       "slug": "william-kennard",
       "tickers": [
-        "T"
+        "F"
       ],
       "positionsCount": 2,
       "employersCount": 1
@@ -4147,7 +4150,7 @@
       "name": "David Abney",
       "slug": "david-abney",
       "tickers": [
-        "NOC"
+        "FCX"
       ],
       "positionsCount": 0,
       "employersCount": 2
@@ -4389,7 +4392,7 @@
       "name": "Thomas Horton",
       "slug": "thomas-horton",
       "tickers": [
-        "WMT"
+        "GE"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4529,7 +4532,7 @@
       "name": "Thomas Schoewe",
       "slug": "thomas-schoewe",
       "tickers": [
-        "NOC"
+        "GM"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4589,8 +4592,7 @@
       "name": "Aneel Bhusri",
       "slug": "aneel-bhusri",
       "tickers": [
-        "WDAY",
-        "WDAY"
+        "GM"
       ],
       "positionsCount": 0,
       "employersCount": 0
@@ -4703,7 +4705,7 @@
       "name": "Jan E. Tighe",
       "slug": "jan-e-tighe",
       "tickers": [
-        "PGR"
+        "GS"
       ],
       "positionsCount": 0,
       "employersCount": 0
