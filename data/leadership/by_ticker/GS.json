@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-08-02T09:16:07.865919Z",
+  "fetchedAt": "2026-08-09T08:55:14.962643Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,16 +50,16 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson",
           "academic",
-          "investment banker"
+          "investment banker",
+          "lawyer",
+          "businessperson"
         ],
         "education": [
-          "King's College, Lagos",
           "University of Oxford",
           "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "King's College, Lagos"
         ],
         "employers": [
           {
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
+          "businessperson",
           "computer scientist",
-          "director",
-          "businessperson"
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -181,8 +181,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Yale Law School"
+          "Yale Law School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -321,9 +321,9 @@
           "chief financial officer"
         ],
         "education": [
-          "Harvard University",
           "Union College",
           "Bronx High School of Science",
+          "Harvard University",
           "Harvard Business School"
         ],
         "employers": [
@@ -397,14 +397,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "historian",
-          "university teacher"
+          "university teacher",
+          "historian"
         ],
         "education": [
-          "University of Pennsylvania",
+          "Concord Academy",
           "Bryn Mawr College",
           "Harvard University",
-          "Concord Academy"
+          "University of Pennsylvania"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-07-26T09:56:47.317344Z",
+  "fetchedAt": "2026-08-09T08:55:14.972991Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Syracuse University",
@@ -166,17 +166,17 @@
         ],
         "employers": [
           {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -273,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -305,18 +305,18 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "consultant",
           "podcaster",
           "financier",
+          "consultant",
           "investor",
-          "writer",
           "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "The Putney School",
-          "Wolfson College",
-          "Stanford University"
+          "Wolfson College"
         ],
         "employers": [
           {
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Princeton University"
+          "Princeton University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -443,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "philanthropist",
           "art collector",
-          "investor",
-          "co-founder",
           "programmer",
+          "co-founder",
           "film producer",
-          "musician",
-          "inventor",
           "record producer",
+          "television producer",
+          "musician",
+          "investor",
+          "inventor",
           "entrepreneur",
-          "composer",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "composer"
         ],
         "education": [
           "Washington State University",
-          "Lakeside School",
-          "Harvard University"
+          "Harvard University",
+          "Lakeside School"
         ],
         "employers": [
           {

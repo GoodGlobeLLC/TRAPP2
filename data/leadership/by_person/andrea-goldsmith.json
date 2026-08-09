@@ -7,20 +7,15 @@
   "occupations": [
     "university teacher",
     "electrotechnician",
+    "electrical engineer",
     "academic",
-    "computer scientist",
-    "electrical engineer"
+    "computer scientist"
   ],
   "education": [
     "University of California, Berkeley",
     "University of California, Berkeley College of Engineering"
   ],
   "employers": [
-    {
-      "company": "Princeton University",
-      "start": "2020-01-01",
-      "end": null
-    },
     {
       "company": "California Institute of Technology",
       "start": null,
@@ -29,6 +24,11 @@
     {
       "company": "Stanford University",
       "start": null,
+      "end": null
+    },
+    {
+      "company": "Princeton University",
+      "start": "2020-01-01",
       "end": null
     }
   ],

@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-08-02T09:07:28.720579Z",
+  "fetchedAt": "2026-08-09T08:55:14.977309Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,10 +14,10 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "executive",
           "business executive",
           "pharmacologist",
           "entrepreneur",
+          "executive",
           "veterinarian"
         ],
         "education": [
@@ -69,11 +69,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
+          "physician",
           "molecular geneticist",
           "biochemist",
-          "physician",
-          "university teacher",
-          "researcher"
+          "researcher",
+          "university teacher"
         ],
         "education": [
           "Stanford University"
@@ -113,9 +113,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Occidental College",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -239,23 +239,23 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
-          "Columbia University",
+          "Princeton University",
           "Washington University in St.\u00a0Louis",
           "Washington University School of Medicine",
-          "Princeton University"
+          "Columbia University"
         ],
         "employers": [
           {
-            "company": "University of California, San Francisco",
+            "company": "New York University",
             "start": null,
             "end": null
           },
           {
-            "company": "New York University",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           }
@@ -275,15 +275,15 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University"
+          "North-Eastern Hill University",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -314,8 +314,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "university teacher",
           "neuroscientist",
+          "university teacher",
           "physiologist"
         ],
         "education": [
@@ -369,10 +369,10 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "executive",
           "business executive",
           "pharmacologist",
           "entrepreneur",
+          "executive",
           "veterinarian"
         ],
         "education": [
@@ -474,8 +474,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",

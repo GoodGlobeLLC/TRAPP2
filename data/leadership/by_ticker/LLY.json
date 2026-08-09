@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-07-26T09:56:47.310541Z",
+  "fetchedAt": "2026-08-09T08:55:14.968983Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -81,8 +81,8 @@
         ],
         "education": [
           "Xavier University",
-          "Harvard University",
-          "St. Xavier High School"
+          "St. Xavier High School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -283,12 +283,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -343,14 +343,19 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
+            "company": "Cisco",
+            "start": "2009-09-01",
+            "end": "2019-07-01"
           },
           {
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -378,9 +383,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Princeton University",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [
           {

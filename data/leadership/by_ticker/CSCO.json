@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-08-02T09:16:07.853793Z",
+  "fetchedAt": "2026-08-09T08:55:14.954106Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -20,7 +20,13 @@
           "Rocky Mount High School",
           "University of North Carolina at Chapel Hill"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Cisco",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": [
           {
             "title": "chief executive officer",
@@ -46,8 +52,8 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "University of Wisconsin\u2013Madison",
+          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
           "Stanford Graduate School of Business"
@@ -65,6 +71,11 @@
           },
           {
             "company": "Honeywell",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -93,15 +104,20 @@
           "computer scientist"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
+          "Duke University",
+          "West Virginia University",
           "West Virginia University College of Law"
         ],
         "employers": [
           {
             "company": "IBM",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cisco",
             "start": null,
             "end": null
           }
@@ -402,7 +418,13 @@
           "Rocky Mount High School",
           "University of North Carolina at Chapel Hill"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Cisco",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": [
           {
             "title": "chief executive officer",
@@ -425,8 +447,8 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "electrical engineer",
+          "chief executive officer",
           "entrepreneur"
         ],
         "education": [

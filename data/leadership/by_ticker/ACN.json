@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-08-02T09:16:07.838559Z",
+  "fetchedAt": "2026-08-09T08:55:14.944153Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -268,11 +268,11 @@
           "businessperson"
         ],
         "education": [
-          "ESSEC Business School",
-          "Harvard Business School",
           "Harvard University",
           "lyc\u00e9e du Parc",
-          "\u00c9cole alsacienne"
+          "\u00c9cole alsacienne",
+          "ESSEC Business School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -327,8 +327,8 @@
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
-            "start": "2009-02-01",
-            "end": "2010-11-30"
+            "start": "1997-02-01",
+            "end": "2000-01-01"
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
@@ -345,8 +345,8 @@
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
+            "start": "2009-02-01",
+            "end": "2010-11-30"
           },
           {
             "title": "director general",
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -412,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "University of Bradford"
@@ -473,14 +473,14 @@
             "end": "2020-08-01"
           },
           {
-            "company": "Skyworks Solutions",
-            "start": "2000-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Qualcomm",
             "start": "2004-01-01",
             "end": "2015-01-01"
+          },
+          {
+            "company": "Skyworks Solutions",
+            "start": "2000-01-01",
+            "end": "2004-01-01"
           }
         ],
         "positions": [

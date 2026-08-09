@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-08-02T09:16:07.834833Z",
+  "fetchedAt": "2026-08-09T08:55:14.941056Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -53,19 +53,14 @@
         "image": null,
         "occupations": [
           "physician",
-          "university teacher",
-          "gastroenterologist"
+          "gastroenterologist",
+          "university teacher"
         ],
         "education": [
           "Harvard College",
           "Harvard Medical School"
         ],
         "employers": [
-          {
-            "company": "Partners HealthCare Connected Health",
-            "start": "2005-01-01",
-            "end": "2008-01-01"
-          },
           {
             "company": "University of Texas Southwestern Medical Center",
             "start": "2008-09-01",
@@ -80,6 +75,11 @@
             "company": "Massachusetts General Hospital",
             "start": "1981-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Partners HealthCare Connected Health",
+            "start": "2005-01-01",
+            "end": "2008-01-01"
           }
         ],
         "positions": [
@@ -104,9 +104,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "oncologist",
           "scientist",
-          "physician",
-          "oncologist"
+          "physician"
         ],
         "education": [
           "University of Chicago",
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
-          "Harvard University",
           "University of London",
-          "Harvard Business School"
+          "Imperial College London",
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -416,20 +416,25 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
           {
-            "company": "Microsoft",
-            "start": "2016-11-01",
-            "end": null
-          },
-          {
             "company": "SAP",
             "start": "2016-10-01",
             "end": "2019-10-01"
+          },
+          {
+            "company": "Cisco",
+            "start": "2007-10-01",
+            "end": "2014-06-01"
+          },
+          {
+            "company": "Microsoft",
+            "start": "2016-11-01",
+            "end": null
           }
         ],
         "positions": [

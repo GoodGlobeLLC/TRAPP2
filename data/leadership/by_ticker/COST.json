@@ -1,6 +1,6 @@
 {
   "ticker": "COST",
-  "fetchedAt": "2026-08-02T09:16:07.852717Z",
+  "fetchedAt": "2026-08-09T08:55:14.953340Z",
   "people": [
     {
       "qid": "Q114361370",
@@ -58,8 +58,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -273,8 +273,8 @@
         "image": null,
         "occupations": [
           "chief executive officer",
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -331,6 +331,11 @@
         ],
         "employers": [
           {
+            "company": "Mobil",
+            "start": "1978-01-01",
+            "end": "1981-01-01"
+          },
+          {
             "company": "Security Pacific Bank",
             "start": null,
             "end": null
@@ -344,26 +349,9 @@
             "company": "Washington Mutual",
             "start": "1995-01-01",
             "end": "2000-01-01"
-          },
-          {
-            "company": "Mobil",
-            "start": "1978-01-01",
-            "end": "1981-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "1996-01-01",
-            "end": "2000-01-01"
-          },
-          {
-            "title": "United States Secretary of the Interior",
-            "company": null,
-            "start": "2013-04-12",
-            "end": "2017-01-20"
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -375,6 +363,18 @@
             "company": null,
             "start": "2020-01-01",
             "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "title": "United States Secretary of the Interior",
+            "company": null,
+            "start": "2013-04-12",
+            "end": "2017-01-20"
           }
         ]
       }
@@ -434,10 +434,10 @@
           "investor"
         ],
         "education": [
-          "Omaha Central High School",
-          "University of Michigan College of Literature, Science, and the Arts",
           "California Institute of Technology",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Omaha Central High School",
+          "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
           {

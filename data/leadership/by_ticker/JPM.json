@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-07-26T09:56:47.307881Z",
+  "fetchedAt": "2026-08-09T08:55:14.967464Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,12 +17,22 @@
           "banker"
         ],
         "education": [
-          "Tufts University",
-          "Harvard University",
           "Harvard Business School",
-          "Browning School"
+          "Tufts University",
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
+          },
           {
             "company": "Goldman Sachs",
             "start": null,
@@ -37,16 +47,6 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -165,9 +165,9 @@
           "engineer"
         ],
         "education": [
-          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute"
+          "Rensselaer Polytechnic Institute",
+          "Indiana University"
         ],
         "employers": [
           {
@@ -457,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Colgate University",
           "Harvard Business School",
-          "Harvard University",
-          "Colgate University"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -503,12 +503,22 @@
           "banker"
         ],
         "education": [
-          "Tufts University",
-          "Harvard University",
           "Harvard Business School",
-          "Browning School"
+          "Tufts University",
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
+          {
+            "company": "Bank One Corporation",
+            "start": "2000-03-01",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "American Express",
+            "start": "1982-01-01",
+            "end": "1985-01-01"
+          },
           {
             "company": "Goldman Sachs",
             "start": null,
@@ -523,16 +533,6 @@
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Bank One Corporation",
-            "start": "2000-03-01",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "American Express",
-            "start": "1982-01-01",
-            "end": "1985-01-01"
           }
         ],
         "positions": [
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
+          "businessperson",
           "computer scientist",
-          "entrepreneur",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

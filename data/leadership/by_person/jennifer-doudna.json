@@ -5,20 +5,25 @@
   "birthPlace": "Washington, D.C.",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
   "occupations": [
-    "molecular biologist",
-    "crystallographer",
-    "biochemist",
     "chemist",
-    "university teacher"
+    "molecular biologist",
+    "biochemist",
+    "university teacher",
+    "crystallographer"
   ],
   "education": [
+    "Harvard University",
     "Pomona College",
-    "Hilo High School",
-    "Harvard University"
+    "Hilo High School"
   ],
   "employers": [
     {
-      "company": "University of California, San Francisco",
+      "company": "Yale University",
+      "start": "1994-01-01",
+      "end": "2002-01-01"
+    },
+    {
+      "company": "Howard Hughes Medical Institute",
       "start": null,
       "end": null
     },
@@ -28,12 +33,7 @@
       "end": null
     },
     {
-      "company": "Yale University",
-      "start": "1994-01-01",
-      "end": "2002-01-01"
-    },
-    {
-      "company": "Howard Hughes Medical Institute",
+      "company": "University of California, San Francisco",
       "start": null,
       "end": null
     }

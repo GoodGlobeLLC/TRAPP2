@@ -9,31 +9,11 @@
     "entrepreneur"
   ],
   "education": [
-    "Georges River College",
     "University of New South Wales",
-    "University of Sydney"
+    "University of Sydney",
+    "Georges River College"
   ],
   "employers": [
-    {
-      "company": "Sun Microsystems",
-      "start": "1996-01-01",
-      "end": "2007-08-01"
-    },
-    {
-      "company": "Toyota Australia",
-      "start": "1989-01-01",
-      "end": "1996-01-01"
-    },
-    {
-      "company": "Juniper Networks",
-      "start": "2007-08-01",
-      "end": "2016-08-01"
-    },
-    {
-      "company": "Echelon Corporation",
-      "start": "2008-01-01",
-      "end": "2013-01-01"
-    },
     {
       "company": "Tesla",
       "start": "2014-01-01",
@@ -53,6 +33,26 @@
       "company": "Telstra",
       "start": "2017-01-01",
       "end": null
+    },
+    {
+      "company": "Toyota Australia",
+      "start": "1989-01-01",
+      "end": "1996-01-01"
+    },
+    {
+      "company": "Juniper Networks",
+      "start": "2007-08-01",
+      "end": "2016-08-01"
+    },
+    {
+      "company": "Echelon Corporation",
+      "start": "2008-01-01",
+      "end": "2013-01-01"
+    },
+    {
+      "company": "Sun Microsystems",
+      "start": "1996-01-01",
+      "end": "2007-08-01"
     }
   ],
   "positions": [

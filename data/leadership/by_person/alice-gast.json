@@ -5,9 +5,9 @@
   "birthPlace": "Houston",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
   "occupations": [
-    "academic administrator",
     "chemical engineer",
-    "chemist"
+    "chemist",
+    "academic administrator"
   ],
   "education": [
     "University of Southern California",
@@ -15,17 +15,17 @@
   ],
   "employers": [
     {
+      "company": "Imperial College London",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Stanford University",
       "start": null,
       "end": null
     },
     {
       "company": "Massachusetts Institute of Technology",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Imperial College London",
       "start": null,
       "end": null
     }

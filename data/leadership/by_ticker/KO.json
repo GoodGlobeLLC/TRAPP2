@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-07-26T09:56:47.309686Z",
+  "fetchedAt": "2026-08-09T08:55:14.968296Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -325,27 +325,17 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "social worker",
-          "business executive",
           "sociologist",
-          "politician"
+          "politician",
+          "business executive",
+          "social worker"
         ],
         "education": [
-          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College"
+          "Edgewood College",
+          "Xavier University of Louisiana"
         ],
         "employers": [
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
-            "start": null,
-            "end": null
-          },
           {
             "company": "The Coca-Cola Company",
             "start": "2001-01-01",
@@ -380,20 +370,30 @@
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
+          },
+          {
+            "company": "United States Women's Bureau",
+            "start": "1977-04-04",
+            "end": "1981-01-20"
+          },
+          {
+            "company": "Southern Regional Council",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "United States Secretary of Labor",
-            "company": null,
-            "start": "1997-05-01",
-            "end": "2001-01-20"
-          },
           {
             "title": "Director of the Office of Public Liaison",
             "company": null,
             "start": "1993-01-20",
             "end": "1997-02-07"
+          },
+          {
+            "title": "United States Secretary of Labor",
+            "company": null,
+            "start": "1997-05-01",
+            "end": "2001-01-20"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-08-02T09:16:07.863964Z",
+  "fetchedAt": "2026-08-09T08:55:14.961298Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Wellesley College"
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -218,8 +218,8 @@
         "birthPlace": "Nairobi",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Tepper School of Business",
@@ -258,8 +258,8 @@
         ],
         "education": [
           "University of California, Berkeley",
-          "Stanford University",
-          "Haas School of Business"
+          "Haas School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -277,8 +277,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "university teacher",
           "physicist",
+          "university teacher",
           "politician"
         ],
         "education": [
@@ -295,22 +295,22 @@
             "end": null
           },
           {
-            "company": "MIT Center for International Studies",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Brookhaven National Laboratory",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Harvard University",
             "start": null,
             "end": null
           },
           {
             "company": "United States Department of Defense",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "MIT Center for International Studies",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Brookhaven National Laboratory",
             "start": null,
             "end": null
           }
@@ -361,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -407,16 +407,16 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
-          "Harvard Medical School",
-          "Harvard University",
-          "University of Pennsylvania",
+          "The Bush School",
           "The Wharton School",
-          "The Bush School"
+          "Stony Brook University",
+          "University of Pennsylvania",
+          "Harvard Medical School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           },
@@ -426,17 +426,17 @@
             "end": null
           },
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           },
           {
             "title": "chief executive officer",
@@ -445,10 +445,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
+          "Cornell University",
           "Suffield Academy",
-          "The Wharton School",
-          "Cornell University"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -488,14 +488,14 @@
         "birthPlace": "Milan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Edison2.jpg",
         "occupations": [
-          "inventor",
-          "film director",
           "film producer",
-          "mathematician",
-          "engineer",
+          "film director",
+          "entrepreneur",
+          "inventor",
           "physicist",
-          "screenwriter",
-          "entrepreneur"
+          "engineer",
+          "mathematician",
+          "screenwriter"
         ],
         "education": [
           "Cooper Union"

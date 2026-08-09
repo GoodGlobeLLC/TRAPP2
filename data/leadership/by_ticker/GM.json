@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-08-02T09:16:07.864676Z",
+  "fetchedAt": "2026-08-09T08:55:14.961780Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -117,10 +117,10 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "University of Toronto",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -249,8 +249,8 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "business executive",
           "lawyer",
+          "business executive",
           "chief executive officer"
         ],
         "education": [
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -344,9 +344,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -375,12 +375,17 @@
         ],
         "employers": [
           {
-            "company": "Hasbro",
+            "company": "Quibi",
             "start": null,
             "end": null
           },
           {
-            "company": "Bain & Company",
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -395,28 +400,17 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
+            "company": "Hasbro",
             "start": null,
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
-            "company": "Quibi",
+            "company": "Bain & Company",
             "start": null,
             "end": null
           }
         ],
         "positions": [
-          {
-            "title": "general manager",
-            "company": null,
-            "start": "1997-01-01",
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -448,15 +442,21 @@
             "end": null
           },
           {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "vice president",
             "company": null,
             "start": "1989-01-01",
             "end": null
           },
           {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "title": "general manager",
             "company": null,
-            "start": null,
+            "start": "1997-01-01",
             "end": null
           }
         ]
@@ -497,9 +497,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
           "Grosse Ile High School"
@@ -591,13 +591,13 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Stanford University"
+          "Stanford University",
+          "University of California, Berkeley"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-08-02T09:07:28.730322Z",
+  "fetchedAt": "2026-08-09T08:55:14.982608Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,17 +18,17 @@
           "business executive"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -168,19 +168,19 @@
         "education": [
           "John F. Kennedy School of Government",
           "Harvard Law School",
-          "James B. Dudley High School",
-          "Brown University"
+          "Brown University",
+          "James B. Dudley High School"
         ],
         "employers": [
           {
-            "company": "BET",
+            "company": "Ad Council",
             "start": null,
             "end": null
           },
           {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Monsanto",
@@ -193,6 +193,16 @@
             "end": null
           },
           {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Revlon",
             "start": null,
             "end": null
@@ -201,16 +211,6 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -244,9 +244,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -284,8 +284,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
-          "Princeton University"
+          "Princeton University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -326,17 +326,17 @@
           "business executive"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }

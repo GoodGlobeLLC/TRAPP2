@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-08-02T09:16:07.836057Z",
+  "fetchedAt": "2026-08-09T08:55:14.942126Z",
   "people": [
     {
       "qid": "Q265852",
@@ -15,18 +15,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "businessperson",
+          "engineer",
           "chief executive officer",
           "manager",
           "computer scientist",
-          "engineer"
+          "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -185,17 +185,17 @@
           "financier",
           "journalist",
           "university teacher",
-          "businessperson",
           "farmer",
-          "politician",
-          "writer"
+          "writer",
+          "businessperson",
+          "politician"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -216,12 +216,6 @@
             "company": null,
             "start": "1983-01-03",
             "end": "1985-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
           },
           {
             "title": "Vice President of the United States",
@@ -264,6 +258,12 @@
             "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           }
         ]
       }
@@ -280,13 +280,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
           "molecular biologist",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -353,15 +353,15 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "inventor",
-          "programmer",
-          "electronics technician",
           "entrepreneur",
           "computer scientist",
+          "programmer",
+          "electronics technician",
           "engineer",
+          "actor",
           "businessperson",
-          "teacher",
-          "actor"
+          "inventor",
+          "teacher"
         ],
         "education": [
           "University of Colorado",
@@ -372,22 +372,22 @@
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           }
@@ -407,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
-          "writer",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -438,15 +438,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "film producer",
-          "financier",
           "technology entrepreneur",
-          "founder",
           "designer",
-          "entrepreneur",
+          "financier",
           "general manager",
           "executive producer",
+          "inventor",
+          "founder",
           "computer scientist",
-          "inventor"
+          "entrepreneur"
         ],
         "education": [
           "Reed College",
@@ -460,7 +460,7 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -470,7 +470,7 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }

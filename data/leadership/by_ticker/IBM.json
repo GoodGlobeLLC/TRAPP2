@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-07-26T09:56:47.304787Z",
+  "fetchedAt": "2026-08-09T08:55:14.965341Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -89,9 +89,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
+          "businessperson",
           "computer scientist",
-          "entrepreneur",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",
@@ -196,9 +196,9 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "chairman of the executive board",
-          "business manager",
           "bank teller",
+          "chairperson of the executive board",
+          "business manager",
           "businessperson"
         ],
         "education": [
@@ -229,8 +229,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Kellogg School of Management",
@@ -268,12 +268,12 @@
         ],
         "employers": [
           {
-            "company": "University of Michigan",
+            "company": "University of Pittsburgh",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Pittsburgh",
+            "company": "University of Michigan",
             "start": null,
             "end": null
           },
@@ -515,7 +515,7 @@
         "qid": "Q116012",
         "name": "Peter Voser",
         "dateOfBirth": "1958-08-29",
-        "birthPlace": null,
+        "birthPlace": "Baden",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Voser.jpg",
         "occupations": [
           "businessperson"
@@ -552,8 +552,8 @@
         "birthPlace": "Darwin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
           "Darwin High School",
@@ -610,8 +610,8 @@
         "birthPlace": "Campbell",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20J%20Watson%20Sr.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Columbia University"

@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-08-02T09:16:07.855328Z",
+  "fetchedAt": "2026-08-09T08:55:14.955262Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University",
-          "University of Michigan Law School"
+          "Wesleyan University"
         ],
         "employers": [],
         "positions": []
@@ -112,8 +112,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -147,9 +147,9 @@
         ],
         "education": [
           "Columbia University",
-          "Harvard Business School",
           "Columbia Business School",
-          "University of Alabama"
+          "University of Alabama",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -192,9 +192,9 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "academic administrator",
           "chemical engineer",
-          "chemist"
+          "chemist",
+          "academic administrator"
         ],
         "education": [
           "University of Southern California",
@@ -202,17 +202,17 @@
         ],
         "employers": [
           {
+            "company": "Imperial College London",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stanford University",
             "start": null,
             "end": null
           },
           {
             "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Imperial College London",
             "start": null,
             "end": null
           }
@@ -264,8 +264,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "University of Colorado",
@@ -354,11 +354,11 @@
           "military flight engineer"
         ],
         "education": [
-          "University of Pittsburgh",
-          "University of Southern California",
-          "USC Viterbi School of Engineering",
           "Bronx High School of Science",
-          "Franklin & Marshall College"
+          "Franklin & Marshall College",
+          "USC Viterbi School of Engineering",
+          "University of Pittsburgh",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -391,11 +391,11 @@
           "writer"
         ],
         "education": [
-          "John F. Kennedy School of Government",
-          "Harvard University",
           "Kogod School of Business",
           "St Antony's College",
           "American University",
+          "John F. Kennedy School of Government",
+          "Harvard University",
           "University of Oxford"
         ],
         "employers": [
@@ -444,11 +444,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
           "ambassador",
-          "politician",
-          "governor"
+          "missionary",
+          "governor",
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

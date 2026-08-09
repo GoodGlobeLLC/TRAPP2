@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-07-26T09:56:47.311161Z",
+  "fetchedAt": "2026-08-09T08:55:14.969462Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -234,8 +234,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "Wisconsin School of Business",
@@ -303,13 +303,13 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeh%20Johnson%20official%20DHS%20portrait.jpg",
         "occupations": [
-          "lawyer",
-          "politician"
+          "politician",
+          "lawyer"
         ],
         "education": [
+          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College",
-          "Columbia Law School"
+          "Morehouse College"
         ],
         "employers": [
           {
@@ -355,6 +355,12 @@
         ],
         "positions": [
           {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
+          },
+          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -365,12 +371,6 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
           }
         ]
       }
@@ -411,13 +411,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
           "businessperson",
-          "military officer",
-          "manager"
+          "manager",
+          "military officer"
         ],
         "education": [
-          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Mankato West High School"
         ],
         "employers": [
           {

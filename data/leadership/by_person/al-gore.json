@@ -12,17 +12,17 @@
     "financier",
     "journalist",
     "university teacher",
-    "businessperson",
     "farmer",
-    "politician",
-    "writer"
+    "writer",
+    "businessperson",
+    "politician"
   ],
   "education": [
-    "Harvard College",
-    "Vanderbilt University",
     "Vanderbilt University Divinity School",
     "St. Albans School",
-    "Defense Information School"
+    "Defense Information School",
+    "Harvard College",
+    "Vanderbilt University"
   ],
   "employers": [
     {
@@ -43,12 +43,6 @@
       "company": null,
       "start": "1983-01-03",
       "end": "1985-01-03"
-    },
-    {
-      "title": "United States senator",
-      "company": null,
-      "start": "1987-01-03",
-      "end": "1989-01-03"
     },
     {
       "title": "Vice President of the United States",
@@ -91,6 +85,12 @@
       "company": null,
       "start": "1977-01-03",
       "end": "1979-01-03"
+    },
+    {
+      "title": "United States senator",
+      "company": null,
+      "start": "1987-01-03",
+      "end": "1989-01-03"
     }
   ],
   "currentTickers": [
