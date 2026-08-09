@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-08-02T09:07:28.717384Z",
+  "fetchedAt": "2026-08-09T07:39:29.100674Z",
   "people": [
     {
       "qid": "Q305177",
@@ -14,52 +14,24 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "founder",
           "tech VIP",
+          "founder",
           "manager",
           "electrical engineer",
-          "chief executive officer",
+          "engineer",
           "businessperson",
+          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q7340009",
-      "name": "Rob Burgess",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7340009",
-        "name": "Rob Burgess",
-        "dateOfBirth": "1957-08-29",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Burgess-e1462301613308.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "McMaster University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2011-01-01",
-            "end": null
-          }
-        ]
       }
     },
     {
@@ -77,8 +49,8 @@
         "education": [
           "Harvard University",
           "University of Southern California",
-          "USC Viterbi School of Engineering",
-          "Harvard Business School"
+          "Harvard Business School",
+          "USC Viterbi School of Engineering"
         ],
         "employers": [],
         "positions": [
@@ -112,32 +84,6 @@
             "title": "board of directors member",
             "company": null,
             "start": "1997-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q124910508",
-      "name": "Mark L. Perry",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q124910508",
-        "name": "Mark L. Perry",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2005-01-01",
             "end": null
           }
         ]
@@ -276,35 +222,6 @@
       }
     },
     {
-      "qid": "Q17306256",
-      "name": "Michael G. McCaffery",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q17306256",
-        "name": "Michael G. McCaffery",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Princeton University",
-          "Stanford University",
-          "Merton College",
-          "Princeton School of Public and International Affairs"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2015-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q7610086",
       "name": "Stephen Neal",
       "role_at_company": "Board Member",
@@ -347,8 +264,8 @@
         "occupations": [
           "biophysicist",
           "military flight engineer",
-          "engineer",
-          "university teacher"
+          "university teacher",
+          "engineer"
         ],
         "education": [
           "California Institute of Technology",
@@ -356,12 +273,12 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
+            "company": "California Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "California Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
@@ -371,67 +288,6 @@
             "title": "board of directors member",
             "company": null,
             "start": "2020-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q1763248",
-      "name": "Persis Drell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1763248",
-        "name": "Persis Drell",
-        "dateOfBirth": "1955-12-30",
-        "birthPlace": "Palo Alto",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Persis%20Drell%20at%20Stanford%203-4-09%201.JPG",
-        "occupations": [
-          "physicist",
-          "university teacher"
-        ],
-        "education": [
-          "University of California, Berkeley",
-          "Wellesley College"
-        ],
-        "employers": [
-          {
-            "company": "SLAC National Accelerator Laboratory",
-            "start": "2007-01-01",
-            "end": "2012-01-01"
-          },
-          {
-            "company": "SLAC National Accelerator Laboratory",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
-          {
-            "company": "Stanford University School of Engineering",
-            "start": "2014-01-01",
-            "end": "2017-01-01"
-          },
-          {
-            "company": "Cornell University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Stanford University",
-            "start": "2017-01-01",
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2015-01-01",
             "end": null
           }
         ]
@@ -449,21 +305,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "founder",
           "tech VIP",
+          "founder",
           "manager",
           "electrical engineer",
-          "chief executive officer",
+          "engineer",
           "businessperson",
+          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []
@@ -481,21 +337,21 @@
         "birthPlace": "Tainan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
         "occupations": [
-          "founder",
           "tech VIP",
+          "founder",
           "manager",
           "electrical engineer",
-          "chief executive officer",
+          "engineer",
           "businessperson",
+          "chief executive officer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
+          "Stanford University",
           "Oneida Baptist Institute",
           "Aloha High School",
-          "Oregon State University",
-          "Stanford University"
+          "Oregon State University"
         ],
         "employers": [],
         "positions": []

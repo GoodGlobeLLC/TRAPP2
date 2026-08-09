@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-08-02T09:07:28.732834Z",
+  "fetchedAt": "2026-08-09T07:39:29.112510Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,15 +14,15 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "philanthropist",
-          "dub actor",
-          "technology entrepreneur",
           "programmer",
-          "civil servant",
+          "philanthropist",
           "financier",
           "investor",
-          "inventor",
+          "technology entrepreneur",
+          "dub actor",
           "entrepreneur",
+          "civil servant",
+          "inventor",
           "engineer",
           "politician"
         ],
@@ -34,8 +34,8 @@
           "Stanford University",
           "Queen's University",
           "The Wharton School",
-          "University of Pennsylvania",
-          "University of Pretoria"
+          "University of Pretoria",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -54,6 +54,11 @@
             "end": null
           },
           {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
             "company": "SpaceX",
             "start": "2002-06-01",
             "end": null
@@ -67,11 +72,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
           },
           {
             "company": "Tesla",
@@ -146,21 +146,6 @@
             "end": "2007-08-01"
           },
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -174,6 +159,21 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Telstra",
@@ -224,9 +224,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -342,21 +342,6 @@
             "end": "2007-08-01"
           },
           {
-            "company": "Toyota Australia",
-            "start": "1989-01-01",
-            "end": "1996-01-01"
-          },
-          {
-            "company": "Juniper Networks",
-            "start": "2007-08-01",
-            "end": "2016-08-01"
-          },
-          {
-            "company": "Echelon Corporation",
-            "start": "2008-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -370,6 +355,21 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
+          },
+          {
+            "company": "Toyota Australia",
+            "start": "1989-01-01",
+            "end": "1996-01-01"
+          },
+          {
+            "company": "Juniper Networks",
+            "start": "2007-08-01",
+            "end": "2016-08-01"
+          },
+          {
+            "company": "Echelon Corporation",
+            "start": "2008-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Telstra",
@@ -459,8 +459,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/KIMBAL%20MUSK%20OFFICIAL%20HEADSHOT.jpg",
         "occupations": [
           "environmentalist",
-          "restaurateur",
-          "entrepreneur"
+          "entrepreneur",
+          "restaurateur"
         ],
         "education": [
           "International Culinary Center",
@@ -488,9 +488,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "businessperson",
+          "chief technology officer",
           "inventor",
-          "chief technology officer"
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -525,15 +525,15 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "philanthropist",
-          "dub actor",
-          "technology entrepreneur",
           "programmer",
-          "civil servant",
+          "philanthropist",
           "financier",
           "investor",
-          "inventor",
+          "technology entrepreneur",
+          "dub actor",
           "entrepreneur",
+          "civil servant",
+          "inventor",
           "engineer",
           "politician"
         ],
@@ -545,8 +545,8 @@
           "Stanford University",
           "Queen's University",
           "The Wharton School",
-          "University of Pennsylvania",
-          "University of Pretoria"
+          "University of Pretoria",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -565,6 +565,11 @@
             "end": null
           },
           {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
             "company": "SpaceX",
             "start": "2002-06-01",
             "end": null
@@ -578,11 +583,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
           },
           {
             "company": "Tesla",
@@ -642,11 +642,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
+          "businessperson",
           "aircraft pilot",
+          "computer scientist",
           "actor",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "University of Chicago",
@@ -705,9 +705,9 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
+          "businessperson",
           "karateka",
-          "publisher",
-          "businessperson"
+          "publisher"
         ],
         "education": [
           "Horace Mann School",
