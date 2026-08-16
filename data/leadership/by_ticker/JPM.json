@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-08-09T08:55:14.967464Z",
+  "fetchedAt": "2026-08-16T08:28:04.338527Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,10 +19,20 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -35,16 +45,6 @@
           },
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -165,20 +165,20 @@
           "engineer"
         ],
         "education": [
+          "Indiana University",
           "Northwestern University",
-          "Rensselaer Polytechnic Institute",
-          "Indiana University"
+          "Rensselaer Polytechnic Institute"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": "1994-01-01",
-            "end": "2019-01-01"
-          },
           {
             "company": "Amazon",
             "start": "2019-01-01",
             "end": "2022-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1994-01-01",
+            "end": "2019-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -405,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
@@ -457,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Colgate University",
           "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Colgate University"
         ],
         "employers": [
           {
@@ -505,10 +505,20 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -521,16 +531,6 @@
           },
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "businessperson",
           "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

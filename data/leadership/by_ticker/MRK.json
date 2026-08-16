@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-08-09T08:55:14.972440Z",
+  "fetchedAt": "2026-08-16T08:28:04.345479Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
@@ -104,8 +104,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Yale University"
+          "Yale University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -151,11 +151,11 @@
           "administrator"
         ],
         "education": [
+          "Stony Brook University",
           "The Bush School",
           "The Wharton School",
-          "Stony Brook University",
-          "University of Pennsylvania",
           "Harvard Medical School",
+          "University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [
@@ -238,8 +238,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
@@ -504,17 +504,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -568,8 +568,8 @@
           "researcher"
         ],
         "education": [
-          "Harvard University",
-          "George Washington University Medical School"
+          "George Washington University Medical School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -597,8 +597,8 @@
           "biophysicist"
         ],
         "education": [
-          "California Institute of Technology",
-          "Pennsylvania State University"
+          "Pennsylvania State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {

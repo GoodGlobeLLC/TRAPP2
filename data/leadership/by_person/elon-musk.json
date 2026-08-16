@@ -5,15 +5,15 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "programmer",
     "financier",
     "investor",
-    "technology entrepreneur",
+    "programmer",
     "dub actor",
-    "philanthropist",
-    "entrepreneur",
-    "inventor",
+    "technology entrepreneur",
     "civil servant",
+    "philanthropist",
+    "inventor",
+    "entrepreneur",
     "politician",
     "engineer"
   ],
@@ -35,8 +35,8 @@
       "end": "2025-05-30"
     },
     {
-      "company": "Neuralink",
-      "start": "2016-07-01",
+      "company": "The Boring Company",
+      "start": "2016-12-17",
       "end": null
     },
     {
@@ -50,8 +50,13 @@
       "end": "2019-01-01"
     },
     {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
+      "company": "Neuralink",
+      "start": "2016-07-01",
+      "end": null
+    },
+    {
+      "company": "SpaceX",
+      "start": "2002-06-01",
       "end": null
     },
     {
@@ -62,11 +67,6 @@
     {
       "company": "Tesla",
       "start": "2004-04-23",
-      "end": null
-    },
-    {
-      "company": "SpaceX",
-      "start": "2002-06-01",
       "end": null
     }
   ],

@@ -5,8 +5,8 @@
   "birthPlace": "Philadelphia",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
   "occupations": [
-    "physicist",
     "university teacher",
+    "physicist",
     "politician"
   ],
   "education": [
@@ -18,22 +18,7 @@
   ],
   "employers": [
     {
-      "company": "Harvard University",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "United States Department of Defense",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Harvard University",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "United States Department of Defense",
+      "company": "Fermilab",
       "start": null,
       "end": null
     },
@@ -44,6 +29,16 @@
     },
     {
       "company": "Brookhaven National Laboratory",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Harvard University",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "United States Department of Defense",
       "start": null,
       "end": null
     }

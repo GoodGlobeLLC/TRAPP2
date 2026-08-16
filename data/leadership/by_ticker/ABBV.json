@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-08-09T08:55:14.942710Z",
+  "fetchedAt": "2026-08-16T08:28:04.306436Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -138,8 +138,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Kellogg School of Management",
@@ -364,8 +364,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago Law School",
-          "University of Michigan"
+          "University of Michigan",
+          "University of Chicago Law School"
         ],
         "employers": [],
         "positions": [
@@ -508,8 +508,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "nephrologist",
           "academic",
+          "nephrologist",
           "researcher"
         ],
         "education": [
@@ -517,13 +517,13 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           },
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           }
         ],

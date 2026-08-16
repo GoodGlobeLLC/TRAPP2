@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-08-09T08:55:14.966838Z",
+  "fetchedAt": "2026-08-16T08:28:04.337736Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -10,13 +10,17 @@
       "career": {
         "qid": "Q113356474",
         "name": "Joaquin Duato",
-        "dateOfBirth": "1962-01-01",
+        "dateOfBirth": "1962-04-01",
         "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
         ],
-        "education": [],
+        "education": [
+          "Thunderbird School of Global Management",
+          "ESADE Business School",
+          "ESADE"
+        ],
         "employers": [
           {
             "company": "Johnson & Johnson",
@@ -155,11 +159,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
           "lecturer",
+          "executive",
+          "business manager",
           "chief executive officer",
           "entrepreneur",
-          "merchant",
-          "executive",
-          "business manager"
+          "merchant"
         ],
         "education": [
           "HEC Paris",
@@ -342,8 +346,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "cardiologist",
-          "university teacher"
+          "university teacher",
+          "cardiologist"
         ],
         "education": [
           "Radcliffe College",
@@ -382,9 +386,9 @@
           "physician"
         ],
         "education": [
-          "George Washington University Medical School",
           "George Washington University",
-          "United States Military Academy"
+          "United States Military Academy",
+          "George Washington University Medical School"
         ],
         "employers": [],
         "positions": [
@@ -453,11 +457,11 @@
           "physician"
         ],
         "education": [
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology",
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
           "Harvard University"
         ],
         "employers": [],
@@ -523,9 +527,9 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
+          "Columbia University",
           "Harvard Business School"
         ],
         "employers": [
@@ -569,8 +573,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "consultant",
-          "entrepreneur"
+          "entrepreneur",
+          "consultant"
         ],
         "education": [
           "Balliol College"
@@ -604,8 +608,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -642,13 +646,17 @@
       "career": {
         "qid": "Q113356474",
         "name": "Joaquin Duato",
-        "dateOfBirth": "1962-01-01",
+        "dateOfBirth": "1962-04-01",
         "birthPlace": "Valencia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/JnJ%20Duato%20cropped.jpg",
         "occupations": [
           "business executive"
         ],
-        "education": [],
+        "education": [
+          "Thunderbird School of Global Management",
+          "ESADE Business School",
+          "ESADE"
+        ],
         "employers": [
           {
             "company": "Johnson & Johnson",
@@ -727,9 +735,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Syracuse University"
         ],
         "employers": [
           {
@@ -766,27 +774,27 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "chemist",
           "molecular biologist",
-          "biochemist",
           "university teacher",
-          "crystallographer"
+          "crystallographer",
+          "chemist",
+          "biochemist"
         ],
         "education": [
-          "Harvard University",
           "Pomona College",
-          "Hilo High School"
+          "Hilo High School",
+          "Harvard University"
         ],
         "employers": [
+          {
+            "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
-          },
-          {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
           },
           {
             "company": "University of California, Berkeley",
@@ -794,7 +802,7 @@
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
+            "company": "Howard Hughes Medical Institute",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-08-09T08:55:14.968983Z",
+  "fetchedAt": "2026-08-16T08:28:04.340609Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -81,8 +81,8 @@
         ],
         "education": [
           "Xavier University",
-          "St. Xavier High School",
-          "Harvard University"
+          "Harvard University",
+          "St. Xavier High School"
         ],
         "employers": [],
         "positions": []
@@ -268,13 +268,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
-          "Harvard University",
-          "Yale University"
+          "Yale University",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -283,12 +283,12 @@
             "end": null
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -343,6 +343,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -351,11 +356,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -383,9 +383,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard Law School",
           "Princeton University",
-          "Harvard Law School"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -454,8 +454,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -531,9 +531,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "accountant",
           "basketball player",
-          "businessperson",
-          "accountant"
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"

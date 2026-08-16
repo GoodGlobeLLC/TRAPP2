@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-08-09T08:55:14.953021Z",
+  "fetchedAt": "2026-08-16T08:28:04.320893Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -50,9 +50,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
+          "Harvard University",
           "The Wharton School",
-          "Harvard University"
+          "Perelman School of Medicine at the University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -156,8 +156,8 @@
           "academic"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
-            "company": "University of New Mexico",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of New Mexico",
             "start": null,
             "end": null
           }
