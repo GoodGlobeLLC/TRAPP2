@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-08-09T08:55:14.961298Z",
+  "fetchedAt": "2026-08-16T07:24:58.287592Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Haas School of Business",
+          "University of California, Berkeley",
           "Stanford University"
         ],
         "employers": [],
@@ -277,8 +277,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
-          "physicist",
           "university teacher",
+          "physicist",
           "politician"
         ],
         "education": [
@@ -290,22 +290,7 @@
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of Defense",
+            "company": "Fermilab",
             "start": null,
             "end": null
           },
@@ -316,6 +301,16 @@
           },
           {
             "company": "Brookhaven National Laboratory",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of Defense",
             "start": null,
             "end": null
           }
@@ -366,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -412,11 +407,11 @@
           "administrator"
         ],
         "education": [
+          "Stony Brook University",
           "The Bush School",
           "The Wharton School",
-          "Stony Brook University",
-          "University of Pennsylvania",
           "Harvard Medical School",
+          "University of Pennsylvania",
           "Harvard University"
         ],
         "employers": [
@@ -473,9 +468,9 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
           "Suffield Academy",
-          "The Wharton School"
+          "The Wharton School",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -495,11 +490,11 @@
         "occupations": [
           "film producer",
           "film director",
-          "entrepreneur",
-          "inventor",
-          "physicist",
           "engineer",
           "mathematician",
+          "inventor",
+          "entrepreneur",
+          "physicist",
           "screenwriter"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-08-09T08:55:14.941056Z",
+  "fetchedAt": "2026-08-16T07:24:58.255962Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,15 +52,20 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
           "gastroenterologist",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Harvard College",
           "Harvard Medical School"
         ],
         "employers": [
+          {
+            "company": "Partners HealthCare Connected Health",
+            "start": "2005-01-01",
+            "end": "2008-01-01"
+          },
           {
             "company": "University of Texas Southwestern Medical Center",
             "start": "2008-09-01",
@@ -75,11 +80,6 @@
             "company": "Massachusetts General Hospital",
             "start": "1981-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Partners HealthCare Connected Health",
-            "start": "2005-01-01",
-            "end": "2008-01-01"
           }
         ],
         "positions": [
@@ -104,8 +104,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [
@@ -115,11 +115,6 @@
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
             "company": "American Cancer Society",
             "start": "2007-01-01",
             "end": "2018-01-01"
@@ -128,6 +123,11 @@
             "company": "Emory University",
             "start": "2001-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Johns Hopkins University",
+            "start": "2019-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -152,8 +152,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "chairperson"
+          "chairperson",
+          "investor"
         ],
         "education": [
           "University of London",
@@ -259,6 +259,11 @@
         "education": [],
         "employers": [
           {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -272,11 +277,6 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
-          },
-          {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -422,11 +422,6 @@
         "education": [],
         "employers": [
           {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
-          {
             "company": "Cisco",
             "start": "2007-10-01",
             "end": "2014-06-01"
@@ -435,6 +430,11 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -465,22 +465,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
           {
-            "company": "Pfizer",
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
             "company": "Wyeth",
             "start": "2008-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Pfizer",
+            "start": "2009-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -505,12 +505,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "biologist",
-          "business executive"
+          "business executive",
+          "biologist"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [

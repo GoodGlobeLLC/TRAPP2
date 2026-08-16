@@ -6,10 +6,10 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
   "occupations": [
     "entrepreneur",
+    "computer scientist",
     "businessperson",
     "mathematician",
-    "engineer",
-    "computer scientist"
+    "engineer"
   ],
   "education": [
     "Olympus High School",
@@ -17,17 +17,17 @@
   ],
   "employers": [
     {
-      "company": "Adobe",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Palo Alto Research Center",
       "start": "1978-01-01",
       "end": "1982-01-01"
     },
     {
       "company": "Evans & Sutherland",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Adobe",
       "start": null,
       "end": null
     }
