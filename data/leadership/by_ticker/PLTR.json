@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-08-09T08:55:14.978353Z",
+  "fetchedAt": "2026-08-16T07:02:26.842613Z",
   "people": [
     {
       "qid": "Q16204157",
@@ -14,8 +14,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -36,12 +36,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "banker",
-          "chess player",
           "technology entrepreneur",
+          "chess player",
           "manager",
           "financier",
           "investor",
+          "banker",
           "entrepreneur",
           "computer scientist",
           "writer"
@@ -86,8 +86,8 @@
         "birthPlace": "California",
         "image": null,
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Stanford University"
@@ -108,20 +108,15 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "venture capitalist",
           "angel investor",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "Mission San Jose High School",
           "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
-          },
           {
             "company": "Addepar",
             "start": "2009-01-01",
@@ -146,6 +141,11 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -182,12 +182,12 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "banker",
-          "chess player",
           "technology entrepreneur",
+          "chess player",
           "manager",
           "financier",
           "investor",
+          "banker",
           "entrepreneur",
           "computer scientist",
           "writer"
