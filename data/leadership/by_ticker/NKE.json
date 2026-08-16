@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-08-09T08:55:14.974154Z",
+  "fetchedAt": "2026-08-16T07:02:26.839914Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -74,8 +74,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "venture capitalist",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "University of Montana"
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -248,9 +248,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "writer",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
           "Oregon State University",
@@ -311,10 +311,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "engineer",
-          "chief executive officer",
           "manager",
+          "chief executive officer",
           "computer scientist",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -326,14 +326,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -359,9 +359,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "writer",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
           "Oregon State University",

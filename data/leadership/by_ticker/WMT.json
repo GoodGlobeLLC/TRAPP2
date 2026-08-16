@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-08-09T08:55:14.988444Z",
+  "fetchedAt": "2026-08-16T07:02:26.849017Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -41,9 +41,9 @@
           "chairperson"
         ],
         "education": [
+          "Georgetown University",
           "Stanford University",
-          "San Marino High School",
-          "Georgetown University"
+          "San Marino High School"
         ],
         "employers": [],
         "positions": []
@@ -84,20 +84,15 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "computer scientist",
+          "business executive",
           "engineer",
-          "business executive"
+          "computer scientist"
         ],
         "education": [
-          "Wausau West High School",
-          "Stanford University"
+          "Stanford University",
+          "Wausau West High School"
         ],
         "employers": [
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
-          },
           {
             "company": "Yahoo",
             "start": "2012-07-16",
@@ -107,6 +102,11 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
+          },
+          {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
           }
         ],
         "positions": [
@@ -239,9 +239,9 @@
           "chairperson"
         ],
         "education": [
+          "Georgetown University",
           "Stanford University",
-          "San Marino High School",
-          "Georgetown University"
+          "San Marino High School"
         ],
         "employers": [],
         "positions": []
@@ -283,8 +283,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -310,10 +310,10 @@
           "military officer"
         ],
         "education": [
-          "Miami Coral Park High School",
-          "University of Virginia Darden School of Business",
           "United States Naval Academy",
-          "University of Virginia"
+          "University of Virginia",
+          "Miami Coral Park High School",
+          "University of Virginia Darden School of Business"
         ],
         "employers": [
           {
