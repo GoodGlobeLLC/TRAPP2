@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-08-09T08:55:14.944637Z",
+  "fetchedAt": "2026-08-16T07:24:58.260982Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -14,16 +14,15 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
+          "North-Eastern Hill University",
           "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
-          "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "Bowling Green State University"
         ],
         "employers": [],
         "positions": [
@@ -381,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Temple University Beasley School of Law"
+          "Temple University Beasley School of Law",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -413,16 +412,15 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
+          "North-Eastern Hill University",
           "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
-          "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "Bowling Green State University"
         ],
         "employers": [],
         "positions": [
@@ -453,9 +451,9 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
+          "university teacher",
           "entrepreneur",
           "computer scientist",
-          "university teacher",
           "software developer"
         ],
         "education": [
@@ -463,11 +461,6 @@
           "Carnegie Mellon University"
         ],
         "employers": [
-          {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Palo Alto Research Center",
             "start": "1972-01-01",
@@ -477,6 +470,11 @@
             "company": "John Carroll University",
             "start": "1963-01-01",
             "end": "1968-01-01"
+          },
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -502,10 +500,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
           "entrepreneur",
+          "computer scientist",
           "businessperson",
           "mathematician",
-          "engineer",
-          "computer scientist"
+          "engineer"
         ],
         "education": [
           "Olympus High School",
@@ -513,17 +511,17 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Adobe",
             "start": null,
             "end": null
           }

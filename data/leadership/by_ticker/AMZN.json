@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-08-09T08:55:14.946664Z",
+  "fetchedAt": "2026-08-16T07:24:58.263969Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -55,23 +55,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch",
+          "computer scientist",
+          "programmer",
+          "commercial astronaut"
         ],
         "education": [
-          "River Oaks Elementary School",
           "Miami Palmetto High School",
-          "Princeton University"
+          "Princeton University",
+          "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,20 +81,25 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
           "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -299,9 +299,9 @@
           "intelligence officer"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "university teacher",
           "academic",
           "executive",
           "dean",
-          "university teacher",
           "computer scientist"
         ],
         "education": [
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Horace Mann School",
@@ -453,23 +453,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch",
+          "computer scientist",
+          "programmer",
+          "commercial astronaut"
         ],
         "education": [
-          "River Oaks Elementary School",
           "Miami Palmetto High School",
-          "Princeton University"
+          "Princeton University",
+          "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -484,20 +479,25 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -517,24 +517,14 @@
           "businessperson"
         ],
         "education": [
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale University"
         ],
         "employers": [
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
           {
             "company": "Amazon",
             "start": "2019-01-01",
@@ -547,6 +537,16 @@
           },
           {
             "company": "ABB Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
@@ -584,23 +584,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "commercial astronaut",
-          "business oligarch",
           "entrepreneur",
-          "computer scientist"
+          "business oligarch",
+          "computer scientist",
+          "programmer",
+          "commercial astronaut"
         ],
         "education": [
-          "River Oaks Elementary School",
           "Miami Palmetto High School",
-          "Princeton University"
+          "Princeton University",
+          "River Oaks Elementary School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,20 +610,25 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-08-09T08:55:14.942126Z",
+  "fetchedAt": "2026-08-16T07:24:58.256980Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,20 +14,19 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
-          "engineer",
-          "chief executive officer",
           "manager",
+          "presenter",
           "chief executive officer",
           "computer scientist",
+          "engineer",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -64,8 +63,8 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -179,25 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "university teacher",
-          "orator",
-          "farmer",
-          "environmentalist",
           "financier",
           "journalist",
+          "blogger",
+          "climate activist",
           "university teacher",
           "farmer",
-          "writer",
+          "orator",
+          "politician",
           "businessperson",
-          "politician"
+          "writer",
+          "environmentalist"
         ],
         "education": [
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
           "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Harvard College"
         ],
         "employers": [
           {
@@ -208,22 +206,28 @@
         ],
         "positions": [
           {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1983-01-03",
             "end": "1985-01-03"
           },
           {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
             "title": "Vice President of the United States",
             "company": null,
             "start": "1993-01-20",
             "end": "2001-01-20"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "board member",
@@ -258,14 +262,8 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -283,8 +281,8 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -355,31 +353,31 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
           "programmer",
           "electronics technician",
+          "entrepreneur",
+          "computer scientist",
           "engineer",
-          "actor",
           "businessperson",
           "inventor",
-          "teacher"
+          "teacher",
+          "actor"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
+          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -425,89 +423,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q19837",
-      "name": "Steve Jobs",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q19837",
-        "name": "Steve Jobs",
-        "dateOfBirth": "1955-02-24",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
-        "occupations": [
-          "film producer",
-          "technology entrepreneur",
-          "designer",
-          "financier",
-          "general manager",
-          "executive producer",
-          "inventor",
-          "founder",
-          "computer scientist",
-          "entrepreneur"
-        ],
-        "education": [
-          "Homestead High School",
-          "Reed College",
-          "De Anza College"
-        ],
-        "employers": [
-          {
-            "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1985-01-01",
-            "end": "1997-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1977-01-03",
-            "end": "1985-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1997-09-16",
-            "end": "2011-08-24"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1995-11-29",
-            "end": "1997-01-01"
-          }
-        ]
       }
     }
   ]
