@@ -1,16 +1,16 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-17",
   "regime": "risk_on_melt_up",
   "confidence": 0.981,
   "scores": {
-    "macro": 0.436,
-    "liquidity": 0.39,
+    "macro": 0.46,
+    "liquidity": 0.469,
     "volatility": 0.836,
-    "valuation": -0.386,
+    "valuation": -0.385,
     "trend": 1.0,
     "breadth": 0.818,
-    "commodity": 0.07,
-    "crypto": -0.034
+    "commodity": 0.296,
+    "crypto": -0.029
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.398,
-    "risk_on_melt_up": 0.5619,
+    "expansion": 0.3772,
+    "risk_on_melt_up": 0.5956,
     "inflation_shock": 0.0003,
     "recession_fear": 0.0,
     "risk_off": 0.0001,
-    "neutral": 0.0396
+    "neutral": 0.0269
   },
   "drivers": [
     {
@@ -55,7 +55,7 @@
   ],
   "signal_notes": {
     "macro": {
-      "avg_1m_sector_return": 0.0287,
+      "avg_1m_sector_return": 0.0307,
       "n_sectors": 11,
       "indpro_yoy": 0.0114
     },
@@ -63,23 +63,23 @@
       "t10y2y": 0.48,
       "hy_spread": 2.71,
       "hy_spread_z": -1.03,
-      "hyg_minus_lqd_1m": 0.0075
+      "hyg_minus_lqd_1m": 0.0123
     },
     "volatility": {
       "vix_level": 14.63,
-      "vix9d_over_vix": 0.7772
+      "vix9d_over_vix": 0.7252
     },
     "valuation": {
-      "spy_pe": 26.2,
+      "spy_pe": 26.15,
       "earnings_yield": 0.0382,
       "real_10y": 0.0114,
       "fed_model_spread": 0.0268
     },
     "trend": {
-      "spy_price": 777.88,
-      "sma50": 748.48,
-      "sma200": 705.0,
-      "pct_above_200dma": 0.1034
+      "spy_price": 776.34,
+      "sma50": 748.93,
+      "sma200": 705.46,
+      "pct_above_200dma": 0.1005
     },
     "breadth": {
       "pct_sectors_above_50dma": 0.909,
@@ -87,18 +87,18 @@
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0203,
-      "oil_60d_return": -0.043,
-      "gold_oil_ratio": 53.848,
-      "gold_oil_zscore": -0.594,
+      "copper_60d_return": 0.0356,
+      "oil_60d_return": 0.0767,
+      "gold_oil_ratio": 53.845,
+      "gold_oil_zscore": -0.595,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": -0.0239,
-      "btc_pct_from_50dma": 0.0003,
-      "eth_30d_return": -0.0029,
+      "btc_30d_return": -0.0169,
+      "btc_pct_from_50dma": -0.0118,
+      "eth_30d_return": 0.0179,
       "n_components": 3
     }
   },
-  "computed_at": "2026-08-14T22:04:58+00:00"
+  "computed_at": "2026-08-17T08:52:59+00:00"
 }
