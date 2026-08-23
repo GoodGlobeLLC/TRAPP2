@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "fetchedAt": "2026-08-16T08:28:04.310856Z",
+  "fetchedAt": "2026-08-23T07:33:36.429234Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -35,6 +30,11 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           },
           {
@@ -161,8 +161,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "business executive"
+          "business executive",
+          "lawyer"
         ],
         "education": [],
         "employers": [
@@ -280,11 +280,6 @@
         ],
         "employers": [
           {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -292,6 +287,11 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           },
           {

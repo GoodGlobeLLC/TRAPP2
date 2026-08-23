@@ -7,12 +7,12 @@
   "occupations": [
     "programmer",
     "electronics technician",
-    "entrepreneur",
-    "computer scientist",
-    "engineer",
-    "businessperson",
     "inventor",
+    "entrepreneur",
+    "engineer",
+    "computer scientist",
     "teacher",
+    "businessperson",
     "actor"
   ],
   "education": [
@@ -24,7 +24,12 @@
   ],
   "employers": [
     {
-      "company": "Apple Inc.",
+      "company": "Hewlett-Packard",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "University of Technology Sydney",
       "start": null,
       "end": null
     },
@@ -34,12 +39,7 @@
       "end": null
     },
     {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "University of Technology Sydney",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     }

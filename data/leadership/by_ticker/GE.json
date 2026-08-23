@@ -1,6 +1,6 @@
 {
   "ticker": "GE",
-  "fetchedAt": "2026-08-16T08:28:04.331272Z",
+  "fetchedAt": "2026-08-23T07:33:36.451391Z",
   "people": [
     {
       "qid": "Q56868014",
@@ -85,8 +85,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Wellesley College"
@@ -194,8 +194,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Cox School of Business",
@@ -215,11 +215,11 @@
         "qid": "Q5483294",
         "name": "Francisco D'Souza",
         "dateOfBirth": "1968-08-23",
-        "birthPlace": "Nairobi",
+        "birthPlace": "Kenya",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Tepper School of Business",
@@ -257,8 +257,8 @@
           "businessperson"
         ],
         "education": [
-          "Haas School of Business",
           "University of California, Berkeley",
+          "Haas School of Business",
           "Stanford University"
         ],
         "employers": [],
@@ -277,23 +277,18 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
         "occupations": [
+          "politician",
           "university teacher",
-          "physicist",
-          "politician"
+          "physicist"
         ],
         "education": [
+          "University of Edinburgh",
           "Yale College",
           "St John's College",
-          "University of Edinburgh",
           "Trumbull College",
           "Abington Senior High School"
         ],
         "employers": [
-          {
-            "company": "Fermilab",
-            "start": null,
-            "end": null
-          },
           {
             "company": "MIT Center for International Studies",
             "start": null,
@@ -301,6 +296,11 @@
           },
           {
             "company": "Brookhaven National Laboratory",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Fermilab",
             "start": null,
             "end": null
           },
@@ -361,8 +361,8 @@
         "birthPlace": "Boulogne-Billancourt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastien%20Bazin%20-%20OuiShare%20Fest%202016.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "University of Paris 1 Pantheon-Sorbonne",
@@ -403,20 +403,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
           "Stony Brook University",
-          "The Bush School",
-          "The Wharton School",
-          "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Medical School",
+          "The Wharton School",
+          "The Bush School"
         ],
         "employers": [
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           },
@@ -426,17 +426,17 @@
             "end": null
           },
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           },
           {
             "title": "chief executive officer",
@@ -445,10 +445,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           }
         ]
       }
@@ -468,9 +468,9 @@
           "businessperson"
         ],
         "education": [
+          "Cornell University",
           "Suffield Academy",
-          "The Wharton School",
-          "Cornell University"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -490,11 +490,11 @@
         "occupations": [
           "film producer",
           "film director",
-          "engineer",
           "mathematician",
           "inventor",
           "entrepreneur",
           "physicist",
+          "engineer",
           "screenwriter"
         ],
         "education": [

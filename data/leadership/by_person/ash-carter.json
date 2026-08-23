@@ -5,23 +5,18 @@
   "birthPlace": "Philadelphia",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ashton%20Carter%20DOD%20photo.jpg",
   "occupations": [
+    "politician",
     "university teacher",
-    "physicist",
-    "politician"
+    "physicist"
   ],
   "education": [
+    "University of Edinburgh",
     "Yale College",
     "St John's College",
-    "University of Edinburgh",
     "Trumbull College",
     "Abington Senior High School"
   ],
   "employers": [
-    {
-      "company": "Fermilab",
-      "start": null,
-      "end": null
-    },
     {
       "company": "MIT Center for International Studies",
       "start": null,
@@ -29,6 +24,11 @@
     },
     {
       "company": "Brookhaven National Laboratory",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Fermilab",
       "start": null,
       "end": null
     },

@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-08-16T08:28:04.319538Z",
+  "fetchedAt": "2026-08-23T07:33:36.438199Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -50,8 +50,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "academic"
+          "academic",
+          "businessperson"
         ],
         "education": [
           "Rice University",
@@ -101,6 +101,11 @@
         ],
         "employers": [
           {
+            "company": "Bright House Networks",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Advance Publications",
             "start": null,
             "end": null
@@ -112,11 +117,6 @@
           },
           {
             "company": "Syracuse University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bright House Networks",
             "start": null,
             "end": null
           }
@@ -139,9 +139,9 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "London School of Economics and Political Science",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -199,8 +199,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "business executive"
+          "business executive",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [
@@ -229,8 +229,8 @@
         ],
         "education": [
           "Duke University",
-          "New York University",
-          "Stern School of Business"
+          "Stern School of Business",
+          "New York University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-08-16T08:28:04.305882Z",
+  "fetchedAt": "2026-08-23T07:33:36.423951Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,30 +14,30 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
           "presenter",
+          "manager",
           "chief executive officer",
-          "computer scientist",
           "engineer",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
           {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -63,12 +63,12 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -100,13 +100,13 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
-          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College"
+          "Wellesley College",
+          "Booth School of Business"
         ],
         "employers": [
           {
@@ -178,24 +178,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "financier",
-          "journalist",
-          "blogger",
-          "climate activist",
-          "university teacher",
           "farmer",
           "orator",
-          "politician",
+          "climate activist",
+          "university teacher",
+          "environmentalist",
+          "financier",
+          "blogger",
           "businessperson",
+          "politician",
           "writer",
-          "environmentalist"
+          "journalist"
         ],
         "education": [
+          "Defense Information School",
+          "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School",
-          "Defense Information School",
-          "Harvard College"
+          "St. Albans School"
         ],
         "employers": [
           {
@@ -224,12 +224,6 @@
             "end": "2001-01-20"
           },
           {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
-          {
             "title": "board member",
             "company": null,
             "start": null,
@@ -244,6 +238,12 @@
           {
             "title": "United States representative",
             "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -254,16 +254,16 @@
             "end": "1993-01-02"
           },
           {
-            "title": "United States representative",
+            "title": "United States senator",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -281,12 +281,12 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -355,12 +355,12 @@
         "occupations": [
           "programmer",
           "electronics technician",
-          "entrepreneur",
-          "computer scientist",
-          "engineer",
-          "businessperson",
           "inventor",
+          "entrepreneur",
+          "engineer",
+          "computer scientist",
           "teacher",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -372,7 +372,12 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           },
@@ -382,12 +387,7 @@
             "end": null
           },
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -407,9 +407,9 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
           "engineer",
+          "entrepreneur",
           "writer"
         ],
         "education": [

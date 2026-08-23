@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-08-16T08:28:04.320532Z",
+  "fetchedAt": "2026-08-23T07:33:36.439317Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -60,12 +60,12 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jody%20Freeman%20at%20Metcalf%20Institute.jpg",
         "occupations": [
-          "lawyer",
-          "jurist"
+          "jurist",
+          "lawyer"
         ],
         "education": [
-          "University of Toronto",
           "Harvard Law School",
+          "University of Toronto",
           "Stanford University"
         ],
         "employers": [
@@ -118,14 +118,14 @@
         ],
         "employers": [
           {
-            "company": "United States Navy",
-            "start": "1977-01-01",
-            "end": "2014-01-01"
-          },
-          {
             "company": "University of Texas System",
             "start": "2015-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "United States Navy",
+            "start": "1977-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-08-16T08:28:04.322286Z",
+  "fetchedAt": "2026-08-23T07:33:36.441178Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
+          "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business",
-          "University of Wisconsin\u2013Madison",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -104,10 +104,10 @@
           "computer scientist"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
+          "Duke University",
+          "West Virginia University",
           "West Virginia University College of Law"
         ],
         "employers": [
@@ -280,8 +280,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Columbia University",
-          "St. Ignatius College Prep"
+          "St. Ignatius College Prep",
+          "Columbia University"
         ],
         "employers": [],
         "positions": []
@@ -456,11 +456,6 @@
         ],
         "employers": [
           {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
             "end": null
@@ -468,6 +463,11 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           },
           {
