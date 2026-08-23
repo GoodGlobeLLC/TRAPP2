@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-08-16T08:28:04.365348Z",
+  "fetchedAt": "2026-08-23T07:03:38.762183Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,6 +17,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -25,11 +30,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
@@ -60,8 +60,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20F.%20Kelly%20Jr.%20at%20the%202023%20US-Canada%20Summit%20%2852806435722%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -140,8 +140,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alfred%20F.%20Kelly%20Jr.%20at%20the%202023%20US-Canada%20Summit%20%2852806435722%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -288,6 +288,11 @@
         ],
         "employers": [
           {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -296,11 +301,6 @@
             "company": "SEAT",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -451,9 +451,9 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
+          "chief executive officer",
           "merchant",
-          "businessperson",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Boston College"
@@ -470,6 +470,11 @@
             "end": "2018-05-01"
           },
           {
+            "company": "Nestl\u00e9",
+            "start": "1984-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1982-01-01",
             "end": "1984-01-01"
@@ -478,11 +483,6 @@
             "company": "Procter & Gamble",
             "start": "1975-01-01",
             "end": "1982-01-01"
-          },
-          {
-            "company": "Nestl\u00e9",
-            "start": "1984-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -597,6 +597,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -605,11 +610,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
