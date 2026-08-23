@@ -1,6 +1,6 @@
 {
   "ticker": "WBD",
-  "fetchedAt": "2026-08-16T08:28:04.367117Z",
+  "fetchedAt": "2026-08-23T07:03:38.763868Z",
   "people": [
     {
       "qid": "Q4377226",
@@ -14,8 +14,8 @@
         "birthPlace": "Rockland County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Zaslav%20LQ%202026.jpg",
         "occupations": [
-          "president",
-          "chief executive officer"
+          "chief executive officer",
+          "president"
         ],
         "education": [
           "Boston University School of Law",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
+            "company": "Warner Bros. Discovery",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "NBCUniversal",
             "start": null,
             "end": null
           },
           {
             "company": "Discovery Channel",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Warner Bros. Discovery",
             "start": null,
             "end": null
           }
