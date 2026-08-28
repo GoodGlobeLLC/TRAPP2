@@ -3,14 +3,14 @@
   "regime": "risk_on_melt_up",
   "confidence": 0.981,
   "scores": {
-    "macro": 0.398,
-    "liquidity": 0.362,
+    "macro": 0.255,
+    "liquidity": 0.381,
     "volatility": 0.799,
-    "valuation": -0.38,
-    "trend": 0.903,
-    "breadth": 0.636,
-    "commodity": 0.465,
-    "crypto": 0.801
+    "valuation": -0.382,
+    "trend": 0.935,
+    "breadth": 0.273,
+    "commodity": 0.487,
+    "crypto": 0.809
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,26 +23,26 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.2386,
-    "risk_on_melt_up": 0.7486,
-    "inflation_shock": 0.0002,
+    "expansion": 0.305,
+    "risk_on_melt_up": 0.6675,
+    "inflation_shock": 0.0005,
     "recession_fear": 0.0,
     "risk_off": 0.0,
-    "neutral": 0.0126
+    "neutral": 0.0269
   },
   "drivers": [
     {
       "signal": "trend",
-      "score": 0.903,
+      "score": 0.935,
       "confidence": 1.0,
-      "weight": 0.903,
+      "weight": 0.935,
       "direction": "bullish"
     },
     {
       "signal": "crypto",
-      "score": 0.801,
+      "score": 0.809,
       "confidence": 1.0,
-      "weight": 0.801,
+      "weight": 0.809,
       "direction": "bullish"
     },
     {
@@ -55,7 +55,7 @@
   ],
   "signal_notes": {
     "macro": {
-      "avg_1m_sector_return": 0.0259,
+      "avg_1m_sector_return": 0.014,
       "n_sectors": 11,
       "indpro_yoy": 0.0108
     },
@@ -63,130 +63,42 @@
       "t10y2y": 0.47,
       "hy_spread": 2.67,
       "hy_spread_z": -1.1,
-      "hyg_minus_lqd_1m": 0.0054
+      "hyg_minus_lqd_1m": 0.0066
     },
     "volatility": {
       "vix_level": 15.21,
-      "vix9d_over_vix": 0.8764
+      "vix9d_over_vix": 0.7955
     },
     "valuation": {
-      "spy_pe": 25.81,
-      "earnings_yield": 0.0387,
+      "spy_pe": 25.98,
+      "earnings_yield": 0.0385,
       "real_10y": 0.0112,
-      "fed_model_spread": 0.0275
+      "fed_model_spread": 0.0273
     },
     "trend": {
-      "spy_price": 766.08,
-      "sma50": 752.97,
-      "sma200": 708.91,
-      "pct_above_200dma": 0.0807
+      "spy_price": 771.1,
+      "sma50": 753.39,
+      "sma200": 709.41,
+      "pct_above_200dma": 0.087
     },
     "breadth": {
-      "pct_sectors_above_50dma": 0.818,
-      "n_above": 9,
+      "pct_sectors_above_50dma": 0.636,
+      "n_above": 7,
       "n_total": 11
     },
     "commodity": {
-      "copper_60d_return": 0.0738,
-      "oil_60d_return": 0.1878,
-      "gold_oil_ratio": 55.919,
-      "gold_oil_zscore": -0.418,
+      "copper_60d_return": 0.0725,
+      "oil_60d_return": 0.2066,
+      "gold_oil_ratio": 55.186,
+      "gold_oil_zscore": -0.48,
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": 0.2401,
-      "btc_pct_from_50dma": 0.1961,
-      "eth_30d_return": 0.3256,
+      "btc_30d_return": 0.2565,
+      "btc_pct_from_50dma": 0.2082,
+      "eth_30d_return": 0.3075,
       "n_components": 3
     }
   },
-  "computed_at": "2026-08-28T00:30:54+00:00",
-  "transitions": {
-    "1_step": {
-      "expansion": 0.0435,
-      "risk_on_melt_up": 0.7826,
-      "inflation_shock": 0.0435,
-      "recession_fear": 0.0435,
-      "risk_off": 0.0435,
-      "neutral": 0.0435
-    },
-    "5_step": {
-      "expansion": 0.2315,
-      "risk_on_melt_up": 0.4063,
-      "inflation_shock": 0.0613,
-      "recession_fear": 0.0613,
-      "risk_off": 0.0613,
-      "neutral": 0.1783
-    },
-    "20_step": {
-      "expansion": 0.3794,
-      "risk_on_melt_up": 0.2369,
-      "inflation_shock": 0.0534,
-      "recession_fear": 0.0534,
-      "risk_off": 0.0534,
-      "neutral": 0.2236
-    }
-  },
-  "stationary": {
-    "expansion": 0.3831,
-    "risk_on_melt_up": 0.2338,
-    "inflation_shock": 0.0532,
-    "recession_fear": 0.0532,
-    "risk_off": 0.0532,
-    "neutral": 0.2236
-  },
-  "expected_persistence_days": 4.6,
-  "transition_matrix": [
-    [
-      0.8367,
-      0.0408,
-      0.0204,
-      0.0204,
-      0.0204,
-      0.0612
-    ],
-    [
-      0.0435,
-      0.7826,
-      0.0435,
-      0.0435,
-      0.0435,
-      0.0435
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1154,
-      0.0385,
-      0.0385,
-      0.0385,
-      0.0385,
-      0.7308
-    ]
-  ],
-  "transition_observation_count": 80,
-  "transition_warning": null,
-  "transitions_computed_at": "2026-08-28T00:30:54+00:00"
+  "computed_at": "2026-08-28T20:06:17+00:00"
 }
