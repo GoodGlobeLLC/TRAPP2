@@ -9,21 +9,21 @@
     "military officer"
   ],
   "education": [
-    "Moody College of Communication",
-    "Theodore Roosevelt High School",
     "Naval Postgraduate School",
-    "University of Texas at Austin"
+    "University of Texas at Austin",
+    "Moody College of Communication",
+    "Theodore Roosevelt High School"
   ],
   "employers": [
-    {
-      "company": "University of Texas System",
-      "start": "2015-01-01",
-      "end": "2018-01-01"
-    },
     {
       "company": "United States Navy",
       "start": "1977-01-01",
       "end": "2014-01-01"
+    },
+    {
+      "company": "University of Texas System",
+      "start": "2015-01-01",
+      "end": "2018-01-01"
     }
   ],
   "positions": [],

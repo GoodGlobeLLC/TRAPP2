@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-08-23T07:33:36.427005Z",
+  "fetchedAt": "2026-08-30T12:29:04.129205Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -18,10 +18,10 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
+          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Temple University Beasley School of Law"
+          "Temple University Beasley School of Law",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -416,10 +416,10 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
+          "University of California, Berkeley",
           "North-Eastern Hill University"
         ],
         "employers": [],
@@ -452,9 +452,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
+          "entrepreneur",
           "computer scientist",
-          "software developer",
-          "entrepreneur"
+          "software developer"
         ],
         "education": [
           "Xavier University",
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "mathematician",
-          "computer scientist",
+          "entrepreneur",
           "engineer",
-          "businessperson",
-          "entrepreneur"
+          "computer scientist",
+          "mathematician",
+          "businessperson"
         ],
         "education": [
           "Olympus High School",
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Adobe",
             "start": null,
             "end": null
           }

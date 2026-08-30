@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-08-30T11:45:44.847607Z",
+  "fetchedAt": "2026-08-30T12:29:04.172407Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -61,8 +61,8 @@
         "birthPlace": "Tulsa",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/S.%20Robson%20Walton.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Columbia Law School",
@@ -94,6 +94,11 @@
         ],
         "employers": [
           {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
+          },
+          {
             "company": "Yahoo",
             "start": "2012-07-16",
             "end": "2017-06-01"
@@ -102,11 +107,6 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
-          },
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
           }
         ],
         "positions": [
@@ -283,8 +283,8 @@
         "birthPlace": "Hampton",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Cox School of Business",
@@ -310,10 +310,10 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
-          "University of Virginia",
           "Miami Coral Park High School",
-          "University of Virginia Darden School of Business"
+          "University of Virginia Darden School of Business",
+          "United States Naval Academy",
+          "University of Virginia"
         ],
         "employers": [
           {

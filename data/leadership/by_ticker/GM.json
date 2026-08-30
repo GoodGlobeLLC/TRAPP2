@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-08-23T07:33:36.452085Z",
+  "fetchedAt": "2026-08-30T12:29:04.145990Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Toronto",
+          "University of California, Berkeley",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -250,8 +250,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
           "business executive",
-          "chief executive officer",
-          "lawyer"
+          "lawyer",
+          "chief executive officer"
         ],
         "education": [
           "Union College",
@@ -390,11 +390,6 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
@@ -406,6 +401,11 @@
           },
           {
             "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }
@@ -436,6 +436,12 @@
             "end": null
           },
           {
+            "title": "vice president",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "chief executive officer",
             "company": null,
             "start": "1998-01-01",
@@ -449,12 +455,6 @@
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "vice president",
             "company": null,
             "start": null,
             "end": null
@@ -592,8 +592,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "chief executive officer",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University",

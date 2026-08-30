@@ -1,6 +1,6 @@
 {
   "ticker": "MCD",
-  "fetchedAt": "2026-08-16T08:28:04.343113Z",
+  "fetchedAt": "2026-08-30T12:29:04.153889Z",
   "people": [
     {
       "qid": "Q73426541",
@@ -22,11 +22,6 @@
         ],
         "employers": [
           {
-            "company": "McDonald's",
-            "start": "2015-01-01",
-            "end": null
-          },
-          {
             "company": "Kraft Foods Inc.",
             "start": "2008-01-01",
             "end": "2012-01-01"
@@ -35,6 +30,11 @@
             "company": "Kraft Foods Group",
             "start": "2012-01-01",
             "end": "2015-01-01"
+          },
+          {
+            "company": "McDonald's",
+            "start": "2015-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -65,10 +65,10 @@
         "birthPlace": "Oak Park",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Kroc%201976.jpg",
         "occupations": [
-          "salesperson",
           "restaurateur",
-          "businessperson",
+          "salesperson",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [

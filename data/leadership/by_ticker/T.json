@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-08-30T11:45:44.841645Z",
+  "fetchedAt": "2026-08-30T12:29:04.166468Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -173,14 +173,14 @@
         ],
         "employers": [
           {
-            "company": "BET",
+            "company": "Ad Council",
             "start": null,
             "end": null
           },
           {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Monsanto",
@@ -193,6 +193,16 @@
             "end": null
           },
           {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Revlon",
             "start": null,
             "end": null
@@ -201,16 +211,6 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Ad Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
           }
         ],
         "positions": [
