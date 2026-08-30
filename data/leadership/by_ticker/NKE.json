@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-08-23T07:03:38.744360Z",
+  "fetchedAt": "2026-08-30T11:45:44.832415Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -165,18 +165,18 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -218,8 +218,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -285,8 +285,8 @@
         ],
         "education": [
           "Dartmouth College",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
