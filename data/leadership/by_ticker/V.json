@@ -17,11 +17,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -30,6 +25,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
@@ -252,6 +252,11 @@
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -409,16 +414,6 @@
         ],
         "employers": [
           {
-            "company": "Yahoo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "IBM",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Gateway",
             "start": "1998-07-01",
             "end": "1999-08-01"
@@ -427,6 +422,16 @@
             "company": "LiveOps",
             "start": "2006-12-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Yahoo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -451,9 +456,9 @@
         "birthPlace": "Long Branch",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
+          "businessperson",
           "chief executive officer",
-          "merchant",
-          "businessperson"
+          "merchant"
         ],
         "education": [
           "Boston College"
@@ -597,11 +602,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -610,6 +610,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
