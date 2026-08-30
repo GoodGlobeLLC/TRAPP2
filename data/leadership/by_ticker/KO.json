@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-08-16T08:28:04.339760Z",
+  "fetchedAt": "2026-08-30T12:29:04.151403Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -185,22 +185,22 @@
         ],
         "employers": [
           {
-            "company": "CARE International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Children's National Hospital",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Gates Foundation",
             "start": null,
             "end": null
           },
           {
             "company": "United States Centers for Disease Control and Prevention",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "CARE International",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Children's National Hospital",
             "start": null,
             "end": null
           }
@@ -290,9 +290,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
+          "banker",
           "businessperson",
-          "banker"
+          "economist"
         ],
         "education": [
           "St Mary's School",
@@ -357,16 +357,6 @@
             "end": null
           },
           {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
-          },
-          {
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
@@ -379,6 +369,16 @@
           {
             "company": "Southern Regional Council",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
             "end": null
           }
         ],

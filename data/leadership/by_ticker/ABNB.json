@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-08-23T07:33:36.425147Z",
+  "fetchedAt": "2026-08-30T12:29:04.127696Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -14,8 +14,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%202025.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Niskayuna High School",
@@ -163,9 +163,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "computer scientist",
           "business executive",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Boston Latin Academy",
@@ -276,11 +276,6 @@
             "end": "2014-04-01"
           },
           {
-            "company": "Apple Inc.",
-            "start": "2014-05-01",
-            "end": "2019-05-01"
-          },
-          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -294,6 +289,11 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "2014-05-01",
+            "end": "2019-05-01"
           }
         ],
         "positions": [
@@ -324,15 +324,23 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
+          "venture capitalist",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
+          {
+            "company": "General Catalyst",
+            "start": null,
+            "end": null
+          },
           {
             "company": "American Express",
             "start": "1981-01-01",
@@ -348,6 +356,12 @@
           {
             "title": "board of directors member",
             "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -356,12 +370,6 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }
@@ -419,9 +427,9 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "computer scientist",
           "business executive",
-          "computer scientist"
+          "businessperson"
         ],
         "education": [
           "Boston Latin Academy",
@@ -456,8 +464,8 @@
         "birthPlace": "Niskayuna",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Chesky%202025.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Niskayuna High School",

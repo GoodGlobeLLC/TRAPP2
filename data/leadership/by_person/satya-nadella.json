@@ -5,12 +5,12 @@
   "birthPlace": "Hyderabad",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
   "occupations": [
-    "computer scientist",
     "manager",
     "electrotechnician",
     "chief executive officer",
+    "engineer",
     "entrepreneur",
-    "engineer"
+    "computer scientist"
   ],
   "education": [
     "Manipal Academy of Higher Education",
@@ -21,13 +21,13 @@
   ],
   "employers": [
     {
-      "company": "Sun Microsystems",
-      "start": null,
+      "company": "Microsoft",
+      "start": "1992-01-01",
       "end": null
     },
     {
-      "company": "Microsoft",
-      "start": "1992-01-01",
+      "company": "Sun Microsystems",
+      "start": null,
       "end": null
     }
   ],

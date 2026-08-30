@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-08-16T08:28:04.338527Z",
+  "fetchedAt": "2026-08-30T12:29:04.150466Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,17 +19,12 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
@@ -44,7 +39,12 @@
             "end": "1985-01-01"
           },
           {
-            "company": "Goldman Sachs",
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -457,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Colgate University",
           "Harvard Business School",
-          "Harvard University",
-          "Colgate University"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -505,17 +505,12 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
@@ -530,7 +525,12 @@
             "end": "1985-01-01"
           },
           {
-            "company": "Goldman Sachs",
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           }
@@ -557,8 +557,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

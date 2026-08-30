@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-08-16T08:28:04.336520Z",
+  "fetchedAt": "2026-08-30T12:29:04.148980Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -16,8 +16,8 @@
         "occupations": [
           "engineer",
           "entrepreneur",
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -167,6 +167,11 @@
         ],
         "employers": [
           {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
@@ -175,11 +180,6 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -235,8 +235,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Binghamton University",
@@ -261,16 +261,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "chemist",
+          "entrepreneur",
           "engineer",
           "physicist",
-          "entrepreneur"
+          "chemist"
         ],
         "education": [
-          "California Institute of Technology",
-          "University of California, Berkeley",
           "Sequoia High School",
-          "San Jose State University"
+          "San Jose State University",
+          "California Institute of Technology",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
+          "computer scientist",
           "businessperson",
-          "physicist",
-          "computer scientist"
+          "physicist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -346,9 +346,9 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
+          "academic",
           "computer scientist",
           "electrical engineer"
         ],
@@ -358,8 +358,8 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           },
           {
@@ -368,8 +368,8 @@
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -599,8 +599,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief financial officer",
           "businessperson",
+          "chief financial officer",
           "board member"
         ],
         "education": [],
@@ -659,6 +659,11 @@
         ],
         "employers": [
           {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
@@ -667,11 +672,6 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -709,16 +709,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "chemist",
+          "entrepreneur",
           "engineer",
           "physicist",
-          "entrepreneur"
+          "chemist"
         ],
         "education": [
-          "California Institute of Technology",
-          "University of California, Berkeley",
           "Sequoia High School",
-          "San Jose State University"
+          "San Jose State University",
+          "California Institute of Technology",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -743,13 +743,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
+          "computer scientist",
           "businessperson",
-          "physicist",
-          "computer scientist"
+          "physicist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-08-23T07:33:36.439717Z",
+  "fetchedAt": "2026-08-30T12:29:04.138007Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -51,8 +51,8 @@
         "occupations": [],
         "education": [
           "Perelman School of Medicine at the University of Pennsylvania",
-          "Harvard University",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "oncologist",
-          "physician"
+          "physician",
+          "oncologist"
         ],
         "education": [
           "Manchester University",
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
-            "company": "University of New Mexico",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

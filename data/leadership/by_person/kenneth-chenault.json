@@ -5,15 +5,23 @@
   "birthPlace": "Mineola",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
   "occupations": [
+    "venture capitalist",
+    "entrepreneur",
     "businessperson",
-    "entrepreneur"
+    "chief executive officer",
+    "lawyer"
   ],
   "education": [
+    "The Waldorf School of Garden City",
     "Bowdoin College",
-    "Harvard Law School",
-    "The Waldorf School of Garden City"
+    "Harvard Law School"
   ],
   "employers": [
+    {
+      "company": "General Catalyst",
+      "start": null,
+      "end": null
+    },
     {
       "company": "American Express",
       "start": "1981-01-01",
@@ -29,6 +37,12 @@
     {
       "title": "board of directors member",
       "company": null,
+      "start": "2018-01-01",
+      "end": null
+    },
+    {
+      "title": "board of directors member",
+      "company": null,
       "start": "2020-05-02",
       "end": null
     },
@@ -37,12 +51,6 @@
       "company": null,
       "start": "2001-01-01",
       "end": "2018-02-01"
-    },
-    {
-      "title": "board of directors member",
-      "company": null,
-      "start": "2018-01-01",
-      "end": null
     }
   ],
   "currentTickers": [

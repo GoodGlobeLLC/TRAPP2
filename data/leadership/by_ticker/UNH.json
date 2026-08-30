@@ -1,6 +1,6 @@
 {
   "ticker": "UNH",
-  "fetchedAt": "2026-08-23T07:03:38.760977Z",
+  "fetchedAt": "2026-08-30T12:29:04.169367Z",
   "people": [
     {
       "qid": "Q18121649",
@@ -22,16 +22,6 @@
         ],
         "employers": [
           {
-            "company": "Optum",
-            "start": "2018-03-01",
-            "end": "2021-02-01"
-          },
-          {
-            "company": "UnitedHealth Group",
-            "start": "2021-02-04",
-            "end": null
-          },
-          {
             "company": "University of Nottingham",
             "start": null,
             "end": null
@@ -40,6 +30,16 @@
             "company": "GSK",
             "start": "1985-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Optum",
+            "start": "2018-03-01",
+            "end": "2021-02-01"
+          },
+          {
+            "company": "UnitedHealth Group",
+            "start": "2021-02-04",
+            "end": null
           }
         ],
         "positions": [
@@ -157,8 +157,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": [
@@ -278,9 +278,9 @@
         "birthPlace": "Melrose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Noseworthy%20at%20Spotlight%20Health%20Aspen%20Ideas%20Festival%202015.JPG",
         "occupations": [
-          "director",
           "neurologist",
-          "physician"
+          "physician",
+          "director"
         ],
         "education": [
           "Dalhousie University"
@@ -322,16 +322,6 @@
         ],
         "employers": [
           {
-            "company": "Optum",
-            "start": "2018-03-01",
-            "end": "2021-02-01"
-          },
-          {
-            "company": "UnitedHealth Group",
-            "start": "2021-02-04",
-            "end": null
-          },
-          {
             "company": "University of Nottingham",
             "start": null,
             "end": null
@@ -340,6 +330,16 @@
             "company": "GSK",
             "start": "1985-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Optum",
+            "start": "2018-03-01",
+            "end": "2021-02-01"
+          },
+          {
+            "company": "UnitedHealth Group",
+            "start": "2021-02-04",
+            "end": null
           }
         ],
         "positions": [
@@ -411,9 +411,9 @@
         "birthPlace": "Elmira",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Baker%20official%20photo%20%28cropped%29.jpg",
         "occupations": [
-          "governor",
           "politician",
-          "businessperson"
+          "businessperson",
+          "governor"
         ],
         "education": [
           "Needham High School",

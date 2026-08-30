@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-08-16T08:28:04.341322Z",
+  "fetchedAt": "2026-08-30T12:29:04.152557Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -213,9 +213,9 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
           "Georgia Tech",
           "University of West Florida",
+          "United States Naval Academy",
           "Harvard University"
         ],
         "employers": [],
@@ -234,8 +234,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
           "Wisconsin School of Business",
@@ -307,11 +307,21 @@
           "politician"
         ],
         "education": [
+          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College",
-          "Columbia Law School"
+          "Morehouse College"
         ],
         "employers": [
+          {
+            "company": "United States District Court for the Southern District of New York",
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Lockheed Martin",
+            "start": "2017-12-01",
+            "end": null
+          },
           {
             "company": "U.S. Steel",
             "start": "2020-04-01",
@@ -341,19 +351,15 @@
             "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
             "start": "1984-11-01",
             "end": "1989-01-01"
-          },
-          {
-            "company": "United States District Court for the Southern District of New York",
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Lockheed Martin",
-            "start": "2017-12-01",
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
+          },
           {
             "title": "General Counsel of the Air Force",
             "company": null,
@@ -365,12 +371,6 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
           }
         ]
       }
@@ -387,8 +387,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "military officer",
-          "priest"
+          "priest",
+          "military officer"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -407,11 +407,11 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "California",
+        "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "businessperson",
           "manager",
+          "businessperson",
           "military officer"
         ],
         "education": [
@@ -421,17 +421,17 @@
         ],
         "employers": [
           {
-            "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Motors",
             "start": null,
             "end": null
           },
           {
             "company": "American Express",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

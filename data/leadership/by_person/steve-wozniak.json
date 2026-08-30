@@ -10,19 +10,24 @@
     "inventor",
     "entrepreneur",
     "engineer",
+    "businessperson",
     "computer scientist",
     "teacher",
-    "businessperson",
     "actor"
   ],
   "education": [
     "University of Colorado",
     "De Anza College",
     "University of Colorado Boulder",
-    "University of California, Berkeley",
-    "Homestead High School"
+    "Homestead High School",
+    "University of California, Berkeley"
   ],
   "employers": [
+    {
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Hewlett-Packard",
       "start": null,
@@ -30,11 +35,6 @@
     },
     {
       "company": "University of Technology Sydney",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },

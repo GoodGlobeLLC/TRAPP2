@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-08-23T07:33:36.423951Z",
+  "fetchedAt": "2026-08-30T12:29:04.126832Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,28 +16,28 @@
         "occupations": [
           "presenter",
           "manager",
+          "computer scientist",
           "chief executive officer",
           "engineer",
-          "computer scientist",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -63,11 +63,10 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
           "Princeton University"
         ],
@@ -104,9 +103,9 @@
           "economist"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -178,24 +177,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "farmer",
-          "orator",
           "climate activist",
+          "orator",
+          "blogger",
           "university teacher",
           "environmentalist",
           "financier",
-          "blogger",
-          "businessperson",
+          "farmer",
+          "journalist",
           "politician",
           "writer",
-          "journalist"
+          "businessperson"
         ],
         "education": [
-          "Defense Information School",
           "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School"
+          "St. Albans School",
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -205,6 +204,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
+          },
           {
             "title": "United States representative",
             "company": null,
@@ -238,12 +243,6 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
             "start": "1979-01-03",
             "end": "1981-01-03"
           },
@@ -254,10 +253,10 @@
             "end": "1993-01-02"
           },
           {
-            "title": "United States senator",
+            "title": "United States representative",
             "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
@@ -281,11 +280,10 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
           "Princeton University"
         ],
@@ -358,19 +356,24 @@
           "inventor",
           "entrepreneur",
           "engineer",
+          "businessperson",
           "computer scientist",
           "teacher",
-          "businessperson",
           "actor"
         ],
         "education": [
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -378,11 +381,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -407,10 +405,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer",
           "entrepreneur",
-          "writer"
+          "computer scientist",
+          "writer",
+          "engineer"
         ],
         "education": [
           "High School of Art and Design"

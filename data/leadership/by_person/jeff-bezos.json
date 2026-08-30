@@ -12,16 +12,11 @@
     "business oligarch"
   ],
   "education": [
+    "Miami Palmetto High School",
     "Princeton University",
-    "River Oaks Elementary School",
-    "Miami Palmetto High School"
+    "River Oaks Elementary School"
   ],
   "employers": [
-    {
-      "company": "Bankers Trust",
-      "start": "1988-01-01",
-      "end": "1990-01-01"
-    },
     {
       "company": "First International Telecom",
       "start": null,
@@ -36,20 +31,25 @@
       "company": "Amazon",
       "start": "1994-07-05",
       "end": null
+    },
+    {
+      "company": "Bankers Trust",
+      "start": "1988-01-01",
+      "end": "1990-01-01"
     }
   ],
   "positions": [
-    {
-      "title": "chairperson of the executive board",
-      "company": null,
-      "start": null,
-      "end": null
-    },
     {
       "title": "chief executive officer",
       "company": null,
       "start": "1996-05-01",
       "end": "2021-07-05"
+    },
+    {
+      "title": "chairperson of the executive board",
+      "company": null,
+      "start": null,
+      "end": null
     }
   ],
   "currentTickers": [

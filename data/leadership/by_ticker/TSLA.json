@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-08-23T07:03:38.759127Z",
+  "fetchedAt": "2026-08-30T12:29:04.168116Z",
   "people": [
     {
       "qid": "Q317521",
@@ -17,10 +17,10 @@
           "technology entrepreneur",
           "philanthropist",
           "dub actor",
+          "civil servant",
+          "programmer",
           "financier",
           "investor",
-          "programmer",
-          "civil servant",
           "inventor",
           "entrepreneur",
           "engineer",
@@ -39,18 +39,8 @@
         ],
         "employers": [
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
             "company": "Neuralink",
             "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
             "end": null
           },
           {
@@ -62,6 +52,16 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
@@ -131,8 +131,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -140,6 +140,11 @@
           "Georges River College"
         ],
         "employers": [
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
           {
             "company": "Toyota Australia",
             "start": "1989-01-01",
@@ -169,11 +174,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -327,8 +327,8 @@
         "birthPlace": "Milperra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018-05-16-cebit-robyn-m-denholm-portrait.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of New South Wales",
@@ -336,6 +336,11 @@
           "Georges River College"
         ],
         "employers": [
+          {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
           {
             "company": "Toyota Australia",
             "start": "1989-01-01",
@@ -365,11 +370,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -528,10 +528,10 @@
           "technology entrepreneur",
           "philanthropist",
           "dub actor",
+          "civil servant",
+          "programmer",
           "financier",
           "investor",
-          "programmer",
-          "civil servant",
           "inventor",
           "entrepreneur",
           "engineer",
@@ -550,18 +550,8 @@
         ],
         "employers": [
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
             "company": "Neuralink",
             "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
             "end": null
           },
           {
@@ -573,6 +563,16 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
@@ -644,8 +644,8 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "computer scientist",
           "businessperson",
+          "computer scientist",
           "actor"
         ],
         "education": [
@@ -710,8 +710,8 @@
           "publisher"
         ],
         "education": [
-          "Horace Mann School",
-          "Harvard University"
+          "Harvard University",
+          "Horace Mann School"
         ],
         "employers": [],
         "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-08-23T07:33:36.435165Z",
+  "fetchedAt": "2026-08-30T12:29:04.134799Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -331,10 +331,10 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
         "occupations": [
-          "photographer",
           "entrepreneur",
-          "writer",
-          "farmer"
+          "farmer",
+          "photographer",
+          "writer"
         ],
         "education": [
           "Harvard University"
@@ -366,8 +366,8 @@
         ],
         "education": [
           "Harvard Business School",
-          "Harvard University",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -432,8 +432,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -553,15 +553,23 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
+          "venture capitalist",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "chief executive officer",
+          "lawyer"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
+          {
+            "company": "General Catalyst",
+            "start": null,
+            "end": null
+          },
           {
             "company": "American Express",
             "start": "1981-01-01",
@@ -577,6 +585,12 @@
           {
             "title": "board of directors member",
             "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -585,12 +599,6 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }
