@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "fetchedAt": "2026-08-30T12:29:04.137618Z",
+  "fetchedAt": "2026-09-06T10:49:58.901294Z",
   "people": [
     {
       "qid": "Q64705310",
@@ -15,14 +15,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
         "occupations": [
           "chief executive officer",
-          "software engineer",
           "business executive",
+          "software engineer",
           "businessperson"
         ],
         "education": [
           "Bellarmine College Preparatory"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Coinbase",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": []
       }
     },
@@ -39,14 +45,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Armstrong%20-%20TechCrunch%20Disrupt%202018%2001.jpg",
         "occupations": [
           "chief executive officer",
-          "software engineer",
           "business executive",
+          "software engineer",
           "businessperson"
         ],
         "education": [
           "Bellarmine College Preparatory"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Coinbase",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": []
       }
     }

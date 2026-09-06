@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-08-30T12:29:04.126832Z",
+  "fetchedAt": "2026-09-06T10:49:58.889946Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,10 +14,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
-          "computer scientist",
+          "presenter",
           "chief executive officer",
+          "computer scientist",
           "engineer",
           "businessperson"
         ],
@@ -45,7 +45,7 @@
             "title": "chief executive officer",
             "company": null,
             "start": "2011-08-24",
-            "end": "2026-09-01"
+            "end": "2026-08-31"
           }
         ]
       }
@@ -63,8 +63,8 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -99,8 +99,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -179,15 +179,15 @@
         "occupations": [
           "climate activist",
           "orator",
-          "blogger",
-          "university teacher",
           "environmentalist",
           "financier",
-          "farmer",
+          "blogger",
           "journalist",
+          "university teacher",
+          "farmer",
           "politician",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -280,8 +280,8 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
@@ -351,12 +351,12 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "programmer",
           "electronics technician",
-          "inventor",
-          "entrepreneur",
+          "programmer",
           "engineer",
+          "inventor",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "teacher",
           "actor"
@@ -365,8 +365,8 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
           {
@@ -405,10 +405,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
-          "writer",
-          "engineer"
+          "entrepreneur",
+          "engineer",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -421,6 +421,84 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q19837",
+      "name": "Steve Jobs",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19837",
+        "name": "Steve Jobs",
+        "dateOfBirth": "1955-02-24",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
+        "occupations": [
+          "designer",
+          "technology entrepreneur",
+          "financier",
+          "founder",
+          "general manager",
+          "executive producer",
+          "film producer",
+          "computer scientist",
+          "entrepreneur",
+          "inventor"
+        ],
+        "education": [
+          "Homestead High School",
+          "Reed College",
+          "De Anza College"
+        ],
+        "employers": [
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1985-01-01",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1985-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1997-09-16",
+            "end": "2011-08-24"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1995-11-29",
+            "end": "1997-01-01"
+          }
+        ]
       }
     }
   ]

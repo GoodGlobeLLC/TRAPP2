@@ -16,6 +16,11 @@
   ],
   "employers": [
     {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
+      "end": null
+    },
+    {
       "company": "Hasbro",
       "start": null,
       "end": null
@@ -23,11 +28,6 @@
     {
       "company": "Bain & Company",
       "start": null,
-      "end": null
-    },
-    {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
       "end": null
     },
     {
@@ -41,12 +41,12 @@
       "end": null
     },
     {
-      "company": "Quibi",
+      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     },
     {
-      "company": "The Walt Disney Company",
+      "company": "Quibi",
       "start": null,
       "end": null
     }
@@ -77,16 +77,16 @@
       "end": null
     },
     {
-      "title": "vice president",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
       "title": "chief executive officer",
       "company": null,
       "start": "1998-01-01",
       "end": "2008-01-01"
+    },
+    {
+      "title": "vice president",
+      "company": null,
+      "start": null,
+      "end": null
     },
     {
       "title": "vice president",

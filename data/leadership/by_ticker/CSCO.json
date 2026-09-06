@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-08-30T12:29:04.139020Z",
+  "fetchedAt": "2026-09-06T10:49:58.902569Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -53,10 +53,10 @@
         ],
         "education": [
           "University of Wisconsin\u2013Madison",
-          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -211,7 +211,14 @@
           "Stern School of Business"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2025-10-01",
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -448,8 +455,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology"

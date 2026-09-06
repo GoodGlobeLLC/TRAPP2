@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-08-30T12:29:04.141120Z",
+  "fetchedAt": "2026-09-06T10:49:58.904020Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -134,9 +134,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "businessperson",
+          "chief executive officer",
           "entrepreneur",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [
           "Lawrenceville School",
@@ -146,11 +146,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -159,6 +154,11 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -264,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "animator",
-          "businessperson"
+          "businessperson",
+          "animator"
         ],
         "education": [],
         "employers": [],
@@ -312,8 +312,8 @@
         "birthPlace": "Rexburg",
         "image": null,
         "occupations": [
-          "businessperson",
-          "film producer"
+          "film producer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -353,22 +353,22 @@
         "occupations": [
           "producer",
           "draftsperson",
-          "caricaturist",
-          "voice actor",
-          "manufacturer",
-          "director",
-          "film actor",
-          "painter",
           "designer",
+          "manufacturer",
+          "film actor",
+          "caricaturist",
+          "director",
+          "film director",
           "film producer",
+          "voice actor",
           "television presenter",
           "comics artist",
-          "film director",
           "illustrator",
-          "actor",
+          "painter",
           "animator",
           "inventor",
-          "writer"
+          "writer",
+          "actor"
         ],
         "education": [
           "McKinley High School",
@@ -391,8 +391,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -553,8 +553,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -582,8 +582,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -613,15 +613,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "businessperson",
-          "chief financial officer"
+          "chief financial officer",
+          "banker"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -736,8 +736,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "Indiana University",
@@ -759,8 +759,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -826,22 +826,22 @@
         "occupations": [
           "producer",
           "draftsperson",
-          "caricaturist",
-          "voice actor",
-          "manufacturer",
-          "director",
-          "film actor",
-          "painter",
           "designer",
+          "manufacturer",
+          "film actor",
+          "caricaturist",
+          "director",
+          "film director",
           "film producer",
+          "voice actor",
           "television presenter",
           "comics artist",
-          "film director",
           "illustrator",
-          "actor",
+          "painter",
           "animator",
           "inventor",
-          "writer"
+          "writer",
+          "actor"
         ],
         "education": [
           "McKinley High School",
