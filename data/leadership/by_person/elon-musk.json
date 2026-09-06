@@ -7,14 +7,14 @@
   "occupations": [
     "technology entrepreneur",
     "philanthropist",
-    "dub actor",
-    "civil servant",
     "programmer",
+    "dub actor",
     "financier",
     "investor",
+    "civil servant",
     "inventor",
-    "engineer",
     "entrepreneur",
+    "engineer",
     "politician"
   ],
   "education": [
@@ -24,16 +24,11 @@
     "Pretoria Boys High School",
     "Queen's University",
     "The Wharton School",
+    "Stanford University",
     "University of Pretoria",
-    "University of Pennsylvania",
-    "Stanford University"
+    "University of Pennsylvania"
   ],
   "employers": [
-    {
-      "company": "Neuralink",
-      "start": "2016-07-01",
-      "end": null
-    },
     {
       "company": "SolarCity",
       "start": null,
@@ -45,14 +40,19 @@
       "end": "2019-01-01"
     },
     {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
+      "company": "Neuralink",
+      "start": "2016-07-01",
       "end": null
     },
     {
       "company": "Department of Government Efficiency",
       "start": "2025-01-20",
       "end": "2025-05-30"
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
+      "end": null
     },
     {
       "company": "PayPal",

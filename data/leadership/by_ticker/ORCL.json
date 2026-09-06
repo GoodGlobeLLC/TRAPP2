@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-08-30T12:29:04.159106Z",
+  "fetchedAt": "2026-09-06T11:30:13.783172Z",
   "people": [
     {
       "qid": "Q92759",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
-          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda"
+          "Maharaja Sayajirao University of Baroda",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -198,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "University of California, Santa Barbara"
+          "University of California, Santa Barbara",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": []
@@ -258,16 +258,6 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Microsoft",
-            "start": "1983-01-01",
-            "end": "1987-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
@@ -276,6 +266,16 @@
             "company": "Mattel",
             "start": "1980-01-01",
             "end": "1983-01-01"
+          },
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Microsoft",
+            "start": "1983-01-01",
+            "end": "1987-01-01"
           }
         ],
         "positions": [
@@ -302,7 +302,6 @@
         "occupations": [
           "academic",
           "university teacher",
-          "businessperson",
           "economist",
           "businessperson",
           "writer"
@@ -312,22 +311,22 @@
         ],
         "employers": [
           {
-            "company": "University of California, Berkeley",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Yale University",
             "start": null,
             "end": null
           },
           {
+            "company": "University of California, Berkeley",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -348,14 +347,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
           "banker",
-          "chief financial officer",
-          "businessperson"
+          "businessperson",
+          "chief financial officer"
         ],
         "education": [
-          "Harvard Law School",
           "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -370,18 +369,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -405,6 +392,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -528,8 +527,8 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "Oberleutnant",
           "university teacher",
+          "Oberleutnant",
           "jurist",
           "political scientist",
           "lawyer",
@@ -542,12 +541,12 @@
         ],
         "employers": [
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           },
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           }
@@ -590,10 +589,16 @@
             "end": "1987-01-03"
           },
           {
-            "title": "White House Chief of Staff",
+            "title": "United States representative",
             "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           },
           {
             "title": "United States representative",
@@ -630,18 +635,6 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
           }
         ]
       }
@@ -659,8 +652,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],
@@ -722,8 +715,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
           "aircraft pilot",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "actor"
         ],

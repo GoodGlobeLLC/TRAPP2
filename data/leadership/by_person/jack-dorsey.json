@@ -6,12 +6,12 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
   "occupations": [
     "blogger",
-    "programmer",
     "tech VIP",
+    "programmer",
     "business executive",
     "billionaire",
-    "entrepreneur",
     "computer scientist",
+    "entrepreneur",
     "businessperson"
   ],
   "education": [
@@ -19,7 +19,13 @@
     "Missouri University of Science and Technology",
     "New York University"
   ],
-  "employers": [],
+  "employers": [
+    {
+      "company": "Block, Inc.",
+      "start": null,
+      "end": null
+    }
+  ],
   "positions": [
     {
       "title": "chief executive officer",

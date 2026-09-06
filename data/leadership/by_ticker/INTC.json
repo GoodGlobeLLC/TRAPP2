@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-08-30T12:29:04.148980Z",
+  "fetchedAt": "2026-09-06T11:30:13.768258Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,9 +14,9 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
           "chemist",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -235,8 +235,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Binghamton University",
@@ -261,16 +261,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
-          "engineer",
           "physicist",
-          "chemist"
+          "chemist",
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Sequoia High School",
           "San Jose State University",
-          "California Institute of Technology",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -295,9 +295,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
+          "physicist",
           "computer scientist",
-          "businessperson",
-          "physicist"
+          "businessperson"
         ],
         "education": [
           "Grinnell College",
@@ -346,22 +346,17 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "academic",
           "university teacher",
           "electrotechnician",
-          "academic",
-          "computer scientist",
-          "electrical engineer"
+          "electrical engineer",
+          "computer scientist"
         ],
         "education": [
           "University of California, Berkeley",
           "University of California, Berkeley College of Engineering"
         ],
         "employers": [
-          {
-            "company": "Princeton University",
-            "start": "2020-01-01",
-            "end": null
-          },
           {
             "company": "California Institute of Technology",
             "start": null,
@@ -370,6 +365,11 @@
           {
             "company": "Stanford University",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           }
         ],
@@ -419,14 +419,19 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
-          "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Stony Brook University",
+          "The Bush School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -436,14 +441,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -455,12 +461,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -709,16 +709,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
-          "engineer",
           "physicist",
-          "chemist"
+          "chemist",
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "Sequoia High School",
           "San Jose State University",
-          "California Institute of Technology",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -743,9 +743,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
+          "physicist",
           "computer scientist",
-          "businessperson",
-          "physicist"
+          "businessperson"
         ],
         "education": [
           "Grinnell College",

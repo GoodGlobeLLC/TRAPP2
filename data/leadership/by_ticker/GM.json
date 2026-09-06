@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-08-30T12:29:04.145990Z",
+  "fetchedAt": "2026-09-06T11:30:13.763723Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
+          "University of Toronto",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -145,8 +145,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
           "politician",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -280,7 +280,20 @@
           "Stanford University"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2026-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2014-01-01",
+            "end": "2020-01-01"
+          }
+        ]
       }
     },
     {
@@ -592,12 +605,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "chief executive officer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Stanford University"
         ],
         "employers": [
           {
