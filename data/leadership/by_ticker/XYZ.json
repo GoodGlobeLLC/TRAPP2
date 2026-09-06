@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "fetchedAt": "2026-08-30T12:29:04.173342Z",
+  "fetchedAt": "2026-09-06T10:49:22.651934Z",
   "people": [
     {
       "qid": "Q335552",
@@ -14,21 +14,27 @@
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
+          "tech VIP",
           "blogger",
           "programmer",
-          "tech VIP",
+          "computer scientist",
           "business executive",
           "billionaire",
           "entrepreneur",
-          "computer scientist",
           "businessperson"
         ],
         "education": [
+          "New York University",
           "Bishop DuBourg High School",
-          "Missouri University of Science and Technology",
-          "New York University"
+          "Missouri University of Science and Technology"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Block, Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": [
           {
             "title": "chief executive officer",
@@ -69,21 +75,27 @@
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Dorsey%202014.jpg",
         "occupations": [
+          "tech VIP",
           "blogger",
           "programmer",
-          "tech VIP",
+          "computer scientist",
           "business executive",
           "billionaire",
           "entrepreneur",
-          "computer scientist",
           "businessperson"
         ],
         "education": [
+          "New York University",
           "Bishop DuBourg High School",
-          "Missouri University of Science and Technology",
-          "New York University"
+          "Missouri University of Science and Technology"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Block, Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": [
           {
             "title": "chief executive officer",
