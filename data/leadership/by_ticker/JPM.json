@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-08-30T12:29:04.150466Z",
+  "fetchedAt": "2026-09-06T11:30:13.770351Z",
   "people": [
     {
       "qid": "Q922169",
@@ -24,11 +24,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
             "end": "2004-07-01"
@@ -37,6 +32,11 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           },
           {
             "company": "JPMorgan Chase",
@@ -289,10 +289,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Case Western Reserve University",
-          "Georgetown University Law Center",
           "Emory University",
           "Georgetown University",
+          "Case Western Reserve University",
+          "Georgetown University Law Center",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -405,8 +405,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "The Wharton School",
@@ -510,11 +510,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
             "end": "2004-07-01"
@@ -523,6 +518,11 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": null,
+            "end": null
           },
           {
             "company": "JPMorgan Chase",

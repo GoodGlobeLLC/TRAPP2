@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-09-06T10:49:22.630876Z",
+  "fetchedAt": "2026-09-06T11:30:13.783172Z",
   "people": [
     {
       "qid": "Q92759",
@@ -16,6 +16,7 @@
         "occupations": [
           "aircraft pilot",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "entrepreneur",
           "actor"
@@ -263,6 +264,11 @@
             "end": null
           },
           {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
+          },
+          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -271,11 +277,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -301,6 +302,7 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
           "academic",
+          "university teacher",
           "economist",
           "university teacher",
           "businessperson",
@@ -316,7 +318,7 @@
             "end": null
           },
           {
-            "company": "Harvard University",
+            "company": "University of California, Berkeley",
             "start": null,
             "end": null
           },
@@ -326,7 +328,7 @@
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -346,15 +348,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
+          "banker",
           "businessperson",
-          "chief financial officer",
-          "banker"
+          "chief financial officer"
         ],
         "education": [
+          "Brookline High School",
           "University of Pennsylvania Carey Law School",
           "The Wharton School",
-          "Harvard Law School",
-          "Brookline High School"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -369,18 +371,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -404,6 +394,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -527,6 +529,10 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
+          "university teacher",
+          "Oberleutnant",
+          "jurist",
+          "political scientist",
           "lawyer",
           "politician",
           "Oberleutnant",
@@ -653,6 +659,7 @@
         "occupations": [
           "aircraft pilot",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "entrepreneur",
           "actor"
@@ -716,6 +723,7 @@
         "occupations": [
           "aircraft pilot",
           "businessperson",
+          "entrepreneur",
           "computer scientist",
           "entrepreneur",
           "actor"

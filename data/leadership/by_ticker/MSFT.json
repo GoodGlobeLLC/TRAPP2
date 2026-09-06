@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-08-30T12:29:04.156253Z",
+  "fetchedAt": "2026-09-06T11:30:13.778850Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -103,17 +103,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -128,6 +123,11 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
           "Syracuse University",
@@ -309,8 +309,8 @@
           "podcaster",
           "financier",
           "investor",
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Cornell University"
+          "Cornell University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -443,20 +443,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "co-founder",
           "philanthropist",
           "art collector",
+          "co-founder",
           "programmer",
           "film producer",
           "musician",
           "television producer",
-          "record producer",
           "investor",
           "inventor",
+          "record producer",
           "entrepreneur",
           "computer scientist",
-          "composer",
-          "businessperson"
+          "businessperson",
+          "composer"
         ],
         "education": [
           "Washington State University",

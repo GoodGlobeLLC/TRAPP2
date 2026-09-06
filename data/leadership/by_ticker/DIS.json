@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-09-06T10:49:58.904020Z",
+  "fetchedAt": "2026-09-06T11:30:13.756778Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -105,8 +105,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
-          "architect"
+          "architect",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -353,18 +353,18 @@
         "occupations": [
           "producer",
           "draftsperson",
-          "designer",
           "manufacturer",
-          "film actor",
+          "designer",
           "caricaturist",
+          "film actor",
           "director",
           "film director",
           "film producer",
+          "illustrator",
           "voice actor",
+          "painter",
           "television presenter",
           "comics artist",
-          "illustrator",
-          "painter",
           "animator",
           "inventor",
           "writer",
@@ -450,8 +450,8 @@
           "Princeton School of Public and International Affairs",
           "St Antony's College",
           "Harvard Law School",
-          "University of Oxford",
           "The Branson School",
+          "University of Oxford",
           "Princeton University"
         ],
         "employers": [],
@@ -618,10 +618,10 @@
           "banker"
         ],
         "education": [
+          "Brookline High School",
           "University of Pennsylvania Carey Law School",
           "The Wharton School",
-          "Harvard Law School",
-          "Brookline High School"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -636,18 +636,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -671,6 +659,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -826,18 +826,18 @@
         "occupations": [
           "producer",
           "draftsperson",
-          "designer",
           "manufacturer",
-          "film actor",
+          "designer",
           "caricaturist",
+          "film actor",
           "director",
           "film director",
           "film producer",
+          "illustrator",
           "voice actor",
+          "painter",
           "television presenter",
           "comics artist",
-          "illustrator",
-          "painter",
           "animator",
           "inventor",
           "writer",
