@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-08-30T12:29:04.170249Z",
+  "fetchedAt": "2026-09-06T10:49:22.647457Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,6 +17,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -25,11 +30,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [
@@ -222,17 +222,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -249,14 +244,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
             "company": "Procter & Gamble",
             "start": "1994-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
           }
         ],
         "positions": [
@@ -282,8 +277,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
           "chief executive officer",
-          "businessperson",
-          "chairperson"
+          "chairperson",
+          "businessperson"
         ],
         "education": [
           "Thunderbird School of Global Management",
@@ -293,6 +288,11 @@
         ],
         "employers": [
           {
+            "company": "Chupa Chups",
+            "start": null,
+            "end": "1996-01-01"
+          },
+          {
             "company": "PepsiCo",
             "start": "1996-01-01",
             "end": null
@@ -301,11 +301,6 @@
             "company": "SEAT",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Chupa Chups",
-            "start": null,
-            "end": "1996-01-01"
           }
         ],
         "positions": [
@@ -602,6 +597,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
+          },
+          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -610,11 +610,6 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
           }
         ],
         "positions": [

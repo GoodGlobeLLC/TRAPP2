@@ -1,6 +1,6 @@
 {
   "ticker": "WDAY",
-  "fetchedAt": "2026-08-30T12:29:04.171658Z",
+  "fetchedAt": "2026-09-06T10:49:22.649355Z",
   "people": [
     {
       "qid": "Q18352311",
@@ -17,11 +17,24 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2026-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2014-01-01",
+            "end": "2020-01-01"
+          }
+        ]
       }
     },
     {
@@ -44,7 +57,14 @@
           "Samuel Curtis Johnson Graduate School of Management"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-01-01",
+            "end": "2009-01-01"
+          }
+        ]
       }
     },
     {
@@ -62,11 +82,24 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2026-01-01",
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2014-01-01",
+            "end": "2020-01-01"
+          }
+        ]
       }
     },
     {
@@ -89,7 +122,14 @@
           "Samuel Curtis Johnson Graduate School of Management"
         ],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2005-01-01",
+            "end": "2009-01-01"
+          }
+        ]
       }
     }
   ]

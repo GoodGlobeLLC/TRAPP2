@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-08-30T12:29:04.166468Z",
+  "fetchedAt": "2026-09-06T10:49:22.642168Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -118,9 +118,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -162,16 +162,26 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
+          "John F. Kennedy School of Government",
           "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
-          "John F. Kennedy School of Government"
+          "Brown University"
         ],
         "employers": [
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Ad Council",
             "start": null,
@@ -181,16 +191,6 @@
             "company": "BET Media Group",
             "start": "1986-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Monsanto",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Kodak",
-            "start": null,
-            "end": null
           },
           {
             "company": "BET",
@@ -203,28 +203,28 @@
             "end": null
           },
           {
-            "company": "Revlon",
+            "company": "Monsanto",
             "start": null,
             "end": null
           },
           {
-            "company": "Washington Gas",
+            "company": "Kodak",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "title": "board of directors member",
             "company": null,
             "start": "2020-01-01",
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2006-01-01",
+            "end": "2018-01-01"
           }
         ]
       }
@@ -244,9 +244,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -284,8 +284,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -418,8 +418,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
           "Stanford University"
