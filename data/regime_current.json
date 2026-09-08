@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "regime": "risk_on_melt_up",
   "confidence": 0.981,
   "scores": {
@@ -10,7 +10,7 @@
     "trend": 0.907,
     "breadth": 0.091,
     "commodity": 0.61,
-    "crypto": 0.768
+    "crypto": 0.728
   },
   "signal_confidences": {
     "macro": 1.0,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.3523,
-    "risk_on_melt_up": 0.6049,
-    "inflation_shock": 0.0013,
+    "expansion": 0.3621,
+    "risk_on_melt_up": 0.5923,
+    "inflation_shock": 0.0014,
     "recession_fear": 0.0,
     "risk_off": 0.0001,
-    "neutral": 0.0414
+    "neutral": 0.0441
   },
   "drivers": [
     {
@@ -47,9 +47,9 @@
     },
     {
       "signal": "crypto",
-      "score": 0.768,
+      "score": 0.728,
       "confidence": 1.0,
-      "weight": 0.768,
+      "weight": 0.728,
       "direction": "bullish"
     }
   ],
@@ -94,11 +94,11 @@
       "n_components": 3
     },
     "crypto": {
-      "btc_30d_return": 0.2384,
-      "btc_pct_from_50dma": 0.1577,
-      "eth_30d_return": 0.3143,
+      "btc_30d_return": 0.219,
+      "btc_pct_from_50dma": 0.1352,
+      "eth_30d_return": 0.3004,
       "n_components": 3
     }
   },
-  "computed_at": "2026-09-07T23:50:13+00:00"
+  "computed_at": "2026-09-08T12:46:39+00:00"
 }
