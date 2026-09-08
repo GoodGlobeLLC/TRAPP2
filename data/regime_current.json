@@ -4,8 +4,8 @@
   "confidence": 0.981,
   "scores": {
     "macro": 0.127,
-    "liquidity": 0.383,
-    "volatility": 0.855,
+    "liquidity": 0.374,
+    "volatility": 0.794,
     "valuation": -0.368,
     "trend": 0.907,
     "breadth": 0.091,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.3621,
-    "risk_on_melt_up": 0.5923,
-    "inflation_shock": 0.0014,
+    "expansion": 0.3733,
+    "risk_on_melt_up": 0.5763,
+    "inflation_shock": 0.0017,
     "recession_fear": 0.0,
     "risk_off": 0.0001,
-    "neutral": 0.0441
+    "neutral": 0.0486
   },
   "drivers": [
     {
@@ -40,9 +40,9 @@
     },
     {
       "signal": "volatility",
-      "score": 0.855,
+      "score": 0.794,
       "confidence": 1.0,
-      "weight": 0.855,
+      "weight": 0.794,
       "direction": "bullish"
     },
     {
@@ -61,12 +61,12 @@
     },
     "liquidity": {
       "t10y2y": 0.41,
-      "hy_spread": 2.65,
-      "hy_spread_z": -1.13,
+      "hy_spread": 2.68,
+      "hy_spread_z": -1.05,
       "hyg_minus_lqd_1m": 0.0073
     },
     "volatility": {
-      "vix_level": 14.32,
+      "vix_level": 15.3,
       "vix9d_over_vix": NaN
     },
     "valuation": {
@@ -100,5 +100,93 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-09-08T17:08:57+00:00"
+  "computed_at": "2026-09-08T18:52:16+00:00",
+  "transitions": {
+    "1_step": {
+      "expansion": 0.0323,
+      "risk_on_melt_up": 0.8387,
+      "inflation_shock": 0.0323,
+      "recession_fear": 0.0323,
+      "risk_off": 0.0323,
+      "neutral": 0.0323
+    },
+    "5_step": {
+      "expansion": 0.1873,
+      "risk_on_melt_up": 0.511,
+      "inflation_shock": 0.0521,
+      "recession_fear": 0.0521,
+      "risk_off": 0.0521,
+      "neutral": 0.1456
+    },
+    "20_step": {
+      "expansion": 0.3465,
+      "risk_on_melt_up": 0.3001,
+      "inflation_shock": 0.0494,
+      "recession_fear": 0.0494,
+      "risk_off": 0.0494,
+      "neutral": 0.2053
+    }
+  },
+  "stationary": {
+    "expansion": 0.3543,
+    "risk_on_melt_up": 0.2914,
+    "inflation_shock": 0.0492,
+    "recession_fear": 0.0492,
+    "risk_off": 0.0492,
+    "neutral": 0.2068
+  },
+  "expected_persistence_days": 6.2,
+  "transition_matrix": [
+    [
+      0.8367,
+      0.0408,
+      0.0204,
+      0.0204,
+      0.0204,
+      0.0612
+    ],
+    [
+      0.0323,
+      0.8387,
+      0.0323,
+      0.0323,
+      0.0323,
+      0.0323
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667,
+      0.1667
+    ],
+    [
+      0.1154,
+      0.0385,
+      0.0385,
+      0.0385,
+      0.0385,
+      0.7308
+    ]
+  ],
+  "transition_observation_count": 88,
+  "transition_warning": null,
+  "transitions_computed_at": "2026-09-08T18:52:16+00:00"
 }
