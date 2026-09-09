@@ -6,7 +6,7 @@
     "macro": 0.05,
     "liquidity": 0.317,
     "volatility": 0.794,
-    "valuation": -0.356,
+    "valuation": -0.346,
     "trend": 0.874,
     "breadth": 0.091,
     "commodity": 0.637,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.3955,
-    "risk_on_melt_up": 0.5383,
-    "inflation_shock": 0.0028,
+    "expansion": 0.3981,
+    "risk_on_melt_up": 0.5352,
+    "inflation_shock": 0.0029,
     "recession_fear": 0.0,
     "risk_off": 0.0001,
-    "neutral": 0.0632
+    "neutral": 0.0637
   },
   "drivers": [
     {
@@ -70,10 +70,10 @@
       "vix9d_over_vix": NaN
     },
     "valuation": {
-      "spy_pe": 24.75,
-      "earnings_yield": 0.0404,
+      "spy_pe": 24.63,
+      "earnings_yield": 0.0406,
       "real_10y": 0.0123,
-      "fed_model_spread": 0.0281
+      "fed_model_spread": 0.0283
     },
     "trend": {
       "spy_price": 765.96,
@@ -100,5 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-09-09T12:55:02+00:00"
+  "computed_at": "2026-09-09T17:06:03+00:00"
 }
