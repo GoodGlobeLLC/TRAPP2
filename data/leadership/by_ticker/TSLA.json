@@ -14,7 +14,6 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
           "philanthropist",
           "dub actor",
           "programmer",
@@ -52,6 +51,16 @@
             "company": "The Boring Company",
             "start": "2016-12-17",
             "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
           },
           {
             "company": "PayPal",
@@ -488,9 +497,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "businessperson",
+          "inventor",
           "chief technology officer",
-          "inventor"
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -525,7 +534,6 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
           "philanthropist",
           "dub actor",
           "programmer",
@@ -563,6 +571,16 @@
             "company": "The Boring Company",
             "start": "2016-12-17",
             "end": null
+          },
+          {
+            "company": "SolarCity",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "OpenAI",
+            "start": "2015-12-11",
+            "end": "2019-01-01"
           },
           {
             "company": "PayPal",
@@ -642,6 +660,7 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
+          "computer scientist",
           "aircraft pilot",
           "businessperson",
           "computer scientist",
@@ -706,12 +725,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
           "karateka",
-          "businessperson",
-          "publisher"
+          "publisher",
+          "businessperson"
         ],
         "education": [
-          "Horace Mann School",
-          "Harvard University"
+          "Harvard University",
+          "Horace Mann School"
         ],
         "employers": [],
         "positions": [
