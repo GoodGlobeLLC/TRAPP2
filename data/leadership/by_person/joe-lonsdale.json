@@ -5,20 +5,15 @@
   "birthPlace": "Fremont",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
   "occupations": [
+    "venture capitalist",
     "angel investor",
-    "businessperson",
-    "venture capitalist"
+    "businessperson"
   ],
   "education": [
     "Mission San Jose High School",
     "Stanford University"
   ],
   "employers": [
-    {
-      "company": "Clarium Capital",
-      "start": null,
-      "end": "2004-01-01"
-    },
     {
       "company": "Addepar",
       "start": "2009-01-01",
@@ -43,6 +38,11 @@
       "company": "Palantir Technologies",
       "start": "2004-01-01",
       "end": "2009-01-01"
+    },
+    {
+      "company": "Clarium Capital",
+      "start": null,
+      "end": "2004-01-01"
     }
   ],
   "positions": [
