@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-09-06T11:30:13.773228Z",
+  "fetchedAt": "2026-09-13T12:18:19.133215Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -213,9 +213,9 @@
           "military officer"
         ],
         "education": [
+          "United States Naval Academy",
           "Georgia Tech",
           "University of West Florida",
-          "United States Naval Academy",
           "Harvard University"
         ],
         "employers": [],
@@ -234,14 +234,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -262,11 +262,11 @@
           "military officer"
         ],
         "education": [
+          "Georgetown University",
+          "Tufts University",
           "Boston College High School",
           "Saint Michael's College",
-          "The Fletcher School of Law and Diplomacy",
-          "Georgetown University",
-          "Tufts University"
+          "The Fletcher School of Law and Diplomacy"
         ],
         "employers": [],
         "positions": [
@@ -313,6 +313,16 @@
         ],
         "employers": [
           {
+            "company": "United States District Court for the Southern District of New York",
+            "start": "1989-01-01",
+            "end": "1992-01-01"
+          },
+          {
+            "company": "Lockheed Martin",
+            "start": "2017-12-01",
+            "end": null
+          },
+          {
             "company": "U.S. Steel",
             "start": "2020-04-01",
             "end": null
@@ -341,16 +351,6 @@
             "company": "Paul, Weiss, Rifkind, Wharton & Garrison",
             "start": "1984-11-01",
             "end": "1989-01-01"
-          },
-          {
-            "company": "United States District Court for the Southern District of New York",
-            "start": "1989-01-01",
-            "end": "1992-01-01"
-          },
-          {
-            "company": "Lockheed Martin",
-            "start": "2017-12-01",
-            "end": null
           }
         ],
         "positions": [
@@ -407,19 +407,24 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "Oakland",
+        "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
           "manager",
-          "military officer",
-          "businessperson"
+          "businessperson",
+          "military officer"
         ],
         "education": [
-          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Mankato West High School"
         ],
         "employers": [
+          {
+            "company": "Carlyle Group",
+            "start": null,
+            "end": null
+          },
           {
             "company": "General Motors",
             "start": null,
@@ -427,11 +432,6 @@
           },
           {
             "company": "American Express",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

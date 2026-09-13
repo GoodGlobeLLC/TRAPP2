@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-09-06T11:30:13.771729Z",
+  "fetchedAt": "2026-09-13T12:18:19.131770Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -163,6 +163,29 @@
       }
     },
     {
+      "qid": "Q6761171",
+      "name": "Maria Elena Lagomasino",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6761171",
+        "name": "Maria Elena Lagomasino",
+        "dateOfBirth": "1950-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Manhattanville University",
+          "Gabelli School of Business",
+          "Fordham University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q5703847",
       "name": "Helene D. Gayle",
       "role_at_company": "Board Member",
@@ -177,10 +200,10 @@
           "pediatrician"
         ],
         "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health",
           "Johns Hopkins University",
           "Barnard College",
+          "Perelman School of Medicine at the University of Pennsylvania",
+          "Johns Hopkins Bloomberg School of Public Health",
           "University of Pennsylvania"
         ],
         "employers": [
@@ -227,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "merchant",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "merchant"
         ],
         "education": [
           "University of Groningen"
@@ -250,13 +273,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "film producer",
           "business executive",
+          "film producer",
           "entrepreneur"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -290,8 +313,8 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
           "economist",
+          "banker",
           "businessperson"
         ],
         "education": [

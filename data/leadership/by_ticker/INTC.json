@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-09-06T11:30:13.768258Z",
+  "fetchedAt": "2026-09-13T12:18:19.128382Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,10 +14,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
+          "businessperson",
           "entrepreneur",
           "chemist",
-          "engineer",
-          "businessperson"
+          "engineer"
         ],
         "education": [
           "Lynbrook High School",
@@ -54,9 +54,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -157,8 +157,8 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "engineer",
           "scientist",
+          "engineer",
           "writer"
         ],
         "education": [
@@ -235,8 +235,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Binghamton University",
@@ -261,10 +261,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "physicist",
           "chemist",
-          "entrepreneur",
-          "engineer"
+          "physicist",
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Sequoia High School",
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
-          "physicist",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "physicist"
         ],
         "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
         ],
         "employers": [
           {
@@ -346,11 +346,11 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
-          "electrical engineer",
-          "computer scientist"
+          "academic",
+          "computer scientist",
+          "electrical engineer"
         ],
         "education": [
           "University of California, Berkeley",
@@ -419,19 +419,14 @@
           "administrator"
         ],
         "education": [
+          "Stony Brook University",
+          "The Bush School",
           "The Wharton School",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University",
-          "Stony Brook University",
-          "The Bush School"
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -441,15 +436,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -461,6 +455,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -481,9 +481,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Lincoln Group of Schools",
-          "Santa Clara University",
-          "Stanford University"
+          "Santa Clara University"
         ],
         "employers": [
           {
@@ -515,9 +515,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Stanford University",
           "Strongsville High School",
-          "University of Cincinnati",
-          "Stanford University"
+          "University of Cincinnati"
         ],
         "employers": [],
         "positions": []
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -599,8 +599,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
           "chief financial officer",
+          "businessperson",
           "board member"
         ],
         "education": [],
@@ -649,8 +649,8 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "engineer",
           "scientist",
+          "engineer",
           "writer"
         ],
         "education": [
@@ -709,10 +709,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "physicist",
           "chemist",
-          "entrepreneur",
-          "engineer"
+          "physicist",
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Sequoia High School",
@@ -743,13 +743,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
-          "physicist",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "physicist"
         ],
         "education": [
-          "Grinnell College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Grinnell College"
         ],
         "employers": [
           {

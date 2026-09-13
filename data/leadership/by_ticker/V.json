@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-09-06T11:30:13.800150Z",
+  "fetchedAt": "2026-09-13T12:18:19.159223Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,11 +17,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -30,6 +25,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
@@ -276,8 +276,8 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "chief executive officer",
           "chairperson",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -452,23 +452,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise%20morrison%20campbell%20soup%20company%20by%20bill%20cramer.jpg",
         "occupations": [
           "chief executive officer",
-          "merchant",
-          "businessperson"
+          "businessperson",
+          "merchant"
         ],
         "education": [
           "Boston College"
         ],
         "employers": [
-          {
-            "company": "Kraft Foods Inc.",
-            "start": "1995-01-01",
-            "end": "2003-01-01"
-          },
-          {
-            "company": "Campbell's",
-            "start": "2003-04-01",
-            "end": "2018-05-01"
-          },
           {
             "company": "PepsiCo",
             "start": "1982-01-01",
@@ -478,6 +468,16 @@
             "company": "Procter & Gamble",
             "start": "1975-01-01",
             "end": "1982-01-01"
+          },
+          {
+            "company": "Kraft Foods Inc.",
+            "start": "1995-01-01",
+            "end": "2003-01-01"
+          },
+          {
+            "company": "Campbell's",
+            "start": "2003-04-01",
+            "end": "2018-05-01"
           },
           {
             "company": "Nestl\u00e9",
@@ -597,11 +597,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -610,6 +605,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [

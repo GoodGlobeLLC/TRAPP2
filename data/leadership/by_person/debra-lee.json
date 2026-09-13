@@ -5,8 +5,8 @@
   "birthPlace": "Fort Jackson",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
   "occupations": [
-    "lawyer",
-    "businessperson"
+    "businessperson",
+    "lawyer"
   ],
   "education": [
     "John F. Kennedy School of Government",
@@ -16,16 +16,6 @@
   ],
   "employers": [
     {
-      "company": "Revlon",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Washington Gas",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Ad Council",
       "start": null,
       "end": null
@@ -34,6 +24,16 @@
       "company": "BET Media Group",
       "start": "1986-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "company": "Monsanto",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Kodak",
+      "start": null,
+      "end": null
     },
     {
       "company": "BET",
@@ -46,28 +46,28 @@
       "end": null
     },
     {
-      "company": "Monsanto",
+      "company": "Revlon",
       "start": null,
       "end": null
     },
     {
-      "company": "Kodak",
+      "company": "Washington Gas",
       "start": null,
       "end": null
     }
   ],
   "positions": [
     {
-      "title": "board of directors member",
-      "company": null,
-      "start": "2020-01-01",
-      "end": null
-    },
-    {
       "title": "chief executive officer",
       "company": null,
       "start": "2006-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "title": "board of directors member",
+      "company": null,
+      "start": "2020-01-01",
+      "end": null
     }
   ],
   "currentTickers": [

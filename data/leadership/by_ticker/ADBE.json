@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-09-06T11:30:13.739499Z",
+  "fetchedAt": "2026-09-13T12:18:19.100456Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -14,8 +14,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -412,8 +412,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Haas School of Business",
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
-          "mathematician",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "computer scientist",
+          "entrepreneur",
+          "mathematician"
         ],
         "education": [
           "Olympus High School",
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Adobe",
             "start": null,
             "end": null
           }

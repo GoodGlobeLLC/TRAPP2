@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-09-06T11:30:13.764950Z",
+  "fetchedAt": "2026-09-13T12:18:19.125319Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -53,23 +53,22 @@
           "businessperson",
           "academic",
           "investment banker",
-          "lawyer",
-          "businessperson"
+          "lawyer"
         ],
         "education": [
-          "Harvard Law School",
           "Harvard Business School",
           "University of Oxford",
+          "Harvard Law School",
           "King's College, Lagos"
         ],
         "employers": [
           {
-            "company": "Harvard University",
+            "company": "Credit Suisse First Boston",
             "start": null,
             "end": null
           },
           {
-            "company": "Credit Suisse First Boston",
+            "company": "Harvard University",
             "start": null,
             "end": null
           }
@@ -89,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -123,11 +122,11 @@
           "business executive"
         ],
         "education": [
+          "Northwestern University",
+          "Tufts University",
           "Tufts University School of Engineering",
           "Tower Hill School",
-          "Kellogg School of Management",
-          "Northwestern University",
-          "Tufts University"
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -182,8 +181,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Yale Law School",
-          "Harvard University"
+          "Harvard University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": []
@@ -322,9 +321,9 @@
           "chief financial officer"
         ],
         "education": [
+          "Harvard Business School",
           "Union College",
           "Bronx High School of Science",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -402,8 +401,8 @@
           "university teacher"
         ],
         "education": [
-          "Concord Academy",
           "Bryn Mawr College",
+          "Concord Academy",
           "University of Pennsylvania",
           "Harvard University"
         ],
@@ -414,13 +413,13 @@
             "end": null
           },
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Harvard University",
+            "start": "2007-10-12",
             "end": null
           },
           {
-            "company": "Harvard University",
-            "start": "2007-10-12",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           }
         ],

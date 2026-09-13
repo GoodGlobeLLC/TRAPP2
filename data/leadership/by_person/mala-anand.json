@@ -5,16 +5,11 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "computer scientist",
-    "business executive"
+    "business executive",
+    "computer scientist"
   ],
   "education": [],
   "employers": [
-    {
-      "company": "SAP",
-      "start": "2016-10-01",
-      "end": "2019-10-01"
-    },
     {
       "company": "Cisco",
       "start": "2007-10-01",
@@ -24,6 +19,11 @@
       "company": "Microsoft",
       "start": "2016-11-01",
       "end": null
+    },
+    {
+      "company": "SAP",
+      "start": "2016-10-01",
+      "end": "2019-10-01"
     }
   ],
   "positions": [
