@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-09-06T11:30:13.753754Z",
+  "fetchedAt": "2026-09-13T11:42:20.371922Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
+          "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
           "Stanford Graduate School of Business",
-          "Stanford University",
-          "University of Wisconsin\u2013Madison"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -241,14 +241,14 @@
         ],
         "employers": [
           {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "University of Colorado Boulder",
             "start": "1985-01-01",
             "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
           }
         ],
         "positions": []
@@ -455,8 +455,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
@@ -473,13 +473,13 @@
             "end": null
           },
           {
-            "company": "AMD",
-            "start": "2012-01-01",
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           },
           {
-            "company": "IBM Research",
-            "start": "1995-01-01",
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           }
         ],

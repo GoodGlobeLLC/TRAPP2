@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-09-06T11:30:13.749194Z",
+  "fetchedAt": "2026-09-13T11:42:20.367410Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -106,16 +106,16 @@
         "birthPlace": "United States",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
         "occupations": [
+          "diplomat",
           "politician",
-          "university teacher",
-          "diplomat"
+          "university teacher"
         ],
         "education": [
-          "Williams College",
           "Aiglon College",
           "International School Bangkok",
           "George Washington University",
-          "Stanford University"
+          "Stanford University",
+          "Williams College"
         ],
         "employers": [
           {
@@ -139,9 +139,9 @@
         "birthPlace": "Nashua",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Ayotte%2C%20Official%20Portrait%2C%20112th%20Congress%202.jpg",
         "occupations": [
+          "prosecutor",
           "adviser",
           "law clerk",
-          "prosecutor",
           "lawyer",
           "politician"
         ],
@@ -322,14 +322,14 @@
         "birthPlace": "Boston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Macri%20%26%20David%20W.%20MacLennan%20Davos%202018%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "University of Chicago",
-          "Amherst College",
           "Booth School of Business",
-          "Edina High School"
+          "Edina High School",
+          "University of Chicago",
+          "Amherst College"
         ],
         "employers": [],
         "positions": []

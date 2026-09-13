@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-09-06T11:30:13.736351Z",
+  "fetchedAt": "2026-09-13T11:42:20.354670Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,18 +14,19 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
+          "presenter",
           "manager",
-          "chief executive officer",
           "computer scientist",
+          "chief executive officer",
           "engineer",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -61,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
+          "businessperson",
           "biochemist",
-          "businessperson"
+          "molecular biologist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -98,8 +99,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -177,21 +178,23 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
-          "orator",
+          "journalist",
+          "university teacher",
           "environmentalist",
           "financier",
-          "journalist",
+          "blogger",
           "farmer",
-          "politician",
+          "orator",
+          "writer",
           "businessperson",
-          "writer"
+          "politician"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -276,13 +279,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
+          "businessperson",
           "biochemist",
-          "businessperson"
+          "molecular biologist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -313,8 +316,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -348,16 +351,15 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "inventor",
-          "programmer",
-          "electronics technician",
-          "entrepreneur",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
           "engineer",
-          "teacher",
-          "actor"
+          "programmer",
+          "electronics technician",
+          "inventor",
+          "businessperson",
+          "actor",
+          "teacher"
         ],
         "education": [
           "University of Colorado",
@@ -389,114 +391,6 @@
           }
         ],
         "positions": []
-      }
-    },
-    {
-      "qid": "Q332591",
-      "name": "Ronald Wayne",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q332591",
-        "name": "Ronald Wayne",
-        "dateOfBirth": "1934-05-17",
-        "birthPlace": "Cleveland",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
-        "occupations": [
-          "computer scientist",
-          "entrepreneur",
-          "writer",
-          "engineer"
-        ],
-        "education": [
-          "High School of Art and Design"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q19837",
-      "name": "Steve Jobs",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q19837",
-        "name": "Steve Jobs",
-        "dateOfBirth": "1955-02-24",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
-        "occupations": [
-          "designer",
-          "founder",
-          "film producer",
-          "financier",
-          "computer scientist",
-          "entrepreneur",
-          "technology entrepreneur",
-          "general manager",
-          "executive producer",
-          "inventor"
-        ],
-        "education": [
-          "Homestead High School",
-          "Reed College",
-          "De Anza College"
-        ],
-        "employers": [
-          {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1985-01-01",
-            "end": "1997-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1977-01-03",
-            "end": "1985-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1997-09-16",
-            "end": "2011-08-24"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1995-11-29",
-            "end": "1997-01-01"
-          }
-        ]
       }
     }
   ]

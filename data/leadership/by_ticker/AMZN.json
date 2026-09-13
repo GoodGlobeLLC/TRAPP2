@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-09-06T11:30:13.742377Z",
+  "fetchedAt": "2026-09-13T11:42:20.360621Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -57,10 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "computer scientist",
           "business oligarch",
-          "entrepreneur",
-          "business oligarch",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -295,16 +294,16 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "spy",
           "soldier",
+          "spy",
           "intelligence officer"
         ],
         "education": [
           "Naval Postgraduate School",
-          "Boston University",
-          "United States Military Academy",
           "Westhill Senior High School",
-          "Questrom School of Business"
+          "Questrom School of Business",
+          "Boston University",
+          "United States Military Academy"
         ],
         "employers": [
           {
@@ -335,12 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "executive",
+          "dean",
           "university teacher",
-          "executive",
-          "dean",
           "academic",
-          "executive",
-          "dean",
           "computer scientist"
         ],
         "education": [
@@ -369,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Horace Mann School",
@@ -458,10 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "computer scientist",
           "business oligarch",
-          "entrepreneur",
-          "business oligarch",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -523,16 +519,26 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
+          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
+          "Madras Christian College"
         ],
         "employers": [
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
           {
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
+            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -545,23 +551,8 @@
             "end": null
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
             "end": null
           }
         ],
@@ -595,10 +586,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "computer scientist",
           "business oligarch",
-          "entrepreneur",
-          "business oligarch",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Miami Palmetto High School",

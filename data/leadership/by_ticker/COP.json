@@ -1,6 +1,6 @@
 {
   "ticker": "COP",
-  "fetchedAt": "2026-09-06T11:30:13.751935Z",
+  "fetchedAt": "2026-09-13T11:42:20.370009Z",
   "people": [
     {
       "qid": "Q7384237",
@@ -107,8 +107,8 @@
         "birthPlace": "Pinehurst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ADM%20William%20H.%20McRaven%202012.jpg",
         "occupations": [
-          "admiral",
-          "military officer"
+          "military officer",
+          "admiral"
         ],
         "education": [
           "Naval Postgraduate School",
@@ -118,14 +118,14 @@
         ],
         "employers": [
           {
-            "company": "United States Navy",
-            "start": "1977-01-01",
-            "end": "2014-01-01"
-          },
-          {
             "company": "University of Texas System",
             "start": "2015-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "United States Navy",
+            "start": "1977-01-01",
+            "end": "2014-01-01"
           }
         ],
         "positions": []

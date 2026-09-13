@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-09-06T11:30:13.735239Z",
+  "fetchedAt": "2026-09-13T11:42:20.353395Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -105,13 +105,13 @@
         "image": null,
         "occupations": [
           "oncologist",
-          "scientist",
-          "physician"
+          "physician",
+          "scientist"
         ],
         "education": [
-          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine"
+          "Pritzker School of Medicine",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -156,9 +156,9 @@
           "chairperson"
         ],
         "education": [
-          "University of London",
           "Imperial College London",
           "Harvard Business School",
+          "University of London",
           "Harvard University"
         ],
         "employers": [],
@@ -416,16 +416,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
           {
             "company": "Cisco",
             "start": "2007-10-01",
@@ -435,6 +430,11 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -465,22 +465,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
           {
-            "company": "Pfizer",
-            "start": "2009-01-01",
-            "end": null
-          },
-          {
             "company": "Wyeth",
             "start": "2008-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Pfizer",
+            "start": "2009-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -509,8 +509,8 @@
           "biologist"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [

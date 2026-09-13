@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-09-06T11:30:13.762736Z",
+  "fetchedAt": "2026-09-13T11:42:20.381190Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -35,6 +30,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -333,11 +333,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -345,6 +340,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -376,9 +376,9 @@
         "birthPlace": "Pullman",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Mattis%20official%20photo.jpg",
         "occupations": [
+          "politician",
           "army officer",
-          "military officer",
-          "politician"
+          "military officer"
         ],
         "education": [
           "Richland High School",
