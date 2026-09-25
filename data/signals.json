@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-09-25T17:50:43.884182Z",
+  "updatedAt": "2026-09-25T19:25:39.832046Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
@@ -14,13 +14,13 @@
       }
     },
     "liquidity": {
-      "raw": 0.35519952564466034,
+      "raw": 0.3424935030338689,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "t10y2y": 0.26,
-        "hy_spread": 2.73,
-        "hy_spread_z": -0.91,
+        "t10y2y": 0.31,
+        "hy_spread": 2.8,
+        "hy_spread_z": -0.74,
         "hyg_minus_lqd_1m": 0.0093
       }
     },
@@ -34,14 +34,14 @@
       }
     },
     "valuation": {
-      "raw": -0.37242161467180923,
+      "raw": -0.38442161467180924,
       "confidence": 0.85,
       "tier": "LIVE",
       "note": {
         "spy_pe": 24.92,
         "earnings_yield": 0.0401,
-        "real_10y": 0.0125,
-        "fed_model_spread": 0.0277
+        "real_10y": 0.014,
+        "fed_model_spread": 0.0262
       }
     },
     "trend": {
