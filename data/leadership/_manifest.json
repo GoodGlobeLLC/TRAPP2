@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T12:18:19.307701Z",
+  "generatedAt": "2026-09-27T12:40:07.755378Z",
   "totalPeople": 952,
   "totalTickers": 136,
   "lastRangeFilter": "ALL",
-  "thisRunPeople": 908,
+  "thisRunPeople": 907,
   "thisRunTickers": 273,
   "index": [
     {
@@ -132,8 +132,7 @@
       "name": "Tim Cook",
       "slug": "tim-cook",
       "tickers": [
-        "AAPL",
-        "NKE"
+        "AAPL"
       ],
       "positionsCount": 1,
       "employersCount": 2
@@ -2117,7 +2116,7 @@
       "tickers": [
         "BRK.B"
       ],
-      "positionsCount": 1,
+      "positionsCount": 2,
       "employersCount": 0
     },
     {
@@ -3730,7 +3729,8 @@
       "name": "Maria Elena Lagomasino",
       "slug": "maria-elena-lagomasino",
       "tickers": [
-        "DIS"
+        "DIS",
+        "KO"
       ],
       "positionsCount": 0,
       "employersCount": 0

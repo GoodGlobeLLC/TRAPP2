@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-09-13T12:18:19.097626Z",
+  "fetchedAt": "2026-09-27T12:40:07.337739Z",
   "people": [
     {
       "qid": "Q265852",
@@ -12,21 +12,21 @@
         "name": "Tim Cook",
         "dateOfBirth": "1960-11-01",
         "birthPlace": "Mobile",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "manager",
-          "computer scientist",
           "chief executive officer",
           "engineer",
+          "manager",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
+          "molecular biologist",
           "biochemist",
-          "molecular biologist"
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -99,8 +99,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -178,15 +178,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
+          "orator",
           "journalist",
           "university teacher",
-          "environmentalist",
-          "financier",
           "blogger",
+          "environmentalist",
           "farmer",
-          "orator",
-          "writer",
+          "financier",
           "businessperson",
+          "writer",
           "politician"
         ],
         "education": [
@@ -255,14 +255,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -279,13 +279,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
+          "molecular biologist",
           "biochemist",
-          "molecular biologist"
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -316,8 +316,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -351,24 +351,29 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
-          "engineer",
-          "programmer",
           "electronics technician",
+          "programmer",
+          "entrepreneur",
+          "engineer",
           "inventor",
+          "computer scientist",
+          "teacher",
           "businessperson",
-          "actor",
-          "teacher"
+          "actor"
         ],
         "education": [
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Atari, Inc.",
             "start": null,
@@ -383,6 +388,54 @@
             "company": "University of Technology Sydney",
             "start": null,
             "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19837",
+      "name": "Steve Jobs",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19837",
+        "name": "Steve Jobs",
+        "dateOfBirth": "1955-02-24",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
+        "occupations": [
+          "technology entrepreneur",
+          "film producer",
+          "financier",
+          "designer",
+          "founder",
+          "general manager",
+          "executive producer",
+          "entrepreneur",
+          "computer scientist",
+          "inventor"
+        ],
+        "education": [
+          "Homestead High School",
+          "Reed College",
+          "De Anza College"
+        ],
+        "employers": [
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
+            "start": null,
+            "end": null
           },
           {
             "company": "Apple Inc.",
@@ -390,7 +443,32 @@
             "end": null
           }
         ],
-        "positions": []
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1985-01-01",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1985-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1997-09-16",
+            "end": "2011-08-24"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1995-11-29",
+            "end": "1997-01-01"
+          }
+        ]
       }
     }
   ]

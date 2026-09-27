@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-09-13T12:18:19.146457Z",
+  "fetchedAt": "2026-09-27T12:40:07.455099Z",
   "people": [
     {
       "qid": "Q16204157",
@@ -38,12 +38,13 @@
         "occupations": [
           "manager",
           "financier",
-          "banker",
-          "investor",
           "technology entrepreneur",
-          "computer scientist",
+          "banker",
+          "writer",
+          "chess player",
+          "investor",
           "entrepreneur",
-          "writer"
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -107,15 +108,20 @@
         "birthPlace": "Fremont",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Lonsdale.jpg",
         "occupations": [
-          "venture capitalist",
           "angel investor",
-          "businessperson"
+          "businessperson",
+          "venture capitalist"
         ],
         "education": [
           "Mission San Jose High School",
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Clarium Capital",
+            "start": null,
+            "end": "2004-01-01"
+          },
           {
             "company": "Addepar",
             "start": "2009-01-01",
@@ -140,11 +146,6 @@
             "company": "Palantir Technologies",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Clarium Capital",
-            "start": null,
-            "end": "2004-01-01"
           }
         ],
         "positions": [
@@ -183,12 +184,13 @@
         "occupations": [
           "manager",
           "financier",
-          "banker",
-          "investor",
           "technology entrepreneur",
-          "computer scientist",
+          "banker",
+          "writer",
+          "chess player",
+          "investor",
           "entrepreneur",
-          "writer"
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",

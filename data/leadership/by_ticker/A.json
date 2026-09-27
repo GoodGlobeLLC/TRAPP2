@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-09-13T12:18:19.096565Z",
+  "fetchedAt": "2026-09-27T12:40:07.335526Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "gastroenterologist",
+          "university teacher",
           "physician",
-          "university teacher"
+          "gastroenterologist"
         ],
         "education": [
           "Harvard College",
@@ -104,9 +104,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "scientist",
           "oncologist",
-          "physician",
-          "scientist"
+          "physician"
         ],
         "education": [
           "University of Detroit Jesuit High School and Academy",
@@ -157,8 +157,8 @@
         ],
         "education": [
           "Imperial College London",
-          "Harvard Business School",
           "University of London",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -416,11 +416,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
+          },
           {
             "company": "Cisco",
             "start": "2007-10-01",
@@ -430,11 +435,6 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
-          },
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -505,8 +505,8 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
           "Cornell University",

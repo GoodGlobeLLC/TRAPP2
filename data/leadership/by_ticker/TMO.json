@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "fetchedAt": "2026-09-13T12:18:19.155169Z",
+  "fetchedAt": "2026-09-27T12:40:07.470307Z",
   "people": [
     {
       "qid": "Q114890303",
@@ -17,9 +17,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Pennsylvania",
           "Perelman School of Medicine at the University of Pennsylvania",
-          "The Wharton School",
-          "University of Pennsylvania"
+          "The Wharton School"
         ],
         "employers": [],
         "positions": []
@@ -37,13 +37,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "director",
-          "businessperson"
+          "businessperson",
+          "director"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Northwestern University",
-          "MIT Sloan School of Management"
+          "MIT Sloan School of Management",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -194,7 +194,7 @@
         ],
         "employers": [
           {
-            "company": "Novo Nordisk",
+            "company": "Novo",
             "start": null,
             "end": "2016-12-31"
           }
@@ -224,9 +224,9 @@
           "investment banker"
         ],
         "education": [
-          "Harvard University",
           "The Wharton School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {

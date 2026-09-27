@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-09-13T12:18:19.136681Z",
+  "fetchedAt": "2026-09-27T12:40:07.422022Z",
   "people": [
     {
       "qid": "Q36215",
@@ -16,10 +16,10 @@
         "occupations": [
           "patron of the arts",
           "philanthropist",
-          "chief executive officer",
-          "programmer",
           "computer scientist",
-          "entrepreneur"
+          "programmer",
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Phillips Exeter Academy",
@@ -160,8 +160,8 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -180,17 +180,17 @@
             "end": "2005-01-01"
           },
           {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Commodore International",
             "start": "1992-01-01",
             "end": "1994-01-01"
           },
           {
             "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -312,8 +312,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "diplomat",
-          "politician"
+          "politician",
+          "diplomat"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -360,15 +360,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
           "manager",
           "financier",
-          "banker",
-          "investor",
           "technology entrepreneur",
-          "computer scientist",
+          "banker",
+          "writer",
+          "chess player",
+          "investor",
           "entrepreneur",
-          "writer"
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -412,8 +412,8 @@
         "occupations": [
           "entrepreneur",
           "economist",
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Harvard College",
@@ -491,11 +491,11 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
+          "software engineer",
           "programmer",
           "blogger",
-          "software engineer",
-          "inventor",
           "investor",
+          "inventor",
           "entrepreneur",
           "engineer",
           "computer scientist"
@@ -540,10 +540,10 @@
         "occupations": [
           "patron of the arts",
           "philanthropist",
-          "chief executive officer",
-          "programmer",
           "computer scientist",
-          "entrepreneur"
+          "programmer",
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Phillips Exeter Academy",
@@ -584,10 +584,10 @@
         "occupations": [
           "patron of the arts",
           "philanthropist",
-          "chief executive officer",
-          "programmer",
           "computer scientist",
-          "entrepreneur"
+          "programmer",
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Phillips Exeter Academy",

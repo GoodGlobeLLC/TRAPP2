@@ -5,20 +5,25 @@
   "birthPlace": "Stanford",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
   "occupations": [
-    "businessperson",
     "consultant",
+    "businessperson",
     "podcaster",
     "financier",
-    "writer",
+    "investor",
     "entrepreneur",
-    "investor"
+    "writer"
   ],
   "education": [
-    "Stanford University",
     "The Putney School",
-    "Wolfson College"
+    "Wolfson College",
+    "Stanford University"
   ],
   "employers": [
+    {
+      "company": "PayPal",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Chaosium",
       "start": null,
@@ -26,11 +31,6 @@
     },
     {
       "company": "LinkedIn Corporation",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "PayPal",
       "start": null,
       "end": null
     }

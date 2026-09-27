@@ -1,6 +1,6 @@
 {
   "ticker": "BRK.B",
-  "fetchedAt": "2026-09-13T12:18:19.108277Z",
+  "fetchedAt": "2026-09-27T12:40:07.358595Z",
   "people": [
     {
       "qid": "Q47168572",
@@ -14,9 +14,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -70,11 +70,11 @@
           "economist"
         ],
         "education": [
-          "The Wharton School",
-          "Columbia Business School",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "The Wharton School",
+          "Columbia Business School",
           "University of Pennsylvania"
         ],
         "employers": [],
@@ -83,7 +83,7 @@
             "title": "chief executive officer",
             "company": null,
             "start": "1970-01-01",
-            "end": null
+            "end": "2026-01-01"
           }
         ]
       }
@@ -128,9 +128,9 @@
         "birthPlace": "Edmonton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Greg%20Abel.jpg",
         "occupations": [
+          "business executive",
           "chartered accountant",
-          "investor",
-          "business executive"
+          "investor"
         ],
         "education": [
           "University of Alberta"
@@ -329,12 +329,12 @@
         "name": "Howard Graham Buffett",
         "dateOfBirth": "1954-12-16",
         "birthPlace": "Omaha",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Graham%20Buffett.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
-          "farmer",
+          "writer",
           "photographer",
-          "writer"
+          "farmer"
         ],
         "education": [
           "Harvard University"
@@ -342,10 +342,16 @@
         "employers": [],
         "positions": [
           {
+            "title": "president",
+            "company": null,
+            "start": "2026-09-18",
+            "end": null
+          },
+          {
             "title": "board of directors member",
             "company": null,
             "start": "1993-06-11",
-            "end": null
+            "end": "2026-01-01"
           }
         ]
       }
@@ -402,8 +408,8 @@
         ],
         "education": [
           "Cornell University",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -428,12 +434,12 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Harvard Business School",
           "Colgate University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
@@ -475,9 +481,9 @@
         ],
         "education": [
           "Omaha Central High School",
-          "University of Michigan College of Literature, Science, and the Arts",
           "California Institute of Technology",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Michigan College of Literature, Science, and the Arts"
         ],
         "employers": [
           {
@@ -523,11 +529,11 @@
           "economist"
         ],
         "education": [
-          "The Wharton School",
-          "Columbia Business School",
           "New York Institute of Finance",
           "Jackson-Reed High School",
           "University of Nebraska\u2013Lincoln",
+          "The Wharton School",
+          "Columbia Business School",
           "University of Pennsylvania"
         ],
         "employers": [],
@@ -536,7 +542,7 @@
             "title": "chief executive officer",
             "company": null,
             "start": "1970-01-01",
-            "end": null
+            "end": "2026-01-01"
           }
         ]
       }
@@ -553,9 +559,9 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
           "venture capitalist",
           "entrepreneur",
+          "businessperson",
           "chief executive officer",
           "lawyer"
         ],

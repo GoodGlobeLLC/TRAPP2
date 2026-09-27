@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-09-13T12:18:19.098686Z",
+  "fetchedAt": "2026-09-27T12:40:07.339861Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -84,9 +84,9 @@
           "business executive"
         ],
         "education": [
-          "University of Oxford",
           "University of Zimbabwe",
-          "Keble College"
+          "Keble College",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -164,12 +164,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
           "computer scientist",
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -266,14 +266,19 @@
         ],
         "employers": [
           {
+            "company": "Kate Spade & Company",
+            "start": "1998-01-01",
+            "end": "2006-01-01"
+          },
+          {
             "company": "Donna Karan",
             "start": "1989-01-01",
             "end": "1996-01-01"
           },
           {
-            "company": "Kate Spade & Company",
-            "start": "1998-01-01",
-            "end": "2006-01-01"
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
           },
           {
             "company": "Warnaco Group",
@@ -284,11 +289,6 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
-          },
-          {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
           },
           {
             "company": "Apple Inc.",
@@ -324,9 +324,9 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "businessperson",
           "venture capitalist",
           "entrepreneur",
+          "businessperson",
           "chief executive officer",
           "lawyer"
         ],
@@ -428,12 +428,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
           "computer scientist",
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {

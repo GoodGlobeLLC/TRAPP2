@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-09-13T12:18:19.103238Z",
+  "fetchedAt": "2026-09-27T12:40:07.350685Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Scarsdale High School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -57,8 +57,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "business oligarch",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
@@ -67,6 +67,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Scarsdale High School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -294,16 +294,16 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "soldier",
           "spy",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
+          "Boston University",
+          "United States Military Academy",
           "Naval Postgraduate School",
           "Westhill Senior High School",
-          "Questrom School of Business",
-          "Boston University",
-          "United States Military Academy"
+          "Questrom School of Business"
         ],
         "employers": [
           {
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "academic",
+          "university teacher",
           "executive",
           "dean",
-          "university teacher",
-          "academic",
           "computer scientist"
         ],
         "education": [
@@ -455,8 +455,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "business oligarch",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
@@ -465,6 +465,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -519,10 +519,10 @@
         "education": [
           "Indian Institute of Management Calcutta",
           "University of Madras",
-          "Yale University",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
           {
@@ -534,11 +534,6 @@
             "company": "PepsiCo",
             "start": "1994-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -553,6 +548,11 @@
           {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -586,8 +586,8 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "computer scientist",
           "business oligarch",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
@@ -596,6 +596,11 @@
           "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

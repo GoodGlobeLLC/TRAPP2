@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-09-13T12:18:19.131770Z",
+  "fetchedAt": "2026-09-27T12:40:07.415307Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -200,10 +200,10 @@
           "pediatrician"
         ],
         "education": [
-          "Johns Hopkins University",
-          "Barnard College",
           "Perelman School of Medicine at the University of Pennsylvania",
           "Johns Hopkins Bloomberg School of Public Health",
+          "Johns Hopkins University",
+          "Barnard College",
           "University of Pennsylvania"
         ],
         "employers": [
@@ -250,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "businessperson",
+          "merchant",
           "entrepreneur",
-          "merchant"
+          "businessperson"
         ],
         "education": [
           "University of Groningen"
@@ -273,13 +273,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
           "film producer",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -313,9 +313,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
+          "businessperson",
           "banker",
-          "businessperson"
+          "economist"
         ],
         "education": [
           "St Mary's School",
@@ -348,9 +348,9 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
+          "business executive",
           "social worker",
           "politician",
-          "business executive",
           "sociologist"
         ],
         "education": [
@@ -380,6 +380,16 @@
             "end": null
           },
           {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
+          {
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
@@ -392,16 +402,6 @@
           {
             "company": "Southern Regional Council",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
             "end": null
           }
         ],
