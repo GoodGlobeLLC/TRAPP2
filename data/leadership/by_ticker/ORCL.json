@@ -258,16 +258,6 @@
         ],
         "employers": [
           {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -276,6 +266,16 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -541,12 +541,12 @@
         ],
         "employers": [
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           },
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           }
@@ -605,6 +605,12 @@
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-03"
+          },
+          {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
