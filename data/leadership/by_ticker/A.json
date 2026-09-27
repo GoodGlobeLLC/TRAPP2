@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-09-13T12:18:19.096565Z",
+  "fetchedAt": "2026-09-27T11:58:59.184938Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "university teacher",
           "gastroenterologist",
-          "physician",
-          "university teacher"
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -105,13 +105,13 @@
         "image": null,
         "occupations": [
           "oncologist",
-          "physician",
-          "scientist"
+          "scientist",
+          "physician"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
           {
@@ -156,10 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
-          "Harvard Business School",
           "University of London",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School",
+          "Imperial College London"
         ],
         "employers": [],
         "positions": [
@@ -465,22 +465,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "business executive"
+          "business executive",
+          "physician"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
@@ -505,12 +505,12 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "business executive",
-          "biologist"
+          "biologist",
+          "business executive"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [

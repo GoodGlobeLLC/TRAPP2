@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-09-13T12:18:19.123128Z",
+  "fetchedAt": "2026-09-27T11:58:59.219152Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -14,14 +14,19 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -30,11 +35,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -250,8 +250,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
           "Booth School of Business",
+          "Duke University",
           "University of Chicago"
         ],
         "employers": [],
@@ -324,14 +324,19 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "chairperson"
+          "chairperson",
+          "chief executive officer"
         ],
         "education": [
           "The Wharton School",
           "Smith College"
         ],
         "employers": [
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
+            "end": null
+          },
           {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
@@ -340,11 +345,6 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
             "end": null
           }
         ],
