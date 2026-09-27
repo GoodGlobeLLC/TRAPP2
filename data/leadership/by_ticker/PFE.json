@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-09-27T11:53:54.158396Z",
+  "fetchedAt": "2026-09-27T12:40:07.452621Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -69,6 +69,7 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
+          "researcher",
           "molecular geneticist",
           "biochemist",
           "university teacher",
@@ -314,9 +315,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
-          "university teacher"
+          "university teacher",
+          "physiologist"
         ],
         "education": [
           "Georgetown University",
@@ -428,8 +429,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",

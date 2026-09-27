@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-09-27T11:58:59.192594Z",
+  "fetchedAt": "2026-09-27T12:40:07.350685Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Scarsdale High School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
+          "business oligarch",
           "computer scientist",
-          "business oligarch"
+          "entrepreneur"
         ],
         "education": [
           "Princeton University",
@@ -67,6 +67,11 @@
           "Miami Palmetto High School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,9 +119,9 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Scarsdale High School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "soldier",
-          "intelligence officer"
+          "intelligence officer",
+          "soldier"
         ],
         "education": [
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -334,10 +334,10 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "academic",
           "university teacher",
           "executive",
           "dean",
-          "academic",
           "computer scientist"
         ],
         "education": [
@@ -455,9 +455,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
+          "business oligarch",
           "computer scientist",
-          "business oligarch"
+          "entrepreneur"
         ],
         "education": [
           "Princeton University",
@@ -465,6 +465,11 @@
           "Miami Palmetto High School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -554,6 +554,11 @@
             "company": "Amazon",
             "start": "2019-01-01",
             "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -586,9 +591,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
+          "business oligarch",
           "computer scientist",
-          "business oligarch"
+          "entrepreneur"
         ],
         "education": [
           "Princeton University",
@@ -596,6 +601,11 @@
           "Miami Palmetto High School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +620,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

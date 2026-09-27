@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-09-27T11:58:59.220102Z",
+  "fetchedAt": "2026-09-27T12:40:07.382826Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": [
@@ -382,11 +382,16 @@
           "business executive"
         ],
         "education": [
+          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
           {
             "company": "Hasbro",
             "start": null,
@@ -398,17 +403,17 @@
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -604,9 +609,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "chief executive officer",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Stanford University",

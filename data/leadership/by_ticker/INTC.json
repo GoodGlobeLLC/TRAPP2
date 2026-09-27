@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-09-13T12:18:19.128382Z",
+  "fetchedAt": "2026-09-27T12:40:07.410437Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,10 +14,10 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "businessperson",
+          "engineer",
           "entrepreneur",
           "chemist",
-          "engineer"
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -50,8 +50,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -157,8 +157,8 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "scientist",
           "engineer",
+          "scientist",
           "writer"
         ],
         "education": [
@@ -262,9 +262,9 @@
         "occupations": [
           "philanthropist",
           "chemist",
-          "physicist",
+          "entrepreneur",
           "engineer",
-          "entrepreneur"
+          "physicist"
         ],
         "education": [
           "Sequoia High School",
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
-          "businessperson",
           "computer scientist",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -346,11 +346,11 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
+          "academic",
+          "electrical engineer",
           "university teacher",
           "electrotechnician",
-          "academic",
-          "computer scientist",
-          "electrical engineer"
+          "computer scientist"
         ],
         "education": [
           "University of California, Berkeley",
@@ -363,13 +363,13 @@
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -419,16 +419,16 @@
           "administrator"
         ],
         "education": [
-          "Stony Brook University",
           "The Bush School",
           "The Wharton School",
-          "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Medical School",
+          "Stony Brook University"
         ],
         "employers": [
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           },
@@ -438,17 +438,17 @@
             "end": null
           },
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           },
           {
             "title": "chief executive officer",
@@ -457,10 +457,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           }
         ]
       }
@@ -477,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -515,9 +515,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Strongsville High School",
-          "University of Cincinnati"
+          "University of Cincinnati",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -599,9 +599,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief financial officer",
           "businessperson",
-          "board member"
+          "board member",
+          "chief financial officer"
         ],
         "education": [],
         "employers": [],
@@ -649,8 +649,8 @@
         "occupations": [
           "entrepreneur",
           "professor",
-          "scientist",
           "engineer",
+          "scientist",
           "writer"
         ],
         "education": [
@@ -710,9 +710,9 @@
         "occupations": [
           "philanthropist",
           "chemist",
-          "physicist",
+          "entrepreneur",
           "engineer",
-          "entrepreneur"
+          "physicist"
         ],
         "education": [
           "Sequoia High School",
@@ -743,13 +743,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
           "inventor",
-          "businessperson",
           "computer scientist",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {

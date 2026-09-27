@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-09-13T12:18:19.129643Z",
+  "fetchedAt": "2026-09-27T12:40:07.412432Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -62,9 +62,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "merchant",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -110,9 +110,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "merchant",
+          "entrepreneur",
           "business executive",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -158,17 +158,17 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
+          "lecturer",
           "executive",
           "business manager",
-          "lecturer",
-          "merchant",
           "chief executive officer",
+          "merchant",
           "entrepreneur"
         ],
         "education": [
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
-          "Paris Institute of Political Studies"
+          "Paris Institute of Political Studies",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -211,8 +211,8 @@
         "birthPlace": "Scranton",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Weinberger%20at%20the%20EY%20World%20Entrepreneur%20of%20the%20Year%202016.png",
         "occupations": [
-          "entrepreneur",
-          "politician"
+          "politician",
+          "entrepreneur"
         ],
         "education": [
           "Case Western Reserve University",
@@ -457,11 +457,11 @@
           "physician"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
+          "Massachusetts Institute of Technology",
           "Harvard University"
         ],
         "employers": [],
@@ -573,8 +573,8 @@
         "birthPlace": "Kent",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "consultant"
+          "consultant",
+          "entrepreneur"
         ],
         "education": [
           "Balliol College"
@@ -608,8 +608,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -731,13 +731,13 @@
         "birthPlace": "Poland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Darius%20Adamczyk.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
+          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School",
-          "Syracuse University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -774,16 +774,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "crystallographer",
-          "chemist",
           "molecular biologist",
+          "crystallographer",
           "biochemist",
-          "university teacher"
+          "university teacher",
+          "chemist"
         ],
         "education": [
-          "Harvard University",
           "Pomona College",
-          "Hilo High School"
+          "Hilo High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -792,8 +792,8 @@
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
             "end": null
           },
           {
@@ -802,8 +802,8 @@
             "end": "2002-01-01"
           },
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
             "end": null
           }
         ],

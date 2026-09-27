@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-09-13T12:18:19.138607Z",
+  "fetchedAt": "2026-09-27T12:40:07.424753Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -16,8 +16,8 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "engineer",
           "computer scientist"
         ],
@@ -103,9 +103,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
           "manager",
-          "accountant"
+          "accountant",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -125,14 +125,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Dick's Sporting Goods",
             "start": "2015-08-01",
             "end": "2016-08-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": [
@@ -157,14 +157,19 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
-          "University of Chicago",
-          "Syracuse University"
+          "Syracuse University",
+          "University of Chicago"
         ],
         "employers": [
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "General Electric",
             "start": null,
@@ -172,11 +177,6 @@
           },
           {
             "company": "Merck & Co.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -196,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "St Swithun's School"
+          "St Swithun's School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -305,20 +305,25 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
           "consultant",
+          "businessperson",
           "podcaster",
           "financier",
-          "writer",
+          "investor",
           "entrepreneur",
-          "investor"
+          "writer"
         ],
         "education": [
-          "Stanford University",
           "The Putney School",
-          "Wolfson College"
+          "Wolfson College",
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "PayPal",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Chaosium",
             "start": null,
@@ -326,11 +331,6 @@
           },
           {
             "company": "LinkedIn Corporation",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PayPal",
             "start": null,
             "end": null
           }
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Princeton University"
+          "Princeton University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -397,8 +397,8 @@
         "occupations": [
           "manager",
           "electrotechnician",
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "engineer",
           "computer scientist"
         ],
@@ -443,20 +443,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
           "investor",
           "philanthropist",
           "art collector",
-          "co-founder",
-          "film producer",
-          "record producer",
-          "musician",
           "inventor",
+          "co-founder",
+          "programmer",
           "television producer",
-          "computer scientist",
-          "entrepreneur",
+          "record producer",
+          "film producer",
+          "musician",
+          "composer",
           "businessperson",
-          "composer"
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Washington State University",

@@ -10,11 +10,16 @@
     "business executive"
   ],
   "education": [
+    "Princeton University",
     "Cold Spring Harbor Jr./Sr. High School",
-    "Harvard Business School",
-    "Princeton University"
+    "Harvard Business School"
   ],
   "employers": [
+    {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
+      "end": null
+    },
     {
       "company": "Hasbro",
       "start": null,
@@ -26,17 +31,17 @@
       "end": null
     },
     {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
-      "end": null
-    },
-    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
     },
     {
       "company": "DreamWorks",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     },

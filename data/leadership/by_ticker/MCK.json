@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-09-13T12:18:19.135561Z",
+  "fetchedAt": "2026-09-27T12:40:07.420308Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -160,14 +160,14 @@
         ],
         "employers": [
           {
-            "company": "Salesforce",
-            "start": "2010-02-01",
-            "end": "2018-04-01"
-          },
-          {
             "company": "Bell Labs",
             "start": "1980-01-01",
             "end": "1991-01-01"
+          },
+          {
+            "company": "Salesforce",
+            "start": "2010-02-01",
+            "end": "2018-04-01"
           },
           {
             "company": "Microsoft",

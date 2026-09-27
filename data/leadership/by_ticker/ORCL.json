@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-09-27T11:53:54.156447Z",
+  "fetchedAt": "2026-09-27T12:40:07.450118Z",
   "people": [
     {
       "qid": "Q92759",
@@ -14,8 +14,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
           "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "businessperson",
           "actor"
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
-          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda"
+          "Maharaja Sayajirao University of Baroda",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -300,8 +300,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
+          "academic",
           "businessperson",
           "economist",
           "writer"
@@ -316,12 +316,12 @@
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "University of California, Berkeley",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
@@ -635,6 +635,12 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           }
         ]
       }
@@ -651,8 +657,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
           "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "businessperson",
           "actor"
@@ -714,8 +720,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
           "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "businessperson",
           "actor"

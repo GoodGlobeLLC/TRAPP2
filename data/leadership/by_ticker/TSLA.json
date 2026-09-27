@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-09-27T11:53:54.171071Z",
+  "fetchedAt": "2026-09-27T12:40:07.471469Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,17 +14,17 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "dub actor",
-          "programmer",
           "financier",
           "investor",
+          "programmer",
+          "dub actor",
+          "philanthropist",
           "civil servant",
+          "technology entrepreneur",
+          "politician",
           "inventor",
-          "entrepreneur",
           "engineer",
-          "politician"
+          "entrepreneur"
         ],
         "education": [
           "Smith School of Business",
@@ -44,8 +44,8 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
@@ -69,8 +69,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -156,6 +156,11 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -169,11 +174,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -352,6 +352,11 @@
             "end": "2013-01-01"
           },
           {
+            "company": "Telstra",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
             "company": "Tesla",
             "start": "2014-01-01",
             "end": null
@@ -365,11 +370,6 @@
             "company": "ABB Group",
             "start": "2016-04-01",
             "end": "2017-04-01"
-          },
-          {
-            "company": "Telstra",
-            "start": "2017-01-01",
-            "end": null
           },
           {
             "company": "Sun Microsystems",
@@ -488,9 +488,9 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
-          "chief technology officer",
+          "inventor",
           "businessperson",
-          "inventor"
+          "chief technology officer"
         ],
         "education": [
           "Stanford University",
@@ -525,17 +525,17 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "dub actor",
-          "programmer",
           "financier",
           "investor",
+          "programmer",
+          "dub actor",
+          "philanthropist",
           "civil servant",
+          "technology entrepreneur",
+          "politician",
           "inventor",
-          "entrepreneur",
           "engineer",
-          "politician"
+          "entrepreneur"
         ],
         "education": [
           "Smith School of Business",
@@ -555,8 +555,8 @@
             "end": null
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
@@ -580,8 +580,8 @@
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
@@ -642,8 +642,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "entrepreneur",
           "aircraft pilot",
+          "entrepreneur",
           "computer scientist",
           "businessperson",
           "actor"
@@ -705,8 +705,8 @@
         "birthPlace": "Wimbledon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Murdoch%202008-%20NRKbeta%20%28cropped%29.jpg",
         "occupations": [
-          "karateka",
           "businessperson",
+          "karateka",
           "publisher"
         ],
         "education": [
@@ -742,8 +742,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
           "York Community High School",
