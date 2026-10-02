@@ -6,7 +6,7 @@
     "macro": -0.327,
     "liquidity": 0.089,
     "volatility": 0.726,
-    "valuation": -0.393,
+    "valuation": -0.394,
     "trend": 0.805,
     "breadth": -0.636,
     "commodity": 0.34,
@@ -24,11 +24,11 @@
   },
   "current_probabilities": {
     "expansion": 0.3241,
-    "risk_on_melt_up": 0.1037,
+    "risk_on_melt_up": 0.1038,
     "inflation_shock": 0.0543,
     "recession_fear": 0.0017,
     "risk_off": 0.01,
-    "neutral": 0.5062
+    "neutral": 0.5061
   },
   "drivers": [
     {
@@ -70,10 +70,10 @@
       "vix9d_over_vix": 0.8542
     },
     "valuation": {
-      "spy_pe": 24.85,
+      "spy_pe": 24.87,
       "earnings_yield": 0.0402,
       "real_10y": 0.0158,
-      "fed_model_spread": 0.0245
+      "fed_model_spread": 0.0244
     },
     "trend": {
       "spy_price": 763.99,
@@ -100,93 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-10-02T20:05:03+00:00",
-  "transitions": {
-    "1_step": {
-      "expansion": 0.1562,
-      "risk_on_melt_up": 0.0312,
-      "inflation_shock": 0.0312,
-      "recession_fear": 0.0312,
-      "risk_off": 0.0312,
-      "neutral": 0.7188
-    },
-    "5_step": {
-      "expansion": 0.3804,
-      "risk_on_melt_up": 0.1537,
-      "inflation_shock": 0.0441,
-      "recession_fear": 0.0441,
-      "risk_off": 0.0441,
-      "neutral": 0.3335
-    },
-    "20_step": {
-      "expansion": 0.3963,
-      "risk_on_melt_up": 0.2308,
-      "inflation_shock": 0.0427,
-      "recession_fear": 0.0427,
-      "risk_off": 0.0427,
-      "neutral": 0.2448
-    }
-  },
-  "stationary": {
-    "expansion": 0.3948,
-    "risk_on_melt_up": 0.2331,
-    "inflation_shock": 0.0428,
-    "recession_fear": 0.0428,
-    "risk_off": 0.0428,
-    "neutral": 0.2439
-  },
-  "expected_persistence_days": 3.6,
-  "transition_matrix": [
-    [
-      0.8136,
-      0.0339,
-      0.0169,
-      0.0169,
-      0.0169,
-      0.1017
-    ],
-    [
-      0.0606,
-      0.8182,
-      0.0303,
-      0.0303,
-      0.0303,
-      0.0303
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1562,
-      0.0312,
-      0.0312,
-      0.0312,
-      0.0312,
-      0.7188
-    ]
-  ],
-  "transition_observation_count": 106,
-  "transition_warning": null,
-  "transitions_computed_at": "2026-10-02T20:05:03+00:00"
+  "computed_at": "2026-10-02T22:19:36+00:00"
 }
