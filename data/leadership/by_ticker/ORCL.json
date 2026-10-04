@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-09-27T12:40:07.450118Z",
+  "fetchedAt": "2026-10-04T12:15:24.093151Z",
   "people": [
     {
       "qid": "Q92759",
@@ -149,10 +149,10 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Syracuse University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda",
-          "Stanford University"
+          "Maharaja Sayajirao University of Baroda"
         ],
         "employers": [
           {
@@ -258,16 +258,6 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Microsoft",
-            "start": "1983-01-01",
-            "end": "1987-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
@@ -276,6 +266,16 @@
             "company": "Mattel",
             "start": "1980-01-01",
             "end": "1983-01-01"
+          },
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Microsoft",
+            "start": "1983-01-01",
+            "end": "1987-01-01"
           }
         ],
         "positions": [
@@ -302,8 +302,8 @@
         "occupations": [
           "university teacher",
           "academic",
-          "businessperson",
           "economist",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -529,9 +529,9 @@
         "occupations": [
           "Oberleutnant",
           "university teacher",
-          "jurist",
           "political scientist",
           "lawyer",
+          "jurist",
           "politician"
         ],
         "education": [
@@ -541,12 +541,12 @@
         ],
         "employers": [
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           },
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           }
@@ -607,12 +607,6 @@
             "end": "1993-01-03"
           },
           {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -631,16 +625,16 @@
             "end": "2011-06-30"
           },
           {
-            "title": "United States representative",
-            "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
-          },
-          {
             "title": "White House Chief of Staff",
             "company": null,
             "start": "1994-07-17",
             "end": "1997-01-20"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }

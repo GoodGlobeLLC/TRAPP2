@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-09-27T12:40:07.460267Z",
+  "fetchedAt": "2026-10-04T12:15:24.107065Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,9 +39,9 @@
           "civil servant"
         ],
         "education": [
+          "Georgetown University",
           "Saddleback High School",
           "Lexington High School",
-          "Georgetown University",
           "University of Oxford"
         ],
         "employers": [
@@ -73,9 +73,9 @@
         "birthPlace": "Coronado",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
-          "naval air force",
           "admiral",
-          "military officer"
+          "military officer",
+          "naval air force"
         ],
         "education": [
           "Fort Hunt High School",
@@ -224,7 +224,7 @@
       "career": {
         "qid": "Q109767256",
         "name": "Kelly Ortberg",
-        "dateOfBirth": "1960-01-01",
+        "dateOfBirth": "1960-04-01",
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
@@ -388,17 +388,17 @@
         ],
         "employers": [
           {
-            "company": "United States Department of the Navy",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
