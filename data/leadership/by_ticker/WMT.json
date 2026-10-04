@@ -1,6 +1,6 @@
 {
   "ticker": "WMT",
-  "fetchedAt": "2026-10-04T12:15:24.123274Z",
+  "fetchedAt": "2026-10-04T13:00:54.925514Z",
   "people": [
     {
       "qid": "Q16196595",
@@ -41,8 +41,8 @@
           "chairperson"
         ],
         "education": [
-          "Stanford University",
           "Georgetown University",
+          "Stanford University",
           "San Marino High School"
         ],
         "employers": [],
@@ -94,6 +94,11 @@
         ],
         "employers": [
           {
+            "company": "Lumi Labs",
+            "start": "2017-07-01",
+            "end": null
+          },
+          {
             "company": "Yahoo",
             "start": "2012-07-16",
             "end": "2017-06-01"
@@ -102,11 +107,6 @@
             "company": "Google",
             "start": "1999-01-01",
             "end": "2012-07-01"
-          },
-          {
-            "company": "Lumi Labs",
-            "start": "2017-07-01",
-            "end": null
           }
         ],
         "positions": [
@@ -239,8 +239,8 @@
           "chairperson"
         ],
         "education": [
-          "Stanford University",
           "Georgetown University",
+          "Stanford University",
           "San Marino High School"
         ],
         "employers": [],
@@ -310,10 +310,10 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
-          "University of Virginia",
           "Miami Coral Park High School",
-          "University of Virginia Darden School of Business"
+          "University of Virginia Darden School of Business",
+          "United States Naval Academy",
+          "University of Virginia"
         ],
         "employers": [
           {

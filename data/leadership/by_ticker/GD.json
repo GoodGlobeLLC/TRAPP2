@@ -1,6 +1,6 @@
 {
   "ticker": "GD",
-  "fetchedAt": "2026-10-04T12:26:56.723702Z",
+  "fetchedAt": "2026-10-04T13:00:54.880757Z",
   "people": [
     {
       "qid": "Q4970379",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -35,6 +30,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -333,11 +333,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -345,6 +340,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],

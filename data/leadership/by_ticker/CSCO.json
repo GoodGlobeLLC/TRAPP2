@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-04T12:26:56.711667Z",
+  "fetchedAt": "2026-10-04T13:00:54.870576Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
-          "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Wisconsin\u2013Madison",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -236,8 +236,8 @@
           "electrical engineer"
         ],
         "education": [
-          "Stanford University",
-          "Thomas Jefferson High School"
+          "Thomas Jefferson High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -463,13 +463,8 @@
         ],
         "employers": [
           {
-            "company": "Freescale Semiconductor",
-            "start": "2007-06-01",
-            "end": null
-          },
-          {
-            "company": "Texas Instruments",
-            "start": "1994-01-01",
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           },
           {
@@ -478,8 +473,13 @@
             "end": null
           },
           {
-            "company": "IBM Research",
-            "start": "1995-01-01",
+            "company": "Freescale Semiconductor",
+            "start": "2007-06-01",
+            "end": null
+          },
+          {
+            "company": "Texas Instruments",
+            "start": "1994-01-01",
             "end": null
           }
         ],
