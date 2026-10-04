@@ -5,26 +5,31 @@
   "birthPlace": "San Jose",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
-    "electronics technician",
     "programmer",
-    "entrepreneur",
-    "engineer",
+    "electronics technician",
     "inventor",
+    "entrepreneur",
     "computer scientist",
+    "engineer",
+    "actor",
     "teacher",
-    "businessperson",
-    "actor"
+    "businessperson"
   ],
   "education": [
     "University of Colorado",
     "De Anza College",
     "University of Colorado Boulder",
-    "Homestead High School",
-    "University of California, Berkeley"
+    "University of California, Berkeley",
+    "Homestead High School"
   ],
   "employers": [
     {
-      "company": "Apple Inc.",
+      "company": "Hewlett-Packard",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "University of Technology Sydney",
       "start": null,
       "end": null
     },
@@ -34,12 +39,7 @@
       "end": null
     },
     {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "University of Technology Sydney",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     }

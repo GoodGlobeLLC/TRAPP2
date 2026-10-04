@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-09-27T12:40:07.350685Z",
+  "fetchedAt": "2026-10-04T12:26:56.698495Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Scarsdale High School",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -57,14 +57,14 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "business oligarch"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Scarsdale High School",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           },
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           }
         ],
@@ -295,13 +295,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "spy",
-          "intelligence officer",
-          "soldier"
+          "soldier",
+          "intelligence officer"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -366,8 +366,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Horace Mann School",
@@ -420,9 +420,9 @@
           "lawyer"
         ],
         "education": [
-          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "William A. Shine Great Neck South High School"
         ],
         "employers": [],
         "positions": [
@@ -455,14 +455,14 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "business oligarch"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {
@@ -531,22 +531,17 @@
             "end": "2018-01-01"
           },
           {
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
           {
             "company": "ABB Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
           },
@@ -591,14 +586,14 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
-          "business oligarch",
+          "entrepreneur",
           "computer scientist",
-          "entrepreneur"
+          "business oligarch"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
           {

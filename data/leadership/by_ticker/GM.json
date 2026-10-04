@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-09-27T12:40:07.382826Z",
+  "fetchedAt": "2026-10-04T12:26:56.725124Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
+          "politician",
           "engineer",
-          "politician"
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -249,8 +249,8 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "business executive",
           "lawyer",
+          "business executive",
           "chief executive officer"
         ],
         "education": [
@@ -357,9 +357,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -377,8 +377,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -388,17 +388,22 @@
         ],
         "employers": [
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
             "company": "Hasbro",
             "start": null,
             "end": null
           },
           {
             "company": "Bain & Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
+            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           },
@@ -413,17 +418,7 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Quibi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }
@@ -454,16 +449,16 @@
             "end": null
           },
           {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1998-01-01",
-            "end": "2008-01-01"
-          },
-          {
             "title": "vice president",
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1998-01-01",
+            "end": "2008-01-01"
           },
           {
             "title": "vice president",
@@ -515,9 +510,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
+          "entrepreneur",
           "businessperson",
-          "executive",
-          "entrepreneur"
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -609,8 +604,8 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "businessperson",
           "chief executive officer",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [

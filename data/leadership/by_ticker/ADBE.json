@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-09-27T12:40:07.342947Z",
+  "fetchedAt": "2026-10-04T12:26:56.695227Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -10,7 +10,7 @@
       "career": {
         "qid": "Q2622748",
         "name": "Shantanu Narayen",
-        "dateOfBirth": "1963-05-01",
+        "dateOfBirth": "1963-05-27",
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
@@ -18,11 +18,11 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
+          "North-Eastern Hill University",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University"
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -294,7 +294,7 @@
         "qid": "Q110471964",
         "name": "Cristiano Amon",
         "dateOfBirth": "1972-11-24",
-        "birthPlace": null,
+        "birthPlace": "Campinas",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
           "electronic engineer",
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Temple University Beasley School of Law",
-          "Harvard University"
+          "Harvard University",
+          "Temple University Beasley School of Law"
         ],
         "employers": [
           {
@@ -408,7 +408,7 @@
       "career": {
         "qid": "Q2622748",
         "name": "Shantanu Narayen",
-        "dateOfBirth": "1963-05-01",
+        "dateOfBirth": "1963-05-27",
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
@@ -416,11 +416,11 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
+          "North-Eastern Hill University",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University"
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -451,9 +451,9 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
-          "university teacher",
           "computer scientist",
           "entrepreneur",
+          "university teacher",
           "software developer"
         ],
         "education": [
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
-          "mathematician",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "entrepreneur",
+          "mathematician",
+          "computer scientist"
         ],
         "education": [
           "Olympus High School",
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Adobe",
             "start": null,
             "end": null
           }

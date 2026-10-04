@@ -6,11 +6,11 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
   "occupations": [
     "presenter",
-    "chief executive officer",
-    "engineer",
     "manager",
-    "computer scientist",
-    "businessperson"
+    "engineer",
+    "businessperson",
+    "chief executive officer",
+    "computer scientist"
   ],
   "education": [
     "Rostrevor College",
@@ -21,14 +21,14 @@
   ],
   "employers": [
     {
-      "company": "IBM",
-      "start": "1982-01-01",
-      "end": "1994-01-01"
-    },
-    {
       "company": "Apple Inc.",
       "start": "1998-01-01",
       "end": null
+    },
+    {
+      "company": "IBM",
+      "start": "1982-01-01",
+      "end": "1994-01-01"
     }
   ],
   "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-09-27T12:40:07.368605Z",
+  "fetchedAt": "2026-10-04T12:26:56.713527Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -10,7 +10,7 @@
       "career": {
         "qid": "Q48562446",
         "name": "Mike Wirth",
-        "dateOfBirth": "1960-01-01",
+        "dateOfBirth": "1960-10-15",
         "birthPlace": null,
         "image": null,
         "occupations": [
@@ -112,9 +112,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Georgia Tech",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -146,10 +146,10 @@
           "businessperson"
         ],
         "education": [
+          "Columbia University",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
-          "Columbia University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -192,8 +192,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alice%20Gast%20%28born%201958%29%20at%20Technology%20Governance%20Outlook%20II.png",
         "occupations": [
-          "chemical engineer",
           "chemist",
+          "chemical engineer",
           "academic administrator"
         ],
         "education": [
@@ -207,12 +207,12 @@
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           }
@@ -260,7 +260,7 @@
       "career": {
         "qid": "Q48562446",
         "name": "Mike Wirth",
-        "dateOfBirth": "1960-01-01",
+        "dateOfBirth": "1960-10-15",
         "birthPlace": null,
         "image": null,
         "occupations": [
@@ -350,8 +350,8 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DrWandaMAustin.jpg",
         "occupations": [
-          "engineer",
-          "military flight engineer"
+          "military flight engineer",
+          "engineer"
         ],
         "education": [
           "Bronx High School of Science",
@@ -400,12 +400,12 @@
         ],
         "employers": [
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           },
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           }
@@ -446,9 +446,9 @@
         "occupations": [
           "missionary",
           "diplomat",
-          "governor",
           "politician",
-          "ambassador"
+          "ambassador",
+          "governor"
         ],
         "education": [
           "National Taiwan Normal University",
