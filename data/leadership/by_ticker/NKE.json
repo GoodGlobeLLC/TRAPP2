@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-09-27T12:40:07.446772Z",
+  "fetchedAt": "2026-10-04T13:00:54.900379Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -63,6 +63,28 @@
       }
     },
     {
+      "qid": "Q114832432",
+      "name": "John Connors",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114832432",
+        "name": "John Connors",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "venture capitalist",
+          "businessperson"
+        ],
+        "education": [
+          "University of Montana"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q114832389",
       "name": "Cathy Benko",
       "role_at_company": "Board Member",
@@ -79,6 +101,25 @@
         "education": [
           "Stanford Graduate School of Business",
           "Harvard Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q96002081",
+      "name": "Thasunda Duckett",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q96002081",
+        "name": "Thasunda Duckett",
+        "dateOfBirth": "1973-07-22",
+        "birthPlace": "Rochester",
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Sam Houston High School"
         ],
         "employers": [],
         "positions": []
@@ -124,8 +165,8 @@
           "economist"
         ],
         "education": [
-          "St Catherine's College",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "St Catherine's College"
         ],
         "employers": [
           {
@@ -186,7 +227,7 @@
         ],
         "employers": [
           {
-            "company": "Nike, Inc.",
+            "company": "Nike",
             "start": null,
             "end": null
           }
@@ -206,17 +247,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "writer",
+          "entrepreneur",
           "philanthropist",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {
@@ -243,9 +284,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Dartmouth College",
+          "Stanford Graduate School of Business",
           "Stanford University",
-          "Stanford Graduate School of Business"
+          "Dartmouth College"
         ],
         "employers": [
           {
@@ -255,6 +296,54 @@
           }
         ],
         "positions": []
+      }
+    },
+    {
+      "qid": "Q265852",
+      "name": "Tim Cook",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q265852",
+        "name": "Tim Cook",
+        "dateOfBirth": "1960-11-01",
+        "birthPlace": "Mobile",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
+        "occupations": [
+          "computer scientist",
+          "presenter",
+          "chief executive officer",
+          "manager",
+          "businessperson",
+          "engineer"
+        ],
+        "education": [
+          "Rostrevor College",
+          "Robertsdale High School",
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2011-08-24",
+            "end": "2026-08-31"
+          }
+        ]
       }
     },
     {
@@ -269,17 +358,17 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
-          "writer",
+          "entrepreneur",
           "philanthropist",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Oregon State University",
           "University of Oregon",
           "Charles H. Lundquist College of Business",
-          "Cleveland High School",
-          "Stanford University"
+          "Cleveland High School"
         ],
         "employers": [
           {

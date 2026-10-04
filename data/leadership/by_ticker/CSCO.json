@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-09-27T12:40:07.366604Z",
+  "fetchedAt": "2026-10-04T13:00:54.870576Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
-          "University of Wisconsin\u2013Madison",
-          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Wisconsin\u2013Madison",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -100,14 +100,14 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20T.%20Chambers%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
+          "Duke University",
+          "West Virginia University",
           "West Virginia University College of Law"
         ],
         "employers": [
@@ -229,15 +229,15 @@
       "career": {
         "qid": "Q41651",
         "name": "Kristina M. Johnson",
-        "dateOfBirth": "1957-01-01",
+        "dateOfBirth": "1957-05-07",
         "birthPlace": "St. Louis",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kristina%20M.%20Johnson%20official%20portrait.jpg",
         "occupations": [
           "electrical engineer"
         ],
         "education": [
-          "Stanford University",
-          "Thomas Jefferson High School"
+          "Thomas Jefferson High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -463,13 +463,8 @@
         ],
         "employers": [
           {
-            "company": "Freescale Semiconductor",
-            "start": "2007-06-01",
-            "end": null
-          },
-          {
-            "company": "Texas Instruments",
-            "start": "1994-01-01",
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           },
           {
@@ -478,8 +473,13 @@
             "end": null
           },
           {
-            "company": "IBM Research",
-            "start": "1995-01-01",
+            "company": "Freescale Semiconductor",
+            "start": "2007-06-01",
+            "end": null
+          },
+          {
+            "company": "Texas Instruments",
+            "start": "1994-01-01",
             "end": null
           }
         ],

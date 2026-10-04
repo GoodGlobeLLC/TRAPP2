@@ -10,15 +10,10 @@
   "education": [
     "Harvard Business School",
     "Tufts University",
-    "Browning School",
-    "Harvard University"
+    "Harvard University",
+    "Browning School"
   ],
   "employers": [
-    {
-      "company": "Goldman Sachs",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Bank One Corporation",
       "start": "2000-03-01",
@@ -36,6 +31,11 @@
     },
     {
       "company": "Boston Consulting Group",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Goldman Sachs",
       "start": null,
       "end": null
     }

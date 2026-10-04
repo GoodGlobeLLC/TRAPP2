@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-09-27T12:40:07.450118Z",
+  "fetchedAt": "2026-10-04T13:00:54.903055Z",
   "people": [
     {
       "qid": "Q92759",
@@ -150,9 +150,9 @@
         ],
         "education": [
           "Syracuse University",
+          "Stanford University",
           "Rosary High School",
-          "Maharaja Sayajirao University of Baroda",
-          "Stanford University"
+          "Maharaja Sayajirao University of Baroda"
         ],
         "employers": [
           {
@@ -221,8 +221,8 @@
         ],
         "education": [
           "Georgia Tech",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -300,10 +300,10 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Secretary%20Pompeo%20Participates%20in%20a%20Roundtable%20Discussion%20with%20Hoover%20Institute%20Fellows%20%2849380866856%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "academic",
-          "businessperson",
+          "university teacher",
           "economist",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -346,15 +346,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
+          "chief financial officer",
           "businessperson",
-          "chief financial officer"
+          "banker"
         ],
         "education": [
+          "Harvard Law School",
           "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School",
-          "Harvard Law School"
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -369,6 +369,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -392,18 +404,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -527,17 +527,17 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "Oberleutnant",
           "university teacher",
           "jurist",
-          "political scientist",
+          "Oberleutnant",
           "lawyer",
-          "politician"
+          "politician",
+          "political scientist"
         ],
         "education": [
-          "Santa Clara University School of Law",
           "Santa Clara University College of Arts & Sciences",
-          "Monterey High School"
+          "Monterey High School",
+          "Santa Clara University School of Law"
         ],
         "employers": [
           {
@@ -552,18 +552,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "defence minister",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1979-01-03",
-            "end": "1981-01-03"
-          },
           {
             "title": "United States Secretary of Defense",
             "company": null,
@@ -589,6 +577,18 @@
             "end": "1987-01-03"
           },
           {
+            "title": "defence minister",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1983-01-03",
@@ -605,12 +605,6 @@
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-03"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
           },
           {
             "title": "United States representative",

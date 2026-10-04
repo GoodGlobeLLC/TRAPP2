@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-09-27T12:40:07.424753Z",
+  "fetchedAt": "2026-10-04T13:00:54.898273Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -17,9 +17,9 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
-          "entrepreneur",
+          "computer scientist",
           "engineer",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -81,8 +81,8 @@
         "birthPlace": "Sal\u00e9",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Catherine%20MacGregor%20at%20World%20Economic%20Forum%20Davos%202022.png",
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "\u00c9cole Centrale Paris"
@@ -103,9 +103,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "business executive",
           "manager",
-          "accountant",
-          "business executive"
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -125,14 +125,14 @@
             "end": "2015-05-01"
           },
           {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
-          },
-          {
             "company": "Procter & Gamble",
             "start": "1994-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
           }
         ],
         "positions": [
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
           "Syracuse University",
@@ -166,17 +166,17 @@
         ],
         "employers": [
           {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Electric",
             "start": null,
             "end": null
           },
           {
             "company": "Merck & Co.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
             "start": null,
             "end": null
           }
@@ -196,8 +196,8 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
           "St Swithun's School",
@@ -273,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -306,11 +306,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
           "consultant",
-          "businessperson",
           "podcaster",
           "financier",
-          "investor",
+          "businessperson",
           "entrepreneur",
+          "investor",
           "writer"
         ],
         "education": [
@@ -353,8 +353,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Cornell University"
+          "Cornell University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -398,9 +398,9 @@
           "manager",
           "electrotechnician",
           "chief executive officer",
-          "entrepreneur",
+          "computer scientist",
           "engineer",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -443,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "investor",
           "philanthropist",
           "art collector",
-          "inventor",
-          "co-founder",
           "programmer",
-          "television producer",
-          "record producer",
+          "inventor",
           "film producer",
-          "musician",
+          "record producer",
           "composer",
           "businessperson",
+          "co-founder",
+          "musician",
           "entrepreneur",
+          "television producer",
+          "investor",
           "computer scientist"
         ],
         "education": [
           "Washington State University",
-          "Harvard University",
-          "Lakeside School"
+          "Lakeside School",
+          "Harvard University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-09-27T12:40:07.413298Z",
+  "fetchedAt": "2026-10-04T13:00:54.889057Z",
   "people": [
     {
       "qid": "Q922169",
@@ -19,15 +19,10 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -45,6 +40,11 @@
           },
           {
             "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -208,9 +208,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
           "business executive",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
           "The Wharton School",
@@ -414,11 +414,6 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": "2001-05-01",
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": "1997-01-01",
             "end": "2001-01-01"
@@ -426,6 +421,11 @@
           {
             "company": "Central Intelligence Agency",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
+            "start": "2001-05-01",
             "end": null
           }
         ],
@@ -505,15 +505,10 @@
         "education": [
           "Harvard Business School",
           "Tufts University",
-          "Browning School",
-          "Harvard University"
+          "Harvard University",
+          "Browning School"
         ],
         "employers": [
-          {
-            "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Bank One Corporation",
             "start": "2000-03-01",
@@ -531,6 +526,11 @@
           },
           {
             "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -558,8 +558,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
           "entrepreneur",
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-09-27T12:40:07.337739Z",
+  "fetchedAt": "2026-10-04T13:00:54.851716Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,12 +14,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
           "presenter",
           "chief executive officer",
-          "engineer",
           "manager",
-          "computer scientist",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Rostrevor College",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -99,8 +99,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -177,25 +177,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
           "climate activist",
           "orator",
-          "journalist",
-          "university teacher",
           "blogger",
           "environmentalist",
-          "farmer",
           "financier",
+          "journalist",
+          "farmer",
+          "university teacher",
+          "politician",
           "businessperson",
-          "writer",
-          "politician"
+          "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -242,6 +241,12 @@
             "end": "1987-01-03"
           },
           {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
+          },
+          {
             "title": "United States senator",
             "company": null,
             "start": "1991-01-03",
@@ -250,14 +255,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -346,14 +351,14 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "electronics technician",
           "programmer",
           "entrepreneur",
+          "electronics technician",
+          "computer scientist",
           "engineer",
           "inventor",
-          "computer scientist",
-          "teacher",
           "businessperson",
+          "teacher",
           "actor"
         ],
         "education": [
@@ -364,11 +369,6 @@
           "University of California, Berkeley"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Atari, Inc.",
             "start": null,
@@ -381,6 +381,11 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -400,89 +405,11 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "film producer",
           "financier",
-          "designer",
-          "founder",
-          "general manager",
-          "executive producer",
-          "entrepreneur",
-          "computer scientist",
-          "inventor"
-        ],
-        "education": [
-          "Homestead High School",
-          "Reed College",
-          "De Anza College"
-        ],
-        "employers": [
-          {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1985-01-01",
-            "end": "1997-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1977-01-03",
-            "end": "1985-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1997-09-16",
-            "end": "2011-08-24"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1995-11-29",
-            "end": "1997-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q19837",
-      "name": "Steve Jobs",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q19837",
-        "name": "Steve Jobs",
-        "dateOfBirth": "1955-02-24",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
-        "occupations": [
           "technology entrepreneur",
           "designer",
-          "film producer",
           "founder",
-          "financier",
           "general manager",
           "executive producer",
           "computer scientist",
@@ -496,22 +423,22 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Pixar",
             "start": null,
             "end": null
           },
           {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }

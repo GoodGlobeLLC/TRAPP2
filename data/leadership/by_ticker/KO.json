@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-09-27T12:40:07.415307Z",
+  "fetchedAt": "2026-10-04T13:00:54.890606Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -250,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "merchant",
+          "businessperson",
           "entrepreneur",
-          "businessperson"
+          "merchant"
         ],
         "education": [
           "University of Groningen"
@@ -274,8 +274,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -313,9 +313,9 @@
         "birthPlace": "Santander",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "economist",
           "banker",
-          "economist"
+          "businessperson"
         ],
         "education": [
           "St Mary's School",
@@ -348,10 +348,10 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
-          "business executive",
-          "social worker",
+          "sociologist",
           "politician",
-          "sociologist"
+          "business executive",
+          "social worker"
         ],
         "education": [
           "Spring Hill College",
@@ -380,16 +380,6 @@
             "end": null
           },
           {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
-          },
-          {
             "company": "Office of Public Liaison",
             "start": "1993-01-20",
             "end": "1997-02-07"
@@ -402,6 +392,16 @@
           {
             "company": "Southern Regional Council",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
             "end": null
           }
         ],

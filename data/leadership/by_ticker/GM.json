@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-09-27T12:40:07.382826Z",
+  "fetchedAt": "2026-10-04T13:00:54.881836Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
+          "politician",
           "engineer",
-          "politician"
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -382,16 +382,11 @@
           "business executive"
         ],
         "education": [
-          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
           {
             "company": "Hasbro",
             "start": null,
@@ -403,22 +398,22 @@
             "end": null
           },
           {
+            "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "DreamWorks",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Quibi",
             "start": null,
             "end": null
           },
@@ -466,15 +461,15 @@
             "end": null
           },
           {
-            "title": "vice president",
-            "company": null,
-            "start": "1989-01-01",
-            "end": null
-          },
-          {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
             "start": null,
+            "end": null
+          },
+          {
+            "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
             "end": null
           }
         ]
@@ -515,9 +510,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
+          "entrepreneur",
           "businessperson",
-          "executive",
-          "entrepreneur"
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -609,13 +604,13 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "businessperson",
           "chief executive officer",
+          "businessperson",
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Stanford University"
         ],
         "employers": [
           {
