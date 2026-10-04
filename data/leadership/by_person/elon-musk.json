@@ -26,7 +26,9 @@
     "Pretoria Boys High School",
     "University of Pretoria",
     "University of Pennsylvania",
-    "Stanford University"
+    "Stanford University",
+    "Queen's University",
+    "The Wharton School"
   ],
   "employers": [
     {
@@ -67,6 +69,11 @@
     {
       "company": "SpaceX",
       "start": "2002-06-01",
+      "end": null
+    },
+    {
+      "company": "Tesla",
+      "start": "2004-04-23",
       "end": null
     }
   ],

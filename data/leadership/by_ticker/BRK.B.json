@@ -61,6 +61,9 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "chief executive officer",
+          "shareholder",
+          "entrepreneur",
           "broker-dealer",
           "chief executive officer",
           "shareholder",
@@ -332,9 +335,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Howard%20Buffett%20unveiled%20a%20plaque%20dedicated%20to%20himself%2C%20as%20an%20American%20philanthropist%2C%20on%20the%20Walk%20of%20the%20Brave%20in%20Kyiv%2C%20Ukraine%20on%2018%3BDecember%202023%20%28cropped%29.jpg",
         "occupations": [
           "entrepreneur",
+          "farmer",
           "writer",
-          "photographer",
-          "farmer"
+          "photographer"
         ],
         "education": [
           "Harvard University"
@@ -371,9 +374,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
           "Indian Institute of Technology Kharagpur",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -520,6 +523,9 @@
         "birthPlace": "Omaha",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Warren%20Buffett%20KU%20Visit.jpg",
         "occupations": [
+          "chief executive officer",
+          "shareholder",
+          "entrepreneur",
           "broker-dealer",
           "chief executive officer",
           "shareholder",
@@ -566,9 +572,9 @@
           "chief executive officer"
         ],
         "education": [
-          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "The Waldorf School of Garden City"
         ],
         "employers": [
           {
@@ -591,12 +597,6 @@
           {
             "title": "board of directors member",
             "company": null,
-            "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -605,6 +605,12 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2018-01-01",
+            "end": null
           }
         ]
       }
