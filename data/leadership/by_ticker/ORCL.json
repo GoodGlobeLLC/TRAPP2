@@ -150,7 +150,6 @@
         ],
         "education": [
           "Syracuse University",
-          "Stanford University",
           "Rosary High School",
           "Maharaja Sayajirao University of Baroda"
         ],
@@ -221,8 +220,8 @@
         ],
         "education": [
           "Georgia Tech",
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -302,14 +301,19 @@
         "occupations": [
           "academic",
           "university teacher",
-          "economist",
+          "writer",
           "businessperson",
-          "writer"
+          "economist"
         ],
         "education": [
           "University of California, Berkeley"
         ],
         "employers": [
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Yale University",
             "start": null,
@@ -595,16 +599,10 @@
             "end": "1997-01-20"
           },
           {
-            "title": "United States representative",
+            "title": "White House Chief of Staff",
             "company": null,
-            "start": "1983-01-03",
-            "end": "1985-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",
@@ -635,6 +633,18 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1983-01-03",
+            "end": "1985-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           }
         ]
       }

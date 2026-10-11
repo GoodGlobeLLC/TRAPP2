@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "business executive",
-          "pharmacologist",
+          "entrepreneur",
           "executive",
           "veterinarian",
-          "entrepreneur"
+          "business executive",
+          "pharmacologist"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -69,7 +69,6 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "molecular geneticist",
           "biochemist",
           "researcher",
           "physician",
@@ -212,9 +211,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "University of Chicago",
           "Booth School of Business",
-          "Knox College",
-          "University of Chicago"
+          "Knox College"
         ],
         "employers": [],
         "positions": [
@@ -369,11 +368,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "business executive",
-          "pharmacologist",
+          "entrepreneur",
           "executive",
           "veterinarian",
-          "entrepreneur"
+          "business executive",
+          "pharmacologist"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -428,8 +427,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",
@@ -437,17 +436,17 @@
         ],
         "employers": [
           {
+            "company": "Grossman School of Medicine",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Food and Drug Administration",
             "start": null,
             "end": null
           },
           {
             "company": "American Enterprise Institute",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Grossman School of Medicine",
             "start": null,
             "end": null
           }

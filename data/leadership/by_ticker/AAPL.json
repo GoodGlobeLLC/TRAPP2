@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -365,8 +365,8 @@
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -417,9 +417,9 @@
           "inventor"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
           {
