@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-10-04T13:00:54.853041Z",
+  "fetchedAt": "2026-10-11T13:08:51.676172Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -168,8 +168,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -231,8 +231,8 @@
           "chief financial officer"
         ],
         "education": [
-          "Stuyvesant High School",
           "Stanford University",
+          "Stuyvesant High School",
           "Harvard University"
         ],
         "employers": [],
@@ -325,15 +325,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
           "venture capitalist",
+          "lawyer",
           "businessperson",
           "entrepreneur",
-          "lawyer",
           "chief executive officer"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -356,6 +356,12 @@
           {
             "title": "board of directors member",
             "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -364,12 +370,6 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }
@@ -432,8 +432,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {

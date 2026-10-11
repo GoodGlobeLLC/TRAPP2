@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-04T13:00:54.881836Z",
+  "fetchedAt": "2026-10-11T13:08:51.708813Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -17,10 +17,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -95,8 +95,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Morgantown High School"
+          "Morgantown High School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
+          "University of Toronto",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -382,9 +382,9 @@
           "business executive"
         ],
         "education": [
+          "Princeton University",
           "Cold Spring Harbor Jr./Sr. High School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -398,16 +398,6 @@
             "end": null
           },
           {
-            "company": "Quibi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
@@ -418,7 +408,17 @@
             "end": null
           },
           {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
             "company": "The Walt Disney Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -437,21 +437,21 @@
             "end": null
           },
           {
-            "title": "consultant",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "founder",
             "company": null,
             "start": null,
             "end": null
           },
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
             "title": "vice president",
             "company": null,
-            "start": null,
+            "start": "1989-01-01",
             "end": null
           },
           {
@@ -461,9 +461,15 @@
             "end": null
           },
           {
+            "title": "consultant",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "vice president",
             "company": null,
-            "start": "1989-01-01",
+            "start": null,
             "end": null
           }
         ]
@@ -505,8 +511,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
           "entrepreneur",
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
           "Grosse Ile High School"
@@ -552,10 +558,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -603,8 +609,8 @@
           "entrepreneur"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Stanford University"
+          "Stanford University",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
