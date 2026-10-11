@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-04T13:00:54.870576Z",
+  "fetchedAt": "2026-10-11T14:11:16.157283Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
           "Stanford Graduate School of Business",
-          "University of Wisconsin\u2013Madison",
-          "Stanford University"
+          "University of Wisconsin\u2013Madison"
         ],
         "employers": [
           {
@@ -104,10 +104,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Indiana University",
-          "Indiana University Kelley School of Business",
           "Duke University",
           "West Virginia University",
+          "Indiana University",
+          "Indiana University Kelley School of Business",
           "West Virginia University College of Law"
         ],
         "employers": [
@@ -236,19 +236,19 @@
           "electrical engineer"
         ],
         "education": [
-          "Thomas Jefferson High School",
-          "Stanford University"
+          "Stanford University",
+          "Thomas Jefferson High School"
         ],
         "employers": [
-          {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
           {
             "company": "Duke University",
             "start": "1999-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
           }
         ],
         "positions": []
@@ -454,24 +454,14 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "electrical engineer",
+          "chief executive officer",
           "entrepreneur"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "IBM Research",
-            "start": "1995-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -480,6 +470,16 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           }
         ],

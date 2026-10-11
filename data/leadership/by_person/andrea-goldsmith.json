@@ -5,15 +5,15 @@
   "birthPlace": "California",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
   "occupations": [
-    "academic",
     "university teacher",
     "electrotechnician",
-    "electrical engineer",
-    "computer scientist"
+    "academic",
+    "computer scientist",
+    "electrical engineer"
   ],
   "education": [
-    "University of California, Berkeley",
-    "University of California, Berkeley College of Engineering"
+    "University of California, Berkeley College of Engineering",
+    "University of California, Berkeley"
   ],
   "employers": [
     {
@@ -22,13 +22,13 @@
       "end": null
     },
     {
-      "company": "Stanford University",
-      "start": null,
+      "company": "Princeton University",
+      "start": "2020-01-01",
       "end": null
     },
     {
-      "company": "Princeton University",
-      "start": "2020-01-01",
+      "company": "Stanford University",
+      "start": null,
       "end": null
     }
   ],

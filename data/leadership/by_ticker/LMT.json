@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-04T13:00:54.892263Z",
+  "fetchedAt": "2026-10-11T14:11:16.183452Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -213,10 +213,10 @@
           "military officer"
         ],
         "education": [
-          "Harvard University",
           "Georgia Tech",
           "University of West Florida",
-          "United States Naval Academy"
+          "United States Naval Academy",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -234,14 +234,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "merchant"
+          "merchant",
+          "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -387,8 +387,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "military officer",
-          "priest"
+          "priest",
+          "military officer"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -421,17 +421,17 @@
         ],
         "employers": [
           {
+            "company": "Carlyle Group",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "General Motors",
             "start": null,
             "end": null
           },
           {
             "company": "American Express",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

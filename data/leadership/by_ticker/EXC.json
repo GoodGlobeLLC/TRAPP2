@@ -1,6 +1,6 @@
 {
   "ticker": "EXC",
-  "fetchedAt": "2026-10-04T13:00:54.878161Z",
+  "fetchedAt": "2026-10-11T14:11:16.166264Z",
   "people": [
     {
       "qid": "Q114959854",
@@ -38,9 +38,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Paris Institute of Political Studies",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -165,9 +165,9 @@
           "economist"
         ],
         "education": [
-          "Cornell University",
+          "Yale University",
           "Francis Lewis High School",
-          "Yale University"
+          "Cornell University"
         ],
         "employers": [
           {
@@ -204,12 +204,6 @@
             "company": null,
             "start": "2005-02-07",
             "end": "2009-01-20"
-          },
-          {
-            "title": "United States Secretary of Commerce",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }

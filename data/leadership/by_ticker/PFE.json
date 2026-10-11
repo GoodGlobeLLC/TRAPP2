@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-04T13:00:54.905012Z",
+  "fetchedAt": "2026-10-11T14:11:16.198547Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -72,8 +72,8 @@
           "molecular geneticist",
           "biochemist",
           "researcher",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "Stanford University"
@@ -113,8 +113,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Occidental College",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -171,16 +171,6 @@
         ],
         "employers": [
           {
-            "company": "Bristol-Myers Squibb",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Gates Foundation",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Genentech",
             "start": null,
             "end": null
@@ -192,6 +182,16 @@
           },
           {
             "company": "University of California, San Francisco",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
             "start": null,
             "end": null
           }
@@ -239,23 +239,23 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
           "Washington University in St.\u00a0Louis",
-          "Columbia University",
           "Princeton University",
+          "Columbia University",
           "Washington University School of Medicine"
         ],
         "employers": [
           {
-            "company": "New York University",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
+            "company": "New York University",
             "start": null,
             "end": null
           }
@@ -275,15 +275,15 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
-          "North-Eastern Hill University"
+          "North-Eastern Hill University",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -314,14 +314,14 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
+          "physiologist",
           "university teacher"
         ],
         "education": [
-          "Horace Greeley High School",
           "Georgetown University",
-          "University of Rochester"
+          "University of Rochester",
+          "Horace Greeley High School"
         ],
         "employers": [
           {
@@ -474,8 +474,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -510,8 +510,8 @@
         "birthPlace": "Ludwigsburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-10-04T13:00:54.886745Z",
+  "fetchedAt": "2026-10-11T14:11:16.176550Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
           "entrepreneur",
-          "businessperson",
           "chemist",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -50,8 +50,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -152,7 +152,7 @@
         "qid": "Q432929",
         "name": "Andrew Grove",
         "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
+        "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
@@ -167,6 +167,11 @@
         ],
         "employers": [
           {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
@@ -175,11 +180,6 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -260,17 +260,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
-          "philanthropist",
+          "entrepreneur",
           "physicist",
+          "philanthropist",
           "chemist",
-          "engineer",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
+          "California Institute of Technology",
           "Sequoia High School",
           "San Jose State University",
-          "University of California, Berkeley",
-          "California Institute of Technology"
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -294,10 +294,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "physicist",
+          "businessperson",
           "inventor",
           "computer scientist",
-          "businessperson"
+          "physicist"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -346,15 +346,15 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
-          "electrical engineer",
-          "computer scientist"
+          "academic",
+          "computer scientist",
+          "electrical engineer"
         ],
         "education": [
-          "University of California, Berkeley",
-          "University of California, Berkeley College of Engineering"
+          "University of California, Berkeley College of Engineering",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -363,13 +363,13 @@
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "Princeton University",
+            "start": "2020-01-01",
             "end": null
           },
           {
-            "company": "Princeton University",
-            "start": "2020-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -415,20 +415,20 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "physician",
-          "administrator"
+          "administrator",
+          "physician"
         ],
         "education": [
-          "The Wharton School",
-          "University of Pennsylvania",
-          "Harvard University",
-          "Harvard Medical School",
           "The Bush School",
-          "Stony Brook University"
+          "The Wharton School",
+          "Stony Brook University",
+          "Harvard Medical School",
+          "University of Pennsylvania",
+          "Harvard University"
         ],
         "employers": [
           {
-            "company": "United States Department of Health and Human Services",
+            "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
             "end": null
           },
@@ -438,17 +438,17 @@
             "end": null
           },
           {
-            "company": "Perelman School of Medicine at the University of Pennsylvania",
+            "company": "United States Department of Health and Human Services",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "board of directors member",
+            "title": "board member",
             "company": null,
-            "start": "2020-05-26",
-            "end": null
+            "start": "2014-02-21",
+            "end": "2026-03-02"
           },
           {
             "title": "chief executive officer",
@@ -457,10 +457,10 @@
             "end": "2017-04-01"
           },
           {
-            "title": "board member",
+            "title": "board of directors member",
             "company": null,
-            "start": "2014-02-21",
-            "end": "2026-03-02"
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -477,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Stanford University",
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -600,8 +600,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "board member",
-          "chief financial officer"
+          "chief financial officer",
+          "board member"
         ],
         "education": [],
         "employers": [],
@@ -644,7 +644,7 @@
         "qid": "Q432929",
         "name": "Andrew Grove",
         "dateOfBirth": "1936-09-02",
-        "birthPlace": "United States",
+        "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
           "entrepreneur",
@@ -659,6 +659,11 @@
         ],
         "employers": [
           {
+            "company": "Fairchild Semiconductor",
+            "start": null,
+            "end": "1968-01-01"
+          },
+          {
             "company": "Intel",
             "start": "1968-01-01",
             "end": "2004-01-01"
@@ -667,11 +672,6 @@
             "company": "Stanford University",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Fairchild Semiconductor",
-            "start": null,
-            "end": "1968-01-01"
           }
         ],
         "positions": [
@@ -708,17 +708,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
-          "philanthropist",
+          "entrepreneur",
           "physicist",
+          "philanthropist",
           "chemist",
-          "engineer",
-          "entrepreneur"
+          "engineer"
         ],
         "education": [
+          "California Institute of Technology",
           "Sequoia High School",
           "San Jose State University",
-          "University of California, Berkeley",
-          "California Institute of Technology"
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -742,10 +742,10 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "physicist",
+          "businessperson",
           "inventor",
           "computer scientist",
-          "businessperson"
+          "physicist"
         ],
         "education": [
           "Massachusetts Institute of Technology",

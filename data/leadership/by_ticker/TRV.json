@@ -1,6 +1,6 @@
 {
   "ticker": "TRV",
-  "fetchedAt": "2026-10-04T13:00:54.918012Z",
+  "fetchedAt": "2026-10-11T14:11:16.216548Z",
   "people": [
     {
       "qid": "Q1405941",
@@ -21,16 +21,10 @@
           "businessperson"
         ],
         "education": [
-          "The Wharton School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "The Wharton School"
         ],
-        "employers": [
-          {
-            "company": "The Travelers Companies",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -292,13 +286,7 @@
           "The Wharton School",
           "Columbia Law School"
         ],
-        "employers": [
-          {
-            "company": "The Travelers Companies",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },

@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-10-04T13:00:54.853041Z",
+  "fetchedAt": "2026-10-11T14:11:16.137295Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -84,8 +84,8 @@
           "business executive"
         ],
         "education": [
-          "University of Oxford",
           "University of Zimbabwe",
+          "University of Oxford",
           "Keble College"
         ],
         "employers": [
@@ -168,8 +168,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -266,6 +266,11 @@
         ],
         "employers": [
           {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
+          },
+          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -276,16 +281,6 @@
             "end": "1996-01-01"
           },
           {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
-          },
-          {
-            "company": "Apple Inc.",
-            "start": "2014-05-01",
-            "end": "2019-05-01"
-          },
-          {
             "company": "Warnaco Group",
             "start": null,
             "end": null
@@ -294,6 +289,11 @@
             "company": "Henri Bendel",
             "start": "1996-01-01",
             "end": "1998-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "2014-05-01",
+            "end": "2019-05-01"
           }
         ],
         "positions": [
@@ -326,14 +326,14 @@
         "occupations": [
           "venture capitalist",
           "businessperson",
-          "entrepreneur",
           "lawyer",
+          "entrepreneur",
           "chief executive officer"
         ],
         "education": [
+          "The Waldorf School of Garden City",
           "Bowdoin College",
-          "Harvard Law School",
-          "The Waldorf School of Garden City"
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -356,6 +356,12 @@
           {
             "title": "board of directors member",
             "company": null,
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
             "start": "2020-05-02",
             "end": null
           },
@@ -364,12 +370,6 @@
             "company": null,
             "start": "2001-01-01",
             "end": "2018-02-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2018-01-01",
-            "end": null
           }
         ]
       }
@@ -432,8 +432,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Boston Latin Academy"
+          "Boston Latin Academy",
+          "Harvard University"
         ],
         "employers": [
           {

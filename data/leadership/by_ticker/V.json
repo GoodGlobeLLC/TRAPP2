@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "fetchedAt": "2026-10-04T13:00:54.921944Z",
+  "fetchedAt": "2026-10-11T14:11:16.221471Z",
   "people": [
     {
       "qid": "Q114837486",
@@ -17,11 +17,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -30,6 +25,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
@@ -222,9 +222,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
           "business executive",
-          "manager"
+          "manager",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -276,8 +276,8 @@
         "birthPlace": "Barcelona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ramon%20Laguarta.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
+          "chief executive officer",
           "chairperson"
         ],
         "education": [
@@ -597,11 +597,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Visa Inc.",
-            "start": "2013-05-01",
-            "end": null
-          },
-          {
             "company": "McKinsey & Company",
             "start": "1997-01-01",
             "end": "2005-01-01"
@@ -610,6 +605,11 @@
             "company": "JPMorgan Chase",
             "start": "2005-01-01",
             "end": "2013-01-01"
+          },
+          {
+            "company": "Visa Inc.",
+            "start": "2013-05-01",
+            "end": null
           }
         ],
         "positions": [
