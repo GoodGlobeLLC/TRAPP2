@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-04T13:00:54.905012Z",
+  "fetchedAt": "2026-10-11T12:51:45.537362Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "business executive",
-          "pharmacologist",
+          "entrepreneur",
           "executive",
           "veterinarian",
-          "entrepreneur"
+          "business executive",
+          "pharmacologist"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -69,11 +69,11 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "molecular geneticist",
           "biochemist",
-          "researcher",
           "university teacher",
-          "physician"
+          "researcher",
+          "physician",
+          "molecular geneticist"
         ],
         "education": [
           "Stanford University"
@@ -113,8 +113,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Occidental College",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -212,9 +212,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "University of Chicago",
           "Booth School of Business",
-          "Knox College",
-          "University of Chicago"
+          "Knox College"
         ],
         "employers": [],
         "positions": [
@@ -239,23 +239,23 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "researcher",
-          "immunologist"
+          "immunologist",
+          "researcher"
         ],
         "education": [
-          "Washington University in St.\u00a0Louis",
           "Columbia University",
+          "Washington University in St.\u00a0Louis",
           "Princeton University",
           "Washington University School of Medicine"
         ],
         "employers": [
           {
-            "company": "New York University",
+            "company": "University of California, San Francisco",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, San Francisco",
+            "company": "New York University",
             "start": null,
             "end": null
           }
@@ -314,14 +314,14 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
-          "physiologist",
           "neuroscientist",
+          "physiologist",
           "university teacher"
         ],
         "education": [
-          "Horace Greeley High School",
           "Georgetown University",
-          "University of Rochester"
+          "University of Rochester",
+          "Horace Greeley High School"
         ],
         "employers": [
           {
@@ -369,11 +369,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "business executive",
-          "pharmacologist",
+          "entrepreneur",
           "executive",
           "veterinarian",
-          "entrepreneur"
+          "business executive",
+          "pharmacologist"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -428,8 +428,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",
@@ -437,17 +437,17 @@
         ],
         "employers": [
           {
+            "company": "Grossman School of Medicine",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Food and Drug Administration",
             "start": null,
             "end": null
           },
           {
             "company": "American Enterprise Institute",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Grossman School of Medicine",
             "start": null,
             "end": null
           }
@@ -474,8 +474,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "King Edward's School",
@@ -510,8 +510,8 @@
         "birthPlace": "Ludwigsburg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Frederick%20Erhart%20%281821-1891%29%20portrait.jpg",
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [],
         "employers": [
