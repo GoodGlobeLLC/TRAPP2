@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-10-11T14:11:16.185335Z",
+  "fetchedAt": "2026-10-18T12:26:43.789114Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -23,6 +23,11 @@
         ],
         "employers": [
           {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -31,11 +36,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -116,9 +116,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -164,6 +164,11 @@
         ],
         "employers": [
           {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -172,11 +177,6 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
-          },
-          {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
           }
         ],
         "positions": [
@@ -357,8 +357,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "California State University, Fullerton"
@@ -436,10 +436,10 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Law School",
-          "Columbia University",
           "Marsha Stern Talmudical Academy",
-          "Columbia College"
+          "Columbia College",
+          "Harvard Law School",
+          "Columbia University"
         ],
         "employers": [],
         "positions": [

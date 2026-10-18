@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-11T14:11:16.198547Z",
+  "fetchedAt": "2026-10-18T12:26:43.802080Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "entrepreneur",
           "executive",
-          "veterinarian",
           "business executive",
-          "pharmacologist"
+          "pharmacologist",
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -69,9 +69,10 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
+          "physician",
           "biochemist",
           "researcher",
-          "physician",
+          "molecular geneticist",
           "university teacher"
         ],
         "education": [
@@ -170,6 +171,16 @@
         ],
         "employers": [
           {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Genentech",
             "start": null,
             "end": null
@@ -181,16 +192,6 @@
           },
           {
             "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bristol-Myers Squibb",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Gates Foundation",
             "start": null,
             "end": null
           }
@@ -211,9 +212,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
           "Booth School of Business",
-          "Knox College"
+          "Knox College",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": [
@@ -238,13 +239,13 @@
         "birthPlace": "Bucharest",
         "image": null,
         "occupations": [
-          "immunologist",
-          "researcher"
+          "researcher",
+          "immunologist"
         ],
         "education": [
+          "Columbia University",
           "Washington University in St.\u00a0Louis",
           "Princeton University",
-          "Columbia University",
           "Washington University School of Medicine"
         ],
         "employers": [
@@ -281,8 +282,8 @@
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "North-Eastern Hill University"
         ],
         "employers": [],
         "positions": [
@@ -314,13 +315,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Hockfield%20-%20World%20Economic%20Forum%20Annual%20Meeting%202012.jpg",
         "occupations": [
           "neuroscientist",
-          "physiologist",
-          "university teacher"
+          "university teacher",
+          "physiologist"
         ],
         "education": [
+          "Horace Greeley High School",
           "Georgetown University",
-          "University of Rochester",
-          "Horace Greeley High School"
+          "University of Rochester"
         ],
         "employers": [
           {
@@ -368,11 +369,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "entrepreneur",
           "executive",
-          "veterinarian",
           "business executive",
-          "pharmacologist"
+          "pharmacologist",
+          "entrepreneur",
+          "veterinarian"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -436,17 +437,17 @@
         ],
         "employers": [
           {
-            "company": "Grossman School of Medicine",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Food and Drug Administration",
             "start": null,
             "end": null
           },
           {
             "company": "American Enterprise Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Grossman School of Medicine",
             "start": null,
             "end": null
           }
@@ -473,8 +474,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",

@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "fetchedAt": "2026-10-11T14:11:16.141926Z",
+  "fetchedAt": "2026-10-18T12:26:43.640359Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -15,13 +15,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -30,11 +35,6 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           },
           {
@@ -272,13 +272,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -287,11 +292,6 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           },
           {

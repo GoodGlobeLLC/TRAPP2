@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-11T14:11:16.157283Z",
+  "fetchedAt": "2026-10-18T12:26:43.683010Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -60,6 +60,11 @@
         ],
         "employers": [
           {
+            "company": "Cisco",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stratus Technologies",
             "start": null,
             "end": null
@@ -71,11 +76,6 @@
           },
           {
             "company": "Honeywell",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -104,10 +104,10 @@
           "computer scientist"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
+          "Duke University",
+          "West Virginia University",
           "West Virginia University College of Law"
         ],
         "employers": [
@@ -184,8 +184,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Morgantown High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Morgantown High School"
         ],
         "employers": [],
         "positions": []
@@ -455,13 +455,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
           "electrical engineer",
-          "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -470,11 +475,6 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
-            "end": null
-          },
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
             "end": null
           },
           {

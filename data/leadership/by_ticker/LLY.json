@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-11T14:11:16.182769Z",
+  "fetchedAt": "2026-10-18T12:26:43.757800Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -269,6 +269,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -277,11 +282,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -309,9 +309,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -458,8 +458,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "basketball player",
-          "accountant"
+          "accountant",
+          "basketball player"
         ],
         "education": [
           "University of Notre Dame"

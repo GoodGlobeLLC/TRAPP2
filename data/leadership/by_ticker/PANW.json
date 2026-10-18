@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-10-11T14:11:16.197312Z",
+  "fetchedAt": "2026-10-18T12:26:43.800457Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -17,11 +17,11 @@
           "scientist"
         ],
         "education": [
+          "Boston College",
+          "Northeastern University",
           "The Air Force School",
           "Indian Institute of Technology (BHU) Varanasi",
-          "Banaras Hindu University",
-          "Boston College",
-          "Northeastern University"
+          "Banaras Hindu University"
         ],
         "employers": [
           {
@@ -30,12 +30,12 @@
             "end": null
           },
           {
-            "company": "Google",
+            "company": "SoftBank Mobile",
             "start": null,
             "end": null
           },
           {
-            "company": "SoftBank Mobile",
+            "company": "Google",
             "start": null,
             "end": null
           }
@@ -55,8 +55,8 @@
         "birthPlace": "Rehovot",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "industrialist"
+          "industrialist",
+          "entrepreneur"
         ],
         "education": [
           "Tel Aviv University"

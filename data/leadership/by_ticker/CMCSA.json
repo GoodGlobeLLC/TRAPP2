@@ -1,6 +1,6 @@
 {
   "ticker": "CMCSA",
-  "fetchedAt": "2026-10-11T14:11:16.153490Z",
+  "fetchedAt": "2026-10-18T12:26:43.679580Z",
   "people": [
     {
       "qid": "Q4964404",
@@ -50,8 +50,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
-          "businessperson"
+          "businessperson",
+          "academic"
         ],
         "education": [
           "Rice University",
@@ -101,11 +101,6 @@
         ],
         "employers": [
           {
-            "company": "Bright House Networks",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Advance Publications",
             "start": null,
             "end": null
@@ -117,6 +112,11 @@
           },
           {
             "company": "Syracuse University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bright House Networks",
             "start": null,
             "end": null
           }
@@ -139,9 +139,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Stanford University",
-          "London School of Economics and Political Science",
-          "Harvard Business School"
+          "London School of Economics and Political Science"
         ],
         "employers": [],
         "positions": []
@@ -163,8 +163,8 @@
           "nurse"
         ],
         "education": [
-          "Villanova University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Villanova University"
         ],
         "employers": [],
         "positions": []
@@ -199,8 +199,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "chief executive officer"
+          "chief executive officer",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -228,9 +228,9 @@
           "chief executive officer"
         ],
         "education": [
-          "Stern School of Business",
           "Duke University",
-          "New York University"
+          "New York University",
+          "Stern School of Business"
         ],
         "employers": [
           {

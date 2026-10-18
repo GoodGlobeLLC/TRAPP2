@@ -5,24 +5,24 @@
   "birthPlace": "Washington, D.C.",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
   "occupations": [
-    "journalist",
-    "climate activist",
     "orator",
-    "farmer",
-    "businessperson",
-    "university teacher",
     "blogger",
+    "climate activist",
+    "university teacher",
     "environmentalist",
-    "writer",
     "financier",
-    "politician"
+    "farmer",
+    "journalist",
+    "businessperson",
+    "politician",
+    "writer"
   ],
   "education": [
-    "Harvard College",
-    "Vanderbilt University",
     "Vanderbilt University Divinity School",
     "St. Albans School",
-    "Defense Information School"
+    "Defense Information School",
+    "Harvard College",
+    "Vanderbilt University"
   ],
   "employers": [
     {
@@ -69,16 +69,16 @@
       "end": "1987-01-03"
     },
     {
+      "title": "United States representative",
+      "company": null,
+      "start": "1979-01-03",
+      "end": "1981-01-03"
+    },
+    {
       "title": "United States senator",
       "company": null,
       "start": "1991-01-03",
       "end": "1993-01-02"
-    },
-    {
-      "title": "United States representative",
-      "company": null,
-      "start": "1977-01-03",
-      "end": "1979-01-03"
     },
     {
       "title": "United States representative",
@@ -89,8 +89,8 @@
     {
       "title": "United States representative",
       "company": null,
-      "start": "1979-01-03",
-      "end": "1981-01-03"
+      "start": "1977-01-03",
+      "end": "1979-01-03"
     }
   ],
   "currentTickers": [

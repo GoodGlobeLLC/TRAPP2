@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-10-11T14:11:16.138588Z",
+  "fetchedAt": "2026-10-18T12:26:43.637146Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -313,6 +313,12 @@
         ],
         "positions": [
           {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1997-02-01",
+            "end": "2000-01-01"
+          },
+          {
             "title": "board of directors member",
             "company": null,
             "start": "2012-04-27",
@@ -335,12 +341,6 @@
             "company": null,
             "start": "2004-02-01",
             "end": "2005-10-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
           },
           {
             "title": "director general",
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "engineer"
+          "engineer",
+          "business executive"
         ],
         "education": [
           "University of Bradford"
