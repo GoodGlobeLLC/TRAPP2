@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-10-11T14:11:16.144985Z",
+  "fetchedAt": "2026-10-18T11:20:22.756202Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -17,25 +17,10 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
-          {
-            "company": "Broadcom",
-            "start": "2006-03-01",
-            "end": null
-          },
-          {
-            "company": "Union Carbide",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Integrated Circuit Systems",
-            "start": "1994-01-01",
-            "end": "2005-01-01"
-          },
           {
             "company": "Commodore International",
             "start": "1992-01-01",
@@ -50,6 +35,21 @@
             "company": "General Motors",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Broadcom",
+            "start": "2006-03-01",
+            "end": null
+          },
+          {
+            "company": "Union Carbide",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Integrated Circuit Systems",
+            "start": "1994-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -74,13 +74,13 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
-          "university teacher"
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
-          "Fairfax High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Fairfax High School"
         ],
         "employers": [
           {
@@ -126,16 +126,6 @@
         "education": [],
         "employers": [
           {
-            "company": "Accenture",
-            "start": "2001-06-19",
-            "end": "2004-07-01"
-          },
-          {
-            "company": "Oracle Corporation",
-            "start": "2004-07-01",
-            "end": "2005-03-01"
-          },
-          {
             "company": "Dell EMC",
             "start": "2008-02-01",
             "end": "2016-01-01"
@@ -144,6 +134,16 @@
             "company": "BearingPoint",
             "start": "2005-03-01",
             "end": "2007-12-01"
+          },
+          {
+            "company": "Accenture",
+            "start": "2001-06-19",
+            "end": "2004-07-01"
+          },
+          {
+            "company": "Oracle Corporation",
+            "start": "2004-07-01",
+            "end": "2005-03-01"
           }
         ],
         "positions": [
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "investor"
+          "investor",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -313,25 +313,10 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
-          {
-            "company": "Broadcom",
-            "start": "2006-03-01",
-            "end": null
-          },
-          {
-            "company": "Union Carbide",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Integrated Circuit Systems",
-            "start": "1994-01-01",
-            "end": "2005-01-01"
-          },
           {
             "company": "Commodore International",
             "start": "1992-01-01",
@@ -346,6 +331,21 @@
             "company": "General Motors",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Broadcom",
+            "start": "2006-03-01",
+            "end": null
+          },
+          {
+            "company": "Union Carbide",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Integrated Circuit Systems",
+            "start": "1994-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -442,13 +442,13 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
           "entrepreneur",
-          "university teacher"
+          "university teacher",
+          "computer scientist"
         ],
         "education": [
-          "Fairfax High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Fairfax High School"
         ],
         "employers": [
           {

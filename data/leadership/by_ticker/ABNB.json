@@ -1,6 +1,6 @@
 {
   "ticker": "ABNB",
-  "fetchedAt": "2026-10-11T14:11:16.137295Z",
+  "fetchedAt": "2026-10-18T11:20:22.748653Z",
   "people": [
     {
       "qid": "Q4963341",
@@ -85,18 +85,18 @@
         ],
         "education": [
           "University of Zimbabwe",
-          "University of Oxford",
-          "Keble College"
+          "Keble College",
+          "University of Oxford"
         ],
         "employers": [
           {
-            "company": "McKinsey & Company",
-            "start": "2006-01-01",
+            "company": "Google",
+            "start": "2022-01-01",
             "end": null
           },
           {
-            "company": "Google",
-            "start": "2022-01-01",
+            "company": "McKinsey & Company",
+            "start": "2006-01-01",
             "end": null
           }
         ],
@@ -163,8 +163,8 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
           "computer scientist",
+          "business executive",
           "businessperson"
         ],
         "education": [
@@ -231,9 +231,9 @@
           "chief financial officer"
         ],
         "education": [
-          "Stanford University",
           "Stuyvesant High School",
-          "Harvard University"
+          "Harvard University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -266,11 +266,6 @@
         ],
         "employers": [
           {
-            "company": "Burberry",
-            "start": "2006-01-01",
-            "end": "2014-04-01"
-          },
-          {
             "company": "Kate Spade & Company",
             "start": "1998-01-01",
             "end": "2006-01-01"
@@ -279,6 +274,11 @@
             "company": "Donna Karan",
             "start": "1989-01-01",
             "end": "1996-01-01"
+          },
+          {
+            "company": "Burberry",
+            "start": "2006-01-01",
+            "end": "2014-04-01"
           },
           {
             "company": "Warnaco Group",
@@ -324,12 +324,11 @@
         "birthPlace": "Mineola",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20Chenault.jpg",
         "occupations": [
-          "venture capitalist",
-          "lawyer",
-          "businessperson",
-          "lawyer",
+          "chief executive officer",
           "entrepreneur",
-          "chief executive officer"
+          "venture capitalist",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "The Waldorf School of Garden City",
@@ -428,8 +427,8 @@
         "birthPlace": "West Roxbury",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20-%20Centre%20Stage%20SM7%208493%20%2852474319677%29%20%28cropped%29.jpg",
         "occupations": [
-          "business executive",
           "computer scientist",
+          "business executive",
           "businessperson"
         ],
         "education": [

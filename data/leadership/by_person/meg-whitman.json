@@ -5,31 +5,16 @@
   "birthPlace": "Cold Spring Harbor",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
-    "entrepreneur",
     "politician",
+    "entrepreneur",
     "business executive"
   ],
   "education": [
-    "Princeton University",
     "Cold Spring Harbor Jr./Sr. High School",
-    "Harvard Business School"
+    "Harvard Business School",
+    "Princeton University"
   ],
   "employers": [
-    {
-      "company": "Quibi",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
-      "end": null
-    },
-    {
-      "company": "The Walt Disney Company",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Hewlett-Packard",
       "start": null,
@@ -38,6 +23,11 @@
     {
       "company": "DreamWorks",
       "start": null,
+      "end": null
+    },
+    {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
       "end": null
     },
     {
@@ -54,9 +44,20 @@
       "company": "Quibi",
       "start": null,
       "end": null
+    },
+    {
+      "company": "The Walt Disney Company",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [
+    {
+      "title": "general manager",
+      "company": null,
+      "start": "1997-01-01",
+      "end": null
+    },
     {
       "title": "chief executive officer",
       "company": null,
@@ -64,15 +65,15 @@
       "end": null
     },
     {
-      "title": "founder",
+      "title": "consultant",
       "company": null,
       "start": null,
       "end": null
     },
     {
-      "title": "general manager",
+      "title": "founder",
       "company": null,
-      "start": "1997-01-01",
+      "start": null,
       "end": null
     },
     {
@@ -88,15 +89,9 @@
       "end": null
     },
     {
-      "title": "consultant",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
       "title": "vice president",
       "company": null,
-      "start": null,
+      "start": "1989-01-01",
       "end": null
     },
     {

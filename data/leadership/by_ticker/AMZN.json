@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-11T14:11:16.142898Z",
+  "fetchedAt": "2026-10-18T11:20:22.754130Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,8 +18,8 @@
         ],
         "education": [
           "Harvard University",
-          "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -55,11 +55,10 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -121,8 +120,8 @@
         ],
         "education": [
           "Harvard University",
-          "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -295,16 +294,16 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
-          "soldier",
           "spy",
+          "soldier",
           "intelligence officer"
         ],
         "education": [
-          "Boston University",
-          "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
-          "Questrom School of Business"
+          "Questrom School of Business",
+          "Naval Postgraduate School",
+          "Boston University",
+          "United States Military Academy"
         ],
         "employers": [
           {
@@ -335,11 +334,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
           "executive",
           "dean",
-          "university teacher",
-          "computer scientist"
+          "academic",
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -371,10 +370,10 @@
           "engineer"
         ],
         "education": [
-          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University"
+          "Colorado State University",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -454,11 +453,10 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -519,17 +517,22 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
+          "Yale University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Johnson & Johnson",
+            "start": null,
             "end": null
           },
           {
@@ -543,18 +546,13 @@
             "end": null
           },
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Johnson & Johnson",
+            "company": "Booz Allen Hamilton",
             "start": null,
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
-            "start": null,
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           }
         ],
@@ -586,11 +584,10 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
-          "entrepreneur",
           "business oligarch",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
