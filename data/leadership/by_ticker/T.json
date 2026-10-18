@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-11T14:11:16.213898Z",
+  "fetchedAt": "2026-10-18T10:52:33.422557Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -142,9 +142,9 @@
           "financier"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School",
-          "Harvard Business School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -162,8 +162,8 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Harvard Law School",
@@ -172,6 +172,16 @@
           "John F. Kennedy School of Government"
         ],
         "employers": [
+          {
+            "company": "Revlon",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Washington Gas",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Ad Council",
             "start": null,
@@ -199,16 +209,6 @@
           },
           {
             "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Revlon",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Washington Gas",
             "start": null,
             "end": null
           }
@@ -284,8 +284,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
-          "Princeton University"
+          "Princeton University",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -418,8 +418,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "entrepreneur",
-          "film producer"
+          "film producer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University"
