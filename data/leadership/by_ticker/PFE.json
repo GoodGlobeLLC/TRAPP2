@@ -1,6 +1,6 @@
 {
   "ticker": "PFE",
-  "fetchedAt": "2026-10-11T14:11:16.198547Z",
+  "fetchedAt": "2026-10-18T10:52:33.413642Z",
   "people": [
     {
       "qid": "Q63400080",
@@ -14,11 +14,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "entrepreneur",
+          "business executive",
+          "pharmacologist",
           "executive",
           "veterinarian",
-          "business executive",
-          "pharmacologist"
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -70,9 +70,10 @@
         "image": null,
         "occupations": [
           "biochemist",
+          "molecular geneticist",
+          "university teacher",
           "researcher",
-          "physician",
-          "university teacher"
+          "physician"
         ],
         "education": [
           "Stanford University"
@@ -112,8 +113,8 @@
           "businessperson"
         ],
         "education": [
-          "Occidental College",
           "Harvard Business School",
+          "Occidental College",
           "Harvard University"
         ],
         "employers": [],
@@ -170,6 +171,16 @@
         ],
         "employers": [
           {
+            "company": "Bristol-Myers Squibb",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Gates Foundation",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Genentech",
             "start": null,
             "end": null
@@ -181,16 +192,6 @@
           },
           {
             "company": "University of California, San Francisco",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bristol-Myers Squibb",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Gates Foundation",
             "start": null,
             "end": null
           }
@@ -211,9 +212,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
           "Booth School of Business",
-          "Knox College"
+          "Knox College",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": [
@@ -243,9 +244,9 @@
         ],
         "education": [
           "Washington University in St.\u00a0Louis",
-          "Princeton University",
           "Columbia University",
-          "Washington University School of Medicine"
+          "Washington University School of Medicine",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -281,8 +282,8 @@
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "North-Eastern Hill University"
         ],
         "employers": [],
         "positions": [
@@ -368,11 +369,11 @@
         "birthPlace": "Thessaloniki",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Bourla.jpg",
         "occupations": [
-          "entrepreneur",
+          "business executive",
+          "pharmacologist",
           "executive",
           "veterinarian",
-          "business executive",
-          "pharmacologist"
+          "entrepreneur"
         ],
         "education": [
           "Aristotle University of Thessaloniki"
@@ -427,8 +428,8 @@
         "birthPlace": "East Brunswick",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Scott%20Gottlieb%20official%20portrait.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "Icahn School of Medicine at Mount Sinai",
@@ -436,17 +437,17 @@
         ],
         "employers": [
           {
-            "company": "Grossman School of Medicine",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Food and Drug Administration",
             "start": null,
             "end": null
           },
           {
             "company": "American Enterprise Institute",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Grossman School of Medicine",
             "start": null,
             "end": null
           }

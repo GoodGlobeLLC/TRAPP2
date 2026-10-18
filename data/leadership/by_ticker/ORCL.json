@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-10-11T14:11:16.196148Z",
+  "fetchedAt": "2026-10-18T10:52:33.412045Z",
   "people": [
     {
       "qid": "Q92759",
@@ -16,8 +16,8 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -150,6 +150,7 @@
         ],
         "education": [
           "Syracuse University",
+          "Stanford University",
           "Rosary High School",
           "Maharaja Sayajirao University of Baroda"
         ],
@@ -197,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Santa Barbara",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "University of California, Santa Barbara"
         ],
         "employers": [],
         "positions": []
@@ -257,6 +258,16 @@
         ],
         "employers": [
           {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
+          },
+          {
+            "company": "Claris",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Adobe",
             "start": null,
             "end": null
@@ -265,16 +276,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
           }
         ],
         "positions": [
@@ -301,8 +302,8 @@
         "occupations": [
           "academic",
           "university teacher",
-          "writer",
           "businessperson",
+          "writer",
           "economist"
         ],
         "education": [
@@ -310,22 +311,17 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Yale University",
             "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
+            "company": "University of California, Berkeley",
             "start": null,
             "end": null
           },
           {
-            "company": "University of California, Berkeley",
+            "company": "Stanford University",
             "start": null,
             "end": null
           },
@@ -350,15 +346,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
+          "businessperson",
           "chief financial officer",
-          "businessperson"
+          "banker"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -531,12 +527,12 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
+          "jurist",
           "university teacher",
-          "Oberleutnant",
-          "lawyer",
-          "politician",
           "political scientist",
-          "jurist"
+          "Oberleutnant",
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Santa Clara University School of Law",
@@ -593,18 +589,6 @@
             "end": "1987-01-03"
           },
           {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1991-01-03",
@@ -631,12 +615,6 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
             "start": "1983-01-03",
             "end": "1985-01-03"
           },
@@ -645,6 +623,18 @@
             "company": null,
             "start": "1987-01-03",
             "end": "1989-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1981-01-03",
+            "end": "1983-01-03"
+          },
+          {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           }
         ]
       }
@@ -663,8 +653,8 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
@@ -726,8 +716,8 @@
         "occupations": [
           "aircraft pilot",
           "entrepreneur",
-          "businessperson",
           "computer scientist",
+          "businessperson",
           "actor"
         ],
         "education": [
