@@ -105,8 +105,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "businessperson",
-          "architect"
+          "architect",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -203,11 +203,6 @@
         ],
         "employers": [
           {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
-          },
-          {
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
@@ -216,6 +211,11 @@
             "company": "The Walt Disney Company",
             "start": "1996-01-01",
             "end": "2021-12-31"
+          },
+          {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
           }
         ],
         "positions": [
@@ -401,9 +401,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -615,9 +615,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Pennsylvania",
           "Joseph M. Katz Graduate School of Business",
-          "University of Pittsburgh"
+          "University of Pittsburgh",
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -647,10 +647,10 @@
           "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -736,8 +736,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford University"
