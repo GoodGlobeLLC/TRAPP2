@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "fetchedAt": "2026-10-18T12:26:43.799518Z",
+  "fetchedAt": "2026-10-25T11:56:09.104579Z",
   "people": [
     {
       "qid": "Q92759",
@@ -149,7 +149,6 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
           "Syracuse University",
           "Stanford University",
           "Rosary High School",
@@ -199,8 +198,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "University of California, Santa Barbara"
+          "University of California, Santa Barbara",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": []
@@ -259,14 +258,14 @@
         ],
         "employers": [
           {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
             "company": "Claris",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Mattel",
+            "start": "1980-01-01",
+            "end": "1983-01-01"
           },
           {
             "company": "Adobe",
@@ -277,16 +276,6 @@
             "company": "Microsoft",
             "start": "1983-01-01",
             "end": "1987-01-01"
-          },
-          {
-            "company": "Mattel",
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
-            "company": "Claris",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -313,9 +302,9 @@
         "occupations": [
           "academic",
           "university teacher",
+          "economist",
           "businessperson",
-          "writer",
-          "economist"
+          "writer"
         ],
         "education": [
           "University of California, Berkeley"
@@ -539,8 +528,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
           "Oberleutnant",
-          "jurist",
           "university teacher",
+          "jurist",
           "political scientist",
           "lawyer",
           "politician"
@@ -552,12 +541,12 @@
         ],
         "employers": [
           {
-            "company": "Santa Clara University",
+            "company": "Central Intelligence Agency",
             "start": null,
             "end": null
           },
           {
-            "company": "Central Intelligence Agency",
+            "company": "Santa Clara University",
             "start": null,
             "end": null
           }
@@ -618,12 +607,6 @@
             "end": "1993-01-03"
           },
           {
-            "title": "White House Chief of Staff",
-            "company": null,
-            "start": "1994-07-17",
-            "end": "1997-01-20"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -640,6 +623,12 @@
             "company": null,
             "start": "2009-02-13",
             "end": "2011-06-30"
+          },
+          {
+            "title": "White House Chief of Staff",
+            "company": null,
+            "start": "1994-07-17",
+            "end": "1997-01-20"
           },
           {
             "title": "United States representative",

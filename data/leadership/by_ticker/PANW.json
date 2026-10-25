@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "fetchedAt": "2026-10-18T12:26:43.800457Z",
+  "fetchedAt": "2026-10-25T11:56:09.105571Z",
   "people": [
     {
       "qid": "Q7034852",
@@ -17,11 +17,11 @@
           "scientist"
         ],
         "education": [
-          "Boston College",
-          "Northeastern University",
           "The Air Force School",
           "Indian Institute of Technology (BHU) Varanasi",
-          "Banaras Hindu University"
+          "Banaras Hindu University",
+          "Boston College",
+          "Northeastern University"
         ],
         "employers": [
           {
@@ -30,12 +30,12 @@
             "end": null
           },
           {
-            "company": "SoftBank Mobile",
+            "company": "Palo Alto Networks",
             "start": null,
             "end": null
           },
           {
-            "company": "Google",
+            "company": "SoftBank Mobile",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-18T12:26:43.757800Z",
+  "fetchedAt": "2026-10-25T11:56:09.091966Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,9 +194,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "economist",
           "health economist",
-          "crossword creator"
+          "crossword creator",
+          "economist"
         ],
         "education": [
           "Yale University",
@@ -214,14 +214,14 @@
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
-            "start": "2005-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "University of Chicago",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Council of Economic Advisers",
+            "start": "2005-01-01",
+            "end": "2007-01-01"
           },
           {
             "company": "Dartmouth College",
@@ -309,9 +309,9 @@
           "businessperson"
         ],
         "education": [
+          "Princeton University",
           "Harvard Law School",
-          "Harvard Business School",
-          "Princeton University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -457,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "basketball player",
           "businessperson",
-          "accountant",
-          "basketball player"
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,8 +493,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "university teacher",
           "oncologist",
+          "university teacher",
           "researcher"
         ],
         "education": [

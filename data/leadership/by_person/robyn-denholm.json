@@ -9,16 +9,11 @@
     "entrepreneur"
   ],
   "education": [
+    "Georges River College",
     "University of New South Wales",
-    "University of Sydney",
-    "Georges River College"
+    "University of Sydney"
   ],
   "employers": [
-    {
-      "company": "Telstra",
-      "start": "2017-01-01",
-      "end": null
-    },
     {
       "company": "Tesla",
       "start": "2014-01-01",
@@ -48,6 +43,11 @@
       "company": "Echelon Corporation",
       "start": "2008-01-01",
       "end": "2013-01-01"
+    },
+    {
+      "company": "Telstra",
+      "start": "2017-01-01",
+      "end": null
     },
     {
       "company": "Sun Microsystems",

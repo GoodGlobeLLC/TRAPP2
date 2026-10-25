@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-10-18T12:26:43.637146Z",
+  "fetchedAt": "2026-10-25T11:56:09.049283Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -264,37 +264,17 @@
         "birthPlace": "6th arrondissement of Lyon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
-          "ESSEC Business School",
-          "Harvard Business School",
           "Harvard University",
           "lyc\u00e9e du Parc",
+          "ESSEC Business School",
+          "Harvard Business School",
           "\u00c9cole alsacienne"
         ],
         "employers": [
-          {
-            "company": "Bouygues Telecom",
-            "start": "2001-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "company": "Euro Disney S.C.A.",
-            "start": "1995-01-01",
-            "end": "2000-01-01"
-          },
-          {
-            "company": "Suez",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Groupe TF1",
-            "start": "2016-01-01",
-            "end": "2023-01-01"
-          },
           {
             "company": "Accor",
             "start": "1983-01-01",
@@ -309,15 +289,29 @@
             "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
             "start": "1981-01-01",
             "end": "1983-01-01"
+          },
+          {
+            "company": "Groupe TF1",
+            "start": "2016-01-01",
+            "end": "2023-01-01"
+          },
+          {
+            "company": "Bouygues Telecom",
+            "start": "2001-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Euro Disney S.C.A.",
+            "start": "1995-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "company": "Suez",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
-          },
           {
             "title": "board of directors member",
             "company": null,
@@ -329,6 +323,12 @@
             "company": null,
             "start": "2016-02-19",
             "end": "2023-02-13"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1997-02-01",
+            "end": "2000-01-01"
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
@@ -372,10 +372,10 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur"
+          "Indian Institute of Technology Kharagpur",
+          "University of California, Berkeley"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-18T12:26:43.758400Z",
+  "fetchedAt": "2026-10-25T11:56:09.092594Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -169,8 +169,8 @@
           "businessperson"
         ],
         "education": [
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -213,10 +213,10 @@
           "military officer"
         ],
         "education": [
-          "United States Naval Academy",
-          "Harvard University",
           "Georgia Tech",
-          "University of West Florida"
+          "University of West Florida",
+          "United States Naval Academy",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -238,10 +238,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -387,8 +387,8 @@
         "birthPlace": "Hibbing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Carlson%20NRO.jpg",
         "occupations": [
-          "military officer",
-          "priest"
+          "priest",
+          "military officer"
         ],
         "education": [
           "University of Minnesota Duluth",
@@ -407,12 +407,12 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "Oakland",
+        "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "manager",
           "businessperson",
-          "military officer"
+          "military officer",
+          "manager"
         ],
         "education": [
           "United States Naval Academy",
@@ -421,17 +421,17 @@
         ],
         "employers": [
           {
-            "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "General Motors",
             "start": null,
             "end": null
           },
           {
             "company": "American Express",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Carlyle Group",
             "start": null,
             "end": null
           }

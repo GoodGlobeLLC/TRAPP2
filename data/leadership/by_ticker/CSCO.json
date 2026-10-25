@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-10-18T12:26:43.683010Z",
+  "fetchedAt": "2026-10-25T11:56:09.068848Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,18 +52,13 @@
           "chief executive officer"
         ],
         "education": [
-          "Stanford University",
-          "University of Wisconsin\u2013Madison",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of Wisconsin\u2013Madison",
+          "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Cisco",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Stratus Technologies",
             "start": null,
@@ -76,6 +71,11 @@
           },
           {
             "company": "Honeywell",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -104,10 +104,10 @@
           "computer scientist"
         ],
         "education": [
-          "Indiana University",
-          "Indiana University Kelley School of Business",
           "Duke University",
           "West Virginia University",
+          "Indiana University",
+          "Indiana University Kelley School of Business",
           "West Virginia University College of Law"
         ],
         "employers": [
@@ -241,14 +241,14 @@
         ],
         "employers": [
           {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
-          },
-          {
             "company": "University of Colorado Boulder",
             "start": "1985-01-01",
             "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
           }
         ],
         "positions": []
@@ -454,7 +454,6 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "entrepreneur",
           "electrical engineer",
           "entrepreneur",
           "chief executive officer"
@@ -463,11 +462,6 @@
           "Massachusetts Institute of Technology"
         ],
         "employers": [
-          {
-            "company": "AMD",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Freescale Semiconductor",
             "start": "2007-06-01",
@@ -481,6 +475,11 @@
           {
             "company": "IBM Research",
             "start": "1995-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           }
         ],

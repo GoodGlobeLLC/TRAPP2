@@ -5,22 +5,22 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "physician",
-    "business executive"
+    "business executive",
+    "physician"
   ],
   "education": [
     "Lund University"
   ],
   "employers": [
     {
-      "company": "Pfizer",
-      "start": "2009-01-01",
-      "end": null
-    },
-    {
       "company": "Wyeth",
       "start": "2008-01-01",
       "end": "2009-01-01"
+    },
+    {
+      "company": "Pfizer",
+      "start": "2009-01-01",
+      "end": null
     }
   ],
   "positions": [

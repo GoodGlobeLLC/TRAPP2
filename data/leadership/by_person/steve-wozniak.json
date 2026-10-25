@@ -3,26 +3,31 @@
   "name": "Steve Wozniak",
   "dateOfBirth": "1950-08-11",
   "birthPlace": "San Jose",
-  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
-    "businessperson",
-    "teacher",
-    "actor",
     "computer scientist",
+    "electronics technician",
     "engineer",
     "programmer",
-    "electronics technician",
     "inventor",
-    "entrepreneur"
+    "entrepreneur",
+    "businessperson",
+    "teacher",
+    "actor"
   ],
   "education": [
-    "Homestead High School",
-    "University of California, Berkeley",
     "University of Colorado",
     "De Anza College",
-    "University of Colorado Boulder"
+    "University of Colorado Boulder",
+    "Homestead High School",
+    "University of California, Berkeley"
   ],
   "employers": [
+    {
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Hewlett-Packard",
       "start": null,
@@ -30,11 +35,6 @@
     },
     {
       "company": "University of Technology Sydney",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Apple Inc.",
       "start": null,
       "end": null
     },

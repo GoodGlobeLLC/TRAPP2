@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-10-18T12:26:43.752595Z",
+  "fetchedAt": "2026-10-25T11:56:09.086656Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,14 +14,14 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
-          "engineer",
           "chemist",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
-          "San Jose State University"
+          "San Jos\u00e9 State University"
         ],
         "employers": [
           {
@@ -50,8 +50,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -155,8 +155,8 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "entrepreneur",
           "professor",
+          "entrepreneur",
           "engineer",
           "scientist",
           "writer"
@@ -235,8 +235,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Binghamton University",
@@ -260,17 +260,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
-          "physicist",
           "philanthropist",
-          "engineer",
           "chemist",
+          "physicist",
+          "engineer",
           "entrepreneur"
         ],
         "education": [
-          "California Institute of Technology",
           "Sequoia High School",
-          "San Jose State University",
-          "University of California, Berkeley"
+          "San Jos\u00e9 State University",
+          "University of California, Berkeley",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -294,14 +294,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
           "computer scientist",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -346,17 +346,22 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
-          "computer scientist",
-          "electrical engineer"
+          "academic",
+          "electrical engineer",
+          "computer scientist"
         ],
         "education": [
-          "University of California, Berkeley College of Engineering",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "University of California, Berkeley College of Engineering"
         ],
         "employers": [
+          {
+            "company": "California Institute of Technology",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Stanford University",
             "start": null,
@@ -365,11 +370,6 @@
           {
             "company": "Princeton University",
             "start": "2020-01-01",
-            "end": null
-          },
-          {
-            "company": "California Institute of Technology",
-            "start": null,
             "end": null
           }
         ],
@@ -412,7 +412,7 @@
         "qid": "Q7335804",
         "name": "Risa Lavizzo-Mourey",
         "dateOfBirth": "1934-09-25",
-        "birthPlace": "Philadelphia",
+        "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Risa%20Lavizzo-Mourey%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
           "physician",
@@ -477,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "engineer",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer"
         ],
         "education": [
           "Lincoln Group of Schools",
@@ -515,9 +515,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Strongsville High School",
-          "University of Cincinnati"
+          "University of Cincinnati",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Berkeley"
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -600,8 +600,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "chief financial officer",
-          "board member"
+          "board member",
+          "chief financial officer"
         ],
         "education": [],
         "employers": [],
@@ -647,8 +647,8 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "entrepreneur",
           "professor",
+          "entrepreneur",
           "engineer",
           "scientist",
           "writer"
@@ -708,17 +708,17 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
-          "physicist",
           "philanthropist",
-          "engineer",
           "chemist",
+          "physicist",
+          "engineer",
           "entrepreneur"
         ],
         "education": [
-          "California Institute of Technology",
           "Sequoia High School",
-          "San Jose State University",
-          "University of California, Berkeley"
+          "San Jos\u00e9 State University",
+          "University of California, Berkeley",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -742,14 +742,14 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
-          "businessperson",
           "inventor",
           "computer scientist",
-          "physicist"
+          "physicist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Grinnell College"
+          "Grinnell College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
