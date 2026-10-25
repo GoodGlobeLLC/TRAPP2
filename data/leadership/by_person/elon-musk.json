@@ -5,39 +5,29 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
   "occupations": [
-    "programmer",
+    "philanthropist",
     "financier",
     "technology entrepreneur",
-    "philanthropist",
+    "dub actor",
+    "programmer",
     "investor",
     "engineer",
-    "dub actor",
+    "politician",
     "civil servant",
-    "entrepreneur",
-    "politician"
+    "entrepreneur"
   ],
   "education": [
+    "University of Pennsylvania",
+    "Stanford University",
     "Smith School of Business",
     "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
     "Queen's University",
     "The Wharton School",
-    "University of Pretoria",
-    "University of Pennsylvania",
-    "Stanford University"
+    "University of Pretoria"
   ],
   "employers": [
-    {
-      "company": "Department of Government Efficiency",
-      "start": "2025-01-20",
-      "end": "2025-05-30"
-    },
-    {
-      "company": "Neuralink",
-      "start": "2016-07-01",
-      "end": null
-    },
     {
       "company": "SolarCity",
       "start": null,
@@ -49,9 +39,14 @@
       "end": "2019-01-01"
     },
     {
-      "company": "Tesla",
-      "start": "2004-04-23",
+      "company": "PayPal",
+      "start": "1998-12-01",
       "end": null
+    },
+    {
+      "company": "Department of Government Efficiency",
+      "start": "2025-01-20",
+      "end": "2025-05-30"
     },
     {
       "company": "The Boring Company",
@@ -59,13 +54,18 @@
       "end": null
     },
     {
-      "company": "SpaceX",
-      "start": "2002-06-01",
+      "company": "Neuralink",
+      "start": "2016-07-01",
       "end": null
     },
     {
-      "company": "PayPal",
-      "start": "1998-12-01",
+      "company": "Tesla",
+      "start": "2004-04-23",
+      "end": null
+    },
+    {
+      "company": "SpaceX",
+      "start": "2002-06-01",
       "end": null
     }
   ],

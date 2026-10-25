@@ -12,16 +12,6 @@
   ],
   "employers": [
     {
-      "company": "Imperva",
-      "start": "2020-01-01",
-      "end": null
-    },
-    {
-      "company": "Arthur Andersen",
-      "start": "1995-01-01",
-      "end": "2000-01-01"
-    },
-    {
       "company": "Oracle Corporation",
       "start": "2000-01-01",
       "end": "2010-01-01"
@@ -30,6 +20,16 @@
       "company": "Infor Global Solutions",
       "start": "2010-01-01",
       "end": "2019-01-01"
+    },
+    {
+      "company": "Imperva",
+      "start": "2020-01-01",
+      "end": null
+    },
+    {
+      "company": "Arthur Andersen",
+      "start": "1995-01-01",
+      "end": "2000-01-01"
     }
   ],
   "positions": [
