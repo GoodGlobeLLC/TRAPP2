@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-18T12:26:43.797062Z",
+  "fetchedAt": "2026-10-25T11:14:26.383090Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -156,9 +156,9 @@
           "business executive"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program",
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -179,9 +179,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
           "Harvard Business School",
-          "Simmons University",
-          "Harvard University"
+          "Simmons University"
         ],
         "employers": [],
         "positions": []
@@ -202,12 +202,12 @@
           "military officer"
         ],
         "education": [
+          "National War College",
+          "John F. Kennedy School of Government",
           "John H. Reagan High School",
           "Wentworth Military Academy and College",
           "Webster University",
-          "United States Air Force Academy",
-          "National War College",
-          "John F. Kennedy School of Government"
+          "United States Air Force Academy"
         ],
         "employers": [
           {
@@ -366,8 +366,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Cornell University"
+          "Cornell University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": []
@@ -433,17 +433,17 @@
         ],
         "employers": [
           {
+            "company": "General Dynamics",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Dynamics",
             "start": null,
             "end": null
           }
