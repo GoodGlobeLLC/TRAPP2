@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -388,6 +388,11 @@
         ],
         "employers": [
           {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
+          {
             "company": "Hasbro",
             "start": null,
             "end": null
@@ -398,8 +403,13 @@
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
+            "company": "eBay",
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
             "end": null
           },
           {
@@ -515,6 +525,7 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
+          "businessperson",
           "entrepreneur",
           "businessperson",
           "executive"

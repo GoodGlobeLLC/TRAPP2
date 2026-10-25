@@ -146,6 +146,11 @@
         ],
         "employers": [
           {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
+          },
+          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -154,11 +159,6 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
-          },
-          {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -203,6 +203,11 @@
         ],
         "employers": [
           {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
+          },
+          {
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
@@ -211,11 +216,6 @@
             "company": "The Walt Disney Company",
             "start": "1996-01-01",
             "end": "2021-12-31"
-          },
-          {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
           }
         ],
         "positions": [
@@ -264,8 +264,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
         "occupations": [
-          "businessperson",
-          "animator"
+          "animator",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -397,8 +397,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -611,8 +611,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "manager",
-          "businessperson"
+          "businessperson",
+          "manager"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -642,9 +642,9 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "chief financial officer",
+          "banker",
           "businessperson",
-          "banker"
+          "chief financial officer"
         ],
         "education": [
           "University of Pennsylvania Carey Law School",
@@ -665,18 +665,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "Directrice",
             "company": null,
@@ -700,6 +688,18 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }

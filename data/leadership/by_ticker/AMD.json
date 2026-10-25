@@ -33,6 +33,11 @@
             "end": null
           },
           {
+            "company": "AMD",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
             "company": "IBM Research",
             "start": "1995-01-01",
             "end": null
@@ -161,8 +166,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "business executive"
+          "business executive",
+          "lawyer"
         ],
         "education": [],
         "employers": [
@@ -287,6 +292,11 @@
           {
             "company": "Texas Instruments",
             "start": "1994-01-01",
+            "end": null
+          },
+          {
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           },
           {

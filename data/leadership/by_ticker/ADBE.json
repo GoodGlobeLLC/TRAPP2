@@ -462,11 +462,6 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Palo Alto Research Center",
             "start": "1972-01-01",
             "end": "1982-01-01"
@@ -475,6 +470,11 @@
             "company": "John Carroll University",
             "start": "1963-01-01",
             "end": "1968-01-01"
+          },
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -499,7 +499,6 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
           "mathematician",
           "engineer",
