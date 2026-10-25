@@ -5,8 +5,8 @@
   "birthPlace": "Cold Spring Harbor",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
   "occupations": [
-    "politician",
     "entrepreneur",
+    "politician",
     "business executive"
   ],
   "education": [
@@ -15,6 +15,11 @@
     "Princeton University"
   ],
   "employers": [
+    {
+      "company": "Procter & Gamble",
+      "start": "1979-01-01",
+      "end": null
+    },
     {
       "company": "Hasbro",
       "start": null,
@@ -26,8 +31,13 @@
       "end": null
     },
     {
-      "company": "Procter & Gamble",
-      "start": "1979-01-01",
+      "company": "eBay",
+      "start": "1998-01-01",
+      "end": "2008-01-01"
+    },
+    {
+      "company": "The Walt Disney Company",
+      "start": null,
       "end": null
     },
     {
@@ -41,17 +51,7 @@
       "end": null
     },
     {
-      "company": "The Walt Disney Company",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Quibi",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "The Walt Disney Company",
       "start": null,
       "end": null
     }
@@ -76,16 +76,16 @@
       "end": null
     },
     {
+      "title": "founder",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
       "title": "chief executive officer",
       "company": null,
       "start": "1998-01-01",
       "end": "2008-01-01"
-    },
-    {
-      "title": "vice president",
-      "company": null,
-      "start": null,
-      "end": null
     },
     {
       "title": "vice president",
@@ -100,7 +100,7 @@
       "end": null
     },
     {
-      "title": "consultant",
+      "title": "vice president",
       "company": null,
       "start": null,
       "end": null

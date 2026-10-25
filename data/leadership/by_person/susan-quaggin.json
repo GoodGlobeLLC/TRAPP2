@@ -5,22 +5,22 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
+    "researcher",
     "academic",
-    "nephrologist",
-    "researcher"
+    "nephrologist"
   ],
   "education": [
     "Yale School of Medicine"
   ],
   "employers": [
     {
-      "company": "University of Toronto",
-      "start": null,
+      "company": "Northwestern University",
+      "start": "2013-01-01",
       "end": null
     },
     {
-      "company": "Northwestern University",
-      "start": "2013-01-01",
+      "company": "University of Toronto",
+      "start": null,
       "end": null
     }
   ],

@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-10-18T12:26:43.747237Z",
+  "fetchedAt": "2026-10-25T11:20:20.070055Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -144,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
           "politician",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -276,8 +276,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Brown University"
+          "Brown University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [
@@ -357,9 +357,9 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering"
+          "New York University Tandon School of Engineering",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -377,8 +377,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -387,6 +387,11 @@
           "Princeton University"
         ],
         "employers": [
+          {
+            "company": "Procter & Gamble",
+            "start": "1979-01-01",
+            "end": null
+          },
           {
             "company": "Hasbro",
             "start": null,
@@ -398,8 +403,13 @@
             "end": null
           },
           {
-            "company": "Procter & Gamble",
-            "start": "1979-01-01",
+            "company": "eBay",
+            "start": "1998-01-01",
+            "end": "2008-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": null,
             "end": null
           },
           {
@@ -413,17 +423,7 @@
             "end": null
           },
           {
-            "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Quibi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Walt Disney Company",
             "start": null,
             "end": null
           }
@@ -448,16 +448,16 @@
             "end": null
           },
           {
+            "title": "founder",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "chief executive officer",
             "company": null,
             "start": "1998-01-01",
             "end": "2008-01-01"
-          },
-          {
-            "title": "vice president",
-            "company": null,
-            "start": null,
-            "end": null
           },
           {
             "title": "vice president",
@@ -472,7 +472,7 @@
             "end": null
           },
           {
-            "title": "consultant",
+            "title": "vice president",
             "company": null,
             "start": null,
             "end": null
@@ -495,9 +495,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Yale School of Management",
-          "Yale College"
+          "Yale College",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -515,9 +515,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
+          "businessperson",
           "entrepreneur",
-          "executive",
-          "businessperson"
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -609,9 +609,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "entrepreneur",
+          "chief executive officer",
           "businessperson",
-          "chief executive officer"
+          "entrepreneur"
         ],
         "education": [
           "University of California, Berkeley",

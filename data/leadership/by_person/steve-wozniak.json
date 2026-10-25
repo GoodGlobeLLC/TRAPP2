@@ -8,19 +8,19 @@
     "businessperson",
     "teacher",
     "actor",
-    "computer scientist",
-    "engineer",
     "programmer",
     "electronics technician",
     "inventor",
-    "entrepreneur"
+    "entrepreneur",
+    "computer scientist",
+    "engineer"
   ],
   "education": [
-    "Homestead High School",
+    "University of Colorado Boulder",
     "University of California, Berkeley",
+    "Homestead High School",
     "University of Colorado",
-    "De Anza College",
-    "University of Colorado Boulder"
+    "De Anza College"
   ],
   "employers": [
     {
@@ -39,7 +39,7 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     }

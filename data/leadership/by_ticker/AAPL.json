@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-18T12:26:43.634831Z",
+  "fetchedAt": "2026-10-25T11:20:20.041111Z",
   "people": [
     {
       "qid": "Q265852",
@@ -15,12 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "engineer",
-          "chief executive officer",
           "manager",
           "computer scientist",
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -68,8 +67,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -178,24 +177,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "climate activist",
           "orator",
           "blogger",
-          "climate activist",
-          "university teacher",
           "environmentalist",
           "financier",
-          "farmer",
           "journalist",
-          "businessperson",
+          "university teacher",
+          "farmer",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -256,14 +255,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -285,8 +284,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -317,8 +316,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -355,19 +354,19 @@
           "businessperson",
           "teacher",
           "actor",
-          "computer scientist",
-          "engineer",
           "programmer",
           "electronics technician",
           "inventor",
-          "entrepreneur"
+          "entrepreneur",
+          "computer scientist",
+          "engineer"
         ],
         "education": [
-          "Homestead High School",
+          "University of Colorado Boulder",
           "University of California, Berkeley",
+          "Homestead High School",
           "University of Colorado",
-          "De Anza College",
-          "University of Colorado Boulder"
+          "De Anza College"
         ],
         "employers": [
           {
@@ -386,7 +385,7 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -406,16 +405,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "designer",
-          "film producer",
           "founder",
+          "technology entrepreneur",
+          "film producer",
+          "designer",
           "financier",
+          "computer scientist",
           "general manager",
           "executive producer",
-          "entrepreneur",
           "inventor",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Homestead High School",
@@ -424,12 +423,12 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

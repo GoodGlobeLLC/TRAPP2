@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-10-18T12:26:43.633739Z",
+  "fetchedAt": "2026-10-25T11:20:20.039999Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,9 +52,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "gastroenterologist",
           "university teacher",
-          "physician",
-          "gastroenterologist"
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -104,14 +104,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
+          "oncologist",
           "scientist",
-          "oncologist"
+          "physician"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
           {
@@ -152,13 +152,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chairperson",
-          "investor"
+          "investor",
+          "chairperson"
         ],
         "education": [
-          "Harvard Business School",
           "Imperial College London",
           "University of London",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -416,11 +416,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
+          },
           {
             "company": "Cisco",
             "start": "2007-10-01",
@@ -430,11 +435,6 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
-          },
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -465,8 +465,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "business executive"
+          "business executive",
+          "physician"
         ],
         "education": [
           "Lund University"
@@ -509,8 +509,8 @@
           "business executive"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [
