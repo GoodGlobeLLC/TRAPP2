@@ -1,7 +1,7 @@
 {
   "ticker": "PSX",
   "qid": "Q1656230",
-  "fetchedAt": "2026-06-11T05:30:50.499418Z",
+  "fetchedAt": "2026-11-01T13:35:58.107332Z",
   "source": "wikidata",
   "name": "Phillips 66",
   "description": "American energy and logistics company",
@@ -9,19 +9,10 @@
   "isin": "US7185461040",
   "inception": "1927-01-01",
   "employees": null,
-  "industry": "petroleum industry",
+  "industry": "downstream",
   "headquarters": "Westchase",
-  "executives": [
-    {
-      "name": "Greg Garland",
-      "role": "Chief Executive Officer"
-    }
-  ],
+  "executives": [],
   "board": [
-    {
-      "name": "Glenn Tilton",
-      "role": "Board Member"
-    },
     {
       "name": "Mark Lashier",
       "role": "Board Member"
@@ -63,11 +54,11 @@
       "role": "Board Member"
     },
     {
-      "name": "Greg Garland",
+      "name": "Lisa Davis",
       "role": "Board Member"
     },
     {
-      "name": "Lisa Davis",
+      "name": "Glenn Tilton",
       "role": "Board Member"
     }
   ],

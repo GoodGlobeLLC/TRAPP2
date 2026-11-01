@@ -1,7 +1,7 @@
 {
   "ticker": "AXP",
   "qid": "Q194360",
-  "fetchedAt": "2026-06-11T05:29:27.369085Z",
+  "fetchedAt": "2026-11-01T13:31:59.241311Z",
   "source": "wikidata",
   "name": "American Express",
   "description": "American multinational financial services corporation",
@@ -9,8 +9,8 @@
   "isin": "US0258161092",
   "inception": "1850-01-01",
   "employees": 64000,
-  "industry": "payment card industry",
-  "headquarters": "Brookfield Place",
+  "industry": "financial service activities, except insurance and pension funding",
+  "headquarters": "New York City",
   "executives": [
     {
       "name": "Stephen Squeri",
@@ -36,6 +36,18 @@
     },
     {
       "name": "Charles Phillips",
+      "role": "Board Member"
+    },
+    {
+      "name": "Mike Leavitt",
+      "role": "Board Member"
+    },
+    {
+      "name": "Charlene Barshefsky",
+      "role": "Board Member"
+    },
+    {
+      "name": "Dan Vasella",
       "role": "Board Member"
     },
     {
@@ -65,29 +77,17 @@
     {
       "name": "Jay Clayton",
       "role": "Board Member"
-    },
-    {
-      "name": "Mike Leavitt",
-      "role": "Board Member"
-    },
-    {
-      "name": "Charlene Barshefsky",
-      "role": "Board Member"
-    },
-    {
-      "name": "Dan Vasella",
-      "role": "Board Member"
     }
   ],
   "founders": [
-    {
-      "name": "William Fargo"
-    },
     {
       "name": "John Warren Butterfield"
     },
     {
       "name": "Henry Wells"
+    },
+    {
+      "name": "William Fargo"
     }
   ],
   "products": [],

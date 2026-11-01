@@ -1,7 +1,7 @@
 {
   "ticker": "CAT",
   "qid": "Q459965",
-  "fetchedAt": "2026-06-11T05:25:41.381545Z",
+  "fetchedAt": "2026-11-01T13:24:56.113618Z",
   "source": "wikidata",
   "name": "Caterpillar Inc.",
   "description": "American corporation which designs, manufactures, markets and sells machinery and engines",
@@ -22,18 +22,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Edward B. Rust, Jr.",
-      "role": "Board Member"
-    },
-    {
-      "name": "Susan Schwab",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kelly Ayotte",
-      "role": "Board Member"
-    },
     {
       "name": "Gerald Johnson",
       "role": "Board Member"
@@ -60,6 +48,18 @@
     },
     {
       "name": "Dave Calhoun",
+      "role": "Board Member"
+    },
+    {
+      "name": "Edward B. Rust, Jr.",
+      "role": "Board Member"
+    },
+    {
+      "name": "Susan Schwab",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kelly Ayotte",
       "role": "Board Member"
     }
   ],

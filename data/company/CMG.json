@@ -1,27 +1,36 @@
 {
   "ticker": "CMG",
-  "qid": "Q136336746",
-  "fetchedAt": "2026-06-11T05:25:01.387226Z",
+  "qid": "Q465751",
+  "fetchedAt": "2026-11-01T13:23:15.700255Z",
   "source": "wikidata",
-  "name": "Comba Music Group",
-  "description": "Dutch music corporation",
-  "website": null,
-  "isin": null,
-  "inception": "2025-03-03",
-  "employees": 2,
-  "industry": "music industry",
-  "headquarters": "Amsterdam",
-  "executives": [],
-  "board": [],
-  "founders": [],
-  "products": [
+  "name": "Chipotle Mexican Grill",
+  "description": "American fast casual Mexican restaurant chain",
+  "website": "https://chipotle.com/",
+  "isin": "US1696561059",
+  "inception": "1993-07-13",
+  "employees": 45200,
+  "industry": "fast food",
+  "headquarters": "Denver",
+  "executives": [
     {
-      "name": "music"
+      "name": "Brian Niccol",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Steve Ells",
+      "role": "Chief Executive Officer"
     }
   ],
-  "countries": [
+  "board": [],
+  "founders": [
     {
-      "name": "worldwide"
+      "name": "Steve Ells"
     }
-  ]
+  ],
+  "products": [
+    {
+      "name": "Tex-Mex"
+    }
+  ],
+  "countries": []
 }

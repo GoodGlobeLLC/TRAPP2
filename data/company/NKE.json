@@ -1,7 +1,7 @@
 {
   "ticker": "NKE",
   "qid": "Q483915",
-  "fetchedAt": "2026-06-11T05:24:51.454237Z",
+  "fetchedAt": "2026-11-01T13:22:56.581726Z",
   "source": "wikidata",
   "name": "Nike",
   "description": "American athletic equipment company",
@@ -9,7 +9,7 @@
   "isin": "US6541061031",
   "inception": "1964-01-25",
   "employees": 76700,
-  "industry": "clothing industry",
+  "industry": "industry",
   "headquarters": "Beaverton",
   "executives": [
     {
@@ -77,10 +77,10 @@
   ],
   "products": [
     {
-      "name": "footwear"
+      "name": "clothing"
     },
     {
-      "name": "clothing"
+      "name": "footwear"
     },
     {
       "name": "sports equipment"

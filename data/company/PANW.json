@@ -1,10 +1,10 @@
 {
   "ticker": "PANW",
   "qid": "Q7128508",
-  "fetchedAt": "2026-06-11T05:23:18.183349Z",
+  "fetchedAt": "2026-11-01T13:18:25.150320Z",
   "source": "wikidata",
   "name": "Palo Alto Networks",
-  "description": "cyber-security company",
+  "description": "American multinational cybersecurity company",
   "website": "https://www.paloaltonetworks.com",
   "isin": "US6974351057",
   "inception": "2005-01-01",
@@ -25,7 +25,16 @@
   ],
   "products": [
     {
+      "name": "Secure Access Service Edge"
+    },
+    {
       "name": "PAN-OS"
+    },
+    {
+      "name": "firewall"
+    },
+    {
+      "name": "extended detection and response"
     }
   ],
   "countries": []

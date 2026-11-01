@@ -1,23 +1,28 @@
 {
   "ticker": "HD",
-  "qid": "Q483231",
-  "fetchedAt": "2026-06-11T05:24:27.772897Z",
+  "qid": "Q631047",
+  "fetchedAt": "2026-11-01T13:21:47.910827Z",
   "source": "wikidata",
-  "name": "HD Hyundai Heavy Industries",
-  "description": "South Korean shipbuilding manufacturer",
-  "website": "http://english.hhi.co.kr/",
-  "isin": "KR7009540006",
-  "inception": "1972-01-01",
-  "employees": 24400,
-  "industry": "manufacture of machinery and equipment",
-  "headquarters": "Ulsan",
-  "executives": [],
-  "board": [],
-  "founders": [
+  "name": "HDFC Bank",
+  "description": "Indian private sector bank",
+  "website": "https://hdfc.bank.in/",
+  "isin": "US40415F1015",
+  "inception": "1994-01-01",
+  "employees": 177000,
+  "industry": "financial sector",
+  "headquarters": "Mumbai",
+  "executives": [
     {
-      "name": "Jeong Ju-yung"
+      "name": "Sashidhar Jagdishan",
+      "role": "Chief Executive Officer"
     }
   ],
-  "products": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "credit card"
+    }
+  ],
   "countries": []
 }

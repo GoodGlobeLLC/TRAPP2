@@ -144,8 +144,8 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "politician",
           "engineer",
+          "politician",
           "businessperson"
         ],
         "education": [
@@ -277,8 +277,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": [
@@ -388,6 +388,16 @@
           "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Procter & Gamble",
             "start": "1979-01-01",
@@ -610,8 +620,8 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "chief executive officer"
         ],
         "education": [

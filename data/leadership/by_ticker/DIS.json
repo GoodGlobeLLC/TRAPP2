@@ -117,11 +117,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -130,6 +125,11 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -235,8 +235,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -269,8 +269,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
-          "San Francisco Art Institute"
+          "San Francisco Art Institute",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": []
@@ -449,8 +449,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",

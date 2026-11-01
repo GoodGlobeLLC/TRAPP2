@@ -90,9 +90,9 @@
           "politician"
         ],
         "education": [
-          "Milton Academy",
           "Columbia Business School",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Milton Academy"
         ],
         "employers": [],
         "positions": []
@@ -261,13 +261,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -332,6 +332,7 @@
           "film actor",
           "television actor",
           "voice actor",
+          "film actor",
           "actor"
         ],
         "education": [

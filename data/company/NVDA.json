@@ -1,14 +1,14 @@
 {
   "ticker": "NVDA",
   "qid": "Q182477",
-  "fetchedAt": "2026-06-11T05:17:45.252211Z",
+  "fetchedAt": "2026-11-01T13:01:42.657436Z",
   "source": "wikidata",
   "name": "Nvidia",
   "description": "American multinational technology company",
   "website": "https://www.nvidia.com/",
   "isin": "US67066G1040",
   "inception": "1993-04-05",
-  "employees": 13775,
+  "employees": 42000,
   "industry": "semiconductor industry",
   "headquarters": "Santa Clara",
   "executives": [
@@ -19,19 +19,7 @@
   ],
   "board": [
     {
-      "name": "Rob Burgess",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mark Stevens",
-      "role": "Board Member"
-    },
-    {
       "name": "A. Brooke Seawell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Mark L. Perry",
       "role": "Board Member"
     },
     {
@@ -55,19 +43,15 @@
       "role": "Board Member"
     },
     {
-      "name": "Michael G. McCaffery",
-      "role": "Board Member"
-    },
-    {
       "name": "Stephen Neal",
       "role": "Board Member"
     },
     {
-      "name": "John O. Dabiri",
+      "name": "Mark Stevens",
       "role": "Board Member"
     },
     {
-      "name": "Persis Drell",
+      "name": "John O. Dabiri",
       "role": "Board Member"
     },
     {
@@ -88,13 +72,13 @@
   ],
   "products": [
     {
+      "name": "software"
+    },
+    {
       "name": "graphics processing unit"
     },
     {
       "name": "chipset"
-    },
-    {
-      "name": "software"
     }
   ],
   "countries": []

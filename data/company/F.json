@@ -1,7 +1,7 @@
 {
   "ticker": "F",
   "qid": "Q44294",
-  "fetchedAt": "2026-06-11T05:25:23.104362Z",
+  "fetchedAt": "2026-11-01T13:24:02.305947Z",
   "source": "wikidata",
   "name": "Ford Motor Company",
   "description": "American multinational automotive company",
@@ -22,6 +22,10 @@
     }
   ],
   "board": [
+    {
+      "name": "John May",
+      "role": "Board Member"
+    },
     {
       "name": "John Weinberg",
       "role": "Board Member"
@@ -77,10 +81,6 @@
     {
       "name": "Jon Meade Huntsman Jr.",
       "role": "Board Member"
-    },
-    {
-      "name": "John May",
-      "role": "Board Member"
     }
   ],
   "founders": [
@@ -90,10 +90,10 @@
   ],
   "products": [
     {
-      "name": "truck"
+      "name": "passenger car"
     },
     {
-      "name": "passenger car"
+      "name": "truck"
     }
   ],
   "countries": [

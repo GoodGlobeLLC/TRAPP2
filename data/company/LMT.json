@@ -1,7 +1,7 @@
 {
   "ticker": "LMT",
   "qid": "Q7240",
-  "fetchedAt": "2026-06-11T05:26:19.066219Z",
+  "fetchedAt": "2026-11-01T13:26:09.044767Z",
   "source": "wikidata",
   "name": "Lockheed Martin",
   "description": "US aerospace and defense manufacturer",
@@ -9,7 +9,7 @@
   "isin": "US5398301094",
   "inception": "1995-01-01",
   "employees": 110000,
-  "industry": "aerospace industry",
+  "industry": "electronics industry",
   "headquarters": "Bethesda",
   "executives": [
     {
@@ -18,10 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Patricia Yarrington",
-      "role": "Board Member"
-    },
     {
       "name": "John Donovan",
       "role": "Board Member"
@@ -72,6 +68,10 @@
     },
     {
       "name": "Daniel Akerson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Patricia Yarrington",
       "role": "Board Member"
     }
   ],
