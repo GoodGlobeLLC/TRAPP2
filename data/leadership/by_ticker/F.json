@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-10-25T11:56:09.077934Z",
+  "fetchedAt": "2026-11-01T14:15:05.969316Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -14,8 +14,8 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -50,15 +50,15 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "taekwondo athlete",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology",
           "Princeton University",
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program"
         ],
         "employers": [
@@ -119,8 +119,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Stanford University"
+          "Stanford University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -159,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Harvard University"
+          "Harvard University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -223,8 +223,8 @@
         "birthPlace": "Argentina",
         "image": null,
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -324,9 +324,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
+          "Harvard University",
           "Princeton University",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -347,12 +347,12 @@
           "business executive"
         ],
         "education": [
-          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
-          "University of Oxford",
-          "Harvard University"
+          "Harvard College",
+          "Harvard University",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -379,9 +379,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -418,15 +418,15 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
-          "entrepreneur",
           "taekwondo athlete",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology",
           "Princeton University",
+          "Massachusetts Institute of Technology",
           "Sloan Fellows Program"
         ],
         "employers": [
@@ -464,10 +464,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "ambassador",
+          "missionary",
           "diplomat",
-          "politician",
           "governor",
-          "ambassador"
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

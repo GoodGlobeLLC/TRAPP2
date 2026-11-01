@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "fetchedAt": "2026-10-25T11:56:09.089091Z",
+  "fetchedAt": "2026-11-01T14:15:05.977808Z",
   "people": [
     {
       "qid": "Q922169",
@@ -17,24 +17,14 @@
           "banker"
         ],
         "education": [
-          "Tufts University",
           "Harvard Business School",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Tufts University",
+          "Harvard University"
         ],
         "employers": [
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
@@ -47,6 +37,16 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -102,8 +102,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
@@ -171,14 +171,14 @@
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": "2022-01-01"
-          },
-          {
             "company": "General Motors",
             "start": "1994-01-01",
             "end": "2019-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
+            "end": "2022-01-01"
           },
           {
             "company": "Alto Pharmacy",
@@ -378,9 +378,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Princeton University",
           "Princeton School of Public and International Affairs",
-          "St. Ignatius College Prep",
-          "Princeton University"
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": [
@@ -457,13 +457,13 @@
         "birthPlace": "Birmingham",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20burke%20comcast%20coo.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
-          "Colgate University",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "Colgate University"
         ],
         "employers": [
           {
@@ -503,24 +503,14 @@
           "banker"
         ],
         "education": [
-          "Tufts University",
           "Harvard Business School",
-          "Harvard University",
-          "Browning School"
+          "Browning School",
+          "Tufts University",
+          "Harvard University"
         ],
         "employers": [
           {
             "company": "Goldman Sachs",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "JPMorgan Chase",
-            "start": "2004-07-01",
-            "end": null
-          },
-          {
-            "company": "Boston Consulting Group",
             "start": null,
             "end": null
           },
@@ -533,6 +523,16 @@
             "company": "American Express",
             "start": "1982-01-01",
             "end": "1985-01-01"
+          },
+          {
+            "company": "JPMorgan Chase",
+            "start": "2004-07-01",
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -557,9 +557,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",

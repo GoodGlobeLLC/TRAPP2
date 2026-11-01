@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-10-25T11:56:09.088225Z",
+  "fetchedAt": "2026-11-01T14:15:05.977258Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -158,10 +158,10 @@
         "birthPlace": "Laxou",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hubert%20Joly%20headshot.jpg",
         "occupations": [
-          "executive",
-          "business manager",
           "lecturer",
           "chief executive officer",
+          "executive",
+          "business manager",
           "merchant",
           "entrepreneur"
         ],
@@ -256,8 +256,8 @@
         "birthPlace": "Medford",
         "image": null,
         "occupations": [
-          "manager",
-          "chief executive officer"
+          "chief executive officer",
+          "manager"
         ],
         "education": [
           "Portland State University"
@@ -457,10 +457,10 @@
           "physician"
         ],
         "education": [
-          "Harvard\u2013MIT Division of Health Sciences and Technology",
-          "Austin High School",
           "University of Texas at Austin",
           "John F. Kennedy School of Government",
+          "Harvard\u2013MIT Division of Health Sciences and Technology",
+          "Austin High School",
           "Massachusetts Institute of Technology",
           "Harvard University"
         ],
@@ -496,10 +496,10 @@
           "businessperson"
         ],
         "education": [
-          "USC Gould School of Law",
-          "Georgetown University Law Center",
           "Columbia University",
-          "University of Southern California"
+          "University of Southern California",
+          "USC Gould School of Law",
+          "Georgetown University Law Center"
         ],
         "employers": [],
         "positions": [
@@ -527,9 +527,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -608,8 +608,8 @@
         "birthPlace": "Rockville Centre",
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Marymount College, Tarrytown",
@@ -781,9 +781,9 @@
           "biochemist"
         ],
         "education": [
+          "Harvard University",
           "Pomona College",
-          "Hilo High School",
-          "Harvard University"
+          "Hilo High School"
         ],
         "employers": [
           {
@@ -797,14 +797,14 @@
             "end": null
           },
           {
-            "company": "Howard Hughes Medical Institute",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "Howard Hughes Medical Institute",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [

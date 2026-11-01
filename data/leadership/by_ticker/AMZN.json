@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-10-25T11:56:09.053300Z",
+  "fetchedAt": "2026-11-01T14:15:05.946317Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,19 +17,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -62,11 +62,16 @@
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -81,11 +86,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -119,19 +119,19 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
           "Scarsdale High School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Amazon",
-            "start": "1997-01-01",
+            "company": "Amazon Web Services",
+            "start": null,
             "end": null
           },
           {
-            "company": "Amazon Web Services",
-            "start": null,
+            "company": "Amazon",
+            "start": "1997-01-01",
             "end": null
           }
         ],
@@ -294,14 +294,14 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
+          "intelligence officer",
           "spy",
-          "soldier",
-          "intelligence officer"
+          "soldier"
         ],
         "education": [
-          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
+          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -334,15 +334,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "academic",
+          "university teacher",
           "executive",
           "dean",
-          "university teacher",
-          "academic",
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -370,10 +370,10 @@
           "computer scientist"
         ],
         "education": [
+          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University",
-          "Cornell University"
+          "Colorado State University"
         ],
         "employers": [
           {
@@ -460,11 +460,16 @@
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -479,11 +484,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -517,19 +517,14 @@
           "businessperson"
         ],
         "education": [
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale University"
         ],
         "employers": [
-          {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
           {
             "company": "Boston Consulting Group",
             "start": null,
@@ -541,18 +536,23 @@
             "end": null
           },
           {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
-            "company": "Booz Allen Hamilton",
+            "company": "Johnson & Johnson",
             "start": null,
             "end": null
           },
           {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -591,11 +591,16 @@
           "computer scientist"
         ],
         "education": [
+          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School",
-          "Miami Palmetto High School"
+          "River Oaks Elementary School"
         ],
         "employers": [
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -610,11 +615,6 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
-          },
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [

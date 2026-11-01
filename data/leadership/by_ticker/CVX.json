@@ -1,6 +1,6 @@
 {
   "ticker": "CVX",
-  "fetchedAt": "2026-10-25T11:56:09.070609Z",
+  "fetchedAt": "2026-11-01T14:15:05.963639Z",
   "people": [
     {
       "qid": "Q48562446",
@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan Law School",
           "University of Michigan",
-          "Wesleyan University"
+          "Wesleyan University",
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": []
@@ -90,8 +90,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Harvard Law School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -112,8 +112,8 @@
           "businessperson"
         ],
         "education": [
-          "Georgia Tech",
           "Harvard Business School",
+          "Georgia Tech",
           "Harvard University"
         ],
         "employers": [
@@ -146,9 +146,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -197,22 +197,22 @@
           "academic administrator"
         ],
         "education": [
-          "University of Southern California",
-          "Princeton University"
+          "Princeton University",
+          "University of Southern California"
         ],
         "employers": [
           {
+            "company": "Massachusetts Institute of Technology",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stanford University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Imperial College London",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           }
@@ -387,8 +387,8 @@
         "birthPlace": "Lusaka",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dambisa%20Moyo.jpg",
         "occupations": [
-          "economist",
-          "writer"
+          "writer",
+          "economist"
         ],
         "education": [
           "Kogod School of Business",
@@ -400,12 +400,12 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
+            "company": "World Bank",
             "start": null,
             "end": null
           },
           {
-            "company": "World Bank",
+            "company": "Goldman Sachs",
             "start": null,
             "end": null
           }
@@ -444,10 +444,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
+          "ambassador",
+          "missionary",
           "diplomat",
-          "politician",
           "governor",
-          "ambassador"
+          "politician"
         ],
         "education": [
           "National Taiwan Normal University",

@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-10-25T11:56:09.091966Z",
+  "fetchedAt": "2026-11-01T14:15:05.980327Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -214,14 +214,14 @@
             "end": "2007-01-01"
           },
           {
-            "company": "University of Chicago",
-            "start": "2017-01-01",
-            "end": null
-          },
-          {
             "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Chicago",
+            "start": "2017-01-01",
+            "end": null
           },
           {
             "company": "Dartmouth College",
@@ -269,11 +269,6 @@
         ],
         "employers": [
           {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
-          },
-          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -282,6 +277,11 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
+          },
+          {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
           }
         ],
         "positions": [
@@ -309,8 +309,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "Harvard Law School",
+          "Princeton University",
           "Harvard Business School"
         ],
         "employers": [
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -457,8 +457,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "basketball player",
           "businessperson",
+          "basketball player",
           "accountant"
         ],
         "education": [
@@ -493,9 +493,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "oncologist",
           "university teacher",
-          "researcher"
+          "researcher",
+          "oncologist"
         ],
         "education": [
           "Duke University"

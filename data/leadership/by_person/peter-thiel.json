@@ -5,21 +5,21 @@
   "birthPlace": "Frankfurt",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
   "occupations": [
-    "chess player",
-    "manager",
-    "financier",
-    "banker",
-    "investor",
-    "technology entrepreneur",
     "entrepreneur",
+    "financier",
+    "chess player",
+    "banker",
+    "manager",
     "computer scientist",
-    "writer",
-    "businessperson"
+    "businessperson",
+    "technology entrepreneur",
+    "investor",
+    "writer"
   ],
   "education": [
+    "Stanford University",
     "Stanford Law School",
-    "San Mateo High School",
-    "Stanford University"
+    "San Mateo High School"
   ],
   "employers": [
     {
@@ -43,6 +43,7 @@
     }
   ],
   "currentTickers": [
+    "META",
     "PLTR",
     "PLTR"
   ]

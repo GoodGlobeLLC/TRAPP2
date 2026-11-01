@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-10-25T11:56:09.049960Z",
+  "fetchedAt": "2026-11-01T14:15:05.943719Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -18,10 +18,10 @@
           "businessperson"
         ],
         "education": [
+          "North-Eastern Hill University",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
           "University of California, Berkeley"
         ],
         "employers": [],
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -416,10 +416,10 @@
           "businessperson"
         ],
         "education": [
+          "North-Eastern Hill University",
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "North-Eastern Hill University",
           "University of California, Berkeley"
         ],
         "employers": [],
@@ -452,8 +452,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "software developer",
           "entrepreneur",
+          "software developer",
           "computer scientist"
         ],
         "education": [
@@ -499,10 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "computer scientist",
+          "entrepreneur",
           "mathematician",
           "engineer",
-          "businessperson"
+          "businessperson",
+          "computer scientist"
         ],
         "education": [
           "Olympus High School",
@@ -510,17 +511,17 @@
         ],
         "employers": [
           {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Adobe",
             "start": null,
             "end": null
           }

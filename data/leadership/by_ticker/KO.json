@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-10-25T11:56:09.090854Z",
+  "fetchedAt": "2026-11-01T14:15:05.979067Z",
   "people": [
     {
       "qid": "Q27839505",
@@ -14,8 +14,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -96,8 +96,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "King Edward's School",
@@ -250,9 +250,9 @@
         "birthPlace": "Apeldoorn",
         "image": null,
         "occupations": [
-          "merchant",
+          "entrepreneur",
           "businessperson",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "University of Groningen"
@@ -273,13 +273,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
+          "entrepreneur",
           "film producer",
-          "business executive",
-          "entrepreneur"
+          "business executive"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -314,8 +314,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
         "occupations": [
           "banker",
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "St Mary's School",
@@ -349,16 +349,31 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
         "occupations": [
           "social worker",
-          "business executive",
+          "politician",
           "sociologist",
-          "politician"
+          "business executive"
         ],
         "education": [
-          "Xavier University of Louisiana",
           "Spring Hill College",
-          "Edgewood College"
+          "Edgewood College",
+          "Xavier University of Louisiana"
         ],
         "employers": [
+          {
+            "company": "Cummins",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Toyota",
+            "start": "2006-01-01",
+            "end": null
+          },
+          {
+            "company": "Office of Public Liaison",
+            "start": "1993-01-20",
+            "end": "1997-02-07"
+          },
           {
             "company": "United States Women's Bureau",
             "start": "1977-04-04",
@@ -388,35 +403,20 @@
             "company": "Sodexo",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
-          },
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
           }
         ],
         "positions": [
-          {
-            "title": "United States Secretary of Labor",
-            "company": null,
-            "start": "1997-05-01",
-            "end": "2001-01-20"
-          },
           {
             "title": "Director of the Office of Public Liaison",
             "company": null,
             "start": "1993-01-20",
             "end": "1997-02-07"
+          },
+          {
+            "title": "United States Secretary of Labor",
+            "company": null,
+            "start": "1997-05-01",
+            "end": "2001-01-20"
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-10-25T11:56:09.099208Z",
+  "fetchedAt": "2026-11-01T14:15:05.985668Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -14,12 +14,12 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
+          "computer scientist",
           "manager",
           "electrotechnician",
           "chief executive officer",
           "entrepreneur",
-          "computer scientist"
+          "engineer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -30,13 +30,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -110,6 +110,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Dick's Sporting Goods",
+            "start": "2015-08-01",
+            "end": "2016-08-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "2017-01-01",
             "end": "2020-06-01"
@@ -123,11 +128,6 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
-          },
-          {
-            "company": "Dick's Sporting Goods",
-            "start": "2015-08-01",
-            "end": "2016-08-01"
           },
           {
             "company": "Procter & Gamble",
@@ -161,8 +161,8 @@
           "manager"
         ],
         "education": [
-          "Syracuse University",
-          "University of Chicago"
+          "University of Chicago",
+          "Syracuse University"
         ],
         "employers": [
           {
@@ -196,8 +196,8 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "executive"
+          "executive",
+          "businessperson"
         ],
         "education": [
           "University of Oxford",
@@ -273,8 +273,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
-          "politician",
           "entrepreneur",
+          "politician",
           "business executive"
         ],
         "education": [
@@ -305,13 +305,13 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "consultant",
           "podcaster",
           "financier",
+          "consultant",
           "investor",
           "writer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -395,12 +395,12 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
+          "computer scientist",
           "manager",
           "electrotechnician",
           "chief executive officer",
           "entrepreneur",
-          "computer scientist"
+          "engineer"
         ],
         "education": [
           "Manipal Academy of Higher Education",
@@ -411,13 +411,13 @@
         ],
         "employers": [
           {
-            "company": "Sun Microsystems",
-            "start": null,
+            "company": "Microsoft",
+            "start": "1992-01-01",
             "end": null
           },
           {
-            "company": "Microsoft",
-            "start": "1992-01-01",
+            "company": "Sun Microsystems",
+            "start": null,
             "end": null
           }
         ],
@@ -443,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "co-founder",
+          "investor",
           "television producer",
+          "inventor",
           "philanthropist",
           "art collector",
-          "investor",
-          "programmer",
-          "record producer",
+          "co-founder",
           "film producer",
-          "inventor",
           "musician",
-          "composer",
-          "entrepreneur",
+          "record producer",
+          "programmer",
           "businessperson",
-          "computer scientist"
+          "entrepreneur",
+          "computer scientist",
+          "composer"
         ],
         "education": [
+          "Harvard University",
           "Washington State University",
-          "Lakeside School",
-          "Harvard University"
+          "Lakeside School"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-10-25T11:56:09.096838Z",
+  "fetchedAt": "2026-11-01T14:15:05.983907Z",
   "people": [
     {
       "qid": "Q36215",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
-          "programmer",
           "entrepreneur",
+          "programmer",
+          "philanthropist",
           "computer scientist",
           "chief executive officer"
         ],
@@ -128,8 +128,8 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Lynbrook High School",
@@ -360,21 +360,21 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
-          "manager",
-          "financier",
-          "banker",
-          "investor",
-          "technology entrepreneur",
           "entrepreneur",
+          "financier",
+          "chess player",
+          "banker",
+          "manager",
           "computer scientist",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "technology entrepreneur",
+          "investor",
+          "writer"
         ],
         "education": [
+          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School",
-          "Stanford University"
+          "San Mateo High School"
         ],
         "employers": [
           {
@@ -412,14 +412,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
           "economist",
-          "entrepreneur",
+          "businessperson",
           "computer scientist",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard College",
-          "North Miami Beach High School",
-          "Harvard Business School"
+          "North Miami Beach High School"
         ],
         "employers": [
           {
@@ -429,12 +429,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "vice president",
             "company": null,
@@ -464,6 +458,12 @@
             "company": null,
             "start": "2008-03-01",
             "end": "2022-09-01"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "board member",
@@ -498,8 +498,8 @@
           "investor",
           "inventor",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "New Lisbon High School",
@@ -540,9 +540,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
-          "programmer",
           "entrepreneur",
+          "programmer",
+          "philanthropist",
           "computer scientist",
           "chief executive officer"
         ],
@@ -584,9 +584,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
-          "programmer",
           "entrepreneur",
+          "programmer",
+          "philanthropist",
           "computer scientist",
           "chief executive officer"
         ],

@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-10-25T11:56:09.092594Z",
+  "fetchedAt": "2026-11-01T14:15:05.980747Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -215,8 +215,8 @@
         "education": [
           "Georgia Tech",
           "University of West Florida",
-          "United States Naval Academy",
-          "Harvard University"
+          "Harvard University",
+          "United States Naval Academy"
         ],
         "employers": [],
         "positions": []
@@ -234,14 +234,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "merchant",
-          "entrepreneur"
+          "entrepreneur",
+          "merchant"
         ],
         "education": [
+          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -407,24 +407,19 @@
         "qid": "Q1159888",
         "name": "Daniel Akerson",
         "dateOfBirth": "1948-10-21",
-        "birthPlace": "California",
+        "birthPlace": "Oakland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan%20Akerson%20%286720557213%29.jpg",
         "occupations": [
-          "businessperson",
           "military officer",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
+          "Mankato West High School",
           "United States Naval Academy",
-          "London School of Economics and Political Science",
-          "Mankato West High School"
+          "London School of Economics and Political Science"
         ],
         "employers": [
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
           {
             "company": "American Express",
             "start": null,
@@ -434,17 +429,22 @@
             "company": "Carlyle Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
           {
-            "title": "chairperson",
+            "title": "chief executive officer",
             "company": null,
             "start": null,
             "end": null
           },
           {
-            "title": "chief executive officer",
+            "title": "chairperson",
             "company": null,
             "start": null,
             "end": null
