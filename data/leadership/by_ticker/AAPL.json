@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-10-25T11:56:09.046765Z",
+  "fetchedAt": "2026-11-01T13:29:20.946878Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,30 +14,30 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
-          "manager",
-          "chief executive officer",
-          "computer scientist",
           "engineer",
+          "manager",
+          "computer scientist",
+          "chief executive officer",
+          "presenter",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -63,12 +63,12 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -99,8 +99,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -177,25 +177,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "environmentalist",
-          "journalist",
-          "financier",
-          "orator",
-          "blogger",
           "university teacher",
+          "environmentalist",
+          "financier",
+          "climate activist",
+          "orator",
+          "journalist",
+          "writer",
           "farmer",
           "businessperson",
           "politician",
-          "businessperson",
-          "writer"
+          "blogger"
         ],
         "education": [
+          "Defense Information School",
           "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School",
-          "Defense Information School"
+          "St. Albans School"
         ],
         "employers": [
           {
@@ -205,12 +204,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
           {
             "title": "United States representative",
             "company": null,
@@ -230,10 +223,10 @@
             "end": "2001-01-20"
           },
           {
-            "title": "board member",
+            "title": "United States senator",
             "company": null,
-            "start": null,
-            "end": null
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "United States senator",
@@ -254,16 +247,22 @@
             "end": "1993-01-02"
           },
           {
-            "title": "United States representative",
+            "title": "board member",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": null,
+            "end": null
           },
           {
             "title": "United States representative",
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          },
+          {
+            "title": "United States representative",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -281,12 +280,12 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
-          "Princeton University",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -350,24 +349,24 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
-          "electronics technician",
-          "engineer",
-          "programmer",
-          "inventor",
-          "entrepreneur",
-          "businessperson",
           "teacher",
-          "actor"
+          "entrepreneur",
+          "actor",
+          "programmer",
+          "computer scientist",
+          "engineer",
+          "electronics technician",
+          "inventor",
+          "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
+          "Homestead High School",
           "University of Colorado",
           "De Anza College",
-          "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of Colorado Boulder"
         ],
         "employers": [
           {
@@ -408,14 +407,14 @@
         "occupations": [
           "general manager",
           "executive producer",
-          "film producer",
           "technology entrepreneur",
-          "computer scientist",
           "designer",
-          "founder",
+          "film producer",
           "financier",
           "inventor",
-          "entrepreneur"
+          "founder",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -429,17 +428,17 @@
             "end": null
           },
           {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
