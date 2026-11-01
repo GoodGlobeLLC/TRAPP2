@@ -1,7 +1,7 @@
 {
   "ticker": "GOOGL",
   "qid": "Q95",
-  "fetchedAt": "2026-06-11T05:17:48.539675Z",
+  "fetchedAt": "2026-11-01T13:02:07.882547Z",
   "source": "wikidata",
   "name": "Google",
   "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "1998-09-04",
   "employees": 187000,
-  "industry": "information technology",
+  "industry": "Internet industry",
   "headquarters": "Mountain View",
   "executives": [
     {
@@ -27,6 +27,9 @@
     }
   ],
   "products": [
+    {
+      "name": "Google Maps"
+    },
     {
       "name": "Google Search"
     },

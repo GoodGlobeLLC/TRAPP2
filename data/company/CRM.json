@@ -1,7 +1,7 @@
 {
   "ticker": "CRM",
   "qid": "Q941127",
-  "fetchedAt": "2026-06-11T05:23:55.210379Z",
+  "fetchedAt": "2026-11-01T13:20:17.950394Z",
   "source": "wikidata",
   "name": "Salesforce",
   "description": "American cloud-based software company",
@@ -9,7 +9,7 @@
   "isin": "US79466L3024",
   "inception": "1999-02-03",
   "employees": 35000,
-  "industry": "software as a service",
+  "industry": "cloud computing",
   "headquarters": "San Francisco",
   "executives": [
     {
@@ -25,6 +25,12 @@
   ],
   "products": [
     {
+      "name": "Freemium software"
+    },
+    {
+      "name": "agentic commerce"
+    },
+    {
       "name": "AI agent"
     },
     {
@@ -34,13 +40,16 @@
       "name": "customer relationship management software"
     },
     {
-      "name": "Customer data platform"
+      "name": "customer data platform"
     },
     {
       "name": "B2B e-commerce"
     },
     {
       "name": "marketing automation"
+    },
+    {
+      "name": "Headless software"
     },
     {
       "name": "Small business software"
@@ -55,16 +64,7 @@
       "name": "Heroku"
     },
     {
-      "name": "integration platform"
-    },
-    {
-      "name": "virtual agent"
-    },
-    {
-      "name": "enterprise software"
-    },
-    {
-      "name": "e-commerce"
+      "name": "email marketing"
     },
     {
       "name": "intelligent agent"
@@ -76,16 +76,28 @@
       "name": "analytics"
     },
     {
-      "name": "software as a service"
+      "name": "cloud computing"
     },
     {
-      "name": "email marketing"
+      "name": "data integration"
     },
     {
       "name": "artificial intelligence"
     },
     {
-      "name": "cloud computing"
+      "name": "e-commerce"
+    },
+    {
+      "name": "integration platform"
+    },
+    {
+      "name": "virtual agent"
+    },
+    {
+      "name": "enterprise software"
+    },
+    {
+      "name": "software as a service"
     }
   ],
   "countries": []

@@ -1,7 +1,7 @@
 {
   "ticker": "C",
   "qid": "Q219508",
-  "fetchedAt": "2026-06-11T05:29:23.306571Z",
+  "fetchedAt": "2026-11-01T13:31:51.432977Z",
   "source": "wikidata",
   "name": "Citigroup",
   "description": "American investment bank and financial services corporation",
@@ -9,7 +9,7 @@
   "isin": "US1729674242",
   "inception": "1812-06-16",
   "employees": 219000,
-  "industry": "financial service activities, except insurance and pension funding",
+  "industry": "International Standard Industrial Classification",
   "headquarters": "388 Greenwich Street",
   "executives": [
     {
@@ -22,18 +22,6 @@
     }
   ],
   "board": [
-    {
-      "name": "John Dugan",
-      "role": "Board Member"
-    },
-    {
-      "name": "Diana Taylor",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ellen Costello",
-      "role": "Board Member"
-    },
     {
       "name": "Jay Jacobs",
       "role": "Board Member"
@@ -52,6 +40,14 @@
     },
     {
       "name": "Peter Henry",
+      "role": "Board Member"
+    },
+    {
+      "name": "John Dugan",
+      "role": "Board Member"
+    },
+    {
+      "name": "Diana Taylor",
       "role": "Board Member"
     },
     {
@@ -76,6 +72,10 @@
     },
     {
       "name": "Grace Dailey",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ellen Costello",
       "role": "Board Member"
     }
   ],

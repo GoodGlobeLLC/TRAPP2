@@ -1,7 +1,7 @@
 {
   "ticker": "BAC",
   "qid": "Q487907",
-  "fetchedAt": "2026-06-11T05:28:33.603277Z",
+  "fetchedAt": "2026-11-01T13:29:01.046968Z",
   "source": "wikidata",
   "name": "Bank of America",
   "description": "American multinational banking and financial services corporation",
@@ -24,6 +24,26 @@
     },
     {
       "name": "Susan Bies",
+      "role": "Board Member"
+    },
+    {
+      "name": "Linda Hudson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Joe Almeida",
+      "role": "Board Member"
+    },
+    {
+      "name": "Maria T. Zuber",
+      "role": "Board Member"
+    },
+    {
+      "name": "Monica C. Lozano",
+      "role": "Board Member"
+    },
+    {
+      "name": "Brian Moynihan",
       "role": "Board Member"
     },
     {
@@ -65,26 +85,6 @@
     {
       "name": "Clayton Rose",
       "role": "Board Member"
-    },
-    {
-      "name": "Linda Hudson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Joe Almeida",
-      "role": "Board Member"
-    },
-    {
-      "name": "Maria T. Zuber",
-      "role": "Board Member"
-    },
-    {
-      "name": "Monica C. Lozano",
-      "role": "Board Member"
-    },
-    {
-      "name": "Brian Moynihan",
-      "role": "Board Member"
     }
   ],
   "founders": [
@@ -94,13 +94,13 @@
   ],
   "products": [
     {
+      "name": "insurance"
+    },
+    {
       "name": "financial services"
     },
     {
       "name": "credit"
-    },
-    {
-      "name": "insurance"
     },
     {
       "name": "asset management"

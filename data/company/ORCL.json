@@ -1,7 +1,7 @@
 {
   "ticker": "ORCL",
   "qid": "Q19900",
-  "fetchedAt": "2026-06-11T05:18:19.115076Z",
+  "fetchedAt": "2026-11-01T13:03:48.235196Z",
   "source": "wikidata",
   "name": "Oracle Corporation",
   "description": "American multinational computer corporation",
@@ -18,6 +18,26 @@
     }
   ],
   "board": [
+    {
+      "name": "George Conrades",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rona Fairhead",
+      "role": "Board Member"
+    },
+    {
+      "name": "Safra Catz",
+      "role": "Board Member"
+    },
+    {
+      "name": "Leon Panetta",
+      "role": "Board Member"
+    },
+    {
+      "name": "Larry Ellison",
+      "role": "Board Member"
+    },
     {
       "name": "Ren\u00e9e James",
       "role": "Board Member"
@@ -51,31 +71,11 @@
       "role": "Board Member"
     },
     {
-      "name": "Safra Catz",
-      "role": "Board Member"
-    },
-    {
       "name": "Jeff Berg",
       "role": "Board Member"
     },
     {
       "name": "Awo Ablo",
-      "role": "Board Member"
-    },
-    {
-      "name": "George Conrades",
-      "role": "Board Member"
-    },
-    {
-      "name": "Rona Fairhead",
-      "role": "Board Member"
-    },
-    {
-      "name": "Leon Panetta",
-      "role": "Board Member"
-    },
-    {
-      "name": "Larry Ellison",
       "role": "Board Member"
     }
   ],
@@ -95,13 +95,13 @@
       "name": "relational database management system"
     },
     {
+      "name": "API management"
+    },
+    {
       "name": "database management system"
     },
     {
       "name": "software"
-    },
-    {
-      "name": "API management"
     }
   ],
   "countries": []
