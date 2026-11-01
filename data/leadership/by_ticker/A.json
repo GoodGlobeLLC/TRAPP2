@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-10-25T11:56:09.045262Z",
+  "fetchedAt": "2026-11-01T13:29:20.945180Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -52,15 +52,20 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "university teacher",
           "gastroenterologist",
-          "physician",
-          "university teacher"
+          "physician"
         ],
         "education": [
           "Harvard College",
           "Harvard Medical School"
         ],
         "employers": [
+          {
+            "company": "Partners HealthCare Connected Health",
+            "start": "2005-01-01",
+            "end": "2008-01-01"
+          },
           {
             "company": "University of Texas Southwestern Medical Center",
             "start": "2008-09-01",
@@ -75,11 +80,6 @@
             "company": "Massachusetts General Hospital",
             "start": "1981-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Partners HealthCare Connected Health",
-            "start": "2005-01-01",
-            "end": "2008-01-01"
           }
         ],
         "positions": [
@@ -105,8 +105,8 @@
         "image": null,
         "occupations": [
           "scientist",
-          "oncologist",
-          "physician"
+          "physician",
+          "oncologist"
         ],
         "education": [
           "University of Chicago",
@@ -156,11 +156,10 @@
           "chairperson"
         ],
         "education": [
-          "Imperial College London",
-          "Harvard Business School",
           "University of London",
-          "Harvard Business School",
-          "Harvard University"
+          "Imperial College London",
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -260,6 +259,11 @@
         "education": [],
         "employers": [
           {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
+          },
+          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -273,11 +277,6 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
-          },
-          {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -417,16 +416,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "computer scientist"
+          "computer scientist",
+          "business executive"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
           {
             "company": "Cisco",
             "start": "2007-10-01",
@@ -436,6 +430,11 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -510,8 +509,8 @@
           "business executive"
         ],
         "education": [
-          "University of Massachusetts",
-          "Cornell University"
+          "Cornell University",
+          "University of Massachusetts"
         ],
         "employers": [],
         "positions": [

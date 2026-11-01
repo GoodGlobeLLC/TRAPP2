@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-10-25T11:56:09.072441Z",
+  "fetchedAt": "2026-11-01T13:29:20.971933Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,8 +14,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -94,35 +94,6 @@
       }
     },
     {
-      "qid": "Q3421200",
-      "name": "Raymond Watson",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q3421200",
-        "name": "Raymond Watson",
-        "dateOfBirth": "1926-10-04",
-        "birthPlace": "Seattle",
-        "image": null,
-        "occupations": [
-          "businessperson",
-          "architect"
-        ],
-        "education": [
-          "University of California, Berkeley"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1983-01-01",
-            "end": "1984-01-01"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q727953",
       "name": "Michael Eisner",
       "role_at_company": "Chief Executive Officer",
@@ -146,11 +117,6 @@
         ],
         "employers": [
           {
-            "company": "The Walt Disney Company",
-            "start": "1984-01-01",
-            "end": "2005-01-01"
-          },
-          {
             "company": "Paramount Pictures",
             "start": "1976-01-01",
             "end": "1984-01-01"
@@ -159,6 +125,11 @@
             "company": "American Broadcasting Company",
             "start": "1966-01-01",
             "end": "1976-01-01"
+          },
+          {
+            "company": "The Walt Disney Company",
+            "start": "1984-01-01",
+            "end": "2005-01-01"
           }
         ],
         "positions": [
@@ -191,9 +162,9 @@
         "occupations": [
           "film producer",
           "business executive",
+          "entrepreneur",
           "television producer",
-          "businessperson",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -253,139 +224,6 @@
       }
     },
     {
-      "qid": "Q436622",
-      "name": "Donn Tatum",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q436622",
-        "name": "Donn Tatum",
-        "dateOfBirth": "1913-01-09",
-        "birthPlace": "Los Angeles",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Donn%20Tatum%20circa%201963.jpg",
-        "occupations": [
-          "animator",
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1971-01-01",
-            "end": "1980-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q347432",
-      "name": "Roy O. Disney",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q347432",
-        "name": "Roy O. Disney",
-        "dateOfBirth": "1893-06-24",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
-        "occupations": [
-          "film producer",
-          "banker",
-          "entrepreneur"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q325214",
-      "name": "Card Walker",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q325214",
-        "name": "Card Walker",
-        "dateOfBirth": "1916-01-09",
-        "birthPlace": "Rexburg",
-        "image": null,
-        "occupations": [
-          "film producer",
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": [
-          {
-            "title": "courier",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1980-01-01",
-            "end": "1983-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1976-01-01",
-            "end": "1983-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q8704",
-      "name": "Walt Disney",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q8704",
-        "name": "Walt Disney",
-        "dateOfBirth": "1901-12-05",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
-        "occupations": [
-          "producer",
-          "draftsperson",
-          "manufacturer",
-          "film actor",
-          "designer",
-          "caricaturist",
-          "director",
-          "film director",
-          "film producer",
-          "voice actor",
-          "painter",
-          "television presenter",
-          "comics artist",
-          "illustrator",
-          "animator",
-          "inventor",
-          "writer",
-          "actor"
-        ],
-        "education": [
-          "McKinley High School",
-          "Central High School",
-          "Kansas City Art Institute"
-        ],
-        "employers": [
-          {
-            "company": "Screen Gems",
-            "start": "1923-01-01",
-            "end": "1928-01-01"
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q535362",
       "name": "Susan Arnold",
       "role_at_company": "Chairperson",
@@ -397,8 +235,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -431,8 +269,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, Berkeley",
-          "San Francisco Art Institute"
+          "San Francisco Art Institute",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": []
@@ -455,10 +293,10 @@
         "education": [
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "Harvard Law School",
           "The Branson School",
+          "Princeton University",
           "University of Oxford",
-          "Princeton University"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -492,10 +330,10 @@
           "business executive"
         ],
         "education": [
+          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [
           {
@@ -591,7 +429,7 @@
         ],
         "employers": [
           {
-            "company": "Nike, Inc.",
+            "company": "Nike",
             "start": null,
             "end": null
           }
@@ -611,8 +449,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -647,10 +485,10 @@
           "chief financial officer"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -665,6 +503,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2005-11-01",
+            "end": "2008-09-01"
+          },
+          {
+            "title": "lecturer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "Directrice",
             "company": null,
@@ -688,18 +538,6 @@
             "company": null,
             "start": "2011-04-01",
             "end": "2008-09-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2005-11-01",
-            "end": "2008-09-01"
-          },
-          {
-            "title": "lecturer",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -788,8 +626,8 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "Indiana University Bloomington",
@@ -818,73 +656,6 @@
             "end": "2020-02-25"
           }
         ]
-      }
-    },
-    {
-      "qid": "Q347432",
-      "name": "Roy O. Disney",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q347432",
-        "name": "Roy O. Disney",
-        "dateOfBirth": "1893-06-24",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roy%20O.%20Disney%20with%20Company%20at%20Press%20Conference.jpg",
-        "occupations": [
-          "film producer",
-          "banker",
-          "entrepreneur"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q8704",
-      "name": "Walt Disney",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q8704",
-        "name": "Walt Disney",
-        "dateOfBirth": "1901-12-05",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Walt%20Disney%201946.JPG",
-        "occupations": [
-          "producer",
-          "draftsperson",
-          "manufacturer",
-          "film actor",
-          "designer",
-          "caricaturist",
-          "director",
-          "film director",
-          "film producer",
-          "voice actor",
-          "painter",
-          "television presenter",
-          "comics artist",
-          "illustrator",
-          "animator",
-          "inventor",
-          "writer",
-          "actor"
-        ],
-        "education": [
-          "McKinley High School",
-          "Central High School",
-          "Kansas City Art Institute"
-        ],
-        "employers": [
-          {
-            "company": "Screen Gems",
-            "start": "1923-01-01",
-            "end": "1928-01-01"
-          }
-        ],
-        "positions": []
       }
     }
   ]

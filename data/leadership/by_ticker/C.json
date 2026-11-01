@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-10-25T11:56:09.062749Z",
+  "fetchedAt": "2026-11-01T13:29:20.961795Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -90,9 +90,9 @@
           "politician"
         ],
         "education": [
-          "Milton Academy",
           "Columbia Business School",
-          "Dartmouth College"
+          "Dartmouth College",
+          "Milton Academy"
         ],
         "employers": [],
         "positions": []
@@ -261,13 +261,13 @@
         ],
         "employers": [
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           },
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
@@ -330,8 +330,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Lee%20pg736.jpg",
         "occupations": [
           "television actor",
-          "film actor",
           "voice actor",
+          "film actor",
           "actor"
         ],
         "education": [
