@@ -1,6 +1,6 @@
 {
   "ticker": "NOC",
-  "fetchedAt": "2026-10-25T11:56:09.102029Z",
+  "fetchedAt": "2026-11-01T13:27:27.520700Z",
   "people": [
     {
       "qid": "Q60445729",
@@ -23,17 +23,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }
@@ -180,8 +180,8 @@
         ],
         "education": [
           "Simmons University",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -196,18 +196,18 @@
         "qid": "Q4391764",
         "name": "Mark Welsh",
         "dateOfBirth": "1953-01-26",
-        "birthPlace": "San Antonio",
+        "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen%20Mark%20A.%20Welsh%20III%20CSAF.jpg",
         "occupations": [
           "military officer"
         ],
         "education": [
-          "National War College",
-          "John F. Kennedy School of Government",
           "John H. Reagan High School",
           "Wentworth Military Academy and College",
           "Webster University",
-          "United States Air Force Academy"
+          "United States Air Force Academy",
+          "National War College",
+          "John F. Kennedy School of Government"
         ],
         "employers": [
           {
@@ -433,17 +433,17 @@
         ],
         "employers": [
           {
-            "company": "General Dynamics",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Northrop Grumman Corporation",
             "start": "2008-01-01",
             "end": null
           },
           {
             "company": "General Electric",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Dynamics",
             "start": null,
             "end": null
           }

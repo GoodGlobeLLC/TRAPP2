@@ -1,6 +1,6 @@
 {
   "ticker": "UNH",
-  "fetchedAt": "2026-10-25T11:56:09.123710Z",
+  "fetchedAt": "2026-11-01T13:27:27.542651Z",
   "people": [
     {
       "qid": "Q18121649",
@@ -22,16 +22,6 @@
         ],
         "employers": [
           {
-            "company": "Optum",
-            "start": "2018-03-01",
-            "end": "2021-02-01"
-          },
-          {
-            "company": "UnitedHealth Group",
-            "start": "2021-02-04",
-            "end": "2025-05-13"
-          },
-          {
             "company": "University of Nottingham",
             "start": null,
             "end": null
@@ -40,6 +30,16 @@
             "company": "GSK",
             "start": "1985-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Optum",
+            "start": "2018-03-01",
+            "end": "2021-02-01"
+          },
+          {
+            "company": "UnitedHealth Group",
+            "start": "2021-02-04",
+            "end": "2025-05-13"
           }
         ],
         "positions": [
@@ -157,8 +157,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [],
         "positions": [
@@ -238,8 +238,8 @@
         "occupations": [
           "obstetrician",
           "gynecologist",
-          "scientist",
-          "physician"
+          "physician",
+          "scientist"
         ],
         "education": [
           "Harvard Medical School"
@@ -278,8 +278,8 @@
         "birthPlace": "Melrose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Noseworthy%20at%20Spotlight%20Health%20Aspen%20Ideas%20Festival%202015.JPG",
         "occupations": [
-          "neurologist",
           "director",
+          "neurologist",
           "physician"
         ],
         "education": [
@@ -322,16 +322,6 @@
         ],
         "employers": [
           {
-            "company": "Optum",
-            "start": "2018-03-01",
-            "end": "2021-02-01"
-          },
-          {
-            "company": "UnitedHealth Group",
-            "start": "2021-02-04",
-            "end": "2025-05-13"
-          },
-          {
             "company": "University of Nottingham",
             "start": null,
             "end": null
@@ -340,6 +330,16 @@
             "company": "GSK",
             "start": "1985-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Optum",
+            "start": "2018-03-01",
+            "end": "2021-02-01"
+          },
+          {
+            "company": "UnitedHealth Group",
+            "start": "2021-02-04",
+            "end": "2025-05-13"
           }
         ],
         "positions": [
@@ -411,7 +411,6 @@
         "birthPlace": "Elmira",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Baker%20official%20photo%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
           "governor",
           "politician",
           "businessperson"
