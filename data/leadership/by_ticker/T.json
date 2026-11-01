@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-10-25T11:56:09.118586Z",
+  "fetchedAt": "2026-11-01T13:27:27.537269Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,17 +18,17 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }
@@ -118,9 +118,9 @@
           "manager"
         ],
         "education": [
-          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -162,26 +162,16 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "lawyer"
+          "lawyer",
+          "businessperson"
         ],
         "education": [
           "Harvard Law School",
-          "Brown University",
           "James B. Dudley High School",
+          "Brown University",
           "John F. Kennedy School of Government"
         ],
         "employers": [
-          {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Monsanto",
             "start": null,
@@ -189,6 +179,16 @@
           },
           {
             "company": "Kodak",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Marriott International",
             "start": null,
             "end": null
           },
@@ -244,9 +244,9 @@
           "diplomat"
         ],
         "education": [
-          "Stanford University",
           "Hollywood High School",
-          "Yale Law School"
+          "Yale Law School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -326,17 +326,17 @@
           "chief executive officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Marymount University"
+          "Loyola Marymount University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           },
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           }
@@ -418,8 +418,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
           "Stanford University"
