@@ -1,36 +1,36 @@
 {
   "_schema": "valuatio-signals-v1",
-  "updatedAt": "2026-11-02T23:10:37.759643Z",
+  "updatedAt": "2026-11-03T16:04:52.520143Z",
   "tickerCount": 22,
   "signals": {
     "macro": {
-      "raw": 0.7502974845388863,
+      "raw": 0.7279820688713547,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "avg_1m_sector_return": 0.0476,
+        "avg_1m_sector_return": 0.0457,
         "n_sectors": 11,
         "indpro_yoy": 0.0225
       }
     },
     "liquidity": {
-      "raw": -0.3845713531767757,
+      "raw": -0.4031956570228855,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
         "t10y2y": 0.32,
         "hy_spread": 3.44,
         "hy_spread_z": 1.06,
-        "hyg_minus_lqd_1m": -0.0176
+        "hyg_minus_lqd_1m": -0.0187
       }
     },
     "volatility": {
-      "raw": 0.08001930998970175,
+      "raw": -0.4637500000000001,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
         "vix_level": 19.42,
-        "vix9d_over_vix": 0.9912
+        "vix9d_over_vix": 1.1565
       }
     },
     "valuation": {
@@ -45,14 +45,14 @@
       }
     },
     "trend": {
-      "raw": 0.6843023178438594,
+      "raw": 0.6573509771743503,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "spy_price": 755.72,
-        "sma50": 767.49,
-        "sma200": 728.85,
-        "pct_above_200dma": 0.0369
+        "spy_price": 752.1,
+        "sma50": 767.22,
+        "sma200": 729.15,
+        "pct_above_200dma": 0.0315
       }
     },
     "breadth": {
@@ -66,25 +66,25 @@
       }
     },
     "commodity": {
-      "raw": 0.4336110057698592,
+      "raw": 0.26490093265508413,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "copper_60d_return": -0.0205,
-        "oil_60d_return": 0.2141,
-        "gold_oil_ratio": 37.446,
-        "gold_oil_zscore": -1.54,
+        "copper_60d_return": -0.0051,
+        "oil_60d_return": 0.0565,
+        "gold_oil_ratio": 41.153,
+        "gold_oil_zscore": -1.246,
         "n_components": 3
       }
     },
     "crypto": {
-      "raw": -0.3448185677839304,
+      "raw": -0.42065803152913933,
       "confidence": 1.0,
       "tier": "LIVE",
       "note": {
-        "btc_30d_return": -0.074,
-        "btc_pct_from_50dma": -0.0448,
-        "eth_30d_return": -0.1481,
+        "btc_30d_return": -0.0954,
+        "btc_pct_from_50dma": -0.0639,
+        "eth_30d_return": -0.1631,
         "n_components": 3
       }
     }
