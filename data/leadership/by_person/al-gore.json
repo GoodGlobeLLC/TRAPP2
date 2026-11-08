@@ -5,24 +5,24 @@
   "birthPlace": "Washington, D.C.",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
   "occupations": [
-    "blogger",
-    "environmentalist",
-    "financier",
     "journalist",
+    "blogger",
+    "university teacher",
     "climate activist",
     "orator",
-    "businessperson",
-    "university teacher",
-    "politician",
     "farmer",
+    "environmentalist",
+    "financier",
+    "businessperson",
+    "politician",
     "writer"
   ],
   "education": [
+    "Vanderbilt University Divinity School",
+    "St. Albans School",
     "Defense Information School",
     "Harvard College",
-    "Vanderbilt University",
-    "Vanderbilt University Divinity School",
-    "St. Albans School"
+    "Vanderbilt University"
   ],
   "employers": [
     {
@@ -32,6 +32,12 @@
     }
   ],
   "positions": [
+    {
+      "title": "United States senator",
+      "company": null,
+      "start": "1989-01-03",
+      "end": "1991-01-03"
+    },
     {
       "title": "United States representative",
       "company": null,
@@ -51,10 +57,10 @@
       "end": "2001-01-20"
     },
     {
-      "title": "United States senator",
+      "title": "board member",
       "company": null,
-      "start": "1989-01-03",
-      "end": "1991-01-03"
+      "start": null,
+      "end": null
     },
     {
       "title": "United States senator",
@@ -75,22 +81,16 @@
       "end": "1993-01-02"
     },
     {
-      "title": "board member",
+      "title": "United States representative",
       "company": null,
-      "start": null,
-      "end": null
+      "start": "1977-01-03",
+      "end": "1979-01-03"
     },
     {
       "title": "United States representative",
       "company": null,
       "start": "1981-01-03",
       "end": "1983-01-03"
-    },
-    {
-      "title": "United States representative",
-      "company": null,
-      "start": "1977-01-03",
-      "end": "1979-01-03"
     }
   ],
   "currentTickers": [

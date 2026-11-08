@@ -1,5 +1,37 @@
 {
   "ticker": "RBLX",
-  "fetchedAt": "2026-11-01T14:15:05.995429Z",
-  "people": []
+  "fetchedAt": "2026-11-08T13:59:03.930347Z",
+  "people": [
+    {
+      "qid": "Q20117554",
+      "name": "David Baszucki",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q20117554",
+        "name": "David Baszucki",
+        "dateOfBirth": "1963-01-20",
+        "birthPlace": "Winnipeg",
+        "image": null,
+        "occupations": [
+          "programmer",
+          "entrepreneur",
+          "engineer"
+        ],
+        "education": [
+          "Stanford University",
+          "Eden Prairie High School"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2003-12-01",
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
 }

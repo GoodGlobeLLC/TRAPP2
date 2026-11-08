@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T14:15:06.161571Z",
-  "totalPeople": 952,
-  "totalTickers": 136,
+  "generatedAt": "2026-11-08T13:59:04.096841Z",
+  "totalPeople": 958,
+  "totalTickers": 138,
   "lastRangeFilter": "ALL",
-  "thisRunPeople": 902,
+  "thisRunPeople": 891,
   "thisRunTickers": 273,
   "index": [
     {
@@ -414,8 +414,6 @@
       "name": "Joe Gebbia",
       "slug": "joe-gebbia",
       "tickers": [
-        "ABNB",
-        "ABNB",
         "TSLA"
       ],
       "positionsCount": 2,
@@ -467,7 +465,6 @@
       "name": "Kenneth Chenault",
       "slug": "kenneth-chenault",
       "tickers": [
-        "ABNB",
         "BRK.B"
       ],
       "positionsCount": 3,
@@ -2187,8 +2184,7 @@
       "name": "Chris Davis",
       "slug": "chris-davis",
       "tickers": [
-        "BRK.B",
-        "KO"
+        "BRK.B"
       ],
       "positionsCount": 1,
       "employersCount": 0
@@ -5491,8 +5487,6 @@
       "name": "James Quincey",
       "slug": "james-quincey",
       "tickers": [
-        "KO",
-        "KO",
         "PFE"
       ],
       "positionsCount": 1,
@@ -6436,8 +6430,8 @@
     },
     {
       "qid": "Q4757939",
-      "name": "\u0628\u0646 \u0645\u0646\u0634\u0644\u064a\u0646",
-      "slug": "",
+      "name": "Andrew McCollum",
+      "slug": "andrew-mccollum",
       "tickers": [
         "META"
       ],
@@ -7934,6 +7928,7 @@
       "name": "Brian Niccol",
       "slug": "brian-niccol",
       "tickers": [
+        "CMG",
         "SBUX"
       ],
       "positionsCount": 0,
@@ -9733,6 +9728,69 @@
       ],
       "positionsCount": 0,
       "employersCount": 0
+    },
+    {
+      "qid": "Q7612483",
+      "name": "Steve Ells",
+      "slug": "steve-ells",
+      "tickers": [
+        "CMG",
+        "CMG"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q128298523",
+      "name": "Sashidhar Jagdishan",
+      "slug": "sashidhar-jagdishan",
+      "tickers": [
+        "HD"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5398061",
+      "name": "Eske Willerslev",
+      "slug": "eske-willerslev",
+      "tickers": [
+        "KO"
+      ],
+      "positionsCount": 1,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q27776673",
+      "name": "Jannik Johansen",
+      "slug": "jannik-johansen",
+      "tickers": [
+        "KO"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q12329019",
+      "name": "Nils Strandberg Pedersen",
+      "slug": "nils-strandberg-pedersen",
+      "tickers": [
+        "KO"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "slug": "alexander-c-karp",
+      "tickers": [
+        "PLTR",
+        "PLTR",
+        "PLTR"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
     }
   ]
 }

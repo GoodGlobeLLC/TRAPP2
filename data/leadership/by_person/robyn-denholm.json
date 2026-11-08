@@ -9,11 +9,16 @@
     "businessperson"
   ],
   "education": [
+    "Georges River College",
     "University of New South Wales",
-    "University of Sydney",
-    "Georges River College"
+    "University of Sydney"
   ],
   "employers": [
+    {
+      "company": "Telstra",
+      "start": "2017-01-01",
+      "end": null
+    },
     {
       "company": "Toyota Australia",
       "start": "1989-01-01",
@@ -30,6 +35,11 @@
       "end": "2013-01-01"
     },
     {
+      "company": "Sun Microsystems",
+      "start": "1996-01-01",
+      "end": "2007-08-01"
+    },
+    {
       "company": "Tesla",
       "start": "2014-01-01",
       "end": null
@@ -43,31 +53,9 @@
       "company": "ABB Group",
       "start": "2016-04-01",
       "end": "2017-04-01"
-    },
-    {
-      "company": "Telstra",
-      "start": "2017-01-01",
-      "end": null
-    },
-    {
-      "company": "Sun Microsystems",
-      "start": "1996-01-01",
-      "end": "2007-08-01"
     }
   ],
   "positions": [
-    {
-      "title": "chairperson",
-      "company": null,
-      "start": "2018-11-01",
-      "end": null
-    },
-    {
-      "title": "chief operating officer",
-      "company": null,
-      "start": "2017-01-01",
-      "end": null
-    },
     {
       "title": "board member",
       "company": null,
@@ -79,6 +67,18 @@
       "company": null,
       "start": "http://www",
       "end": "2016-08-01"
+    },
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": "2018-11-01",
+      "end": null
+    },
+    {
+      "title": "chief operating officer",
+      "company": null,
+      "start": "2017-01-01",
+      "end": null
     }
   ],
   "currentTickers": [

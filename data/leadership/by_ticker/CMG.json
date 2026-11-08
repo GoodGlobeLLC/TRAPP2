@@ -1,5 +1,75 @@
 {
   "ticker": "CMG",
-  "fetchedAt": "2026-11-01T14:15:05.960332Z",
-  "people": []
+  "fetchedAt": "2026-11-08T13:59:03.897169Z",
+  "people": [
+    {
+      "qid": "Q117249140",
+      "name": "Brian Niccol",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q117249140",
+        "name": "Brian Niccol",
+        "dateOfBirth": "1974-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Niccol.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7612483",
+      "name": "Steve Ells",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q7612483",
+        "name": "Steve Ells",
+        "dateOfBirth": "1965-09-12",
+        "birthPlace": "Indianapolis",
+        "image": null,
+        "occupations": [
+          "chef",
+          "restaurateur"
+        ],
+        "education": [
+          "University of Colorado",
+          "University of Colorado Boulder",
+          "The Culinary Institute of America at Hyde Park",
+          "Boulder High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7612483",
+      "name": "Steve Ells",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q7612483",
+        "name": "Steve Ells",
+        "dateOfBirth": "1965-09-12",
+        "birthPlace": "Indianapolis",
+        "image": null,
+        "occupations": [
+          "chef",
+          "restaurateur"
+        ],
+        "education": [
+          "University of Colorado",
+          "University of Colorado Boulder",
+          "The Culinary Institute of America at Hyde Park",
+          "Boulder High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
 }

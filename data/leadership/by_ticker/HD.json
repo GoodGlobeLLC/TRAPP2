@@ -1,5 +1,25 @@
 {
   "ticker": "HD",
-  "fetchedAt": "2026-11-01T14:15:05.973711Z",
-  "people": []
+  "fetchedAt": "2026-11-08T13:59:03.910366Z",
+  "people": [
+    {
+      "qid": "Q128298523",
+      "name": "Sashidhar Jagdishan",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q128298523",
+        "name": "Sashidhar Jagdishan",
+        "dateOfBirth": "1965-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    }
+  ]
 }

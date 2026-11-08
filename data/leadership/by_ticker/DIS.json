@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-11-01T14:15:05.965088Z",
+  "fetchedAt": "2026-11-08T13:59:03.901972Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -160,11 +160,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
+          "television producer",
           "film producer",
           "business executive",
-          "businessperson",
-          "television producer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "The Center for Early Education",
@@ -174,11 +174,6 @@
         ],
         "employers": [
           {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
-          },
-          {
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
@@ -187,6 +182,11 @@
             "company": "The Walt Disney Company",
             "start": "1996-01-01",
             "end": "2021-12-31"
+          },
+          {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
           }
         ],
         "positions": [
@@ -291,12 +291,12 @@
           "politician"
         ],
         "education": [
+          "Harvard Law School",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
+          "University of Oxford",
           "The Branson School",
-          "Princeton University",
-          "Harvard Law School",
-          "University of Oxford"
+          "Princeton University"
         ],
         "employers": [],
         "positions": [
@@ -330,10 +330,10 @@
           "business executive"
         ],
         "education": [
-          "Stanford University",
           "Waterford Mott High School",
           "Kettering University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -480,15 +480,15 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
+          "banker",
           "chief financial officer",
-          "businessperson",
-          "banker"
+          "businessperson"
         ],
         "education": [
-          "Harvard Law School",
-          "Brookline High School",
           "University of Pennsylvania Carey Law School",
-          "The Wharton School"
+          "The Wharton School",
+          "Harvard Law School",
+          "Brookline High School"
         ],
         "employers": [
           {
@@ -574,8 +574,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Stanford University"
@@ -603,8 +603,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Indiana University",

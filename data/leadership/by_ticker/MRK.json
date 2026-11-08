@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-11-01T14:15:05.985040Z",
+  "fetchedAt": "2026-11-08T13:59:03.920571Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -14,15 +14,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
+          "lawyer",
           "businessperson"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
@@ -104,8 +104,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Yale University"
+          "Yale University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -151,19 +151,14 @@
           "physician"
         ],
         "education": [
-          "The Wharton School",
+          "Stony Brook University",
           "Harvard Medical School",
           "University of Pennsylvania",
-          "Harvard University",
-          "Stony Brook University",
-          "The Bush School"
+          "The Bush School",
+          "The Wharton School",
+          "Harvard University"
         ],
         "employers": [
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -173,15 +168,14 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
+          },
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
-          },
           {
             "title": "board member",
             "company": null,
@@ -193,6 +187,12 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
           }
         ]
       }
@@ -237,15 +237,15 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
-          "lawyer",
           "business executive",
+          "lawyer",
           "businessperson"
         ],
         "education": [
-          "Northeast High School",
-          "Julia R. Masterman School",
           "Pennsylvania State University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Northeast High School",
+          "Julia R. Masterman School"
         ],
         "employers": [
           {
@@ -337,8 +337,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
-          "Yale Law School"
+          "Yale Law School",
+          "Columbia University"
         ],
         "employers": [],
         "positions": [
@@ -370,8 +370,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Princeton University"
+          "Princeton University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -568,8 +568,8 @@
           "researcher"
         ],
         "education": [
-          "George Washington University Medical School",
-          "Harvard University"
+          "Harvard University",
+          "George Washington University Medical School"
         ],
         "employers": [],
         "positions": [
@@ -597,8 +597,8 @@
           "biophysicist"
         ],
         "education": [
-          "California Institute of Technology",
-          "Pennsylvania State University"
+          "Pennsylvania State University",
+          "California Institute of Technology"
         ],
         "employers": [
           {

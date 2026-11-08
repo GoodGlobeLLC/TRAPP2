@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-11-01T14:15:05.943259Z",
+  "fetchedAt": "2026-11-08T13:59:03.886971Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -55,8 +55,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -264,17 +264,22 @@
         "birthPlace": "6th arrondissement of Lyon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gilles%20P%C3%A9lisson.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
           "\u00c9cole alsacienne",
-          "Harvard University",
-          "lyc\u00e9e du Parc",
           "ESSEC Business School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University",
+          "lyc\u00e9e du Parc"
         ],
         "employers": [
+          {
+            "company": "Groupe TF1",
+            "start": "2016-01-01",
+            "end": "2023-01-01"
+          },
           {
             "company": "Accor",
             "start": "1983-01-01",
@@ -304,26 +309,9 @@
             "company": "Suez",
             "start": "2000-01-01",
             "end": "2001-01-01"
-          },
-          {
-            "company": "Groupe TF1",
-            "start": "2016-01-01",
-            "end": "2023-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-04-27",
-            "end": null
-          },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
@@ -341,6 +329,18 @@
             "company": null,
             "start": "2004-02-01",
             "end": "2005-10-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1997-02-01",
+            "end": "2000-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-04-27",
+            "end": null
           },
           {
             "title": "director general",
@@ -412,8 +412,8 @@
         "birthPlace": "Portland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/NancyMcKinstry.jpg",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [
           "University of Rhode Island",
@@ -455,8 +455,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "engineer",
-          "business executive"
+          "business executive",
+          "engineer"
         ],
         "education": [
           "University of Bradford"

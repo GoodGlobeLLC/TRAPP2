@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "fetchedAt": "2026-11-01T14:15:06.000937Z",
+  "fetchedAt": "2026-11-08T13:59:03.935731Z",
   "people": [
     {
       "qid": "Q61985799",
@@ -18,17 +18,17 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -118,9 +118,9 @@
           "manager"
         ],
         "education": [
+          "Harvard Business School",
           "Collegiate School",
           "Allen-Stevenson School",
-          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -142,9 +142,9 @@
           "financier"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -162,25 +162,25 @@
         "birthPlace": "Fort Jackson",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Debra%20Lee%20at%20Fortune%20Most%20Powerful%20Women%20Summit.jpg",
         "occupations": [
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Harvard Law School",
-          "James B. Dudley High School",
           "Brown University",
+          "James B. Dudley High School",
           "John F. Kennedy School of Government"
         ],
         "employers": [
           {
-            "company": "Ad Council",
+            "company": "BET",
             "start": null,
             "end": null
           },
           {
-            "company": "BET Media Group",
-            "start": "1986-01-01",
-            "end": "2018-01-01"
+            "company": "Marriott International",
+            "start": null,
+            "end": null
           },
           {
             "company": "Monsanto",
@@ -193,16 +193,6 @@
             "end": null
           },
           {
-            "company": "BET",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Marriott International",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Revlon",
             "start": null,
             "end": null
@@ -211,6 +201,16 @@
             "company": "Washington Gas",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Ad Council",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "BET Media Group",
+            "start": "1986-01-01",
+            "end": "2018-01-01"
           }
         ],
         "positions": [
@@ -326,17 +326,17 @@
           "chief executive officer"
         ],
         "education": [
-          "Loyola Marymount University",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Loyola Marymount University"
         ],
         "employers": [
           {
-            "company": "AT&T",
+            "company": "WarnerMedia",
             "start": null,
             "end": null
           },
           {
-            "company": "WarnerMedia",
+            "company": "AT&T",
             "start": null,
             "end": null
           }
@@ -418,8 +418,8 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Stephen%20J.%20Luczo%20from%20acrofan.jpg",
         "occupations": [
-          "entrepreneur",
-          "film producer"
+          "film producer",
+          "entrepreneur"
         ],
         "education": [
           "Stanford University"

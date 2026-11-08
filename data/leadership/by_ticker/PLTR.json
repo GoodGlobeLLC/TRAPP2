@@ -1,7 +1,69 @@
 {
   "ticker": "PLTR",
-  "fetchedAt": "2026-11-01T14:15:05.993318Z",
+  "fetchedAt": "2026-11-08T13:59:03.928248Z",
   "people": [
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "merchant",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Stanford University",
+          "Goethe University Frankfurt",
+          "Haverford College"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "merchant",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Stanford University",
+          "Goethe University Frankfurt",
+          "Haverford College"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
     {
       "qid": "Q16204157",
       "name": "Stephen Cohen",
@@ -36,15 +98,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "entrepreneur",
-          "financier",
           "chess player",
-          "banker",
           "manager",
-          "computer scientist",
-          "businessperson",
-          "technology entrepreneur",
+          "financier",
           "investor",
+          "banker",
+          "technology entrepreneur",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -114,8 +176,8 @@
           "venture capitalist"
         ],
         "education": [
-          "Stanford University",
-          "Mission San Jose High School"
+          "Mission San Jose High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -183,15 +245,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "entrepreneur",
-          "financier",
           "chess player",
-          "banker",
           "manager",
-          "computer scientist",
-          "businessperson",
-          "technology entrepreneur",
+          "financier",
           "investor",
+          "banker",
+          "technology entrepreneur",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -220,6 +282,37 @@
             "end": "2022-05-25"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q19560940",
+      "name": "Alexander C. Karp",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19560940",
+        "name": "Alexander C. Karp",
+        "dateOfBirth": "1967-10-02",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Karp%20attends%20AI%20Summit%20%2853302457013%29%204-5%20ratio.jpg",
+        "occupations": [
+          "merchant",
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Stanford University",
+          "Goethe University Frankfurt",
+          "Haverford College"
+        ],
+        "employers": [
+          {
+            "company": "Palantir Technologies",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     }
   ]

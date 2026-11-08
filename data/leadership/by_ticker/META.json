@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-01T14:15:05.983907Z",
+  "fetchedAt": "2026-11-08T13:59:03.919518Z",
   "people": [
     {
       "qid": "Q36215",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "entrepreneur",
-          "programmer",
           "philanthropist",
-          "computer scientist",
-          "chief executive officer"
+          "programmer",
+          "chief executive officer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Columbia Business School",
@@ -128,12 +128,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Lynbrook High School",
-          "Harvard University"
+          "Harvard University",
+          "Lynbrook High School"
         ],
         "employers": [
           {
@@ -160,10 +160,25 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -178,21 +193,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -312,8 +312,8 @@
         "birthPlace": "Logan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Kimmitt%2C%20official%20Treasury%20photo.jpg",
         "occupations": [
-          "diplomat",
-          "politician"
+          "politician",
+          "diplomat"
         ],
         "education": [
           "Georgetown University Law Center",
@@ -360,15 +360,15 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "entrepreneur",
-          "financier",
           "chess player",
-          "banker",
           "manager",
-          "computer scientist",
-          "businessperson",
-          "technology entrepreneur",
+          "financier",
           "investor",
+          "banker",
+          "technology entrepreneur",
+          "businessperson",
+          "computer scientist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -411,15 +411,15 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
+          "computer scientist",
           "economist",
           "businessperson",
-          "computer scientist",
           "entrepreneur"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard College",
-          "North Miami Beach High School"
+          "North Miami Beach High School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -429,6 +429,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "vice president",
             "company": null,
@@ -462,12 +468,6 @@
           {
             "title": "board member",
             "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "board member",
-            "company": null,
             "start": "2012-01-01",
             "end": null
           },
@@ -492,13 +492,13 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "blogger",
-          "programmer",
           "software engineer",
+          "programmer",
+          "blogger",
           "investor",
           "inventor",
-          "entrepreneur",
           "engineer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -540,11 +540,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "entrepreneur",
-          "programmer",
           "philanthropist",
-          "computer scientist",
-          "chief executive officer"
+          "programmer",
+          "chief executive officer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",
@@ -572,6 +572,34 @@
       }
     },
     {
+      "qid": "Q4757939",
+      "name": "Andrew McCollum",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q4757939",
+        "name": "Andrew McCollum",
+        "dateOfBirth": "1983-09-04",
+        "birthPlace": "Los Angeles County",
+        "image": null,
+        "occupations": [
+          "angel investor"
+        ],
+        "education": [
+          "Harvard Graduate School of Education",
+          "Harvard University"
+        ],
+        "employers": [
+          {
+            "company": "Meta Platforms",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q36215",
       "name": "Mark Zuckerberg",
       "role_at_company": "Founder",
@@ -584,11 +612,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "entrepreneur",
-          "programmer",
           "philanthropist",
-          "computer scientist",
-          "chief executive officer"
+          "programmer",
+          "chief executive officer",
+          "entrepreneur",
+          "computer scientist"
         ],
         "education": [
           "Mercy University",

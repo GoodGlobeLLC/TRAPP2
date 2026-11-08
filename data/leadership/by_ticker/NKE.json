@@ -1,6 +1,6 @@
 {
   "ticker": "NKE",
-  "fetchedAt": "2026-11-01T14:15:05.987623Z",
+  "fetchedAt": "2026-11-08T13:59:03.922975Z",
   "people": [
     {
       "qid": "Q130612644",
@@ -34,8 +34,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
-          "The Wharton School"
+          "The Wharton School",
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -137,9 +137,9 @@
         "birthPlace": "Hillsboro",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Travis%20Knight%20%2830000495292%29.jpg",
         "occupations": [
+          "film producer",
           "rapper",
           "animator",
-          "film producer",
           "film director"
         ],
         "education": [
@@ -170,13 +170,13 @@
         ],
         "employers": [
           {
-            "company": "Stanford University",
-            "start": null,
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Stanford University",
+            "start": null,
             "end": null
           }
         ],
@@ -248,18 +248,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "writer",
-          "entrepreneur",
           "businessperson",
-          "philanthropist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
+          "Oregon State University",
+          "University of Oregon",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
-          "Stanford University",
-          "Oregon State University",
-          "University of Oregon"
+          "Stanford University"
         ],
         "employers": [
           {
@@ -288,7 +286,6 @@
         "education": [
           "Stanford University",
           "Dartmouth College",
-          "Stanford University",
           "Stanford Graduate School of Business"
         ],
         "employers": [
@@ -313,12 +310,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
           "presenter",
           "chief executive officer",
-          "computer scientist",
+          "manager",
           "businessperson",
-          "manager"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Auburn University",
@@ -362,18 +359,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Philknightfootball.jpg",
         "occupations": [
           "philanthropist",
-          "writer",
-          "entrepreneur",
           "businessperson",
-          "philanthropist",
+          "entrepreneur",
           "writer"
         ],
         "education": [
+          "Oregon State University",
+          "University of Oregon",
           "Charles H. Lundquist College of Business",
           "Cleveland High School",
-          "Stanford University",
-          "Oregon State University",
-          "University of Oregon"
+          "Stanford University"
         ],
         "employers": [
           {

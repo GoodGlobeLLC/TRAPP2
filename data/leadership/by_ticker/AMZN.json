@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-11-01T14:15:05.946317Z",
+  "fetchedAt": "2026-11-08T13:59:03.889840Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,9 +17,9 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "Scarsdale High School"
         ],
         "employers": [
           {
@@ -55,23 +55,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
           "computer scientist",
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -86,22 +81,158 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q1571715",
+      "name": "Judy McGrath",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1571715",
+        "name": "Judy McGrath",
+        "dateOfBirth": "1952-07-02",
+        "birthPlace": "Scranton",
+        "image": null,
+        "occupations": [
+          "film producer"
+        ],
+        "education": [
+          "Cedar Crest College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1360488",
+      "name": "Keith B. Alexander",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1360488",
+        "name": "Keith B. Alexander",
+        "dateOfBirth": "1951-12-02",
+        "birthPlace": "Syracuse",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
+        "occupations": [
+          "spy",
+          "intelligence officer",
+          "soldier"
+        ],
+        "education": [
+          "Westhill Senior High School",
+          "Questrom School of Business",
+          "Naval Postgraduate School",
+          "Boston University",
+          "United States Military Academy"
+        ],
+        "employers": [
+          {
+            "company": "National Security Agency",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Director of the National Security Agency",
+            "company": null,
+            "start": "2005-08-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q1162007",
+      "name": "Daniel P. Huttenlocher",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1162007",
+        "name": "Daniel P. Huttenlocher",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "academic",
+          "executive",
+          "dean",
+          "university teacher",
+          "computer scientist"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "University of Michigan"
+        ],
+        "employers": [
+          {
+            "company": "Cornell University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q869322",
+      "name": "Jon Rubinstein",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q869322",
+        "name": "Jon Rubinstein",
+        "dateOfBirth": "1956-04-18",
+        "birthPlace": "New York City",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
+        "occupations": [
+          "engineer",
+          "computer scientist"
+        ],
+        "education": [
+          "Horace Mann School",
+          "Cornell University College of Engineering",
+          "Colorado State University",
+          "Cornell University"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     },
     {
@@ -119,9 +250,9 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
+          "Harvard University",
           "Harvard Business School",
-          "Harvard University"
+          "Scarsdale High School"
         ],
         "employers": [
           {
@@ -255,27 +386,60 @@
       }
     },
     {
-      "qid": "Q1571715",
-      "name": "Judy McGrath",
+      "qid": "Q312556",
+      "name": "Jeff Bezos",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
-        "qid": "Q1571715",
-        "name": "Judy McGrath",
-        "dateOfBirth": "1952-07-02",
-        "birthPlace": "Scranton",
-        "image": null,
+        "qid": "Q312556",
+        "name": "Jeff Bezos",
+        "dateOfBirth": "1964-01-12",
+        "birthPlace": "Albuquerque",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "film producer"
+          "programmer",
+          "commercial astronaut",
+          "entrepreneur",
+          "computer scientist",
+          "business oligarch"
         ],
         "education": [
-          "Cedar Crest College"
+          "Princeton University",
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "D.E. Shaw",
+            "start": "1990-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "1994-07-05",
+            "end": null
+          },
+          {
+            "company": "Bankers Trust",
+            "start": "1988-01-01",
+            "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": [
           {
             "title": "chief executive officer",
             "company": null,
+            "start": "1996-05-01",
+            "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
             "start": null,
             "end": null
           }
@@ -283,106 +447,73 @@
       }
     },
     {
-      "qid": "Q1360488",
-      "name": "Keith B. Alexander",
+      "qid": "Q264913",
+      "name": "Indra Nooyi",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
-        "qid": "Q1360488",
-        "name": "Keith B. Alexander",
-        "dateOfBirth": "1951-12-02",
-        "birthPlace": "Syracuse",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
+        "qid": "Q264913",
+        "name": "Indra Nooyi",
+        "dateOfBirth": "1955-09-28",
+        "birthPlace": "Chennai",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IndraNooyiDavos2010ver2.jpg",
         "occupations": [
-          "intelligence officer",
-          "spy",
-          "soldier"
+          "businessperson"
         ],
         "education": [
-          "Boston University",
-          "United States Military Academy",
-          "Naval Postgraduate School",
-          "Westhill Senior High School",
-          "Questrom School of Business"
+          "Yale University",
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
+          "Yale School of Management",
+          "Holy Angels Anglo Indian Higher Secondary School",
+          "Madras Christian College"
         ],
         "employers": [
           {
-            "company": "National Security Agency",
+            "company": "Johnson & Johnson",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Boston Consulting Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "ABB Group",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Amazon",
+            "start": "2019-01-01",
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "Director of the National Security Agency",
+            "title": "chief executive officer",
             "company": null,
-            "start": "2005-08-01",
-            "end": null
+            "start": "2006-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "2001-01-01",
+            "end": "2006-01-01"
           }
         ]
-      }
-    },
-    {
-      "qid": "Q1162007",
-      "name": "Daniel P. Huttenlocher",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1162007",
-        "name": "Daniel P. Huttenlocher",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "academic",
-          "university teacher",
-          "executive",
-          "dean",
-          "computer scientist"
-        ],
-        "education": [
-          "University of Michigan",
-          "Massachusetts Institute of Technology"
-        ],
-        "employers": [
-          {
-            "company": "Cornell University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q869322",
-      "name": "Jon Rubinstein",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q869322",
-        "name": "Jon Rubinstein",
-        "dateOfBirth": "1956-04-18",
-        "birthPlace": "New York City",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
-        "occupations": [
-          "computer scientist",
-          "engineer"
-        ],
-        "education": [
-          "Cornell University",
-          "Horace Mann School",
-          "Cornell University College of Engineering",
-          "Colorado State University"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
       }
     },
     {
@@ -420,9 +551,9 @@
           "lawyer"
         ],
         "education": [
+          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School",
-          "William A. Shine Great Neck South High School"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -444,137 +575,6 @@
     {
       "qid": "Q312556",
       "name": "Jeff Bezos",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q312556",
-        "name": "Jeff Bezos",
-        "dateOfBirth": "1964-01-12",
-        "birthPlace": "Albuquerque",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
-        "occupations": [
-          "entrepreneur",
-          "programmer",
-          "commercial astronaut",
-          "computer scientist",
-          "business oligarch"
-        ],
-        "education": [
-          "Miami Palmetto High School",
-          "Princeton University",
-          "River Oaks Elementary School"
-        ],
-        "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "D.E. Shaw",
-            "start": "1990-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "Amazon",
-            "start": "1994-07-05",
-            "end": null
-          },
-          {
-            "company": "Bankers Trust",
-            "start": "1988-01-01",
-            "end": "1990-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "1996-05-01",
-            "end": "2021-07-05"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q264913",
-      "name": "Indra Nooyi",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q264913",
-        "name": "Indra Nooyi",
-        "dateOfBirth": "1955-09-28",
-        "birthPlace": "Chennai",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/IndraNooyiDavos2010ver2.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
-          "Yale School of Management",
-          "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College",
-          "Yale University"
-        ],
-        "employers": [
-          {
-            "company": "Boston Consulting Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "ABB Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "Johnson & Johnson",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Amazon",
-            "start": "2019-01-01",
-            "end": null
-          },
-          {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2006-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "2001-01-01",
-            "end": "2006-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q312556",
-      "name": "Jeff Bezos",
       "role_at_company": "Founder",
       "source_field": "founders",
       "career": {
@@ -584,23 +584,18 @@
         "birthPlace": "Albuquerque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeff%20Bezos%20at%20Amazon%20Spheres%20Grand%20Opening%20in%20Seattle%20-%202018%20%2839074799225%29%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "programmer",
           "commercial astronaut",
+          "entrepreneur",
           "computer scientist",
           "business oligarch"
         ],
         "education": [
-          "Miami Palmetto High School",
           "Princeton University",
-          "River Oaks Elementary School"
+          "River Oaks Elementary School",
+          "Miami Palmetto High School"
         ],
         "employers": [
-          {
-            "company": "First International Telecom",
-            "start": null,
-            "end": null
-          },
           {
             "company": "D.E. Shaw",
             "start": "1990-01-01",
@@ -615,20 +610,25 @@
             "company": "Bankers Trust",
             "start": "1988-01-01",
             "end": "1990-01-01"
+          },
+          {
+            "company": "First International Telecom",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
-          {
-            "title": "chairperson of the executive board",
-            "company": null,
-            "start": null,
-            "end": null
-          },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "1996-05-01",
             "end": "2021-07-05"
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
