@@ -104,6 +104,7 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "oncologist",
           "scientist",
           "oncologist",
           "physician"
@@ -152,14 +153,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "chairperson"
+          "chairperson",
+          "investor"
         ],
         "education": [
-          "University of London",
           "Imperial College London",
-          "Harvard Business School",
-          "Harvard University"
+          "University of London",
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -259,11 +260,6 @@
         "education": [],
         "employers": [
           {
-            "company": "General Motors",
-            "start": "1979-01-01",
-            "end": "1995-01-01"
-          },
-          {
             "company": "Gap Inc.",
             "start": "1999-01-01",
             "end": "2003-01-01"
@@ -277,6 +273,11 @@
             "company": "Blue Shield of California",
             "start": "2003-01-01",
             "end": "2012-01-01"
+          },
+          {
+            "company": "General Motors",
+            "start": "1979-01-01",
+            "end": "1995-01-01"
           }
         ],
         "positions": [
@@ -505,8 +506,8 @@
         "birthPlace": "Lynn",
         "image": null,
         "occupations": [
-          "biologist",
-          "business executive"
+          "business executive",
+          "biologist"
         ],
         "education": [
           "University of Massachusetts",
