@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-01T14:15:05.996452Z",
+  "fetchedAt": "2026-11-08T13:15:32.699092Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -21,154 +21,6 @@
           "Purdue University"
         ],
         "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6809043",
-      "name": "Meghan O'Sullivan",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6809043",
-        "name": "Meghan O'Sullivan",
-        "dateOfBirth": "1969-09-13",
-        "birthPlace": "Lexington",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosullivan-100.jpg",
-        "occupations": [
-          "civil servant"
-        ],
-        "education": [
-          "Georgetown University",
-          "Saddleback High School",
-          "Lexington High School",
-          "University of Oxford"
-        ],
-        "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Assistant to the President and Deputy National Security Advisor for Iraq and Afghanistan",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q6128328",
-      "name": "James A. Winnefeld, Jr.",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6128328",
-        "name": "James A. Winnefeld, Jr.",
-        "dateOfBirth": "1956-04-24",
-        "birthPlace": "Coronado",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
-        "occupations": [
-          "admiral",
-          "military officer",
-          "naval air force"
-        ],
-        "education": [
-          "Fort Hunt High School",
-          "Georgia Tech"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Vice Chairman of the Joint Chiefs of Staff",
-            "company": null,
-            "start": "2011-08-04",
-            "end": "2015-07-31"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5364921",
-      "name": "Ellen M. Pawlikowski",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5364921",
-        "name": "Ellen M. Pawlikowski",
-        "dateOfBirth": "1956-01-01",
-        "birthPlace": "East Orange",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen%20Ellen%20Pawlikowski%202015.JPG",
-        "occupations": [
-          "military officer"
-        ],
-        "education": [
-          "New Jersey Institute of Technology"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q5278098",
-      "name": "Dinesh Paliwal",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5278098",
-        "name": "Dinesh Paliwal",
-        "dateOfBirth": "1957-12-17",
-        "birthPlace": "Agra",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
-        "occupations": [
-          "businessperson",
-          "manager"
-        ],
-        "education": [
-          "Dr. Hari Singh Gour University",
-          "Indian Institute of Technology Roorkee",
-          "Miami University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q822249",
-      "name": "Bernard A. Harris, Jr.",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q822249",
-        "name": "Bernard A. Harris, Jr.",
-        "dateOfBirth": "1956-06-26",
-        "birthPlace": "Temple",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
-        "occupations": [
-          "physician",
-          "astronaut"
-        ],
-        "education": [
-          "Texas Tech University Health Sciences Center",
-          "University of Houston",
-          "Texas Tech University"
-        ],
-        "employers": [
-          {
-            "company": "National Aeronautics and Space Administration",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "National Math and Science Initiative",
-            "start": null,
-            "end": null
-          }
-        ],
         "positions": []
       }
     },
@@ -206,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Miami"
@@ -388,17 +240,17 @@
         ],
         "employers": [
           {
-            "company": "United States Department of the Navy",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -417,6 +269,154 @@
             "end": null
           }
         ]
+      }
+    },
+    {
+      "qid": "Q6809043",
+      "name": "Meghan O'Sullivan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6809043",
+        "name": "Meghan O'Sullivan",
+        "dateOfBirth": "1969-09-13",
+        "birthPlace": "Lexington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosullivan-100.jpg",
+        "occupations": [
+          "civil servant"
+        ],
+        "education": [
+          "Georgetown University",
+          "University of Oxford",
+          "Saddleback High School",
+          "Lexington High School"
+        ],
+        "employers": [
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Assistant to the President and Deputy National Security Advisor for Iraq and Afghanistan",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q6128328",
+      "name": "James A. Winnefeld, Jr.",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6128328",
+        "name": "James A. Winnefeld, Jr.",
+        "dateOfBirth": "1956-04-24",
+        "birthPlace": "Coronado",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
+        "occupations": [
+          "military officer",
+          "admiral",
+          "naval air force"
+        ],
+        "education": [
+          "Fort Hunt High School",
+          "Georgia Tech"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Vice Chairman of the Joint Chiefs of Staff",
+            "company": null,
+            "start": "2011-08-04",
+            "end": "2015-07-31"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5364921",
+      "name": "Ellen M. Pawlikowski",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5364921",
+        "name": "Ellen M. Pawlikowski",
+        "dateOfBirth": "1956-01-01",
+        "birthPlace": "East Orange",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gen%20Ellen%20Pawlikowski%202015.JPG",
+        "occupations": [
+          "military officer"
+        ],
+        "education": [
+          "New Jersey Institute of Technology"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5278098",
+      "name": "Dinesh Paliwal",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5278098",
+        "name": "Dinesh Paliwal",
+        "dateOfBirth": "1957-12-17",
+        "birthPlace": "Agra",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
+        "occupations": [
+          "manager",
+          "businessperson"
+        ],
+        "education": [
+          "Dr. Hari Singh Gour University",
+          "Indian Institute of Technology Roorkee",
+          "Miami University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q822249",
+      "name": "Bernard A. Harris, Jr.",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q822249",
+        "name": "Bernard A. Harris, Jr.",
+        "dateOfBirth": "1956-06-26",
+        "birthPlace": "Temple",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
+        "occupations": [
+          "physician",
+          "astronaut"
+        ],
+        "education": [
+          "Texas Tech University Health Sciences Center",
+          "University of Houston",
+          "Texas Tech University"
+        ],
+        "employers": [
+          {
+            "company": "National Aeronautics and Space Administration",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "National Math and Science Initiative",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     }
   ]
