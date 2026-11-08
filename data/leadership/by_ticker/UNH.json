@@ -1,6 +1,6 @@
 {
   "ticker": "UNH",
-  "fetchedAt": "2026-11-01T14:15:06.004605Z",
+  "fetchedAt": "2026-11-08T13:15:32.736423Z",
   "people": [
     {
       "qid": "Q18121649",
@@ -22,16 +22,6 @@
         ],
         "employers": [
           {
-            "company": "University of Nottingham",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": "1985-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "Optum",
             "start": "2018-03-01",
             "end": "2021-02-01"
@@ -40,6 +30,16 @@
             "company": "UnitedHealth Group",
             "start": "2021-02-04",
             "end": "2025-05-13"
+          },
+          {
+            "company": "University of Nottingham",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
+            "start": "1985-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -238,8 +238,8 @@
         "occupations": [
           "obstetrician",
           "gynecologist",
-          "physician",
-          "scientist"
+          "scientist",
+          "physician"
         ],
         "education": [
           "Harvard Medical School"
@@ -322,16 +322,6 @@
         ],
         "employers": [
           {
-            "company": "University of Nottingham",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "GSK",
-            "start": "1985-01-01",
-            "end": "2017-01-01"
-          },
-          {
             "company": "Optum",
             "start": "2018-03-01",
             "end": "2021-02-01"
@@ -340,6 +330,16 @@
             "company": "UnitedHealth Group",
             "start": "2021-02-04",
             "end": "2025-05-13"
+          },
+          {
+            "company": "University of Nottingham",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "GSK",
+            "start": "1985-01-01",
+            "end": "2017-01-01"
           }
         ],
         "positions": [
@@ -411,9 +411,9 @@
         "birthPlace": "Elmira",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Baker%20official%20photo%20%28cropped%29.jpg",
         "occupations": [
+          "governor",
           "politician",
-          "businessperson",
-          "governor"
+          "businessperson"
         ],
         "education": [
           "Needham High School",

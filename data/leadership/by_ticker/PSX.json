@@ -1,47 +1,7 @@
 {
   "ticker": "PSX",
-  "fetchedAt": "2026-11-01T14:15:05.994571Z",
+  "fetchedAt": "2026-11-08T13:15:32.697087Z",
   "people": [
-    {
-      "qid": "Q5569148",
-      "name": "Glenn Tilton",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5569148",
-        "name": "Glenn Tilton",
-        "dateOfBirth": "1948-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "chief executive officer"
-        ],
-        "education": [
-          "University of South Carolina"
-        ],
-        "employers": [
-          {
-            "company": "UAL Corporation",
-            "start": "2002-09-05",
-            "end": "2010-10-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2013-01-01",
-            "end": null
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2007-04-27",
-            "end": "2023-04-28"
-          }
-        ]
-      }
-    },
     {
       "qid": "Q114393056",
       "name": "Mark Lashier",
@@ -289,6 +249,46 @@
             "company": null,
             "start": "2020-03-04",
             "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5569148",
+      "name": "Glenn Tilton",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5569148",
+        "name": "Glenn Tilton",
+        "dateOfBirth": "1948-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [
+          "University of South Carolina"
+        ],
+        "employers": [
+          {
+            "company": "UAL Corporation",
+            "start": "2002-09-05",
+            "end": "2010-10-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2013-01-01",
+            "end": null
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2007-04-27",
+            "end": "2023-04-28"
           }
         ]
       }
