@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-11-01T14:15:05.947847Z",
+  "fetchedAt": "2026-11-08T13:33:28.154373Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -74,8 +74,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "university teacher",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -271,8 +271,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [],
         "employers": [
@@ -378,14 +378,14 @@
         ],
         "employers": [
           {
-            "company": "Intel",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Google",
             "start": "2017-12-01",
             "end": "2018-07-01"
+          },
+          {
+            "company": "Intel",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -442,8 +442,8 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "university teacher",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [

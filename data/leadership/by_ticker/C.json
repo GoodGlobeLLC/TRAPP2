@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "fetchedAt": "2026-11-01T14:15:05.957974Z",
+  "fetchedAt": "2026-11-08T13:33:28.159661Z",
   "people": [
     {
       "qid": "Q21997525",
@@ -54,70 +54,6 @@
       }
     },
     {
-      "qid": "Q6224386",
-      "name": "John Dugan",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6224386",
-        "name": "John Dugan",
-        "dateOfBirth": "1955-06-03",
-        "birthPlace": "Washington, D.C.",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dugan%20john%20sm.jpg",
-        "occupations": [
-          "accountant"
-        ],
-        "education": [
-          "University of Michigan",
-          "Harvard Law School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q5271319",
-      "name": "Diana Taylor",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5271319",
-        "name": "Diana Taylor",
-        "dateOfBirth": "1955-02-06",
-        "birthPlace": "Greenwich",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20100%20Michael%20Bloomberg%20and%20wife%20%28cropped%29.jpg",
-        "occupations": [
-          "politician"
-        ],
-        "education": [
-          "Columbia Business School",
-          "Dartmouth College",
-          "Milton Academy"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q109698241",
-      "name": "Ellen Costello",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q109698241",
-        "name": "Ellen Costello",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q23135812",
       "name": "Jay Jacobs",
       "role_at_company": "Board Member",
@@ -130,8 +66,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Georgetown University",
-          "Washington University in St.\u00a0Louis"
+          "Washington University in St.\u00a0Louis",
+          "Georgetown University"
         ],
         "employers": [],
         "positions": []
@@ -256,8 +192,8 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "St Catherine's College"
+          "St Catherine's College",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -271,6 +207,51 @@
             "end": null
           }
         ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6224386",
+      "name": "John Dugan",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6224386",
+        "name": "John Dugan",
+        "dateOfBirth": "1955-06-03",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dugan%20john%20sm.jpg",
+        "occupations": [
+          "accountant"
+        ],
+        "education": [
+          "University of Michigan",
+          "Harvard Law School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5271319",
+      "name": "Diana Taylor",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5271319",
+        "name": "Diana Taylor",
+        "dateOfBirth": "1955-02-06",
+        "birthPlace": "Greenwich",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Time%20100%20Michael%20Bloomberg%20and%20wife%20%28cropped%29.jpg",
+        "occupations": [
+          "politician"
+        ],
+        "education": [
+          "Columbia Business School",
+          "Dartmouth College",
+          "Milton Academy"
+        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -329,11 +310,10 @@
         "birthPlace": "Kent",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Anna%20Lee%20pg736.jpg",
         "occupations": [
-          "film actor",
           "television actor",
           "voice actor",
-          "film actor",
-          "actor"
+          "actor",
+          "film actor"
         ],
         "education": [
           "Royal Central School of Speech and Drama"
@@ -402,6 +382,25 @@
         "education": [
           "University of Wisconsin\u2013Eau Claire"
         ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q109698241",
+      "name": "Ellen Costello",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q109698241",
+        "name": "Ellen Costello",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
         "employers": [],
         "positions": []
       }

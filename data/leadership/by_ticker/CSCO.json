@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-11-01T14:15:05.962371Z",
+  "fetchedAt": "2026-11-08T13:33:28.165542Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -52,11 +52,11 @@
           "chief executive officer"
         ],
         "education": [
-          "University of Wisconsin\u2013Madison",
+          "Stanford University",
           "Wisconsin School of Business",
           "Wauwatosa East High School",
           "Stanford Graduate School of Business",
-          "Stanford University"
+          "University of Wisconsin\u2013Madison"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20T.%20Chambers%20World%20Economic%20Forum%202013.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Indiana University",
@@ -236,19 +236,19 @@
           "electrical engineer"
         ],
         "education": [
-          "Thomas Jefferson High School",
-          "Stanford University"
+          "Stanford University",
+          "Thomas Jefferson High School"
         ],
         "employers": [
-          {
-            "company": "Duke University",
-            "start": "1999-01-01",
-            "end": "2007-01-01"
-          },
           {
             "company": "University of Colorado Boulder",
             "start": "1985-01-01",
             "end": "1999-01-01"
+          },
+          {
+            "company": "Duke University",
+            "start": "1999-01-01",
+            "end": "2007-01-01"
           }
         ],
         "positions": []
@@ -287,8 +287,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "St. Ignatius College Prep",
-          "Columbia University"
+          "Columbia University",
+          "St. Ignatius College Prep"
         ],
         "employers": [],
         "positions": []
@@ -473,13 +473,13 @@
             "end": null
           },
           {
-            "company": "AMD",
-            "start": "2012-01-01",
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           },
           {
-            "company": "IBM Research",
-            "start": "1995-01-01",
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           }
         ],

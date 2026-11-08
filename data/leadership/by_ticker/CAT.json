@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "fetchedAt": "2026-11-01T14:15:05.958335Z",
+  "fetchedAt": "2026-11-08T13:33:28.160133Z",
   "people": [
     {
       "qid": "Q137168946",
@@ -70,129 +70,6 @@
       }
     },
     {
-      "qid": "Q5341681",
-      "name": "Edward B. Rust, Jr.",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5341681",
-        "name": "Edward B. Rust, Jr.",
-        "dateOfBirth": "1951-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "entrepreneur"
-        ],
-        "education": [
-          "Cox School of Business",
-          "Bloomington High School",
-          "Illinois Wesleyan University",
-          "Southern Methodist University",
-          "Dedman School of Law"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q441879",
-      "name": "Susan Schwab",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q441879",
-        "name": "Susan Schwab",
-        "dateOfBirth": "1955-03-23",
-        "birthPlace": "Washington, D.C.",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
-        "occupations": [
-          "university teacher",
-          "politician",
-          "diplomat"
-        ],
-        "education": [
-          "Stanford University",
-          "Aiglon College",
-          "International School Bangkok",
-          "George Washington University",
-          "Williams College"
-        ],
-        "employers": [
-          {
-            "company": "University of Maryland",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q22354",
-      "name": "Kelly Ayotte",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q22354",
-        "name": "Kelly Ayotte",
-        "dateOfBirth": "1968-06-27",
-        "birthPlace": "Nashua",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Ayotte%2C%20Official%20Portrait%2C%20112th%20Congress%202.jpg",
-        "occupations": [
-          "prosecutor",
-          "adviser",
-          "law clerk",
-          "lawyer",
-          "politician"
-        ],
-        "education": [
-          "Villanova University School of Law",
-          "Nashua High School South",
-          "Villanova University",
-          "Pennsylvania State University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "2015-01-03",
-            "end": "2017-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "2013-01-03",
-            "end": "2015-01-03"
-          },
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "2011-01-03",
-            "end": "2013-01-03"
-          },
-          {
-            "title": "deputy attorney general",
-            "company": null,
-            "start": "2004-01-01",
-            "end": "2009-01-01"
-          },
-          {
-            "title": "Governor of New Hampshire",
-            "company": null,
-            "start": "2025-01-09",
-            "end": null
-          },
-          {
-            "title": "New Hampshire Attorney General",
-            "company": null,
-            "start": "2004-06-15",
-            "end": "2009-07-17"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q114621710",
       "name": "Gerald Johnson",
       "role_at_company": "Board Member",
@@ -205,8 +82,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Kettering University"
+          "Kettering University",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -322,8 +199,8 @@
         "birthPlace": "Boston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mauricio%20Macri%20%26%20David%20W.%20MacLennan%20Davos%202018%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "University of Chicago",
@@ -347,8 +224,8 @@
         "birthPlace": "Philadelphia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Calhoun%20%28cropped%29.png",
         "occupations": [
-          "business executive",
-          "manager"
+          "manager",
+          "business executive"
         ],
         "education": [
           "Parkland High School",
@@ -361,6 +238,129 @@
             "company": null,
             "start": "2020-01-01",
             "end": "2024-08-07"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5341681",
+      "name": "Edward B. Rust, Jr.",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5341681",
+        "name": "Edward B. Rust, Jr.",
+        "dateOfBirth": "1951-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "entrepreneur"
+        ],
+        "education": [
+          "Cox School of Business",
+          "Bloomington High School",
+          "Illinois Wesleyan University",
+          "Southern Methodist University",
+          "Dedman School of Law"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q441879",
+      "name": "Susan Schwab",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q441879",
+        "name": "Susan Schwab",
+        "dateOfBirth": "1955-03-23",
+        "birthPlace": "Washington, D.C.",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Susan%20Schwab%2C%20USTR%20official%20photo.jpg",
+        "occupations": [
+          "politician",
+          "diplomat",
+          "university teacher"
+        ],
+        "education": [
+          "Williams College",
+          "Aiglon College",
+          "International School Bangkok",
+          "George Washington University",
+          "Stanford University"
+        ],
+        "employers": [
+          {
+            "company": "University of Maryland",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q22354",
+      "name": "Kelly Ayotte",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q22354",
+        "name": "Kelly Ayotte",
+        "dateOfBirth": "1968-06-27",
+        "birthPlace": "Nashua",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelly%20Ayotte%2C%20Official%20Portrait%2C%20112th%20Congress%202.jpg",
+        "occupations": [
+          "prosecutor",
+          "adviser",
+          "law clerk",
+          "politician",
+          "lawyer"
+        ],
+        "education": [
+          "Villanova University School of Law",
+          "Nashua High School South",
+          "Villanova University",
+          "Pennsylvania State University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "2015-01-03",
+            "end": "2017-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "2013-01-03",
+            "end": "2015-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "2011-01-03",
+            "end": "2013-01-03"
+          },
+          {
+            "title": "deputy attorney general",
+            "company": null,
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "title": "Governor of New Hampshire",
+            "company": null,
+            "start": "2025-01-09",
+            "end": null
+          },
+          {
+            "title": "New Hampshire Attorney General",
+            "company": null,
+            "start": "2004-06-15",
+            "end": "2009-07-17"
           }
         ]
       }

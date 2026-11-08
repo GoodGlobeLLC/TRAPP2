@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-11-01T14:15:05.969316Z",
+  "fetchedAt": "2026-11-08T13:33:28.175385Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -18,8 +18,8 @@
           "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -57,8 +57,8 @@
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Princeton University",
           "Massachusetts Institute of Technology",
+          "Princeton University",
           "Sloan Fellows Program"
         ],
         "employers": [
@@ -85,6 +85,26 @@
       }
     },
     {
+      "qid": "Q114359175",
+      "name": "John May",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114359175",
+        "name": "John May",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "University of Maine",
+          "University of New Hampshire"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
       "qid": "Q109566926",
       "name": "John Weinberg",
       "role_at_company": "Board Member",
@@ -97,8 +117,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -119,8 +139,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -159,8 +179,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Stanford University"
+          "Stanford University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -227,8 +247,8 @@
           "business executive"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Georgetown University"
+          "Georgetown University",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -324,9 +344,9 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
+          "Harvard Business School",
           "Princeton University",
-          "Harvard Business School"
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -347,12 +367,12 @@
           "business executive"
         ],
         "education": [
+          "University of Oxford",
+          "Harvard College",
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
-          "Harvard College",
-          "Harvard University",
-          "University of Oxford"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -379,9 +399,9 @@
           "diplomat"
         ],
         "education": [
+          "Stanford University",
           "Hollywood High School",
-          "Yale Law School",
-          "Stanford University"
+          "Yale Law School"
         ],
         "employers": [
           {
@@ -425,8 +445,8 @@
         "education": [
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Princeton University",
           "Massachusetts Institute of Technology",
+          "Princeton University",
           "Sloan Fellows Program"
         ],
         "employers": [
@@ -464,11 +484,11 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "ambassador",
           "missionary",
           "diplomat",
           "governor",
-          "politician"
+          "politician",
+          "ambassador"
         ],
         "education": [
           "National Taiwan Normal University",
@@ -503,26 +523,6 @@
             "end": "2019-10-03"
           }
         ]
-      }
-    },
-    {
-      "qid": "Q114359175",
-      "name": "John May",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114359175",
-        "name": "John May",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "University of Maine",
-          "University of New Hampshire"
-        ],
-        "employers": [],
-        "positions": []
       }
     }
   ]
