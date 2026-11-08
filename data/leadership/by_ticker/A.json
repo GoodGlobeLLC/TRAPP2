@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-11-08T13:33:28.145340Z",
+  "fetchedAt": "2026-11-08T13:59:03.884728Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -106,6 +106,7 @@
         "occupations": [
           "oncologist",
           "scientist",
+          "oncologist",
           "physician"
         ],
         "education": [
@@ -416,11 +417,16 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
+          },
           {
             "company": "Cisco",
             "start": "2007-10-01",
@@ -430,11 +436,6 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
-          },
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -473,14 +474,14 @@
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
@@ -509,8 +510,8 @@
           "biologist"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [

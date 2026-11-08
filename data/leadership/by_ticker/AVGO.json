@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "fetchedAt": "2026-11-08T13:33:28.154373Z",
+  "fetchedAt": "2026-11-08T13:59:03.891287Z",
   "people": [
     {
       "qid": "Q47672827",
@@ -17,10 +17,25 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -35,21 +50,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -74,9 +74,9 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -206,8 +206,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "investor",
-          "businessperson"
+          "businessperson",
+          "investor"
         ],
         "education": [],
         "employers": [],
@@ -313,10 +313,25 @@
           "business executive"
         ],
         "education": [
-          "Harvard Business School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Broadcom",
             "start": "2006-03-01",
@@ -331,21 +346,6 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -442,9 +442,9 @@
         "birthPlace": "Buffalo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Samueli%2C%20Bush%20and%20Anaheim%20Ducks%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "university teacher"
         ],
         "education": [
           "University of California, Los Angeles",

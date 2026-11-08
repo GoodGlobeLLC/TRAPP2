@@ -1,36 +1,84 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-11-01T14:15:05.979067Z",
+  "fetchedAt": "2026-11-08T13:59:03.915382Z",
   "people": [
     {
-      "qid": "Q27839505",
-      "name": "James Quincey",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
+      "qid": "Q5398061",
+      "name": "Eske Willerslev",
+      "role_at_company": "Board Member",
+      "source_field": "board",
       "career": {
-        "qid": "Q27839505",
-        "name": "James Quincey",
-        "dateOfBirth": "1965-01-08",
-        "birthPlace": "London",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
+        "qid": "Q5398061",
+        "name": "Eske Willerslev",
+        "dateOfBirth": "1971-06-05",
+        "birthPlace": "Gentofte",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eske%20Willerslev%20%28cropped%29.png",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "university teacher",
+          "biologist"
         ],
         "education": [
-          "King Edward's School",
-          "University of Liverpool"
+          "University of Copenhagen"
         ],
         "employers": [
           {
-            "company": "The Coca-Cola Company",
+            "company": "University of California, Berkeley",
+            "start": "2015-01-01",
+            "end": "2015-03-01"
+          },
+          {
+            "company": "University of Cambridge",
+            "start": "2015-10-01",
+            "end": null
+          },
+          {
+            "company": "University of Oxford",
+            "start": "2003-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "University of Copenhagen",
             "start": null,
             "end": null
           }
         ],
         "positions": [
           {
-            "title": "chief executive officer",
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": "2021-07-22"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q27776673",
+      "name": "Jannik Johansen",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q27776673",
+        "name": "Jannik Johansen",
+        "dateOfBirth": "1949-04-09",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "physicist"
+        ],
+        "education": [
+          "University of Copenhagen"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "rector",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "board member",
             "company": null,
             "start": null,
             "end": null
@@ -39,429 +87,29 @@
       }
     },
     {
-      "qid": "Q114351258",
-      "name": "Chris Davis",
+      "qid": "Q12329019",
+      "name": "Nils Strandberg Pedersen",
       "role_at_company": "Board Member",
       "source_field": "board",
       "career": {
-        "qid": "Q114351258",
-        "name": "Chris Davis",
-        "dateOfBirth": null,
+        "qid": "Q12329019",
+        "name": "Nils Strandberg Pedersen",
+        "dateOfBirth": "1951-09-06",
         "birthPlace": null,
         "image": null,
-        "occupations": [],
-        "education": [
-          "University of St Andrews"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2021-10-20",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q112035737",
-      "name": "David Weinberg",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q112035737",
-        "name": "David Weinberg",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [],
-        "education": [
-          "Georgetown University Law Center",
-          "Harvard College"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q27839505",
-      "name": "James Quincey",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q27839505",
-        "name": "James Quincey",
-        "dateOfBirth": "1965-01-08",
-        "birthPlace": "London",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Macri%20%26%20Quincey%20Davos%202018%2001%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "physician"
         ],
-        "education": [
-          "King Edward's School",
-          "University of Liverpool"
-        ],
-        "employers": [
-          {
-            "company": "The Coca-Cola Company",
-            "start": null,
-            "end": null
-          }
-        ],
+        "education": [],
+        "employers": [],
         "positions": [
           {
-            "title": "chief executive officer",
+            "title": "board member",
             "company": null,
             "start": null,
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q16146464",
-      "name": "Herbert Allen III",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16146464",
-        "name": "Herbert Allen III",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Yale University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q16105265",
-      "name": "Herbert Allen, Jr.",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q16105265",
-        "name": "Herbert Allen, Jr.",
-        "dateOfBirth": "1940-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Williams College"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6761171",
-      "name": "Maria Elena Lagomasino",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6761171",
-        "name": "Maria Elena Lagomasino",
-        "dateOfBirth": "1950-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Manhattanville University",
-          "Gabelli School of Business",
-          "Fordham University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q5703847",
-      "name": "Helene D. Gayle",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q5703847",
-        "name": "Helene D. Gayle",
-        "dateOfBirth": "1955-08-16",
-        "birthPlace": "Buffalo",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Helene%20D.%20Gayle%20-%20World%20Economic%20Forum%20on%20East%20Asia%202012%20crop.jpg",
-        "occupations": [
-          "pediatrician"
-        ],
-        "education": [
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "Johns Hopkins Bloomberg School of Public Health",
-          "Johns Hopkins University",
-          "Barnard College",
-          "University of Pennsylvania"
-        ],
-        "employers": [
-          {
-            "company": "Gates Foundation",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Centers for Disease Control and Prevention",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "CARE International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Children's National Hospital",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": null,
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q3030584",
-      "name": "Marc Bolland",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q3030584",
-        "name": "Marc Bolland",
-        "dateOfBirth": "1959-03-28",
-        "birthPlace": "Apeldoorn",
-        "image": null,
-        "occupations": [
-          "entrepreneur",
-          "businessperson",
-          "merchant"
-        ],
-        "education": [
-          "University of Groningen"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q587455",
-      "name": "Barry Diller",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q587455",
-        "name": "Barry Diller",
-        "dateOfBirth": "1942-02-02",
-        "birthPlace": "San Francisco",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
-        "occupations": [
-          "entrepreneur",
-          "film producer",
-          "business executive"
-        ],
-        "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
-        ],
-        "employers": [
-          {
-            "company": "Paramount Pictures",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "American Broadcasting Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "William Morris Agency",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q299646",
-      "name": "Ana Bot\u00edn",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q299646",
-        "name": "Ana Bot\u00edn",
-        "dateOfBirth": "1960-10-04",
-        "birthPlace": "Santander",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ana%20Botin%20with%20Teresa%20Ribera%202025%20%28cropped%29.jpg",
-        "occupations": [
-          "banker",
-          "economist",
-          "businessperson"
-        ],
-        "education": [
-          "St Mary's School",
-          "Bryn Mawr College"
-        ],
-        "employers": [
-          {
-            "company": "Santander Group",
-            "start": "1999-01-01",
-            "end": null
-          },
-          {
-            "company": "Banco Santander",
-            "start": "1988-01-01",
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q292340",
-      "name": "Alexis Herman",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q292340",
-        "name": "Alexis Herman",
-        "dateOfBirth": "1947-07-16",
-        "birthPlace": "Mobile",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis%20osec.jpg",
-        "occupations": [
-          "social worker",
-          "politician",
-          "sociologist",
-          "business executive"
-        ],
-        "education": [
-          "Spring Hill College",
-          "Edgewood College",
-          "Xavier University of Louisiana"
-        ],
-        "employers": [
-          {
-            "company": "Cummins",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Toyota",
-            "start": "2006-01-01",
-            "end": null
-          },
-          {
-            "company": "Office of Public Liaison",
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "company": "United States Women's Bureau",
-            "start": "1977-04-04",
-            "end": "1981-01-20"
-          },
-          {
-            "company": "Southern Regional Council",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "The Coca-Cola Company",
-            "start": "2001-01-01",
-            "end": "2006-01-01"
-          },
-          {
-            "company": "Entergy",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "MGM Resorts International",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Sodexo",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Director of the Office of Public Liaison",
-            "company": null,
-            "start": "1993-01-20",
-            "end": "1997-02-07"
-          },
-          {
-            "title": "United States Secretary of Labor",
-            "company": null,
-            "start": "1997-05-01",
-            "end": "2001-01-20"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q114899117",
-      "name": "Caroline Tsay",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114899117",
-        "name": "Caroline Tsay",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Stanford University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q114893069",
-      "name": "Carolyn Everson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q114893069",
-        "name": "Carolyn Everson",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Villanova University",
-          "Harvard Business School"
-        ],
-        "employers": [],
-        "positions": []
       }
     }
   ]

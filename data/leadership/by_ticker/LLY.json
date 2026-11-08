@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-01T14:15:05.980327Z",
+  "fetchedAt": "2026-11-08T13:59:03.916100Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -309,9 +309,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard Law School",
-          "Princeton University",
-          "Harvard Business School"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -457,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
+          "accountant",
           "basketball player",
-          "accountant"
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,14 +493,19 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "university teacher",
           "researcher",
-          "oncologist"
+          "oncologist",
+          "university teacher"
         ],
         "education": [
           "Duke University"
         ],
         "employers": [
+          {
+            "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
@@ -509,11 +514,6 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Harvard University",
-            "start": null,
             "end": null
           }
         ],

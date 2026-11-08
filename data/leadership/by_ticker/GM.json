@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-11-08T13:33:28.178455Z",
+  "fetchedAt": "2026-11-08T13:59:03.908595Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -144,8 +144,8 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "engineer",
           "politician",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -249,10 +249,10 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "chief executive officer",
           "lawyer",
           "business executive",
-          "board member"
+          "board member",
+          "chief executive officer"
         ],
         "education": [
           "Union College",
@@ -404,17 +404,17 @@
             "end": null
           },
           {
+            "company": "Quibi",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "eBay",
             "start": "1998-01-01",
             "end": "2008-01-01"
           },
           {
             "company": "The Walt Disney Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Quibi",
             "start": null,
             "end": null
           },

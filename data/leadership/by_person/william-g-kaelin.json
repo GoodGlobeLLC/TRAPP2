@@ -5,14 +5,19 @@
   "birthPlace": "New York City",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
   "occupations": [
-    "university teacher",
     "researcher",
-    "oncologist"
+    "oncologist",
+    "university teacher"
   ],
   "education": [
     "Duke University"
   ],
   "employers": [
+    {
+      "company": "Harvard University",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Howard Hughes Medical Institute",
       "start": "1998-01-01",
@@ -21,11 +26,6 @@
     {
       "company": "Dana\u2013Farber Cancer Institute",
       "start": "2002-01-01",
-      "end": null
-    },
-    {
-      "company": "Harvard University",
-      "start": null,
       "end": null
     }
   ],

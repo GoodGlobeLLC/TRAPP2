@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "fetchedAt": "2026-11-01T14:15:05.982068Z",
+  "fetchedAt": "2026-11-08T13:59:03.917752Z",
   "people": [
     {
       "qid": "Q115735747",
@@ -23,11 +23,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -36,6 +31,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -69,8 +69,8 @@
           "university teacher"
         ],
         "education": [
-          "Columbia Law School",
-          "University of Michigan"
+          "University of Michigan",
+          "Columbia Law School"
         ],
         "employers": [
           {
@@ -116,9 +116,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Harvard Law School",
-          "Princeton University",
-          "Harvard Business School"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -164,11 +164,6 @@
         ],
         "employers": [
           {
-            "company": "Mastercard",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Citigroup",
             "start": "1994-01-01",
             "end": "2007-01-01"
@@ -177,6 +172,11 @@
             "company": "Barclays",
             "start": "2007-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "company": "Mastercard",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -286,8 +286,8 @@
           "teacher"
         ],
         "education": [
-          "Yale University",
-          "Stanford University"
+          "Stanford University",
+          "Yale University"
         ],
         "employers": [
           {
@@ -357,8 +357,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "California State University, Fullerton"
@@ -389,8 +389,8 @@
           "university teacher"
         ],
         "education": [
-          "Columbia Law School",
-          "University of Michigan"
+          "University of Michigan",
+          "Columbia Law School"
         ],
         "employers": [
           {
@@ -436,8 +436,8 @@
           "businessperson"
         ],
         "education": [
-          "Columbia University",
           "Harvard Law School",
+          "Columbia University",
           "Marsha Stern Talmudical Academy",
           "Columbia College"
         ],

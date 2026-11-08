@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-11-01T14:15:05.974942Z",
+  "fetchedAt": "2026-11-08T13:59:03.911465Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -89,9 +89,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "businessperson",
           "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",
@@ -156,6 +156,71 @@
       }
     },
     {
+      "qid": "Q116012",
+      "name": "Peter Voser",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q116012",
+        "name": "Peter Voser",
+        "dateOfBirth": "1958-08-29",
+        "birthPlace": "Baden",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Voser.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "ZHAW Zurich University of Applied Sciences"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Shell chief executive",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2013-12-31"
+          },
+          {
+            "title": "chairman of the board of ABB",
+            "company": null,
+            "start": "2015-04-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q83636",
+      "name": "Andrew Liveris",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q83636",
+        "name": "Andrew Liveris",
+        "dateOfBirth": "1954-05-05",
+        "birthPlace": "Darwin",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
+        "occupations": [
+          "chemist",
+          "businessperson"
+        ],
+        "education": [
+          "Darwin High School",
+          "Brisbane State High School",
+          "University of Queensland"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2004-11-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q84053114",
       "name": "Arvind Krishna",
       "role_at_company": "Board Member",
@@ -196,8 +261,8 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "businessperson",
           "business manager",
+          "businessperson",
           "chairperson of the executive board",
           "bank teller"
         ],
@@ -229,8 +294,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "Kellogg School of Management",
@@ -268,12 +333,12 @@
         ],
         "employers": [
           {
-            "company": "University of Michigan",
+            "company": "University of Pittsburgh",
             "start": null,
             "end": null
           },
           {
-            "company": "University of Pittsburgh",
+            "company": "University of Michigan",
             "start": null,
             "end": null
           },
@@ -333,9 +398,9 @@
         "birthPlace": "Kansas City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Gorsky%20at%20World%20Economic%20Forum.jpg",
         "occupations": [
+          "entrepreneur",
           "business executive",
-          "merchant",
-          "entrepreneur"
+          "merchant"
         ],
         "education": [
           "The Wharton School",
@@ -417,8 +482,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [],
         "employers": [],
@@ -472,8 +537,8 @@
         "birthPlace": "Kansas City",
         "image": null,
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of California, San Diego"
@@ -501,71 +566,6 @@
             "title": "board of directors member",
             "company": null,
             "start": "2018-02-13",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q116012",
-      "name": "Peter Voser",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q116012",
-        "name": "Peter Voser",
-        "dateOfBirth": "1958-08-29",
-        "birthPlace": "Baden",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Voser.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "ZHAW Zurich University of Applied Sciences"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Shell chief executive",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2013-12-31"
-          },
-          {
-            "title": "chairman of the board of ABB",
-            "company": null,
-            "start": "2015-04-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q83636",
-      "name": "Andrew Liveris",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q83636",
-        "name": "Andrew Liveris",
-        "dateOfBirth": "1954-05-05",
-        "birthPlace": "Darwin",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Liveris%2C%202013%20%28cropped%29.jpg",
-        "occupations": [
-          "businessperson",
-          "chemist"
-        ],
-        "education": [
-          "Darwin High School",
-          "Brisbane State High School",
-          "University of Queensland"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2004-11-01",
             "end": null
           }
         ]
@@ -610,8 +610,8 @@
         "birthPlace": "Campbell",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20J%20Watson%20Sr.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Columbia University"
