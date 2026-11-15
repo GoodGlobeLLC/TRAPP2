@@ -229,12 +229,6 @@
             "end": "2001-01-20"
           },
           {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "United States senator",
             "company": null,
             "start": "1985-01-03",
@@ -316,8 +310,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -370,7 +364,12 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           },
@@ -423,7 +422,7 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },

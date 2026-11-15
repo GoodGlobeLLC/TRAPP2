@@ -150,10 +150,10 @@
           "banker"
         ],
         "education": [
-          "University of Pennsylvania Carey Law School",
-          "The Wharton School",
           "Harvard Law School",
-          "Brookline High School"
+          "Brookline High School",
+          "University of Pennsylvania Carey Law School",
+          "The Wharton School"
         ],
         "employers": [
           {
@@ -219,7 +219,6 @@
         "birthPlace": "Monterey",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Leon%20Panetta%2C%20official%20DoD%20photo%20portrait%2C%202011.jpg",
         "occupations": [
-          "Oberleutnant",
           "university teacher",
           "lawyer",
           "jurist",
@@ -478,9 +477,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Syracuse University",
           "Rosary High School",
           "Maharaja Sayajirao University of Baroda",
-          "Syracuse University",
           "Stanford University"
         ],
         "employers": [
@@ -527,8 +526,8 @@
           "chief financial officer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "University of California, Santa Barbara"
+          "University of California, Santa Barbara",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": []
@@ -656,6 +655,11 @@
           },
           {
             "company": "Harvard University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Stanford University",
             "start": null,
             "end": null
           }
