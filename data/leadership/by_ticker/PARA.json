@@ -1,6 +1,6 @@
 {
   "ticker": "PARA",
-  "fetchedAt": "2026-11-08T13:59:03.925923Z",
+  "fetchedAt": "2026-11-15T14:17:43.354064Z",
   "people": [
     {
       "qid": "Q361208",
@@ -14,11 +14,16 @@
         "birthPlace": "Ricse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adolph%20Zukor%201921.jpg",
         "occupations": [
-          "film director",
-          "film producer"
+          "film producer",
+          "film director"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "Paramount Pictures",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Famous Players-Lasky Corporation",
             "start": "1916-01-01",
@@ -28,11 +33,6 @@
             "company": "Famous Players Film Company",
             "start": "1912-01-01",
             "end": "1916-01-01"
-          },
-          {
-            "company": "Paramount Pictures",
-            "start": null,
-            "end": null
           }
         ],
         "positions": []

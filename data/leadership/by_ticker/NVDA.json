@@ -1,42 +1,7 @@
 {
   "ticker": "NVDA",
-  "fetchedAt": "2026-11-08T13:59:03.924124Z",
+  "fetchedAt": "2026-11-15T14:17:43.351651Z",
   "people": [
-    {
-      "qid": "Q305177",
-      "name": "Jensen Huang",
-      "role_at_company": "Chief Executive Officer",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q305177",
-        "name": "Jensen Huang",
-        "dateOfBirth": "1963-02-17",
-        "birthPlace": "Tainan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
-        "occupations": [
-          "founder",
-          "manager",
-          "electrical engineer",
-          "founder",
-          "chief executive officer",
-          "engineer",
-          "entrepreneur",
-          "businessperson",
-          "computer scientist",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer"
-        ],
-        "education": [
-          "Stanford University",
-          "Oneida Baptist Institute",
-          "Aloha High School",
-          "Oregon State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
     {
       "qid": "Q124911295",
       "name": "A. Brooke Seawell",
@@ -271,8 +236,8 @@
           "university teacher"
         ],
         "education": [
-          "California Institute of Technology",
-          "Princeton University"
+          "Princeton University",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -294,76 +259,6 @@
             "end": null
           }
         ]
-      }
-    },
-    {
-      "qid": "Q305177",
-      "name": "Jensen Huang",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q305177",
-        "name": "Jensen Huang",
-        "dateOfBirth": "1963-02-17",
-        "birthPlace": "Tainan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
-        "occupations": [
-          "founder",
-          "manager",
-          "electrical engineer",
-          "founder",
-          "chief executive officer",
-          "engineer",
-          "entrepreneur",
-          "businessperson",
-          "computer scientist",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer"
-        ],
-        "education": [
-          "Stanford University",
-          "Oneida Baptist Institute",
-          "Aloha High School",
-          "Oregon State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q305177",
-      "name": "Jensen Huang",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q305177",
-        "name": "Jensen Huang",
-        "dateOfBirth": "1963-02-17",
-        "birthPlace": "Tainan",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jen-Hsun%20Huang%202025.jpg",
-        "occupations": [
-          "founder",
-          "manager",
-          "electrical engineer",
-          "founder",
-          "chief executive officer",
-          "engineer",
-          "entrepreneur",
-          "businessperson",
-          "computer scientist",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer"
-        ],
-        "education": [
-          "Stanford University",
-          "Oneida Baptist Institute",
-          "Aloha High School",
-          "Oregon State University"
-        ],
-        "employers": [],
-        "positions": []
       }
     }
   ]
