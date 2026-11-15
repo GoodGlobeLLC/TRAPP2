@@ -6,13 +6,13 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
     "programmer",
+    "entrepreneur",
     "electronics technician",
     "inventor",
-    "entrepreneur",
-    "engineer",
     "computer scientist",
-    "businessperson",
     "teacher",
+    "engineer",
+    "businessperson",
     "actor"
   ],
   "education": [
@@ -24,7 +24,12 @@
   ],
   "employers": [
     {
-      "company": "Atari, Inc.",
+      "company": "Hewlett-Packard",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "University of Technology Sydney",
       "start": null,
       "end": null
     },
@@ -35,16 +40,6 @@
     },
     {
       "company": "Atari, Inc.",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "University of Technology Sydney",
       "start": null,
       "end": null
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-11-08T13:59:03.889840Z",
+  "fetchedAt": "2026-11-15T14:25:07.076056Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -18,8 +18,8 @@
         ],
         "education": [
           "Harvard University",
-          "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -144,16 +144,16 @@
         "birthPlace": "Syracuse",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
+          "soldier",
           "spy",
-          "intelligence officer",
-          "soldier"
+          "intelligence officer"
         ],
         "education": [
-          "Westhill Senior High School",
-          "Questrom School of Business",
           "Naval Postgraduate School",
           "Boston University",
-          "United States Military Academy"
+          "United States Military Academy",
+          "Westhill Senior High School",
+          "Questrom School of Business"
         ],
         "employers": [
           {
@@ -184,15 +184,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "academic",
           "executive",
           "dean",
+          "academic",
           "university teacher",
           "computer scientist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "University of Michigan"
+          "University of Michigan",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -216,14 +216,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jon%20Rubinstein%20%282011%29.jpg",
         "occupations": [
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
+          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University",
-          "Cornell University"
+          "Colorado State University"
         ],
         "employers": [
           {
@@ -251,8 +251,8 @@
         ],
         "education": [
           "Harvard University",
-          "Harvard Business School",
-          "Scarsdale High School"
+          "Scarsdale High School",
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -461,12 +461,12 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Indian Institute of Management Calcutta",
           "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
-          "Madras Christian College"
+          "Madras Christian College",
+          "Yale University"
         ],
         "employers": [
           {
@@ -475,9 +475,9 @@
             "end": null
           },
           {
-            "company": "Booz Allen Hamilton",
-            "start": null,
-            "end": null
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Boston Consulting Group",
@@ -490,13 +490,13 @@
             "end": null
           },
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
             "company": "Amazon",
             "start": "2019-01-01",
+            "end": null
+          },
+          {
+            "company": "Booz Allen Hamilton",
+            "start": null,
             "end": null
           }
         ],
@@ -551,9 +551,9 @@
           "lawyer"
         ],
         "education": [
-          "William A. Shine Great Neck South High School",
           "Radcliffe College",
-          "Harvard Law School"
+          "Harvard Law School",
+          "William A. Shine Great Neck South High School"
         ],
         "employers": [],
         "positions": [

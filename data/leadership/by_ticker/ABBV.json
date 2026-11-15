@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-11-08T13:59:03.885975Z",
+  "fetchedAt": "2026-11-15T14:25:07.070812Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -508,8 +508,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "researcher",
           "academic",
+          "researcher",
           "nephrologist"
         ],
         "education": [
@@ -517,13 +517,13 @@
         ],
         "employers": [
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           },
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           }
         ],

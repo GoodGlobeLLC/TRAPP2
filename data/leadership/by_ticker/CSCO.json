@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "fetchedAt": "2026-11-08T13:59:03.899348Z",
+  "fetchedAt": "2026-11-15T14:25:07.088777Z",
   "people": [
     {
       "qid": "Q21041473",
@@ -60,6 +60,11 @@
         ],
         "employers": [
           {
+            "company": "Cisco",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Stratus Technologies",
             "start": null,
             "end": null
@@ -71,11 +76,6 @@
           },
           {
             "company": "Honeywell",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Cisco",
             "start": null,
             "end": null
           },
@@ -104,11 +104,11 @@
           "entrepreneur"
         ],
         "education": [
-          "Duke University",
-          "West Virginia University",
           "Indiana University",
           "Indiana University Kelley School of Business",
-          "West Virginia University College of Law"
+          "West Virginia University College of Law",
+          "Duke University",
+          "West Virginia University"
         ],
         "employers": [
           {
@@ -241,14 +241,14 @@
         ],
         "employers": [
           {
-            "company": "University of Colorado Boulder",
-            "start": "1985-01-01",
-            "end": "1999-01-01"
-          },
-          {
             "company": "Duke University",
             "start": "1999-01-01",
             "end": "2007-01-01"
+          },
+          {
+            "company": "University of Colorado Boulder",
+            "start": "1985-01-01",
+            "end": "1999-01-01"
           }
         ],
         "positions": []
@@ -473,13 +473,13 @@
             "end": null
           },
           {
-            "company": "IBM Research",
-            "start": "1995-01-01",
+            "company": "AMD",
+            "start": "2012-01-01",
             "end": null
           },
           {
-            "company": "AMD",
-            "start": "2012-01-01",
+            "company": "IBM Research",
+            "start": "1995-01-01",
             "end": null
           }
         ],

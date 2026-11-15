@@ -1,6 +1,6 @@
 {
   "ticker": "COR",
-  "fetchedAt": "2026-11-08T13:59:03.898049Z",
+  "fetchedAt": "2026-11-15T14:25:07.087249Z",
   "people": [
     {
       "qid": "Q28501080",
@@ -14,8 +14,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -50,9 +50,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "The Wharton School",
           "Harvard University",
-          "Perelman School of Medicine at the University of Pennsylvania",
-          "The Wharton School"
+          "Perelman School of Medicine at the University of Pennsylvania"
         ],
         "employers": [],
         "positions": []
@@ -181,8 +181,8 @@
         "birthPlace": "South Africa",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of the Witwatersrand"
@@ -283,8 +283,8 @@
         "birthPlace": "Woodburn",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jane%20E.%20Henney.jpg",
         "occupations": [
-          "physician",
-          "oncologist"
+          "oncologist",
+          "physician"
         ],
         "education": [
           "Manchester University",
@@ -292,17 +292,17 @@
         ],
         "employers": [
           {
+            "company": "University of New Mexico",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "University of Cincinnati",
             "start": null,
             "end": null
           },
           {
             "company": "United States Food and Drug Administration",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of New Mexico",
             "start": null,
             "end": null
           }

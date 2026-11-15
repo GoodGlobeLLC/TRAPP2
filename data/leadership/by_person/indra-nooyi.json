@@ -8,12 +8,12 @@
     "businessperson"
   ],
   "education": [
-    "Yale University",
     "Indian Institute of Management Calcutta",
     "University of Madras",
     "Yale School of Management",
     "Holy Angels Anglo Indian Higher Secondary School",
-    "Madras Christian College"
+    "Madras Christian College",
+    "Yale University"
   ],
   "employers": [
     {
@@ -22,9 +22,9 @@
       "end": null
     },
     {
-      "company": "Booz Allen Hamilton",
-      "start": null,
-      "end": null
+      "company": "PepsiCo",
+      "start": "1994-01-01",
+      "end": "2018-01-01"
     },
     {
       "company": "Boston Consulting Group",
@@ -42,13 +42,8 @@
       "end": null
     },
     {
-      "company": "PepsiCo",
-      "start": "1994-01-01",
-      "end": "2018-01-01"
-    },
-    {
-      "company": "Amazon",
-      "start": "2019-01-01",
+      "company": "Booz Allen Hamilton",
+      "start": null,
       "end": null
     }
   ],

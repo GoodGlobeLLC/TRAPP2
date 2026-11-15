@@ -1,6 +1,6 @@
 {
   "ticker": "ACN",
-  "fetchedAt": "2026-11-08T13:59:03.886971Z",
+  "fetchedAt": "2026-11-15T14:25:07.072160Z",
   "people": [
     {
       "qid": "Q65515703",
@@ -138,8 +138,8 @@
         "birthPlace": "Scotland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alan%20Jope%20%28born%20c.%201963%29%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "business executive",
-          "businessperson"
+          "businessperson",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -268,13 +268,28 @@
           "businessperson"
         ],
         "education": [
+          "Harvard University",
+          "lyc\u00e9e du Parc",
           "\u00c9cole alsacienne",
           "ESSEC Business School",
-          "Harvard Business School",
-          "Harvard University",
-          "lyc\u00e9e du Parc"
+          "Harvard Business School"
         ],
         "employers": [
+          {
+            "company": "Bouygues Telecom",
+            "start": "2001-01-01",
+            "end": "2005-01-01"
+          },
+          {
+            "company": "Euro Disney S.C.A.",
+            "start": "1995-01-01",
+            "end": "2000-01-01"
+          },
+          {
+            "company": "Suez",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
           {
             "company": "Groupe TF1",
             "start": "2016-01-01",
@@ -294,35 +309,26 @@
             "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
             "start": "1981-01-01",
             "end": "1983-01-01"
-          },
-          {
-            "company": "Bouygues Telecom",
-            "start": "2001-01-01",
-            "end": "2005-01-01"
-          },
-          {
-            "company": "Euro Disney S.C.A.",
-            "start": "1995-01-01",
-            "end": "2000-01-01"
-          },
-          {
-            "company": "Suez",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
           }
         ],
         "positions": [
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
-            "start": "2016-02-19",
-            "end": "2023-02-13"
+            "start": "1997-02-01",
+            "end": "2000-01-01"
+          },
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2012-04-27",
+            "end": null
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
+            "start": "2016-02-19",
+            "end": "2023-02-13"
           },
           {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
@@ -335,18 +341,6 @@
             "company": null,
             "start": "2004-02-01",
             "end": "2005-10-01"
-          },
-          {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1997-02-01",
-            "end": "2000-01-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2012-04-27",
-            "end": null
           },
           {
             "title": "director general",
@@ -378,10 +372,10 @@
           "business executive"
         ],
         "education": [
+          "University of California, Berkeley",
           "Bangalore Military School",
           "Haas School of Business",
-          "Indian Institute of Technology Kharagpur",
-          "University of California, Berkeley"
+          "Indian Institute of Technology Kharagpur"
         ],
         "employers": [
           {
@@ -546,8 +540,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Chicago",
-          "DePaul University"
+          "DePaul University",
+          "University of Chicago"
         ],
         "employers": [
           {
