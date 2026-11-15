@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-08T13:59:03.916100Z",
+  "fetchedAt": "2026-11-15T15:14:19.313695Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -194,13 +194,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "economist",
           "health economist",
-          "crossword creator",
-          "economist"
+          "crossword creator"
         ],
         "education": [
-          "Yale University",
-          "Harvard University"
+          "Harvard University",
+          "Yale University"
         ],
         "employers": [
           {
@@ -209,12 +209,12 @@
             "end": null
           },
           {
-            "company": "University of California, Los Angeles",
+            "company": "Council of Economic Advisers",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
           {
-            "company": "Council of Economic Advisers",
+            "company": "University of California, Los Angeles",
             "start": "2005-01-01",
             "end": "2007-01-01"
           },
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "immunologist"
+          "immunologist",
+          "businessperson"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -457,9 +457,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "accountant",
           "basketball player",
-          "businessperson"
+          "businessperson",
+          "accountant"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,19 +493,14 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
+          "university teacher",
           "researcher",
-          "oncologist",
-          "university teacher"
+          "oncologist"
         ],
         "education": [
           "Duke University"
         ],
         "employers": [
-          {
-            "company": "Harvard University",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Howard Hughes Medical Institute",
             "start": "1998-01-01",
@@ -514,6 +509,11 @@
           {
             "company": "Dana\u2013Farber Cancer Institute",
             "start": "2002-01-01",
+            "end": null
+          },
+          {
+            "company": "Harvard University",
+            "start": null,
             "end": null
           }
         ],

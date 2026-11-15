@@ -5,14 +5,21 @@
   "birthPlace": "Pretoria",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Roelof%20Botha.jpg",
   "occupations": [
+    "venture capitalist",
     "businessperson"
   ],
   "education": [
     "University of Cape Town",
-    "Stanford University",
-    "Stanford Graduate School of Business"
+    "Stanford Graduate School of Business",
+    "Stanford University"
   ],
-  "employers": [],
+  "employers": [
+    {
+      "company": "Sequoia Capital",
+      "start": null,
+      "end": null
+    }
+  ],
   "positions": [],
   "currentTickers": [
     "MDB"

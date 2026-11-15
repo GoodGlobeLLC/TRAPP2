@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-11-08T13:59:03.918508Z",
+  "fetchedAt": "2026-11-15T15:14:19.315389Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -56,8 +56,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Manchester",
-          "Alliance Manchester Business School"
+          "Alliance Manchester Business School",
+          "University of Manchester"
         ],
         "employers": [],
         "positions": []
@@ -160,11 +160,6 @@
         ],
         "employers": [
           {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
-          },
-          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -178,6 +173,11 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
+          },
+          {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
           },
           {
             "company": "Salesforce",
@@ -314,9 +314,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20carmona.jpg",
         "occupations": [
           "surgeon",
-          "nurse",
+          "politician",
           "paramedic",
-          "politician"
+          "nurse"
         ],
         "education": [
           "DeWitt Clinton High School",
@@ -358,7 +358,7 @@
         ],
         "education": [
           "Olin Business School",
-          "Washington University in St.\u00a0Louis",
+          "Washington University in St. Louis",
           "University of Missouri"
         ],
         "employers": [],

@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-11-08T13:59:03.909578Z",
+  "fetchedAt": "2026-11-15T15:14:19.309983Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,16 +50,16 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
-          "businessperson",
           "academic",
           "investment banker",
+          "businessperson",
           "lawyer"
         ],
         "education": [
+          "King's College, Lagos",
           "Harvard Business School",
           "Harvard Law School",
-          "University of Oxford",
-          "King's College, Lagos"
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -88,9 +88,9 @@
         "birthPlace": "La Grange",
         "image": null,
         "occupations": [
-          "director",
+          "computer scientist",
           "businessperson",
-          "computer scientist"
+          "director"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -352,9 +352,9 @@
           "businessperson"
         ],
         "education": [
+          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta",
-          "St. Xavier's College, Kolkata"
+          "University of Calcutta"
         ],
         "employers": [
           {
@@ -397,8 +397,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Women%20in%20Economic%20Decision-making%20Drew%20Gilpin%20Faust%20%288414040540%29%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "historian"
+          "historian",
+          "university teacher"
         ],
         "education": [
           "University of Pennsylvania",
@@ -413,13 +413,13 @@
             "end": null
           },
           {
-            "company": "Harvard University",
-            "start": "2007-10-12",
+            "company": "University of Pennsylvania",
+            "start": "1975-01-01",
             "end": null
           },
           {
-            "company": "University of Pennsylvania",
-            "start": "1975-01-01",
+            "company": "Harvard University",
+            "start": "2007-10-12",
             "end": null
           }
         ],

@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-08T13:59:03.919518Z",
+  "fetchedAt": "2026-11-15T15:14:19.315960Z",
   "people": [
     {
       "qid": "Q36215",
@@ -12,14 +12,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
           "programmer",
-          "chief executive officer",
+          "philanthropist",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
@@ -128,12 +128,12 @@
         "birthPlace": "Nanjing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20Disrupt%20NY%202016%20-%20Day%203%20%2826348657713%29.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Lynbrook High School"
+          "Lynbrook High School",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -160,22 +160,12 @@
           "business executive"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
             "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Commodore International",
-            "start": "1992-01-01",
-            "end": "1994-01-01"
-          },
-          {
-            "company": "PepsiCo",
             "start": null,
             "end": null
           },
@@ -193,6 +183,16 @@
             "company": "Integrated Circuit Systems",
             "start": "1994-01-01",
             "end": "2005-01-01"
+          },
+          {
+            "company": "Commodore International",
+            "start": "1992-01-01",
+            "end": "1994-01-01"
+          },
+          {
+            "company": "PepsiCo",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -360,21 +360,17 @@
         "birthPlace": "Frankfurt",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
-          "chess player",
-          "manager",
-          "financier",
-          "investor",
           "banker",
-          "technology entrepreneur",
-          "businessperson",
+          "manager",
+          "investor",
           "computer scientist",
           "entrepreneur",
           "writer"
         ],
         "education": [
-          "Stanford University",
           "Stanford Law School",
-          "San Mateo High School"
+          "San Mateo High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -411,9 +407,9 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "computer scientist",
-          "economist",
           "businessperson",
+          "economist",
+          "computer scientist",
           "entrepreneur"
         ],
         "education": [
@@ -492,14 +488,15 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
-          "software engineer",
-          "programmer",
+          "venture capitalist",
           "blogger",
+          "programmer",
+          "software engineer",
           "investor",
           "inventor",
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "New Lisbon High School",
@@ -537,14 +534,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
           "programmer",
-          "chief executive officer",
+          "philanthropist",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",
@@ -609,14 +606,14 @@
         "name": "Mark Zuckerberg",
         "dateOfBirth": "1984-05-14",
         "birthPlace": "White Plains",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
           "patron of the arts",
-          "philanthropist",
           "programmer",
-          "chief executive officer",
+          "philanthropist",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "chief executive officer"
         ],
         "education": [
           "Mercy University",

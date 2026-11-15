@@ -13,11 +13,6 @@
   ],
   "employers": [
     {
-      "company": "Bell Labs",
-      "start": "1980-01-01",
-      "end": "1991-01-01"
-    },
-    {
       "company": "Microsoft",
       "start": "2003-06-01",
       "end": "2009-09-01"
@@ -31,6 +26,11 @@
       "company": "Cisco",
       "start": "2018-04-01",
       "end": null
+    },
+    {
+      "company": "Bell Labs",
+      "start": "1980-01-01",
+      "end": "1991-01-01"
     },
     {
       "company": "Salesforce",

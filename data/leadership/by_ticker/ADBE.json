@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-11-08T13:59:03.887393Z",
+  "fetchedAt": "2026-11-15T15:14:19.296598Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -14,8 +14,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Haas School of Business",
@@ -380,8 +380,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Temple University Beasley School of Law"
+          "Temple University Beasley School of Law",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -412,8 +412,8 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adobe%20CEO%20Shantanu%20Narayen.jpg",
         "occupations": [
-          "businessperson",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
           "Haas School of Business",
@@ -452,8 +452,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Geschke%20photo.png",
         "occupations": [
           "university teacher",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "software developer"
         ],
         "education": [
@@ -461,6 +461,11 @@
           "Carnegie Mellon University"
         ],
         "employers": [
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Palo Alto Research Center",
             "start": "1972-01-01",
@@ -470,11 +475,6 @@
             "company": "John Carroll University",
             "start": "1963-01-01",
             "end": "1968-01-01"
-          },
-          {
-            "company": "Adobe",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "mathematician",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "mathematician"
         ],
         "education": [
           "Olympus High School",
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
+            "company": "Adobe",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Adobe",
             "start": null,
             "end": null
           }

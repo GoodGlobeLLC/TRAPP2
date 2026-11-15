@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-08T13:59:03.931315Z",
+  "fetchedAt": "2026-11-15T15:14:19.322907Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -80,8 +80,8 @@
         "birthPlace": "Dubuque",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ortberg-Senate%20%28cropped%29.png",
         "occupations": [
-          "board member",
-          "businessperson"
+          "businessperson",
+          "board member"
         ],
         "education": [
           "University of Iowa"
@@ -240,17 +240,17 @@
         ],
         "employers": [
           {
+            "company": "United States Department of the Navy",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "United States Department of Defense",
             "start": null,
             "end": null
           },
           {
             "company": "George Washington University",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "United States Department of the Navy",
             "start": null,
             "end": null
           }
@@ -286,10 +286,10 @@
           "civil servant"
         ],
         "education": [
-          "Georgetown University",
+          "University of Oxford",
           "Saddleback High School",
           "Lexington High School",
-          "University of Oxford"
+          "Georgetown University"
         ],
         "employers": [
           {
@@ -321,8 +321,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20James%20A.%20Winnefeld%2C%20Jr.jpg",
         "occupations": [
           "military officer",
-          "naval air force",
-          "admiral"
+          "admiral",
+          "naval air force"
         ],
         "education": [
           "Fort Hunt High School",
@@ -372,8 +372,8 @@
         "birthPlace": "Agra",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DPaliwal%20Sep009.JPG",
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Dr. Hari Singh Gour University",
@@ -396,8 +396,8 @@
         "birthPlace": "Temple",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bernard%20Anthony%20Harris%20Jr.jpg",
         "occupations": [
-          "astronaut",
-          "physician"
+          "physician",
+          "astronaut"
         ],
         "education": [
           "Texas Tech University Health Sciences Center",

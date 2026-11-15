@@ -1,6 +1,6 @@
 {
   "ticker": "LMT",
-  "fetchedAt": "2026-11-08T13:59:03.916508Z",
+  "fetchedAt": "2026-11-15T15:14:19.314023Z",
   "people": [
     {
       "qid": "Q110610881",
@@ -152,8 +152,8 @@
           "businessperson"
         ],
         "education": [
-          "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "MIT Sloan School of Management"
         ],
         "employers": [],
         "positions": []
@@ -196,10 +196,10 @@
           "military officer"
         ],
         "education": [
-          "Harvard University",
-          "United States Naval Academy",
           "Georgia Tech",
-          "University of West Florida"
+          "University of West Florida",
+          "United States Naval Academy",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -221,10 +221,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
           "Wisconsin School of Business",
           "Sloan Fellows Program",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -398,11 +398,16 @@
           "manager"
         ],
         "education": [
-          "London School of Economics and Political Science",
           "Mankato West High School",
-          "United States Naval Academy"
+          "United States Naval Academy",
+          "London School of Economics and Political Science"
         ],
         "employers": [
+          {
+            "company": "General Motors",
+            "start": null,
+            "end": null
+          },
           {
             "company": "American Express",
             "start": null,
@@ -410,11 +415,6 @@
           },
           {
             "company": "Carlyle Group",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "General Motors",
             "start": null,
             "end": null
           }

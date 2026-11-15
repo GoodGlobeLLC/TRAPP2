@@ -1,6 +1,6 @@
 {
   "ticker": "UNH",
-  "fetchedAt": "2026-11-08T13:59:03.939230Z",
+  "fetchedAt": "2026-11-15T15:14:19.327386Z",
   "people": [
     {
       "qid": "Q18121649",
@@ -14,23 +14,13 @@
         "birthPlace": "England",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AndrewWitty%20in%202023.jpg",
         "occupations": [
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
           "University of Nottingham"
         ],
         "employers": [
-          {
-            "company": "Optum",
-            "start": "2018-03-01",
-            "end": "2021-02-01"
-          },
-          {
-            "company": "UnitedHealth Group",
-            "start": "2021-02-04",
-            "end": "2025-05-13"
-          },
           {
             "company": "University of Nottingham",
             "start": null,
@@ -40,6 +30,16 @@
             "company": "GSK",
             "start": "1985-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Optum",
+            "start": "2018-03-01",
+            "end": "2021-02-01"
+          },
+          {
+            "company": "UnitedHealth Group",
+            "start": "2021-02-04",
+            "end": "2025-05-13"
           }
         ],
         "positions": [
@@ -278,9 +278,9 @@
         "birthPlace": "Melrose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Noseworthy%20at%20Spotlight%20Health%20Aspen%20Ideas%20Festival%202015.JPG",
         "occupations": [
+          "neurologist",
           "director",
-          "physician",
-          "neurologist"
+          "physician"
         ],
         "education": [
           "Dalhousie University"
@@ -314,23 +314,13 @@
         "birthPlace": "England",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/AndrewWitty%20in%202023.jpg",
         "occupations": [
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
           "University of Nottingham"
         ],
         "employers": [
-          {
-            "company": "Optum",
-            "start": "2018-03-01",
-            "end": "2021-02-01"
-          },
-          {
-            "company": "UnitedHealth Group",
-            "start": "2021-02-04",
-            "end": "2025-05-13"
-          },
           {
             "company": "University of Nottingham",
             "start": null,
@@ -340,6 +330,16 @@
             "company": "GSK",
             "start": "1985-01-01",
             "end": "2017-01-01"
+          },
+          {
+            "company": "Optum",
+            "start": "2018-03-01",
+            "end": "2021-02-01"
+          },
+          {
+            "company": "UnitedHealth Group",
+            "start": "2021-02-04",
+            "end": "2025-05-13"
           }
         ],
         "positions": [
@@ -411,9 +411,9 @@
         "birthPlace": "Elmira",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charlie%20Baker%20official%20photo%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "politician",
           "governor",
-          "politician"
+          "businessperson"
         ],
         "education": [
           "Needham High School",

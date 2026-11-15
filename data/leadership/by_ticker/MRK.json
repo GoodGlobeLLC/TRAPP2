@@ -1,6 +1,6 @@
 {
   "ticker": "MRK",
-  "fetchedAt": "2026-11-08T13:59:03.920571Z",
+  "fetchedAt": "2026-11-15T15:14:19.316633Z",
   "people": [
     {
       "qid": "Q1289900",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
@@ -104,8 +104,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dr.%20Paul%20B.%20Rothman.JPG",
         "occupations": [],
         "education": [
-          "Yale University",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Yale University"
         ],
         "employers": [
           {
@@ -151,14 +151,19 @@
           "physician"
         ],
         "education": [
-          "Stony Brook University",
           "Harvard Medical School",
+          "Stony Brook University",
           "University of Pennsylvania",
+          "Harvard University",
           "The Bush School",
-          "The Wharton School",
-          "Harvard University"
+          "The Wharton School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -168,14 +173,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -187,12 +193,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -238,8 +238,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kenneth%20C.%20Frazier.jpg",
         "occupations": [
           "business executive",
-          "lawyer",
-          "businessperson"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "Pennsylvania State University",
@@ -337,8 +337,8 @@
           "businessperson"
         ],
         "education": [
-          "Yale Law School",
-          "Columbia University"
+          "Columbia University",
+          "Yale Law School"
         ],
         "employers": [],
         "positions": [
@@ -370,8 +370,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard University"
+          "Harvard University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [

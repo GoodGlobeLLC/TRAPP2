@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "fetchedAt": "2026-11-08T13:59:03.937768Z",
+  "fetchedAt": "2026-11-15T15:14:19.326291Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,44 +14,29 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "technology entrepreneur",
           "philanthropist",
           "dub actor",
           "programmer",
           "financier",
-          "technology entrepreneur",
           "investor",
-          "entrepreneur",
           "civil servant",
+          "entrepreneur",
           "engineer",
           "politician"
         ],
         "education": [
+          "Stanford University",
+          "University of Pretoria",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pretoria",
-          "Queen's University",
-          "The Wharton School",
           "University of Pennsylvania",
-          "Stanford University"
+          "Queen's University",
+          "The Wharton School"
         ],
         "employers": [
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
           {
             "company": "SolarCity",
             "start": null,
@@ -63,18 +48,28 @@
             "end": "2019-01-01"
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
-          {
             "company": "The Boring Company",
             "start": "2016-12-17",
             "end": null
           },
           {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -139,15 +134,35 @@
           "businessperson"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
+          },
           {
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           },
           {
             "company": "Toyota Australia",
@@ -163,41 +178,9 @@
             "company": "Echelon Corporation",
             "start": "2008-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "http://www",
-            "end": "2016-08-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -209,6 +192,18 @@
             "company": null,
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "http://www",
+            "end": "2016-08-01"
           }
         ]
       }
@@ -228,9 +223,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -335,15 +330,35 @@
           "businessperson"
         ],
         "education": [
-          "Georges River College",
           "University of New South Wales",
-          "University of Sydney"
+          "University of Sydney",
+          "Georges River College"
         ],
         "employers": [
+          {
+            "company": "Tesla",
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "company": "Arthur Andersen",
+            "start": "1984-12-01",
+            "end": "1989-08-01"
+          },
+          {
+            "company": "ABB Group",
+            "start": "2016-04-01",
+            "end": "2017-04-01"
+          },
           {
             "company": "Telstra",
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "company": "Sun Microsystems",
+            "start": "1996-01-01",
+            "end": "2007-08-01"
           },
           {
             "company": "Toyota Australia",
@@ -359,41 +374,9 @@
             "company": "Echelon Corporation",
             "start": "2008-01-01",
             "end": "2013-01-01"
-          },
-          {
-            "company": "Sun Microsystems",
-            "start": "1996-01-01",
-            "end": "2007-08-01"
-          },
-          {
-            "company": "Tesla",
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "company": "Arthur Andersen",
-            "start": "1984-12-01",
-            "end": "1989-08-01"
-          },
-          {
-            "company": "ABB Group",
-            "start": "2016-04-01",
-            "end": "2017-04-01"
           }
         ],
         "positions": [
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2014-01-01",
-            "end": null
-          },
-          {
-            "title": "chief financial officer",
-            "company": null,
-            "start": "http://www",
-            "end": "2016-08-01"
-          },
           {
             "title": "chairperson",
             "company": null,
@@ -405,6 +388,18 @@
             "company": null,
             "start": "2017-01-01",
             "end": null
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2014-01-01",
+            "end": null
+          },
+          {
+            "title": "chief financial officer",
+            "company": null,
+            "start": "http://www",
+            "end": "2016-08-01"
           }
         ]
       }
@@ -462,44 +457,29 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "technology entrepreneur",
           "philanthropist",
           "dub actor",
           "programmer",
           "financier",
-          "technology entrepreneur",
           "investor",
-          "entrepreneur",
           "civil servant",
+          "entrepreneur",
           "engineer",
           "politician"
         ],
         "education": [
+          "Stanford University",
+          "University of Pretoria",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "University of Pretoria",
-          "Queen's University",
-          "The Wharton School",
           "University of Pennsylvania",
-          "Stanford University"
+          "Queen's University",
+          "The Wharton School"
         ],
         "employers": [
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
           {
             "company": "SolarCity",
             "start": null,
@@ -511,18 +491,28 @@
             "end": "2019-01-01"
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
-          },
-          {
             "company": "The Boring Company",
             "start": "2016-12-17",
             "end": null
           },
           {
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -583,11 +573,11 @@
         "birthPlace": "The Bronx",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Ellison%20picture.png",
         "occupations": [
-          "actor",
-          "businessperson",
           "entrepreneur",
+          "aircraft pilot",
+          "businessperson",
           "computer scientist",
-          "aircraft pilot"
+          "actor"
         ],
         "education": [
           "University of Chicago",
@@ -676,13 +666,13 @@
         "birthPlace": "Wisconsin",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%202012%20Fast%20500%20and%20VC%20of%20the%20Year%20Awards.jpg",
         "occupations": [
+          "chief technology officer",
           "businessperson",
-          "inventor",
-          "chief technology officer"
+          "inventor"
         ],
         "education": [
-          "Edgewood High School of the Sacred Heart",
-          "Stanford University"
+          "Stanford University",
+          "Edgewood High School of the Sacred Heart"
         ],
         "employers": [
           {
@@ -718,8 +708,8 @@
           "businessperson"
         ],
         "education": [
-          "Horace Mann School",
-          "Harvard University"
+          "Harvard University",
+          "Horace Mann School"
         ],
         "employers": [],
         "positions": [
@@ -750,8 +740,8 @@
         "birthPlace": "Berkeley",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Eberhard%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "engineer"
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "York Community High School",

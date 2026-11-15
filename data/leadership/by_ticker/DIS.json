@@ -1,6 +1,6 @@
 {
   "ticker": "DIS",
-  "fetchedAt": "2026-11-08T13:59:03.901972Z",
+  "fetchedAt": "2026-11-15T15:14:19.305692Z",
   "people": [
     {
       "qid": "Q86408516",
@@ -14,14 +14,14 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
-          "Eli Broad College of Business",
-          "Clark High School",
           "Indiana University Bloomington",
-          "Michigan State University"
+          "Michigan State University",
+          "Eli Broad College of Business",
+          "Clark High School"
         ],
         "employers": [
           {
@@ -58,8 +58,8 @@
         "birthPlace": "Medford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Josh%20D%27Amaro%20Warrior%20Games%202022%20%28cropped%29.jpg",
         "occupations": [
-          "chairperson",
-          "chief executive officer"
+          "chief executive officer",
+          "chairperson"
         ],
         "education": [
           "Georgetown University"
@@ -105,9 +105,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MichaelEisnerOct10.jpg",
         "occupations": [
-          "entrepreneur",
+          "businessperson",
           "chief executive officer",
-          "businessperson"
+          "entrepreneur"
         ],
         "education": [
           "Lawrenceville School",
@@ -160,11 +160,11 @@
         "birthPlace": "Oceanside",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2018%20Bob%20Iger%20%28cropped%29.jpg",
         "occupations": [
-          "television producer",
           "film producer",
           "business executive",
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "television producer",
+          "entrepreneur"
         ],
         "education": [
           "The Center for Early Education",
@@ -174,6 +174,11 @@
         ],
         "employers": [
           {
+            "company": "American Broadcasting Company",
+            "start": "1974-01-01",
+            "end": "1999-02-25"
+          },
+          {
             "company": "The Walt Disney Company",
             "start": "2022-11-20",
             "end": "2026-12-31"
@@ -182,11 +187,6 @@
             "company": "The Walt Disney Company",
             "start": "1996-01-01",
             "end": "2021-12-31"
-          },
-          {
-            "company": "American Broadcasting Company",
-            "start": "1974-01-01",
-            "end": "1999-02-25"
           }
         ],
         "positions": [
@@ -235,8 +235,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -291,12 +291,12 @@
           "politician"
         ],
         "education": [
-          "Harvard Law School",
           "Princeton School of Public and International Affairs",
           "St Antony's College",
-          "University of Oxford",
+          "Harvard Law School",
+          "Princeton University",
           "The Branson School",
-          "Princeton University"
+          "University of Oxford"
         ],
         "employers": [],
         "positions": [
@@ -420,8 +420,8 @@
         "birthPlace": "Poughkeepsie",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Parker%20-%20World%20Economic%20Forum%202008.jpg",
         "occupations": [
-          "director",
-          "entrepreneur"
+          "entrepreneur",
+          "director"
         ],
         "education": [
           "Westhill High School",
@@ -449,8 +449,8 @@
         "birthPlace": "Pittsburgh",
         "image": null,
         "occupations": [
-          "businessperson",
-          "manager"
+          "manager",
+          "businessperson"
         ],
         "education": [
           "Joseph M. Katz Graduate School of Business",
@@ -480,9 +480,9 @@
         "birthPlace": "Holon",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Safra%20Catz%202014%20%28cropped%29.jpg",
         "occupations": [
-          "banker",
+          "businessperson",
           "chief financial officer",
-          "businessperson"
+          "banker"
         ],
         "education": [
           "University of Pennsylvania Carey Law School",
@@ -626,14 +626,14 @@
         "birthPlace": "Hammond",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Chapek%20%2849607223226%29%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "business executive"
+          "business executive",
+          "businessperson"
         ],
         "education": [
-          "Eli Broad College of Business",
-          "Clark High School",
           "Indiana University Bloomington",
-          "Michigan State University"
+          "Michigan State University",
+          "Eli Broad College of Business",
+          "Clark High School"
         ],
         "employers": [
           {

@@ -9,15 +9,35 @@
     "businessperson"
   ],
   "education": [
-    "Georges River College",
     "University of New South Wales",
-    "University of Sydney"
+    "University of Sydney",
+    "Georges River College"
   ],
   "employers": [
+    {
+      "company": "Tesla",
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "company": "Arthur Andersen",
+      "start": "1984-12-01",
+      "end": "1989-08-01"
+    },
+    {
+      "company": "ABB Group",
+      "start": "2016-04-01",
+      "end": "2017-04-01"
+    },
     {
       "company": "Telstra",
       "start": "2017-01-01",
       "end": null
+    },
+    {
+      "company": "Sun Microsystems",
+      "start": "1996-01-01",
+      "end": "2007-08-01"
     },
     {
       "company": "Toyota Australia",
@@ -33,41 +53,9 @@
       "company": "Echelon Corporation",
       "start": "2008-01-01",
       "end": "2013-01-01"
-    },
-    {
-      "company": "Sun Microsystems",
-      "start": "1996-01-01",
-      "end": "2007-08-01"
-    },
-    {
-      "company": "Tesla",
-      "start": "2014-01-01",
-      "end": null
-    },
-    {
-      "company": "Arthur Andersen",
-      "start": "1984-12-01",
-      "end": "1989-08-01"
-    },
-    {
-      "company": "ABB Group",
-      "start": "2016-04-01",
-      "end": "2017-04-01"
     }
   ],
   "positions": [
-    {
-      "title": "board member",
-      "company": null,
-      "start": "2014-01-01",
-      "end": null
-    },
-    {
-      "title": "chief financial officer",
-      "company": null,
-      "start": "http://www",
-      "end": "2016-08-01"
-    },
     {
       "title": "chairperson",
       "company": null,
@@ -79,6 +67,18 @@
       "company": null,
       "start": "2017-01-01",
       "end": null
+    },
+    {
+      "title": "board member",
+      "company": null,
+      "start": "2014-01-01",
+      "end": null
+    },
+    {
+      "title": "chief financial officer",
+      "company": null,
+      "start": "http://www",
+      "end": "2016-08-01"
     }
   ],
   "currentTickers": [

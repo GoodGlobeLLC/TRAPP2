@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "fetchedAt": "2026-11-08T13:59:03.912431Z",
+  "fetchedAt": "2026-11-15T15:14:19.311497Z",
   "people": [
     {
       "qid": "Q12572999",
@@ -14,9 +14,9 @@
         "birthPlace": "Santa Clara County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Brian%20Krzanich%2C%20Intel%20Chief%20Executive%20Officer.jpg",
         "occupations": [
+          "engineer",
           "chemist",
           "entrepreneur",
-          "engineer",
           "businessperson"
         ],
         "education": [
@@ -50,8 +50,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Stanford University",
@@ -155,9 +155,9 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "engineer",
-          "professor",
           "entrepreneur",
+          "professor",
+          "engineer",
           "writer",
           "scientist"
         ],
@@ -184,12 +184,6 @@
         ],
         "positions": [
           {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
-          },
-          {
             "title": "chairperson of the executive board",
             "company": null,
             "start": "1997-01-01",
@@ -200,6 +194,12 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
           }
         ]
       }
@@ -235,8 +235,8 @@
         "birthPlace": "Syracuse",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chief executive officer"
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Binghamton University",
@@ -261,16 +261,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "physicist",
-          "engineer",
+          "entrepreneur",
           "chemist",
-          "entrepreneur"
+          "physicist",
+          "engineer"
         ],
         "education": [
-          "California Institute of Technology",
-          "University of California, Berkeley",
           "Sequoia High School",
-          "San Jos\u00e9 State University"
+          "San Jos\u00e9 State University",
+          "University of California, Berkeley",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -294,9 +294,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
+          "computer scientist",
           "inventor",
           "businessperson",
-          "computer scientist",
           "physicist"
         ],
         "education": [
@@ -346,10 +346,10 @@
         "birthPlace": "California",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Goldsmith%2C%20PCAST%20Member%20%28cropped%29.jpg",
         "occupations": [
-          "academic",
           "university teacher",
           "electrotechnician",
           "electrical engineer",
+          "academic",
           "computer scientist"
         ],
         "education": [
@@ -419,14 +419,19 @@
           "physician"
         ],
         "education": [
-          "Stony Brook University",
           "Harvard Medical School",
+          "Stony Brook University",
           "University of Pennsylvania",
+          "Harvard University",
           "The Bush School",
-          "The Wharton School",
-          "Harvard University"
+          "The Wharton School"
         ],
         "employers": [
+          {
+            "company": "United States Department of Health and Human Services",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Perelman School of Medicine at the University of Pennsylvania",
             "start": null,
@@ -436,14 +441,15 @@
             "company": "Robert Wood Johnson Foundation",
             "start": "2001-04-01",
             "end": null
-          },
-          {
-            "company": "United States Department of Health and Human Services",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "board of directors member",
+            "company": null,
+            "start": "2020-05-26",
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -455,12 +461,6 @@
             "company": null,
             "start": "2003-01-01",
             "end": "2017-04-01"
-          },
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": "2020-05-26",
-            "end": null
           }
         ]
       }
@@ -477,8 +477,8 @@
         "birthPlace": "Robesonia",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pat%20Gelsinger.jpg",
         "occupations": [
-          "chief executive officer",
-          "engineer"
+          "engineer",
+          "chief executive officer"
         ],
         "education": [
           "Stanford University",
@@ -535,8 +535,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley"
@@ -557,8 +557,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of California, Los Angeles"
@@ -600,8 +600,8 @@
         "image": null,
         "occupations": [
           "businessperson",
-          "chief financial officer",
-          "board member"
+          "board member",
+          "chief financial officer"
         ],
         "education": [],
         "employers": [],
@@ -647,9 +647,9 @@
         "birthPlace": "Budapest",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20Grove.jpg",
         "occupations": [
-          "engineer",
-          "professor",
           "entrepreneur",
+          "professor",
+          "engineer",
           "writer",
           "scientist"
         ],
@@ -676,12 +676,6 @@
         ],
         "positions": [
           {
-            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-            "company": null,
-            "start": "1987-01-01",
-            "end": "1997-01-01"
-          },
-          {
             "title": "chairperson of the executive board",
             "company": null,
             "start": "1997-01-01",
@@ -692,6 +686,12 @@
             "company": null,
             "start": "1979-01-01",
             "end": "1987-01-01"
+          },
+          {
+            "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+            "company": null,
+            "start": "1987-01-01",
+            "end": "1997-01-01"
           }
         ]
       }
@@ -709,16 +709,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rajiv%20L%20Gupta%20George%20Barclay%20Gordon%20Moore%20ID2004%20%28cropped%2C%20Moore%29.JPG",
         "occupations": [
           "philanthropist",
-          "physicist",
-          "engineer",
+          "entrepreneur",
           "chemist",
-          "entrepreneur"
+          "physicist",
+          "engineer"
         ],
         "education": [
-          "California Institute of Technology",
-          "University of California, Berkeley",
           "Sequoia High School",
-          "San Jos\u00e9 State University"
+          "San Jos\u00e9 State University",
+          "University of California, Berkeley",
+          "California Institute of Technology"
         ],
         "employers": [
           {
@@ -742,9 +742,9 @@
         "birthPlace": "Burlington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Noyce%20with%20Motherboard%201959.png",
         "occupations": [
+          "computer scientist",
           "inventor",
           "businessperson",
-          "computer scientist",
           "physicist"
         ],
         "education": [

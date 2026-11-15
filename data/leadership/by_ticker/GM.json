@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-11-08T13:59:03.908595Z",
+  "fetchedAt": "2026-11-15T15:14:19.309325Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -95,8 +95,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Morgantown High School"
+          "Morgantown High School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -117,8 +117,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Toronto",
           "University of California, Berkeley",
+          "University of Toronto",
           "Harvard Business School",
           "Harvard University"
         ],
@@ -249,10 +249,10 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "lawyer",
+          "chief executive officer",
           "business executive",
           "board member",
-          "chief executive officer"
+          "lawyer"
         ],
         "education": [
           "Union College",
@@ -378,8 +378,8 @@
         "birthPlace": "Cold Spring Harbor",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Meg%20Whitman%2C%20U.S.%20Ambassador.jpg",
         "occupations": [
-          "entrepreneur",
           "politician",
+          "entrepreneur",
           "business executive"
         ],
         "education": [
@@ -404,7 +404,12 @@
             "end": null
           },
           {
-            "company": "Quibi",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "DreamWorks",
             "start": null,
             "end": null
           },
@@ -419,12 +424,7 @@
             "end": null
           },
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "DreamWorks",
+            "company": "Quibi",
             "start": null,
             "end": null
           }
@@ -496,9 +496,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Yale School of Management",
-          "Yale College"
+          "Yale College",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
