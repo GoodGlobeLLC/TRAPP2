@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "regime": "neutral",
   "confidence": 0.981,
   "scores": {
@@ -100,93 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-11-19T22:43:39+00:00",
-  "transitions": {
-    "1_step": {
-      "expansion": 0.2075,
-      "risk_on_melt_up": 0.0189,
-      "inflation_shock": 0.0189,
-      "recession_fear": 0.0189,
-      "risk_off": 0.0189,
-      "neutral": 0.717
-    },
-    "5_step": {
-      "expansion": 0.4168,
-      "risk_on_melt_up": 0.1078,
-      "inflation_shock": 0.0314,
-      "recession_fear": 0.0314,
-      "risk_off": 0.0314,
-      "neutral": 0.3811
-    },
-    "20_step": {
-      "expansion": 0.4017,
-      "risk_on_melt_up": 0.1827,
-      "inflation_shock": 0.0339,
-      "recession_fear": 0.0339,
-      "risk_off": 0.0339,
-      "neutral": 0.3139
-    }
-  },
-  "stationary": {
-    "expansion": 0.3997,
-    "risk_on_melt_up": 0.1861,
-    "inflation_shock": 0.034,
-    "recession_fear": 0.034,
-    "risk_off": 0.034,
-    "neutral": 0.3122
-  },
-  "expected_persistence_days": 3.5,
-  "transition_matrix": [
-    [
-      0.7671,
-      0.0274,
-      0.0137,
-      0.0137,
-      0.0137,
-      0.1644
-    ],
-    [
-      0.0606,
-      0.8182,
-      0.0303,
-      0.0303,
-      0.0303,
-      0.0303
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667,
-      0.1667
-    ],
-    [
-      0.2075,
-      0.0189,
-      0.0189,
-      0.0189,
-      0.0189,
-      0.717
-    ]
-  ],
-  "transition_observation_count": 141,
-  "transition_warning": null,
-  "transitions_computed_at": "2026-11-19T22:43:39+00:00"
+  "computed_at": "2026-11-20T02:22:11+00:00"
 }
