@@ -1,6 +1,6 @@
 {
   "ticker": "MCK",
-  "fetchedAt": "2026-11-15T15:14:19.315389Z",
+  "fetchedAt": "2026-11-22T15:17:35.137171Z",
   "people": [
     {
       "qid": "Q107769686",
@@ -56,8 +56,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Alliance Manchester Business School",
-          "University of Manchester"
+          "University of Manchester",
+          "Alliance Manchester Business School"
         ],
         "employers": [],
         "positions": []
@@ -160,6 +160,16 @@
         ],
         "employers": [
           {
+            "company": "Bell Labs",
+            "start": "1980-01-01",
+            "end": "1991-01-01"
+          },
+          {
+            "company": "Motorola",
+            "start": "1991-01-01",
+            "end": "2000-01-01"
+          },
+          {
             "company": "Microsoft",
             "start": "2003-06-01",
             "end": "2009-09-01"
@@ -173,11 +183,6 @@
             "company": "Cisco",
             "start": "2018-04-01",
             "end": null
-          },
-          {
-            "company": "Bell Labs",
-            "start": "1980-01-01",
-            "end": "1991-01-01"
           },
           {
             "company": "Salesforce",
@@ -315,8 +320,8 @@
         "occupations": [
           "surgeon",
           "politician",
-          "paramedic",
-          "nurse"
+          "nurse",
+          "paramedic"
         ],
         "education": [
           "DeWitt Clinton High School",
@@ -357,9 +362,9 @@
           "businessperson"
         ],
         "education": [
-          "Olin Business School",
           "Washington University in St. Louis",
-          "University of Missouri"
+          "University of Missouri",
+          "Olin Business School"
         ],
         "employers": [],
         "positions": []

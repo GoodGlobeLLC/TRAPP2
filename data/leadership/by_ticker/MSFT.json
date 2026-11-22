@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "fetchedAt": "2026-11-15T15:14:19.317086Z",
+  "fetchedAt": "2026-11-22T15:17:35.141584Z",
   "people": [
     {
       "qid": "Q7426870",
@@ -14,9 +14,9 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
           "manager",
           "electrotechnician",
+          "chief executive officer",
           "entrepreneur",
           "engineer",
           "computer scientist"
@@ -103,17 +103,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "manager",
           "accountant",
-          "business executive",
-          "manager"
+          "business executive"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "Procter & Gamble",
-            "start": "1994-01-01",
-            "end": "2013-01-01"
-          },
           {
             "company": "Gap Inc.",
             "start": "2017-01-01",
@@ -128,6 +123,11 @@
             "company": "Kraft Foods Group",
             "start": "2013-09-01",
             "end": "2015-05-01"
+          },
+          {
+            "company": "Procter & Gamble",
+            "start": "1994-01-01",
+            "end": "2013-01-01"
           },
           {
             "company": "Dick's Sporting Goods",
@@ -157,8 +157,8 @@
         "birthPlace": "Jersey City",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
           "Syracuse University",
@@ -196,12 +196,12 @@
         "birthPlace": "Barrow-in-Furness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Emma%20Walmsley%20at%20The%20Francis%20Crick%20Institute%20%28cropped%29.jpg",
         "occupations": [
-          "executive",
-          "businessperson"
+          "businessperson",
+          "executive"
         ],
         "education": [
-          "University of Oxford",
-          "St Swithun's School"
+          "St Swithun's School",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -274,8 +274,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Penny%20Pritzker%20official%20portrait.jpg",
         "occupations": [
           "politician",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
           "Stanford Graduate School of Business",
@@ -305,13 +305,13 @@
         "birthPlace": "Stanford",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2022%20Reid%20Hoffman%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
           "consultant",
           "podcaster",
           "financier",
-          "businessperson",
+          "entrepreneur",
+          "writer",
           "investor",
-          "writer"
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -395,9 +395,9 @@
         "birthPlace": "Hyderabad",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MS-Exec-Nadella-Satya-2017-08-31-22%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
           "manager",
           "electrotechnician",
+          "chief executive officer",
           "entrepreneur",
           "engineer",
           "computer scientist"
@@ -443,25 +443,25 @@
         "birthPlace": "Seattle",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20G.%20Allen%20%28cropped%29.jpg",
         "occupations": [
-          "co-founder",
+          "programmer",
+          "inventor",
+          "film producer",
           "philanthropist",
           "art collector",
-          "inventor",
-          "television producer",
-          "programmer",
-          "film producer",
-          "record producer",
+          "co-founder",
           "musician",
           "investor",
-          "computer scientist",
+          "record producer",
+          "television producer",
+          "composer",
           "entrepreneur",
-          "businessperson",
-          "composer"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "Harvard University",
+          "Lakeside School",
           "Washington State University",
-          "Lakeside School"
+          "Harvard University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "fetchedAt": "2026-11-15T15:14:19.309879Z",
+  "fetchedAt": "2026-11-22T15:17:35.124197Z",
   "people": [
     {
       "qid": "Q3503829",
@@ -14,25 +14,25 @@
         "birthPlace": "Madurai",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sundar%20Pichai%20-%202023%20%28cropped%29.jpg",
         "occupations": [
-          "chief executive officer",
           "executive",
+          "chief executive officer",
           "computer scientist"
         ],
         "education": [
-          "Stanford University",
           "Vanavani Matriculation Higher Secondary School",
           "Prince Matriculation Higher Secondary School",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [
           {
-            "company": "Google",
-            "start": "2004-01-01",
+            "company": "Alphabet Inc.",
+            "start": "2019-01-01",
             "end": null
           },
           {
-            "company": "Alphabet Inc.",
-            "start": "2019-01-01",
+            "company": "Google",
+            "start": "2004-01-01",
             "end": null
           }
         ],
@@ -64,16 +64,15 @@
         "birthPlace": "East Lansing",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Larry%20Page%20in%20the%20European%20Parliament%2C%2017.06.2009.jpg",
         "occupations": [
-          "engineer",
           "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "engineer"
         ],
         "education": [
-          "Stanford University",
           "University of Michigan",
-          "Stanford University",
           "Interlochen Center for the Arts",
-          "East Lansing High School"
+          "East Lansing High School",
+          "Stanford University"
         ],
         "employers": [
           {

@@ -7,13 +7,14 @@
   "occupations": [
     "entrepreneur",
     "professor",
+    "computer scientist",
     "engineer",
-    "writer",
-    "scientist"
+    "scientist",
+    "writer"
   ],
   "education": [
-    "City University of New York",
-    "University of California, Berkeley"
+    "University of California, Berkeley",
+    "City University of New York"
   ],
   "employers": [
     {
@@ -34,6 +35,12 @@
   ],
   "positions": [
     {
+      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
+      "company": null,
+      "start": "1987-01-01",
+      "end": "1997-01-01"
+    },
+    {
       "title": "chairperson of the executive board",
       "company": null,
       "start": "1997-01-01",
@@ -44,12 +51,6 @@
       "company": null,
       "start": "1979-01-01",
       "end": "1987-01-01"
-    },
-    {
-      "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
-      "company": null,
-      "start": "1987-01-01",
-      "end": "1997-01-01"
     }
   ],
   "currentTickers": [

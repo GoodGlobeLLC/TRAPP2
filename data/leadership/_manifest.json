@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T15:14:19.394716Z",
+  "generatedAt": "2026-11-22T15:17:35.379328Z",
   "totalPeople": 958,
   "totalTickers": 138,
   "lastRangeFilter": "ALL",
@@ -1311,7 +1311,7 @@
         "AMZN"
       ],
       "positionsCount": 2,
-      "employersCount": 6
+      "employersCount": 7
     },
     {
       "qid": "Q376800",
@@ -4625,7 +4625,7 @@
         "GM"
       ],
       "positionsCount": 0,
-      "employersCount": 0
+      "employersCount": 4
     },
     {
       "qid": "Q18352311",
@@ -5047,7 +5047,7 @@
         "IBM",
         "UNH"
       ],
-      "positionsCount": 1,
+      "positionsCount": 2,
       "employersCount": 0
     },
     {
@@ -6210,7 +6210,7 @@
         "MCK"
       ],
       "positionsCount": 0,
-      "employersCount": 5
+      "employersCount": 6
     },
     {
       "qid": "Q107765107",
@@ -7928,7 +7928,8 @@
       "name": "Brian Niccol",
       "slug": "brian-niccol",
       "tickers": [
-        "CMG"
+        "CMG",
+        "SBUX"
       ],
       "positionsCount": 0,
       "employersCount": 0

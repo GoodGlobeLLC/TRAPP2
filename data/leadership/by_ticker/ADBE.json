@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "fetchedAt": "2026-11-15T15:14:19.296598Z",
+  "fetchedAt": "2026-11-22T15:17:35.092579Z",
   "people": [
     {
       "qid": "Q2622748",
@@ -21,8 +21,8 @@
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
-          "North-Eastern Hill University"
+          "North-Eastern Hill University",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -181,8 +181,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [
@@ -297,8 +297,8 @@
         "birthPlace": "Campinas",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CristianoAmon.jpeg",
         "occupations": [
-          "electronic engineer",
-          "businessperson"
+          "businessperson",
+          "electronic engineer"
         ],
         "education": [],
         "employers": [
@@ -419,8 +419,8 @@
           "Haas School of Business",
           "Osmania University",
           "Bowling Green State University",
-          "University of California, Berkeley",
-          "North-Eastern Hill University"
+          "North-Eastern Hill University",
+          "University of California, Berkeley"
         ],
         "employers": [],
         "positions": [
@@ -453,19 +453,14 @@
         "occupations": [
           "university teacher",
           "entrepreneur",
-          "computer scientist",
-          "software developer"
+          "software developer",
+          "computer scientist"
         ],
         "education": [
           "Xavier University",
           "Carnegie Mellon University"
         ],
         "employers": [
-          {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Palo Alto Research Center",
             "start": "1972-01-01",
@@ -475,6 +470,11 @@
             "company": "John Carroll University",
             "start": "1963-01-01",
             "end": "1968-01-01"
+          },
+          {
+            "company": "Adobe",
+            "start": null,
+            "end": null
           }
         ],
         "positions": [
@@ -499,11 +499,11 @@
         "birthPlace": "Salt Lake City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Warnock%202008.jpg",
         "occupations": [
-          "computer scientist",
-          "entrepreneur",
           "businessperson",
-          "engineer",
-          "mathematician"
+          "mathematician",
+          "entrepreneur",
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Olympus High School",
@@ -511,17 +511,17 @@
         ],
         "employers": [
           {
-            "company": "Adobe",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Palo Alto Research Center",
             "start": "1978-01-01",
             "end": "1982-01-01"
           },
           {
             "company": "Evans & Sutherland",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Adobe",
             "start": null,
             "end": null
           }

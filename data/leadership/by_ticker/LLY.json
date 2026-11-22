@@ -1,6 +1,6 @@
 {
   "ticker": "LLY",
-  "fetchedAt": "2026-11-15T15:14:19.313695Z",
+  "fetchedAt": "2026-11-22T15:17:35.133780Z",
   "people": [
     {
       "qid": "Q118706826",
@@ -199,8 +199,8 @@
           "crossword creator"
         ],
         "education": [
-          "Harvard University",
-          "Yale University"
+          "Yale University",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -269,6 +269,11 @@
         ],
         "employers": [
           {
+            "company": "Goldman Sachs",
+            "start": "2023-02-01",
+            "end": null
+          },
+          {
             "company": "Cisco",
             "start": "2009-09-01",
             "end": "2019-07-01"
@@ -277,11 +282,6 @@
             "company": "Intel",
             "start": "2019-09-01",
             "end": "2023-02-01"
-          },
-          {
-            "company": "Goldman Sachs",
-            "start": "2023-02-01",
-            "end": null
           }
         ],
         "positions": [
@@ -309,8 +309,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Harvard Law School",
+          "Harvard Business School",
           "Princeton University"
         ],
         "employers": [
@@ -380,8 +380,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "immunologist",
-          "businessperson"
+          "businessperson",
+          "immunologist"
         ],
         "education": [
           "University of Texas Southwestern Medical Center",
@@ -458,8 +458,8 @@
         "image": null,
         "occupations": [
           "basketball player",
-          "businessperson",
-          "accountant"
+          "accountant",
+          "businessperson"
         ],
         "education": [
           "University of Notre Dame"
@@ -493,9 +493,9 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20G.%20Kaelin%20Jr.%20UNIST%20CGI%202019.jpg",
         "occupations": [
-          "university teacher",
+          "oncologist",
           "researcher",
-          "oncologist"
+          "university teacher"
         ],
         "education": [
           "Duke University"

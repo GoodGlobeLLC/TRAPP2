@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "fetchedAt": "2026-11-15T15:14:19.307977Z",
+  "fetchedAt": "2026-11-22T15:17:35.119607Z",
   "people": [
     {
       "qid": "Q18921712",
@@ -50,16 +50,16 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
+          "taekwondo athlete",
           "business executive",
-          "entrepreneur",
-          "taekwondo athlete"
+          "entrepreneur"
         ],
         "education": [
-          "Princeton University",
-          "Sloan Fellows Program",
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University",
+          "Sloan Fellows Program"
         ],
         "employers": [
           {
@@ -117,8 +117,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -159,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Dartmouth College",
-          "Harvard University"
+          "Harvard University",
+          "Dartmouth College"
         ],
         "employers": [],
         "positions": []
@@ -179,8 +179,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard University",
-          "Stanford University"
+          "Stanford University",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -344,8 +344,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard Business School",
           "Princeton University",
+          "Harvard Business School",
           "Harvard University"
         ],
         "employers": [],
@@ -370,7 +370,9 @@
           "Yale School of Management",
           "Hotchkiss School",
           "Yale Law School",
-          "University of Oxford"
+          "Harvard College",
+          "University of Oxford",
+          "Harvard University"
         ],
         "employers": [
           {
@@ -403,7 +405,7 @@
         ],
         "employers": [
           {
-            "company": "Carlyle Group",
+            "company": "The Carlyle Group",
             "start": null,
             "end": null
           }
@@ -436,16 +438,16 @@
         "birthPlace": "Detroit",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bill%20Ford%202011.jpg",
         "occupations": [
+          "taekwondo athlete",
           "business executive",
-          "entrepreneur",
-          "taekwondo athlete"
+          "entrepreneur"
         ],
         "education": [
-          "Princeton University",
-          "Sloan Fellows Program",
           "Hotchkiss School",
           "MIT Sloan School of Management",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Princeton University",
+          "Sloan Fellows Program"
         ],
         "employers": [
           {
@@ -482,8 +484,8 @@
         "birthPlace": "Palo Alto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ambassador%20Jon%20Huntsman.jpg",
         "occupations": [
-          "missionary",
           "diplomat",
+          "missionary",
           "governor",
           "ambassador",
           "politician"

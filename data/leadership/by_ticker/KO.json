@@ -1,6 +1,6 @@
 {
   "ticker": "KO",
-  "fetchedAt": "2026-11-15T15:14:19.313394Z",
+  "fetchedAt": "2026-11-22T15:17:35.132808Z",
   "people": [
     {
       "qid": "Q5398061",
@@ -14,8 +14,8 @@
         "birthPlace": "Gentofte",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Eske%20Willerslev%20%28cropped%29.png",
         "occupations": [
-          "university teacher",
-          "biologist"
+          "biologist",
+          "university teacher"
         ],
         "education": [
           "University of Copenhagen"
@@ -27,11 +27,6 @@
             "end": "2015-03-01"
           },
           {
-            "company": "University of Cambridge",
-            "start": "2015-10-01",
-            "end": null
-          },
-          {
             "company": "University of Oxford",
             "start": "2003-01-01",
             "end": "2005-01-01"
@@ -39,6 +34,11 @@
           {
             "company": "University of Copenhagen",
             "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Cambridge",
+            "start": "2015-10-01",
             "end": null
           }
         ],

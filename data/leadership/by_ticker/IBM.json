@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "fetchedAt": "2026-11-15T15:14:19.310853Z",
+  "fetchedAt": "2026-11-22T15:17:35.127418Z",
   "people": [
     {
       "qid": "Q84053114",
@@ -17,9 +17,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanes Anglo Indian Higher Secondary School",
           "Indian Institute of Technology Kanpur",
-          "University of Illinois Urbana-Champaign",
-          "Stanes Anglo Indian Higher Secondary School"
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -43,8 +43,8 @@
         "birthPlace": "Boston",
         "image": null,
         "occupations": [
-          "businessperson",
-          "fighter pilot"
+          "fighter pilot",
+          "businessperson"
         ],
         "education": [
           "Yale University"
@@ -89,9 +89,9 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ginni%20Rometty%20at%20the%20Fortune%20MPW%20Summit%20in%202011.jpg",
         "occupations": [
-          "entrepreneur",
+          "computer scientist",
           "businessperson",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",
@@ -235,9 +235,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Stanes Anglo Indian Higher Secondary School",
           "Indian Institute of Technology Kanpur",
-          "University of Illinois Urbana-Champaign",
-          "Stanes Anglo Indian Higher Secondary School"
+          "University of Illinois Urbana-Champaign"
         ],
         "employers": [
           {
@@ -261,10 +261,10 @@
         "birthPlace": "Cologne",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Buberl%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
-          "businessperson",
-          "bank teller",
           "business manager",
-          "chairperson of the executive board"
+          "chairperson of the executive board",
+          "bank teller",
+          "businessperson"
         ],
         "education": [
           "University of St. Gallen",
@@ -482,8 +482,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [],
@@ -563,6 +563,12 @@
         "employers": [],
         "positions": [
           {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2008-01-01",
+            "end": "2017-01-01"
+          },
+          {
             "title": "board of directors member",
             "company": null,
             "start": "2018-02-13",
@@ -610,8 +616,8 @@
         "birthPlace": "Campbell",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20J%20Watson%20Sr.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Columbia University"

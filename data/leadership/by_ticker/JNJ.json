@@ -1,6 +1,6 @@
 {
   "ticker": "JNJ",
-  "fetchedAt": "2026-11-15T15:14:19.312121Z",
+  "fetchedAt": "2026-11-22T15:17:35.130315Z",
   "people": [
     {
       "qid": "Q113356474",
@@ -166,9 +166,9 @@
           "merchant"
         ],
         "education": [
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
-          "Paris Institute of Political Studies"
+          "Paris Institute of Political Studies",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -215,10 +215,10 @@
           "entrepreneur"
         ],
         "education": [
-          "Emory University",
-          "Georgetown University",
           "Case Western Reserve University",
           "Georgetown University Law Center",
+          "Emory University",
+          "Georgetown University",
           "Weatherhead School of Management"
         ],
         "employers": [],
@@ -346,8 +346,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
-          "cardiologist"
+          "cardiologist",
+          "university teacher"
         ],
         "education": [
           "Radcliffe College",
@@ -457,11 +457,11 @@
           "physician"
         ],
         "education": [
-          "University of Texas at Austin",
-          "John F. Kennedy School of Government",
+          "Harvard University",
           "Harvard\u2013MIT Division of Health Sciences and Technology",
           "Austin High School",
-          "Harvard University",
+          "University of Texas at Austin",
+          "John F. Kennedy School of Government",
           "Massachusetts Institute of Technology"
         ],
         "employers": [],
@@ -527,9 +527,9 @@
           "businessperson"
         ],
         "education": [
+          "Harvard Business School",
           "Columbia Business School",
           "University of Alabama",
-          "Harvard Business School",
           "Columbia University"
         ],
         "employers": [
@@ -698,8 +698,8 @@
         "birthPlace": "Houston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/A%20Eugene%20Washington%2C%20MD%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "business executive"
+          "business executive",
+          "university teacher"
         ],
         "education": [],
         "employers": [],
@@ -735,9 +735,9 @@
           "businessperson"
         ],
         "education": [
+          "Syracuse University",
           "Michigan State University",
-          "Harvard Business School",
-          "Syracuse University"
+          "Harvard Business School"
         ],
         "employers": [
           {
@@ -774,10 +774,10 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Professor%20Jennifer%20Doudna%20ForMemRS%20%28cropped%29.jpg",
         "occupations": [
-          "biochemist",
-          "molecular biologist",
-          "university teacher",
           "crystallographer",
+          "biochemist",
+          "university teacher",
+          "molecular biologist",
           "chemist"
         ],
         "education": [
@@ -787,11 +787,6 @@
         ],
         "employers": [
           {
-            "company": "University of California, Berkeley",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
             "company": "University of California, San Francisco",
             "start": null,
             "end": null
@@ -800,6 +795,11 @@
             "company": "Yale University",
             "start": "1994-01-01",
             "end": "2002-01-01"
+          },
+          {
+            "company": "University of California, Berkeley",
+            "start": "2002-01-01",
+            "end": null
           },
           {
             "company": "Howard Hughes Medical Institute",

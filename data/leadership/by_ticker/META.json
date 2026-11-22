@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "fetchedAt": "2026-11-15T15:14:19.315960Z",
+  "fetchedAt": "2026-11-22T15:17:35.138633Z",
   "people": [
     {
       "qid": "Q36215",
@@ -14,12 +14,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
           "programmer",
           "philanthropist",
-          "entrepreneur",
+          "patron of the arts",
           "computer scientist",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Mercy University",
@@ -165,11 +165,6 @@
         ],
         "employers": [
           {
-            "company": "General Motors",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Broadcom",
             "start": "2006-03-01",
             "end": null
@@ -191,6 +186,11 @@
           },
           {
             "company": "PepsiCo",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "General Motors",
             "start": null,
             "end": null
           }
@@ -361,11 +361,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Thiel%20by%20Gage%20Skidmore.jpg",
         "occupations": [
           "banker",
-          "manager",
           "investor",
-          "computer scientist",
           "entrepreneur",
-          "writer"
+          "manager",
+          "writer",
+          "computer scientist"
         ],
         "education": [
           "Stanford Law School",
@@ -407,15 +407,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheryl%20Sandberg%20WEF%202013%20%28crop%20by%20James%20Tamim%29.jpg",
         "occupations": [
-          "businessperson",
+          "executive",
           "economist",
           "computer scientist",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
-          "Harvard College",
           "North Miami Beach High School",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard College"
         ],
         "employers": [
           {
@@ -425,6 +426,18 @@
           }
         ],
         "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "title": "research assistant",
+            "company": null,
+            "start": null,
+            "end": null
+          },
           {
             "title": "board member",
             "company": null,
@@ -460,18 +473,6 @@
             "company": null,
             "start": "2008-03-01",
             "end": "2022-09-01"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
-            "title": "research assistant",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -488,11 +489,11 @@
         "birthPlace": "Cedar Falls",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc%20Andreessen-9%20%28cropped%29.jpg",
         "occupations": [
+          "investor",
+          "programmer",
           "venture capitalist",
           "blogger",
-          "programmer",
           "software engineer",
-          "investor",
           "inventor",
           "entrepreneur",
           "computer scientist",
@@ -536,12 +537,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
           "programmer",
           "philanthropist",
-          "entrepreneur",
+          "patron of the arts",
           "computer scientist",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Mercy University",
@@ -608,12 +609,12 @@
         "birthPlace": "White Plains",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20%282025%29%20%28cropped%29.jpg",
         "occupations": [
-          "patron of the arts",
           "programmer",
           "philanthropist",
-          "entrepreneur",
+          "patron of the arts",
           "computer scientist",
-          "chief executive officer"
+          "chief executive officer",
+          "entrepreneur"
         ],
         "education": [
           "Mercy University",
