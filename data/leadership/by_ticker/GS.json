@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "fetchedAt": "2026-11-15T15:14:19.309983Z",
+  "fetchedAt": "2026-11-22T14:42:12.205456Z",
   "people": [
     {
       "qid": "Q29641838",
@@ -50,16 +50,16 @@
         "birthPlace": "Nigeria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adebayo%20Ogunlesi.jpg",
         "occupations": [
+          "lawyer",
           "academic",
           "investment banker",
-          "businessperson",
-          "lawyer"
+          "businessperson"
         ],
         "education": [
-          "King's College, Lagos",
           "Harvard Business School",
+          "University of Oxford",
           "Harvard Law School",
-          "University of Oxford"
+          "King's College, Lagos"
         ],
         "employers": [
           {
@@ -89,8 +89,8 @@
         "image": null,
         "occupations": [
           "computer scientist",
-          "businessperson",
-          "director"
+          "director",
+          "businessperson"
         ],
         "education": [
           "SCU Leavey School of Business",
@@ -348,13 +348,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
@@ -401,15 +401,15 @@
           "university teacher"
         ],
         "education": [
-          "Concord Academy",
-          "Bryn Mawr College",
           "University of Pennsylvania",
+          "Bryn Mawr College",
+          "Concord Academy",
           "Harvard University"
         ],
         "employers": [
           {
-            "company": "Harvard University",
-            "start": "2007-10-12",
+            "company": "Radcliffe College",
+            "start": "2001-01-01",
             "end": null
           },
           {

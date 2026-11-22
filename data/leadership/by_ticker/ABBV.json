@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "fetchedAt": "2026-11-15T15:14:19.295472Z",
+  "fetchedAt": "2026-11-22T14:42:12.181104Z",
   "people": [
     {
       "qid": "Q125257078",
@@ -364,8 +364,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago Law School",
-          "University of Michigan"
+          "University of Michigan",
+          "University of Chicago Law School"
         ],
         "employers": [],
         "positions": [
@@ -508,22 +508,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "researcher",
           "nephrologist",
-          "academic"
+          "academic",
+          "researcher"
         ],
         "education": [
           "Yale School of Medicine"
         ],
         "employers": [
           {
-            "company": "University of Toronto",
-            "start": null,
+            "company": "Northwestern University",
+            "start": "2013-01-01",
             "end": null
           },
           {
-            "company": "Northwestern University",
-            "start": "2013-01-01",
+            "company": "University of Toronto",
+            "start": null,
             "end": null
           }
         ],

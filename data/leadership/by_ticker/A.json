@@ -1,6 +1,6 @@
 {
   "ticker": "A",
-  "fetchedAt": "2026-11-15T15:14:19.294318Z",
+  "fetchedAt": "2026-11-22T14:42:12.179734Z",
   "people": [
     {
       "qid": "Q125453309",
@@ -53,8 +53,8 @@
         "image": null,
         "occupations": [
           "gastroenterologist",
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "Harvard College",
@@ -109,9 +109,9 @@
           "physician"
         ],
         "education": [
+          "University of Chicago",
           "University of Detroit Jesuit High School and Academy",
-          "Pritzker School of Medicine",
-          "University of Chicago"
+          "Pritzker School of Medicine"
         ],
         "employers": [
           {
@@ -156,9 +156,10 @@
           "chairperson"
         ],
         "education": [
+          "Harvard University",
+          "Imperial College London",
           "University of London",
-          "Harvard Business School",
-          "Harvard University"
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": [
@@ -415,16 +416,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "computer scientist",
-          "business executive"
+          "business executive",
+          "computer scientist"
         ],
         "education": [],
         "employers": [
-          {
-            "company": "SAP",
-            "start": "2016-10-01",
-            "end": "2019-10-01"
-          },
           {
             "company": "Cisco",
             "start": "2007-10-01",
@@ -434,6 +430,11 @@
             "company": "Microsoft",
             "start": "2016-11-01",
             "end": null
+          },
+          {
+            "company": "SAP",
+            "start": "2016-10-01",
+            "end": "2019-10-01"
           }
         ],
         "positions": [
@@ -464,22 +465,22 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "physician"
+          "physician",
+          "business executive"
         ],
         "education": [
           "Lund University"
         ],
         "employers": [
           {
-            "company": "Wyeth",
-            "start": "2008-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Pfizer",
             "start": "2009-01-01",
             "end": null
+          },
+          {
+            "company": "Wyeth",
+            "start": "2008-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
@@ -508,8 +509,8 @@
           "business executive"
         ],
         "education": [
-          "Cornell University",
-          "University of Massachusetts"
+          "University of Massachusetts",
+          "Cornell University"
         ],
         "employers": [],
         "positions": [

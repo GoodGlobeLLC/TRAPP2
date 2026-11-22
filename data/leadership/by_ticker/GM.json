@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "fetchedAt": "2026-11-15T15:14:19.309325Z",
+  "fetchedAt": "2026-11-22T14:42:12.204514Z",
   "people": [
     {
       "qid": "Q6779013",
@@ -95,8 +95,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Morgantown High School",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "Morgantown High School"
         ],
         "employers": [],
         "positions": []
@@ -117,12 +117,10 @@
           "businessperson"
         ],
         "education": [
+          "University of Toronto",
           "University of California, Berkeley",
-          "University of Toronto",
           "Harvard Business School",
-          "Harvard University",
-          "University of Toronto",
-          "University of California, Berkeley"
+          "Harvard University"
         ],
         "employers": [
           {
@@ -146,9 +144,9 @@
         "birthPlace": "Minerva",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Wilson%20official%20DoD%20photo.jpg",
         "occupations": [
-          "businessperson",
           "politician",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Carnegie Institute of Technology"
@@ -251,16 +249,38 @@
         "birthPlace": "Flatbush",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
         "occupations": [
-          "chief executive officer",
-          "business executive",
           "board member",
+          "business executive",
+          "chief executive officer",
+          "businessperson",
           "lawyer"
         ],
         "education": [
           "Union College",
           "Columbia Law School"
         ],
-        "employers": [],
+        "employers": [
+          {
+            "company": "General Motors",
+            "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "company": "eBay",
+            "start": "2011-01-01",
+            "end": "2019-01-01"
+          },
+          {
+            "company": "Thomson Reuters",
+            "start": "2008-01-01",
+            "end": "2011-01-01"
+          },
+          {
+            "company": "Reuters",
+            "start": "2003-01-01",
+            "end": "2008-01-01"
+          }
+        ],
         "positions": []
       }
     },
@@ -279,8 +299,8 @@
           "businessperson"
         ],
         "education": [
-          "Brown University",
-          "Stanford University"
+          "Stanford University",
+          "Brown University"
         ],
         "employers": [],
         "positions": [
@@ -360,9 +380,9 @@
           "entrepreneur"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Poly Prep Country Day School",
-          "New York University Tandon School of Engineering",
-          "Massachusetts Institute of Technology"
+          "New York University Tandon School of Engineering"
         ],
         "employers": [],
         "positions": []
@@ -429,11 +449,6 @@
             "company": "Quibi",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Quibi",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
@@ -468,6 +483,12 @@
             "end": "2008-01-01"
           },
           {
+            "title": "vice president",
+            "company": null,
+            "start": "1989-01-01",
+            "end": null
+          },
+          {
             "title": "pr\u00e9sident-directeur g\u00e9n\u00e9ral",
             "company": null,
             "start": null,
@@ -477,12 +498,6 @@
             "title": "vice president",
             "company": null,
             "start": null,
-            "end": null
-          },
-          {
-            "title": "vice president",
-            "company": null,
-            "start": "1989-01-01",
             "end": null
           }
         ]
@@ -523,9 +538,9 @@
         "birthPlace": "Copenhagen",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20S%20Knudsen.jpg",
         "occupations": [
+          "entrepreneur",
           "businessperson",
-          "executive",
-          "entrepreneur"
+          "executive"
         ],
         "education": [
           "Grosse Ile High School"
@@ -617,9 +632,9 @@
         "birthPlace": "Switzerland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Jimenez%20at%20the%20World%20Economic%20Forum.jpg",
         "occupations": [
-          "businessperson",
           "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "University of California, Berkeley",
