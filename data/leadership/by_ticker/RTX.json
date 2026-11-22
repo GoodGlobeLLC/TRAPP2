@@ -1,6 +1,6 @@
 {
   "ticker": "RTX",
-  "fetchedAt": "2026-11-15T15:14:19.322907Z",
+  "fetchedAt": "2026-11-22T15:04:13.168850Z",
   "people": [
     {
       "qid": "Q28922190",
@@ -39,8 +39,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -58,8 +58,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "businessperson",
-          "board member"
+          "board member",
+          "businessperson"
         ],
         "education": [
           "University of Miami"
@@ -231,12 +231,14 @@
         "dateOfBirth": "1953-01-17",
         "birthPlace": "Charlotte",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20O.%20Work%20DoD%20photo.jpg",
-        "occupations": [],
+        "occupations": [
+          "career officer"
+        ],
         "education": [
-          "University of Illinois System",
-          "University of Southern California",
           "Naval Postgraduate School",
-          "Paul H. Nitze School of Advanced International Studies"
+          "Paul H. Nitze School of Advanced International Studies",
+          "University of Illinois System",
+          "University of Southern California"
         ],
         "employers": [
           {
@@ -283,13 +285,14 @@
         "birthPlace": "Lexington",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosullivan-100.jpg",
         "occupations": [
+          "political scientist",
           "civil servant"
         ],
         "education": [
-          "University of Oxford",
+          "Georgetown University",
           "Saddleback High School",
           "Lexington High School",
-          "Georgetown University"
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -322,7 +325,6 @@
         "occupations": [
           "admiral",
           "military officer",
-          "admiral",
           "naval air force"
         ],
         "education": [
