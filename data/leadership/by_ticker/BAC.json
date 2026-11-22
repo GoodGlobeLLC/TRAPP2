@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "fetchedAt": "2026-11-15T15:14:19.299931Z",
+  "fetchedAt": "2026-11-22T14:42:12.188071Z",
   "people": [
     {
       "qid": "Q912811",
@@ -65,8 +65,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Keynote%20%2826689303657%29.jpg",
         "occupations": [
           "chief executive officer",
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "St. Augustine High School",
@@ -159,6 +159,7 @@
         "birthPlace": "Norristown",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Zuber%2C%20MIT%20Media%20Lab%20%28cropped%29.jpg",
         "occupations": [
+          "geophysicist",
           "astronomer"
         ],
         "education": [
@@ -167,12 +168,12 @@
         ],
         "employers": [
           {
-            "company": "Johns Hopkins University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Johns Hopkins University",
             "start": null,
             "end": null
           }
@@ -466,8 +467,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "University of Chicago",
           "University of Pennsylvania",
+          "University of Chicago",
           "Booth School of Business"
         ],
         "employers": [

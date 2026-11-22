@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "fetchedAt": "2026-11-15T15:14:19.298001Z",
+  "fetchedAt": "2026-11-22T14:42:12.185254Z",
   "people": [
     {
       "qid": "Q41812531",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
@@ -57,9 +57,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -145,13 +145,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/General%20Keith%20B.%20Alexander%20in%20service%20uniform.jpg",
         "occupations": [
           "intelligence officer",
-          "spy",
-          "soldier"
+          "soldier",
+          "spy"
         ],
         "education": [
+          "Naval Postgraduate School",
           "Boston University",
           "United States Military Academy",
-          "Naval Postgraduate School",
           "Westhill Senior High School",
           "Questrom School of Business"
         ],
@@ -184,12 +184,11 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "executive",
-          "dean",
           "academic",
           "university teacher",
-          "computer scientist",
-          "academic"
+          "executive",
+          "dean",
+          "computer scientist"
         ],
         "education": [
           "University of Michigan",
@@ -221,10 +220,10 @@
           "engineer"
         ],
         "education": [
-          "Cornell University",
           "Horace Mann School",
           "Cornell University College of Engineering",
-          "Colorado State University"
+          "Colorado State University",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -251,8 +250,8 @@
           "business executive"
         ],
         "education": [
-          "Scarsdale High School",
           "Harvard Business School",
+          "Scarsdale High School",
           "Harvard University"
         ],
         "employers": [
@@ -400,9 +399,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",
@@ -462,28 +461,23 @@
           "businessperson"
         ],
         "education": [
+          "Indian Institute of Management Calcutta",
+          "University of Madras",
           "Yale School of Management",
           "Holy Angels Anglo Indian Higher Secondary School",
           "Madras Christian College",
-          "Indian Institute of Management Calcutta",
-          "University of Madras",
           "Yale University"
         ],
         "employers": [
           {
-            "company": "Johnson & Johnson",
+            "company": "Motorola",
             "start": null,
             "end": null
           },
           {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "company": "PepsiCo",
-            "start": "1994-01-01",
-            "end": "2018-01-01"
+            "company": "Johnson & Johnson",
+            "start": null,
+            "end": null
           },
           {
             "company": "Boston Consulting Group",
@@ -494,6 +488,11 @@
             "company": "ABB Group",
             "start": null,
             "end": null
+          },
+          {
+            "company": "PepsiCo",
+            "start": "1994-01-01",
+            "end": "2018-01-01"
           },
           {
             "company": "Amazon",
@@ -592,9 +591,9 @@
         "occupations": [
           "programmer",
           "commercial astronaut",
+          "business oligarch",
           "entrepreneur",
-          "computer scientist",
-          "business oligarch"
+          "computer scientist"
         ],
         "education": [
           "Miami Palmetto High School",

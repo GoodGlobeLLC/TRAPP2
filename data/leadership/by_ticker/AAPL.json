@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "fetchedAt": "2026-11-15T15:14:19.295126Z",
+  "fetchedAt": "2026-11-22T14:42:12.180669Z",
   "people": [
     {
       "qid": "Q265852",
@@ -17,9 +17,9 @@
           "presenter",
           "manager",
           "computer scientist",
-          "chief executive officer",
           "engineer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Rostrevor College",
@@ -62,9 +62,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
-          "biochemist"
+          "biochemist",
+          "molecular biologist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -99,13 +99,13 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -177,24 +177,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "blogger",
           "climate activist",
           "orator",
-          "journalist",
-          "farmer",
           "environmentalist",
+          "journalist",
           "financier",
           "university teacher",
-          "writer",
           "politician",
-          "businessperson"
+          "farmer",
+          "businessperson",
+          "writer",
+          "blogger"
         ],
         "education": [
+          "Defense Information School",
           "Harvard College",
           "Vanderbilt University",
           "Vanderbilt University Divinity School",
-          "St. Albans School",
-          "Defense Information School"
+          "St. Albans School"
         ],
         "employers": [
           {
@@ -204,12 +204,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "United States senator",
-            "company": null,
-            "start": "1989-01-03",
-            "end": "1991-01-03"
-          },
           {
             "title": "United States representative",
             "company": null,
@@ -229,10 +223,22 @@
             "end": "2001-01-20"
           },
           {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "United States senator",
             "company": null,
             "start": "1985-01-03",
             "end": "1987-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1989-01-03",
+            "end": "1991-01-03"
           },
           {
             "title": "United States representative",
@@ -273,9 +279,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
-          "biochemist"
+          "biochemist",
+          "molecular biologist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -310,8 +316,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -345,15 +351,15 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "computer scientist",
-          "engineer",
+          "businessperson",
+          "teacher",
           "actor",
           "programmer",
-          "teacher",
           "electronics technician",
           "entrepreneur",
-          "businessperson",
-          "inventor"
+          "inventor",
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -364,27 +370,22 @@
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           }
@@ -406,13 +407,13 @@
         "occupations": [
           "technology entrepreneur",
           "designer",
+          "film producer",
+          "founder",
+          "financier",
           "general manager",
           "executive producer",
-          "financier",
-          "film producer",
-          "entrepreneur",
           "inventor",
-          "founder",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -422,22 +423,22 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "NeXT",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

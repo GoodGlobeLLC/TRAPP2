@@ -13,11 +13,6 @@
   ],
   "employers": [
     {
-      "company": "General Motors",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Broadcom",
       "start": "2006-03-01",
       "end": null
@@ -41,6 +36,11 @@
       "company": "PepsiCo",
       "start": null,
       "end": null
+    },
+    {
+      "company": "General Motors",
+      "start": null,
+      "end": null
     }
   ],
   "positions": [
@@ -53,7 +53,6 @@
   ],
   "currentTickers": [
     "AVGO",
-    "AVGO",
-    "META"
+    "AVGO"
   ]
 }

@@ -5,16 +5,38 @@
   "birthPlace": "Flatbush",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dwenig.jpg",
   "occupations": [
-    "chief executive officer",
-    "business executive",
     "board member",
+    "business executive",
+    "chief executive officer",
+    "businessperson",
     "lawyer"
   ],
   "education": [
     "Union College",
     "Columbia Law School"
   ],
-  "employers": [],
+  "employers": [
+    {
+      "company": "General Motors",
+      "start": "2018-01-01",
+      "end": null
+    },
+    {
+      "company": "eBay",
+      "start": "2011-01-01",
+      "end": "2019-01-01"
+    },
+    {
+      "company": "Thomson Reuters",
+      "start": "2008-01-01",
+      "end": "2011-01-01"
+    },
+    {
+      "company": "Reuters",
+      "start": "2003-01-01",
+      "end": "2008-01-01"
+    }
+  ],
   "positions": [],
   "currentTickers": [
     "GM"
